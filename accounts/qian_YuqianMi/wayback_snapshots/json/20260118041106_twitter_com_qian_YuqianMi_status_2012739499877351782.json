@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2012705604733980768",
+    "created_at": "2026-01-18T04:11:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T05:11:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012739499877351782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906024483431047168",
+          "start": 0,
+          "username": "Chudokusho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012739499877351782",
+    "in_reply_to_user_id": "1906024483431047168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012705604733980768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chudokusho 小猫嘴凑凑的但是小春嘴不凑！我亲亲！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 988,
+        "media_key": "3_2012705599985741824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-6RFFSW8AAulD3.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012705604733980768",
+        "created_at": "2026-01-18T04:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T05:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012739499877351782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012739499877351782",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012705604733980768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho 小猫嘴凑凑的但是小春嘴不凑！我亲亲！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012705599985741824"
+          ]
+        },
+        "author_id": "1906024483431047168",
+        "conversation_id": "2012705604733980768",
+        "created_at": "2026-01-18T01:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T02:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012705604733980768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EGAtN5fgBN",
+              "end": 47,
+              "expanded_url": "https://x.com/Chudokusho/status/2012705604733980768/photo/1",
+              "media_key": "3_2012705599985741824",
+              "start": 24,
+              "url": "https://t.co/EGAtN5fgBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012705604733980768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要撤回小猫嘴不凑的谬论 小猫的嘴十分的凑凑！ https://t.co/EGAtN5fgBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 663,
+          "like_count": 13604,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 3035
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chudokusho1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chudokusho1",
+                "start": 0,
+                "url": "https://t.co/B2IXaTp1HF"
+              }
+            ]
+          }
+        },
+        "id": "1906024483431047168",
+        "location": "匿名信箱",
+        "name": "叙春日",
+        "pinned_tweet_id": "2012377584156447185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006905531848601602/DnnroOGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 67,
+          "like_count": 2403,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 1084
+        },
+        "url": "https://t.co/B2IXaTp1HF",
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

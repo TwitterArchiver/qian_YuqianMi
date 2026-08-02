@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2079095317727977875",
+    "created_at": "2026-07-20T11:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T12:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079171605197205714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970515784762859520",
+          "start": 0,
+          "username": "Semp1trnal_2345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079171605197205714",
+    "in_reply_to_user_id": "1970515784762859520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079095317727977875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Semp1trnal_2345 好长一腿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079095310270550017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpuK07bUAEZfIZ.jpg",
+        "width": 1540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2079095317727977875",
+        "created_at": "2026-07-20T11:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T12:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079171605197205714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079171605197205714",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079095317727977875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 好长一腿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079095310270550017"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2079095317727977875",
+        "created_at": "2026-07-20T06:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079095317727977875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcE0HRkbwS",
+              "end": 23,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2079095317727977875/photo/1",
+              "media_key": "3_2079095310270550017",
+              "start": 0,
+              "url": "https://t.co/NcE0HRkbwS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079095317727977875",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NcE0HRkbwS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 874,
+          "like_count": 29988,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 6156
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/K9ll2BLLcW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLLcW"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2071154984469893393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1578,
+          "following_count": 87,
+          "like_count": 14151,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 4773
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007088248238342144"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2007088251102965942",
+    "created_at": "2026-01-02T13:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T14:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007088251102965942"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 54,
+          "tag": "日常弥"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mNn9VGn3kp",
+          "end": 82,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2007088251102965942/photo/1",
+          "media_key": "3_2007088248238342144",
+          "start": 59,
+          "url": "https://t.co/mNn9VGn3kp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007088251102965942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想死。我就画画。画完感觉越来越丑了我就更想死。发现又一点没学我就更想死。\n\nYuMi平时在后台就这样瞪我。\n#日常弥 https://t.co/mNn9VGn3kp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007088248238342144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qcILUbgAAGYFV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007088248238342144"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2007088251102965942",
+        "created_at": "2026-01-02T13:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T14:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007088251102965942"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 54,
+              "tag": "日常弥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNn9VGn3kp",
+              "end": 82,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2007088251102965942/photo/1",
+              "media_key": "3_2007088248238342144",
+              "start": 59,
+              "url": "https://t.co/mNn9VGn3kp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007088251102965942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想死。我就画画。画完感觉越来越丑了我就更想死。发现又一点没学我就更想死。\n\nYuMi平时在后台就这样瞪我。\n#日常弥 https://t.co/mNn9VGn3kp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 485,
+          "like_count": 7549,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1822
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

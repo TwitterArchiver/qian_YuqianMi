@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2048335459789705703",
+    "created_at": "2026-04-26T10:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T11:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048347419205845283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891311621991219200",
+          "start": 0,
+          "username": "Numiouo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048347419205845283",
+    "in_reply_to_user_id": "1891311621991219200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048335459789705703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo1 大概真是被举报了wwww咋这样 太坏了太坏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2048335459789705703",
+        "created_at": "2026-04-26T10:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048347419205845283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891311621991219200",
+              "start": 0,
+              "username": "Numiouo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048347419205845283",
+        "in_reply_to_user_id": "1891311621991219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048335459789705703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo1 大概真是被举报了wwww咋这样 太坏了太坏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891311621991219200",
+        "conversation_id": "2048335459789705703",
+        "created_at": "2026-04-26T09:36:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048335459789705703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048335459789705703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一开始怀疑是推特筛查机制，但现在发现并非如此\n绝对绝对是有贱人举报我，我除了糯米1.2还开了一个号，我这几天在那个号上疯狂发血图和违法内容，都没事，发了血图被推特发现了推特也只是说“识别到敏感内容，帮你添加了图片标记”，并没有强制我删除血图或封号\n绝对有贱人卧槽你爸妈你全家4️⃣了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1228,
+          "following_count": 813,
+          "like_count": 26748,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 5315
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T02:20:21.000Z",
+        "description": "@Numiouo大号\n大号的互关都会回 关注限制只能一批批回\n纯黄/红推会双取勿fo\n举报我不得好死不得好活",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "Numiouo"
+              }
+            ]
+          }
+        },
+        "id": "1891311621991219200",
+        "name": "糯米（备用号）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031380479656730624/btRtgWSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 270,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 108
+        },
+        "username": "Numiouo1",
+        "verified": false
+      }
+    ]
+  }
+}

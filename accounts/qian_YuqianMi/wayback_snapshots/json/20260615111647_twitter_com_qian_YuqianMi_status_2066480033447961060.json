@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066153242195836928"
+      ],
+      "media_source_tweet_id": [
+        "2066153245203140650"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2066480033447961060",
+    "created_at": "2026-06-15T11:16:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:16:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066480033447961060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1889861257",
+          "start": 3,
+          "username": "__summer__sea__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1vc2p6BXh8",
+          "end": 54,
+          "expanded_url": "https://x.com/__summer__sea__/status/2066153245203140650/photo/1",
+          "media_key": "3_2066153242195836928",
+          "start": 31,
+          "url": "https://t.co/1vc2p6BXh8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066480033447961060",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066153245203140650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__summer__sea__: 我操，这简直是我😭 https://t.co/1vc2p6BXh8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2066153242195836928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKxzbUSawAAN3Yg.jpg",
+        "width": 1362
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066153242195836928"
+          ],
+          "media_source_tweet_id": [
+            "2066153245203140650"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2066480033447961060",
+        "created_at": "2026-06-15T11:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066480033447961060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1889861257",
+              "start": 3,
+              "username": "__summer__sea__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vc2p6BXh8",
+              "end": 54,
+              "expanded_url": "https://x.com/__summer__sea__/status/2066153245203140650/photo/1",
+              "media_key": "3_2066153242195836928",
+              "start": 31,
+              "url": "https://t.co/1vc2p6BXh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066480033447961060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066153245203140650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__summer__sea__: 我操，这简直是我😭 https://t.co/1vc2p6BXh8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066153242195836928"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2066153245203140650",
+        "created_at": "2026-06-14T13:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T14:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066153245203140650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1vc2p6BXh8",
+              "end": 33,
+              "expanded_url": "https://x.com/__summer__sea__/status/2066153245203140650/photo/1",
+              "media_key": "3_2066153242195836928",
+              "start": 10,
+              "url": "https://t.co/1vc2p6BXh8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066153245203140650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 32021,
+          "like_count": 975,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "我操，这简直是我😭 https://t.co/1vc2p6BXh8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1391,
+          "following_count": 879,
+          "like_count": 29097,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 5883
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 1004,
+          "like_count": 8901,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 2822
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

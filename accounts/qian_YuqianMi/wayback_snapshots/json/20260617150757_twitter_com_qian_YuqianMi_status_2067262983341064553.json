@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2067262983341064553",
+    "created_at": "2026-06-17T15:07:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T16:07:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067262983341064553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1525912885926535168",
+          "start": 3,
+          "username": "rodasqueimadas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067262983341064553",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066908456985018415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rodasqueimadas: nao vou estudar pra prova que se foda essa faculdade de cu que se foda todo mundo vou me matar"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2067262983341064553",
+        "created_at": "2026-06-17T15:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T16:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067262983341064553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1525912885926535168",
+              "start": 3,
+              "username": "rodasqueimadas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067262983341064553",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066908456985018415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rodasqueimadas: nao vou estudar pra prova que se foda essa faculdade de cu que se foda todo mundo vou me matar"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525912885926535168",
+        "conversation_id": "2066908456985018415",
+        "created_at": "2026-06-16T15:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066908456985018415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066908456985018415",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 859,
+          "impression_count": 541905,
+          "like_count": 28140,
+          "quote_count": 692,
+          "reply_count": 102,
+          "retweet_count": 9357
+        },
+        "reply_settings": "everyone",
+        "text": "nao vou estudar pra prova que se foda essa faculdade de cu que se foda todo mundo vou me matar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 883,
+          "like_count": 29321,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 5941
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T18:56:10.000Z",
+        "description": "#seonghwa #jisung acervo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "seonghwa"
+              },
+              {
+                "end": 17,
+                "start": 10,
+                "tag": "jisung"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sccp.⠀",
+                "end": 23,
+                "expanded_url": "http://sccp.xn--6ii/",
+                "start": 0,
+                "url": "https://t.co/Bogq1ww9CM"
+              }
+            ]
+          }
+        },
+        "id": "1525912885926535168",
+        "location": "19. ☆",
+        "name": "ཐི♰ཋྀ",
+        "pinned_tweet_id": "1922289269558653169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062642280381452288/2tudRg8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 427,
+          "like_count": 326830,
+          "listed_count": 3,
+          "media_count": 2386,
+          "tweet_count": 77090
+        },
+        "url": "https://t.co/Bogq1ww9CM",
+        "username": "rodasqueimadas",
+        "verified": false
+      }
+    ]
+  }
+}

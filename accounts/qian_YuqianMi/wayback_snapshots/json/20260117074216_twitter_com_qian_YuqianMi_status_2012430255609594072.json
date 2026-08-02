@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012426619110211584"
+      ],
+      "media_source_tweet_id": [
+        "2012426957309526143"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2012430255609594072",
+    "created_at": "2026-01-17T07:42:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T08:42:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012430255609594072"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 32,
+          "tag": "自撮り"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "Selfie"
+        },
+        {
+          "end": 48,
+          "start": 45,
+          "tag": "自拍"
+        },
+        {
+          "end": 52,
+          "start": 49,
+          "tag": "萝莉"
+        },
+        {
+          "end": 60,
+          "start": 53,
+          "tag": "lolita"
+        },
+        {
+          "end": 67,
+          "start": 61,
+          "tag": "girls"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "876363325998678017",
+          "start": 3,
+          "username": "copymellowclip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3VJ9dQNVfZ",
+          "end": 91,
+          "expanded_url": "https://x.com/copymellowclip/status/2012426957309526143/photo/1",
+          "media_key": "3_2012426619110211584",
+          "start": 68,
+          "url": "https://t.co/3VJ9dQNVfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012430255609594072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012426957309526143",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @copymellowclip: 继续水这个侦探猫猫、！\n#自撮り #Selfie #自拍 #萝莉 #lolita #girls https://t.co/3VJ9dQNVfZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1376,
+        "media_key": "3_2012426619110211584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2TWQiawAANb6k.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012426619110211584"
+          ],
+          "media_source_tweet_id": [
+            "2012426957309526143"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012430255609594072",
+        "created_at": "2026-01-17T07:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012430255609594072"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "自撮り"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "Selfie"
+            },
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "自拍"
+            },
+            {
+              "end": 52,
+              "start": 49,
+              "tag": "萝莉"
+            },
+            {
+              "end": 60,
+              "start": 53,
+              "tag": "lolita"
+            },
+            {
+              "end": 67,
+              "start": 61,
+              "tag": "girls"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "876363325998678017",
+              "start": 3,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VJ9dQNVfZ",
+              "end": 91,
+              "expanded_url": "https://x.com/copymellowclip/status/2012426957309526143/photo/1",
+              "media_key": "3_2012426619110211584",
+              "start": 68,
+              "url": "https://t.co/3VJ9dQNVfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012430255609594072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012426957309526143",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @copymellowclip: 继续水这个侦探猫猫、！\n#自撮り #Selfie #自拍 #萝莉 #lolita #girls https://t.co/3VJ9dQNVfZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012426619110211584"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2012426957309526143",
+        "created_at": "2026-01-17T07:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012426957309526143"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 12,
+              "tag": "自撮り"
+            },
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "Selfie"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "自拍"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "萝莉"
+            },
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "lolita"
+            },
+            {
+              "end": 47,
+              "start": 41,
+              "tag": "girls"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3VJ9dQNVfZ",
+              "end": 71,
+              "expanded_url": "https://x.com/copymellowclip/status/2012426957309526143/photo/1",
+              "media_key": "3_2012426619110211584",
+              "start": 48,
+              "url": "https://t.co/3VJ9dQNVfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012426957309526143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "继续水这个侦探猫猫、！\n#自撮り #Selfie #自拍 #萝莉 #lolita #girls https://t.co/3VJ9dQNVfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 660,
+          "like_count": 13339,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 2990
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜顺女泛性恋｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜不要问现实信息！｜http://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 84,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 62,
+                "url": "http://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtYNEf"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "喵",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 594,
+          "like_count": 3236,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1362
+        },
+        "url": "https://t.co/nAFYhtYNEf",
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

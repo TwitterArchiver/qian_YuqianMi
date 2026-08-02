@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2020443836200182087",
+    "created_at": "2026-02-09T07:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T08:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020760130867044824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937594393772589058",
+          "start": 0,
+          "username": "Private_plot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020760130867044824",
+    "in_reply_to_user_id": "1937594393772589058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020443836200182087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Private_plot 这个人真的牛逼的要死要死啊是人能讲出来的话吗。。世界上少点这种东西对大家都好。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020443827652452352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoO9Nva4AAupnw.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020443827627294720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoO9NpbAAADjSQ.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020443827669221376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoO9NzawAAWi48.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020443827652448256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoO9Nva0AAmraf.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2020443836200182087",
+        "created_at": "2026-02-09T07:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T08:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020760130867044824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "Private_plot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020760130867044824",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020443836200182087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Private_plot 这个人真的牛逼的要死要死啊是人能讲出来的话吗。。世界上少点这种东西对大家都好。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020443827652452352",
+            "3_2020443827627294720",
+            "3_2020443827669221376",
+            "3_2020443827652448256"
+          ]
+        },
+        "author_id": "1937594393772589058",
+        "conversation_id": "2020443836200182087",
+        "created_at": "2026-02-08T10:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T11:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020443836200182087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xb8tOldeb",
+              "end": 83,
+              "expanded_url": "https://x.com/Private_plot/status/2020443836200182087/photo/1",
+              "media_key": "3_2020443827652452352",
+              "start": 60,
+              "url": "https://t.co/0xb8tOldeb"
+            },
+            {
+              "display_url": "pic.x.com/0xb8tOldeb",
+              "end": 83,
+              "expanded_url": "https://x.com/Private_plot/status/2020443836200182087/photo/1",
+              "media_key": "3_2020443827627294720",
+              "start": 60,
+              "url": "https://t.co/0xb8tOldeb"
+            },
+            {
+              "display_url": "pic.x.com/0xb8tOldeb",
+              "end": 83,
+              "expanded_url": "https://x.com/Private_plot/status/2020443836200182087/photo/1",
+              "media_key": "3_2020443827669221376",
+              "start": 60,
+              "url": "https://t.co/0xb8tOldeb"
+            },
+            {
+              "display_url": "pic.x.com/0xb8tOldeb",
+              "end": 83,
+              "expanded_url": "https://x.com/Private_plot/status/2020443836200182087/photo/1",
+              "media_key": "3_2020443827652448256",
+              "start": 60,
+              "url": "https://t.co/0xb8tOldeb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020443836200182087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 17013,
+          "like_count": 167,
+          "quote_count": 5,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好颠啊，大家把这人举报顺便预防性拉黑吧，感觉很神经，故意骂人吸引女生注意的那种，感觉是一种xp了，骂回去都怕他爽了…… https://t.co/0xb8tOldeb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 742,
+          "like_count": 19181,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 3963
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "一切都是个人的，主观的，不媚女的，不媚男的，不厌男的，不厌女的，不崆峒的，不mtf的，不lgbtq的，但一定要born this way的主人",
+        "id": "1937594393772589058",
+        "name": "自留地",
+        "pinned_tweet_id": "1998057081799410059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 216,
+          "like_count": 4343,
+          "listed_count": 5,
+          "media_count": 108,
+          "tweet_count": 1331
+        },
+        "username": "Private_plot",
+        "verified": false
+      }
+    ]
+  }
+}

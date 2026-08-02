@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2047707608568700969",
+    "created_at": "2026-05-06T00:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T01:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051822788105912786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921107120768118785",
+          "start": 0,
+          "username": "SaotomeShimeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051822788105912786",
+    "in_reply_to_user_id": "1921107120768118785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047707608568700969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaotomeShimeri 我趣宝你咋这么会画。。。好色😋😋🤤🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047707585726513152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrrMzMaAAAAoQT.jpg",
+        "width": 1424
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047707585751752704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrrMzSbIAAcHCm.jpg",
+        "width": 1424
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047707585722372096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrrMzLa0AAhUOf.jpg",
+        "width": 1424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2047707608568700969",
+        "created_at": "2026-05-06T00:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T01:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051822788105912786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921107120768118785",
+              "start": 0,
+              "username": "SaotomeShimeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051822788105912786",
+        "in_reply_to_user_id": "1921107120768118785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047707608568700969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaotomeShimeri 我趣宝你咋这么会画。。。好色😋😋🤤🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047707585726513152",
+            "3_2047707585751752704",
+            "3_2047707585722372096"
+          ]
+        },
+        "author_id": "1921107120768118785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2047707608568700969",
+        "created_at": "2026-04-24T16:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T17:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047707608568700969"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "cm"
+            },
+            {
+              "end": 15,
+              "start": 4,
+              "tag": "commission"
+            },
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "絵描きさんと繋がりたい"
+            },
+            {
+              "end": 45,
+              "start": 30,
+              "tag": "春の創作クラスタフォロー祭り"
+            },
+            {
+              "end": 64,
+              "start": 46,
+              "tag": "絵柄が好みって人にフォローされたい"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "イラスト"
+            },
+            {
+              "end": 84,
+              "start": 71,
+              "tag": "illustration"
+            },
+            {
+              "end": 90,
+              "start": 85,
+              "tag": "有償依頼"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eTXS9bZ8oG",
+              "end": 114,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2047707608568700969/photo/1",
+              "media_key": "3_2047707585726513152",
+              "start": 91,
+              "url": "https://t.co/eTXS9bZ8oG"
+            },
+            {
+              "display_url": "pic.x.com/eTXS9bZ8oG",
+              "end": 114,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2047707608568700969/photo/1",
+              "media_key": "3_2047707585751752704",
+              "start": 91,
+              "url": "https://t.co/eTXS9bZ8oG"
+            },
+            {
+              "display_url": "pic.x.com/eTXS9bZ8oG",
+              "end": 114,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2047707608568700969/photo/1",
+              "media_key": "3_2047707585722372096",
+              "start": 91,
+              "url": "https://t.co/eTXS9bZ8oG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047707608568700969",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#cm #commission \n#絵描きさんと繋がりたい\n#春の創作クラスタフォロー祭り\n#絵柄が好みって人にフォローされたい\n#イラスト\n#illustration\n#有償依頼 https://t.co/eTXS9bZ8oG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 867,
+          "like_count": 28167,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 5583
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T07:36:59.000Z",
+        "description": "中国画师\n稿件相关请私讯",
+        "id": "1921107120768118785",
+        "name": "早乙女死目莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921108639055835139/a4gtj-wc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 18,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 13
+        },
+        "username": "SaotomeShimeri",
+        "verified": false
+      }
+    ]
+  }
+}

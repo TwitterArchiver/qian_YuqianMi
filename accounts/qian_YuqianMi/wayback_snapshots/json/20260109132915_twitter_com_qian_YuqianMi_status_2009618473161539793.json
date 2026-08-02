@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009484916829073782",
+    "created_at": "2026-01-09T13:29:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T14:29:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009618473161539793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1848632918933180418",
+          "start": 0,
+          "username": "4evershoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009618473161539793",
+    "in_reply_to_user_id": "1848632918933180418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009484916829073782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4evershoon 耶欸！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2009484904015515659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-Mf351a0As8pr3.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009484916829073782",
+        "created_at": "2026-01-09T13:29:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T14:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009618473161539793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1848632918933180418",
+              "start": 0,
+              "username": "4evershoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009618473161539793",
+        "in_reply_to_user_id": "1848632918933180418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009484916829073782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4evershoon 耶欸！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009484904015515659"
+          ]
+        },
+        "author_id": "1848632918933180418",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2009484916829073782",
+        "created_at": "2026-01-09T04:38:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T05:38:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009484916829073782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2007647610782236672/nCG-V18Q?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2007647610782236672/nCG-V18Q?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/PhtdCM3T0Z"
+            },
+            {
+              "display_url": "pic.x.com/7UGQPNdrL4",
+              "end": 64,
+              "expanded_url": "https://x.com/4evershoon/status/2009484916829073782/photo/1",
+              "media_key": "3_2009484904015515659",
+              "start": 41,
+              "url": "https://t.co/7UGQPNdrL4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009484916829073782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/PhtdCM3T0Z https://t.co/7UGQPNdrL4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 621,
+          "following_count": 622,
+          "like_count": 10345,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2424
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T07:50:23.000Z",
+        "description": "switch。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miaomiao46763",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miaomiao46763",
+                "start": 0,
+                "url": "https://t.co/HGVJmMFq96"
+              }
+            ]
+          }
+        },
+        "id": "1848632918933180418",
+        "name": "🍙",
+        "pinned_tweet_id": "2009487726677266907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938992913007947776/wS_0W1aj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 98,
+          "like_count": 2452,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1024
+        },
+        "url": "https://t.co/HGVJmMFq96",
+        "username": "4evershoon",
+        "verified": false
+      }
+    ]
+  }
+}

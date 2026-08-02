@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2024086492939948480",
+    "created_at": "2026-02-18T15:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T16:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024137090934648988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1997701474705645568",
+          "start": 0,
+          "username": "S1J1AN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024137090934648988",
+    "in_reply_to_user_id": "1997701474705645568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024086492939948480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S1J1AN 捏捏乐😈😈"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21766,
+        "height": 720,
+        "media_key": "13_2024086425332064256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024086425332064256/img/UQ1-9k7RK0oiZD3N.jpg",
+        "public_metrics": {
+          "view_count": 806
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024086425332064256/vid/avc1/480x270/3VUI5ugQfN3CsFTO.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024086425332064256/vid/avc1/640x360/pCCOBhpvHq9dSRDr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024086425332064256/vid/avc1/1280x720/tBKIYu0TBdVYLDZx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024086425332064256/pl/QzW5VJ1vOh-RiRvW.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2024086492939948480",
+        "created_at": "2026-02-18T15:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T16:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024137090934648988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1997701474705645568",
+              "start": 0,
+              "username": "S1J1AN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024137090934648988",
+        "in_reply_to_user_id": "1997701474705645568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024086492939948480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S1J1AN 捏捏乐😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024086425332064256"
+          ]
+        },
+        "author_id": "1997701474705645568",
+        "conversation_id": "2024086492939948480",
+        "created_at": "2026-02-18T11:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T12:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024086492939948480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lup3IhNpne",
+              "end": 36,
+              "expanded_url": "https://x.com/S1J1AN/status/2024086492939948480/video/1",
+              "media_key": "13_2024086425332064256",
+              "start": 13,
+              "url": "https://t.co/lup3IhNpne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024086492939948480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2780,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "感觉在玩解压小玩具……😈 https://t.co/lup3IhNpne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 764,
+          "like_count": 21185,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 4252
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T16:15:31.000Z",
+        "description": "爱吃烤鸭的鸭鸭｜INFP🦋06｜日常/碎碎念：@Qiss_J 💗@Jingtingovo｜分享和对象doi的一些片段｜普通人记录而已😋｜❌线下❌定制｜匿名信箱📮：https://t.co/vVD3s4atgK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "Qiss_J"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Jingtingovo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/s1j1an",
+                "end": 104,
+                "expanded_url": "https://ngl.link/s1j1an",
+                "start": 81,
+                "url": "https://t.co/vVD3s4atgK"
+              }
+            ]
+          }
+        },
+        "id": "1997701474705645568",
+        "location": "🚪128➕v 绿 ",
+        "name": "Veyra",
+        "pinned_tweet_id": "2021888233089720644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015685227385847809/3YAAA_Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 86,
+          "like_count": 829,
+          "listed_count": 16,
+          "media_count": 65,
+          "tweet_count": 790
+        },
+        "username": "S1J1AN",
+        "verified": false
+      }
+    ]
+  }
+}

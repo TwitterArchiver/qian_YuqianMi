@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998715406429859846"
+      ],
+      "media_source_tweet_id": [
+        "1998715415556698317"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1998743237390119331",
+    "created_at": "2025-12-10T13:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T14:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998743237390119331"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 19,
+          "tag": "今年一番伸びた絵を貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1608257434635890689",
+          "start": 3,
+          "username": "NANA_kome2017"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aax5dkcM8b",
+          "end": 74,
+          "expanded_url": "https://x.com/NANA_kome2017/status/1998715415556698317/photo/1",
+          "media_key": "3_1998715406429859846",
+          "start": 51,
+          "url": "https://t.co/aax5dkcM8b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998743237390119331",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998715415556698317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NANA_kome2017: #今年一番伸びた絵を貼る\n今年はこの手の絵が一番反応ありました https://t.co/aax5dkcM8b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1998715406429859846",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zdEo9aMAY23E2.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998715406429859846"
+          ],
+          "media_source_tweet_id": [
+            "1998715415556698317"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1998743237390119331",
+        "created_at": "2025-12-10T13:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998743237390119331"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 19,
+              "tag": "今年一番伸びた絵を貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1608257434635890689",
+              "start": 3,
+              "username": "NANA_kome2017"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aax5dkcM8b",
+              "end": 74,
+              "expanded_url": "https://x.com/NANA_kome2017/status/1998715415556698317/photo/1",
+              "media_key": "3_1998715406429859846",
+              "start": 51,
+              "url": "https://t.co/aax5dkcM8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998743237390119331",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998715415556698317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NANA_kome2017: #今年一番伸びた絵を貼る\n今年はこの手の絵が一番反応ありました https://t.co/aax5dkcM8b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998715406429859846"
+          ]
+        },
+        "author_id": "1608257434635890689",
+        "conversation_id": "1998715415556698317",
+        "created_at": "2025-12-10T11:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998715415556698317"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "今年一番伸びた絵を貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aax5dkcM8b",
+              "end": 55,
+              "expanded_url": "https://x.com/NANA_kome2017/status/1998715415556698317/photo/1",
+              "media_key": "3_1998715406429859846",
+              "start": 32,
+              "url": "https://t.co/aax5dkcM8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998715415556698317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 20346,
+          "like_count": 3126,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "#今年一番伸びた絵を貼る\n今年はこの手の絵が一番反応ありました https://t.co/aax5dkcM8b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 369,
+          "like_count": 4536,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 1129
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-29T00:24:00.000Z",
+        "description": "Nana |デッサンをするのが好きな人です",
+        "id": "1608257434635890689",
+        "name": "なな",
+        "pinned_tweet_id": "1768232330647466055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675934699196383233/tNUatnDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60125,
+          "following_count": 283,
+          "like_count": 3142,
+          "listed_count": 301,
+          "media_count": 58,
+          "tweet_count": 84
+        },
+        "username": "NANA_kome2017",
+        "verified": true
+      }
+    ]
+  }
+}

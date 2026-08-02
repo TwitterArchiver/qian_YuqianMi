@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990070175090049347",
+    "created_at": "2025-11-18T06:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T07:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990674211518755316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1525797038339698688",
+          "start": 0,
+          "username": "NKStellaEleanor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990674211518755316",
+    "in_reply_to_user_id": "1525797038339698688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990070177967296550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NKStellaEleanor 你做的很好哦，相信你一定可以的，加油，不要放弃希望哦，虽然无法做出“一切都会好起来”的承诺，但是坚信希望，不要放弃，不要轻视自己，相信你一定可以的₍ᐢ..ᐢ₎♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990070175090049347",
+        "created_at": "2025-11-18T06:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990674211518755316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1525797038339698688",
+              "start": 0,
+              "username": "NKStellaEleanor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990674211518755316",
+        "in_reply_to_user_id": "1525797038339698688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990070177967296550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NKStellaEleanor 你做的很好哦，相信你一定可以的，加油，不要放弃希望哦，虽然无法做出“一切都会好起来”的承诺，但是坚信希望，不要放弃，不要轻视自己，相信你一定可以的₍ᐢ..ᐢ₎♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1525797038339698688",
+        "conversation_id": "1990070175090049347",
+        "created_at": "2025-11-16T14:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990070177967296550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990070177967296550",
+        "in_reply_to_user_id": "1525797038339698688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2711,
+          "like_count": 181,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990070175090049347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最近黛菈心靈脆弱的程度\n大概只要有誰來跟我說\n「你做得很好囉！」「你真的很棒了！」\n之類的 可能就會潰堤的程度🥲\n\n但請放心 黛菈正努力在調適中\n會好好地調適狀態 恢復能量的\n希望自己那可能不太有趣的直播\n能成為誰珍貴回憶的碎片就好了\n\n如果想留言點什麼 可以幫我加油\n謝謝發現這篇文的你\n\n(2/2)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 119,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 168
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T11:15:59.000Z",
+        "description": "心靈保養系(?)Vtuber / 最愛唱歌的女武神 / 養了兩隻狗勾小巨嬰\n＠Limnos1101 所屬一期生\nママ @Pillo_0000 パパ @nonon_yuno Logo @Tanz0908 \n粉絲名 #黛菈之翼 FanArt #StellaSteArt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "黛菈之翼"
+              },
+              {
+                "end": 132,
+                "start": 119,
+                "tag": "StellaSteArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "Limnos1101"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Pillo_0000"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "nonon_yuno"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Tanz0908"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/limnosstella",
+                "end": 23,
+                "expanded_url": "https://lit.link/limnosstella",
+                "start": 0,
+                "url": "https://t.co/q9KpD15NAJ"
+              }
+            ]
+          }
+        },
+        "id": "1525797038339698688",
+        "location": "帕爾托斯王國",
+        "name": "史黛菈 埃蕾諾亞 / Stella Eleanor🐶🌟🐶〖Limnos所属〗",
+        "pinned_tweet_id": "1989983004069142627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868546815110565888/H-IsJ9qA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6631,
+          "following_count": 796,
+          "like_count": 47201,
+          "listed_count": 26,
+          "media_count": 2326,
+          "tweet_count": 14059
+        },
+        "url": "https://t.co/q9KpD15NAJ",
+        "username": "NKStellaEleanor",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1991894995591463330",
+    "created_at": "2025-11-21T15:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T16:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991897800066638068"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1991897800066638068",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991894995591463330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我趣，，不行了我有点喜欢这个，（决定放出来一下看看情况，不好的话明天删！）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1991894995591463330",
+        "created_at": "2025-11-21T15:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991897800066638068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991897800066638068",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991894995591463330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我趣，，不行了我有点喜欢这个，（决定放出来一下看看情况，不好的话明天删！）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1991894995591463330",
+        "created_at": "2025-11-21T15:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991894995591463330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991894995591463330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，，我刚才，心血来潮录了段男喘。也没什么准备就是单纯幻想被炒然后录了点喘气，无台词。卧槽好色啊卧槽，，卧槽，，难道给我找到舒适区了？卧槽我真的应该去干配音的，，\n（你说我要发一下吗我能发吗 ，这个号会不会太混沌了又是青纯小画师又是滴泪男又是跨女又是黄推之类的，，）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 164,
+          "like_count": 1039,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 248
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

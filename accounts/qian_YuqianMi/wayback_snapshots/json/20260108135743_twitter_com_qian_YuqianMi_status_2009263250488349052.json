@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009263250488349052",
+    "created_at": "2026-01-08T13:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T14:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009263250488349052"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkatsukiNikke/…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/AkatsukiNikke/status/2008923954770051295",
+          "start": 135,
+          "url": "https://t.co/lGPuurKmkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009263250488349052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008923954770051295",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这个。\n你们知豆吗我的色色启蒙之一是一张图（我现在找不到了非常的可惜），基本是粉色的背景吧，好像是日本画家画的。是一个上下三联的图，女主好像是个黑长直公主切，戴了个白口罩。后面两张是口罩摘下来，拔出来一根超长的喉咙塞子（我姑且这样叫了！）真的爆色。。我喜欢这个。 https://t.co/lGPuurKmkk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2008923935631396864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-EhrPwW0AAsTri.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009263250488349052",
+        "created_at": "2026-01-08T13:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009263250488349052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkatsukiNikke/…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/AkatsukiNikke/status/2008923954770051295",
+              "start": 135,
+              "url": "https://t.co/lGPuurKmkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009263250488349052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008923954770051295",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个。\n你们知豆吗我的色色启蒙之一是一张图（我现在找不到了非常的可惜），基本是粉色的背景吧，好像是日本画家画的。是一个上下三联的图，女主好像是个黑长直公主切，戴了个白口罩。后面两张是口罩摘下来，拔出来一根超长的喉咙塞子（我姑且这样叫了！）真的爆色。。我喜欢这个。 https://t.co/lGPuurKmkk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008923935631396864"
+          ]
+        },
+        "author_id": "1790035758910259200",
+        "conversation_id": "2008923954770051295",
+        "created_at": "2026-01-07T15:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008923954770051295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8QX4BT4zDi",
+              "end": 31,
+              "expanded_url": "https://x.com/AkatsukiNikke/status/2008923954770051295/photo/1",
+              "media_key": "3_2008923935631396864",
+              "start": 8,
+              "url": "https://t.co/8QX4BT4zDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008923954770051295",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 13256,
+          "like_count": 1446,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "Chudai💦 https://t.co/8QX4BT4zDi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 603,
+          "like_count": 9974,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2335
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-13T15:06:01.000Z",
+        "description": "💚  📩 DAILY QUALITY HENTAI ❤️ | 📩 DM FOR PAID PROMO (LOW PRICES + HIGH RESULTS) ❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Patreon.com/KillThisLoveOF",
+                "end": 23,
+                "expanded_url": "http://Patreon.com/KillThisLoveOF",
+                "start": 0,
+                "url": "https://t.co/7YCHUwrrwH"
+              }
+            ]
+          }
+        },
+        "id": "1790035758910259200",
+        "location": "Heaven",
+        "name": "✨BlossomLove✨",
+        "pinned_tweet_id": "2003402737254572352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987523611817562112/vxeeMYVW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133298,
+          "following_count": 119,
+          "like_count": 537,
+          "listed_count": 305,
+          "media_count": 2835,
+          "tweet_count": 13286
+        },
+        "url": "https://t.co/7YCHUwrrwH",
+        "username": "AkatsukiNikke",
+        "verified": false
+      }
+    ]
+  }
+}

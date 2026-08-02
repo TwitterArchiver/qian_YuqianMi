@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2001517509955199368",
+    "created_at": "2025-12-18T05:00:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T06:00:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001517922355941680"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001517922355941680",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001517509955199368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天依然🈚️发型（五分钟随便捏了一下，，）\n（绝赞痛苦蓄发中！（现在还没完全尴尬期呢到时候变成樱桃小丸子就老实了（补药啊补药朵拉头）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2040,
+        "media_key": "3_2001517506968879105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bRkW6bAAEDjA6.jpg",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2001517509955199368",
+        "created_at": "2025-12-18T05:00:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T06:00:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001517922355941680"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001517922355941680",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001517509955199368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天依然🈚️发型（五分钟随便捏了一下，，）\n（绝赞痛苦蓄发中！（现在还没完全尴尬期呢到时候变成樱桃小丸子就老实了（补药啊补药朵拉头）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001517506968879105"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2001517509955199368",
+        "created_at": "2025-12-18T04:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T05:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001517509955199368"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WspyB1XyAR",
+              "end": 36,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2001517509955199368/photo/1",
+              "media_key": "3_2001517506968879105",
+              "start": 13,
+              "url": "https://t.co/WspyB1XyAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001517509955199368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是坏猫。哈气！（哈！） https://t.co/WspyB1XyAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 420,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1456
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

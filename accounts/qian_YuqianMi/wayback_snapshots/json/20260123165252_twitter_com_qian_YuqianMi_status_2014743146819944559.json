@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014672556092227806",
+    "created_at": "2026-01-23T16:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T17:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014743146819944559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1666107223691636737",
+          "start": 0,
+          "username": "ADZ79187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014743146819944559",
+    "in_reply_to_user_id": "1666107223691636737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014672556092227806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ADZ79187 没绷住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014672547200303106",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_WOAeqbAAIPT0d.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014672556092227806",
+        "created_at": "2026-01-23T16:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T17:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014743146819944559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1666107223691636737",
+              "start": 0,
+              "username": "ADZ79187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014743146819944559",
+        "in_reply_to_user_id": "1666107223691636737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014672556092227806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ADZ79187 没绷住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014672547200303106"
+          ]
+        },
+        "author_id": "1666107223691636737",
+        "conversation_id": "2014672556092227806",
+        "created_at": "2026-01-23T12:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014672556092227806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YDvXPwcqxU",
+              "end": 78,
+              "expanded_url": "https://x.com/ADZ79187/status/2014672556092227806/photo/1",
+              "media_key": "3_2014672547200303106",
+              "start": 55,
+              "url": "https://t.co/YDvXPwcqxU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014672556092227806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不觉得很诡异吗？有个男的大晚上一个人靠在这种河边飘出去的一小截桥的栏杆上面，听着那种伤感的音乐在那里看大几把 https://t.co/YDvXPwcqxU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 690,
+          "like_count": 15428,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 3338
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T15:38:52.000Z",
+        "description": "我不知道，我只是一个在哪都没人要的fw英精生🙁",
+        "id": "1666107223691636737",
+        "name": "Adz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008750674692239362/oBgvgKKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 141,
+          "like_count": 6793,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 1094
+        },
+        "username": "ADZ79187",
+        "verified": false
+      }
+    ]
+  }
+}

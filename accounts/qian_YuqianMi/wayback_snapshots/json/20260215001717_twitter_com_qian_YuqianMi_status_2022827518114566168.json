@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022630609638883328"
+      ],
+      "media_source_tweet_id": [
+        "2022630617016619064"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2022827518114566168",
+    "created_at": "2026-02-15T00:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T01:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022827518114566168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1351547253417099266",
+          "start": 3,
+          "username": "nanaju_ko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/38q9OWx6Dq",
+          "end": 46,
+          "expanded_url": "https://x.com/nanaju_ko/status/2022630617016619064/photo/1",
+          "media_key": "3_2022630609638883328",
+          "start": 23,
+          "url": "https://t.co/38q9OWx6Dq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022827518114566168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 634
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022630617016619064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaju_ko: 確かめたいこと https://t.co/38q9OWx6Dq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022630609638883328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBHT0rdbgAAQwfv.jpg",
+        "width": 1491
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022630609638883328"
+          ],
+          "media_source_tweet_id": [
+            "2022630617016619064"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2022827518114566168",
+        "created_at": "2026-02-15T00:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T01:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022827518114566168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1351547253417099266",
+              "start": 3,
+              "username": "nanaju_ko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/38q9OWx6Dq",
+              "end": 46,
+              "expanded_url": "https://x.com/nanaju_ko/status/2022630617016619064/photo/1",
+              "media_key": "3_2022630609638883328",
+              "start": 23,
+              "url": "https://t.co/38q9OWx6Dq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022827518114566168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 634
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022630617016619064",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaju_ko: 確かめたいこと https://t.co/38q9OWx6Dq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022630609638883328"
+          ]
+        },
+        "author_id": "1351547253417099266",
+        "conversation_id": "2022630617016619064",
+        "created_at": "2026-02-14T11:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T12:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022630617016619064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/38q9OWx6Dq",
+              "end": 31,
+              "expanded_url": "https://x.com/nanaju_ko/status/2022630617016619064/photo/1",
+              "media_key": "3_2022630609638883328",
+              "start": 8,
+              "url": "https://t.co/38q9OWx6Dq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022630617016619064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1358,
+          "impression_count": 1264693,
+          "like_count": 16050,
+          "quote_count": 97,
+          "reply_count": 140,
+          "retweet_count": 634
+        },
+        "reply_settings": "everyone",
+        "text": "確かめたいこと https://t.co/38q9OWx6Dq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 745,
+          "like_count": 20318,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 4127
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-19T15:09:21.000Z",
+        "description": "illustrator ｜ お問い合わせ▷ https://t.co/HcYoYNTx5t ｜各種リンク▷ https://t.co/6PkZLKagL9｜書籍『赤い部屋(乙女の本棚)』▷ https://t.co/mIrDIcSsf8 ｜ h: でんさん",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/nana…",
+                "end": 45,
+                "expanded_url": "https://xfolio.jp/portfolio/nanaju_ko/free/107079",
+                "start": 22,
+                "url": "https://t.co/HcYoYNTx5t"
+              },
+              {
+                "display_url": "lit.link/nanajuko",
+                "end": 77,
+                "expanded_url": "https://lit.link/nanajuko",
+                "start": 54,
+                "url": "https://t.co/6PkZLKagL9"
+              },
+              {
+                "display_url": "amzn.asia/d/9BXuae2",
+                "end": 118,
+                "expanded_url": "https://amzn.asia/d/9BXuae2",
+                "start": 95,
+                "url": "https://t.co/mIrDIcSsf8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/nana…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/nanaju_ko",
+                "start": 0,
+                "url": "https://t.co/pKZ0cYuSMx"
+              }
+            ]
+          }
+        },
+        "id": "1351547253417099266",
+        "location": "▽ご依頼についてはHPのContactをご一読ください",
+        "name": "寿 なし子🌹初作品集3/12発売",
+        "pinned_tweet_id": "2001978413222174889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1399675329321455625/bVNxk1Eg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215894,
+          "following_count": 438,
+          "like_count": 14638,
+          "listed_count": 1587,
+          "media_count": 260,
+          "tweet_count": 5276
+        },
+        "url": "https://t.co/pKZ0cYuSMx",
+        "username": "nanaju_ko",
+        "verified": true
+      }
+    ]
+  }
+}

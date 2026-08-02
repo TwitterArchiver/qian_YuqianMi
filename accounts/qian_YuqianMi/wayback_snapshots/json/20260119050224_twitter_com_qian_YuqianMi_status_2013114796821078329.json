@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2013112353198371279",
+    "created_at": "2026-01-19T05:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T06:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013114796821078329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988874388972924930",
+          "start": 0,
+          "username": "kumokokono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013114796821078329",
+    "in_reply_to_user_id": "1988874388972924930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013112353198371279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumokokono 你认不认识b站有一个偷吃长，他开的店好像在江苏（？）但是比较贵来着，，我自己喜欢吃的话在太古里有一家日料店叫千两，还不错。或者人广来福士路边有一家叫三旬的也挺好次\n（*/∇＼*）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2013112353198371279",
+        "created_at": "2026-01-19T05:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T06:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013114796821078329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988874388972924930",
+              "start": 0,
+              "username": "kumokokono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013114796821078329",
+        "in_reply_to_user_id": "1988874388972924930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013112353198371279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumokokono 你认不认识b站有一个偷吃长，他开的店好像在江苏（？）但是比较贵来着，，我自己喜欢吃的话在太古里有一家日料店叫千两，还不错。或者人广来福士路边有一家叫三旬的也挺好次\n（*/∇＼*）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988874388972924930",
+        "conversation_id": "2013112353198371279",
+        "created_at": "2026-01-19T04:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T05:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013112353198371279"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013112353198371279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们能不能给我推点江苏上海的极品日料店，我讨厌这个没有美味日料的城市"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 668,
+          "like_count": 14093,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 3107
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T07:39:53.000Z",
+        "description": "关于一些记录和监测\n\n我是水，实在需要一些刻板印象的话→精神疾病｜无立场｜intp｜acgn｜农学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumokokono",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumokokono",
+                "start": 0,
+                "url": "https://t.co/uQkz24mryS"
+              }
+            ]
+          }
+        },
+        "id": "1988874388972924930",
+        "location": "死亦如歌",
+        "name": "x@!nilj_tv",
+        "pinned_tweet_id": "2011145366998302779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988875885970354176/zvRIn1FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 129,
+          "like_count": 1026,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/uQkz24mryS",
+        "username": "kumokokono",
+        "verified": false
+      }
+    ]
+  }
+}

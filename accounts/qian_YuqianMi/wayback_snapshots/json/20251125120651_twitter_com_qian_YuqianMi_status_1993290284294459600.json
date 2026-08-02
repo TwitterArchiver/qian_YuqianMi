@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993263874947133477",
+    "created_at": "2025-11-25T12:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T13:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993290284294459600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1983213298708574208",
+          "start": 0,
+          "username": "cosmorisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993290284294459600",
+    "in_reply_to_user_id": "1983213298708574208",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993263874947133477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cosmorisa 84 86"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1993263864163504128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6l-7HcWkAAGlbw.jpg",
+        "width": 622
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993263874947133477",
+        "created_at": "2025-11-25T12:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T13:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993290284294459600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1983213298708574208",
+              "start": 0,
+              "username": "cosmorisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993290284294459600",
+        "in_reply_to_user_id": "1983213298708574208",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993263874947133477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cosmorisa 84 86"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993263864163504128"
+          ]
+        },
+        "author_id": "1983213298708574208",
+        "conversation_id": "1993263874947133477",
+        "created_at": "2025-11-25T10:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993263874947133477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MzXjg8OWKI",
+              "end": 29,
+              "expanded_url": "https://x.com/cosmorisa/status/1993263874947133477/photo/1",
+              "media_key": "3_1993263864163504128",
+              "start": 6,
+              "url": "https://t.co/MzXjg8OWKI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993263874947133477",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也要玩🤓 https://t.co/MzXjg8OWKI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993241752904609792/uax9UGHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 256,
+          "like_count": 1624,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 405
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T16:44:41.000Z",
+        "description": "07年大只夜猫子(变小中)｜BPD venttwt｜喜欢哲学、社科、艺术、设计｜热爱后现代、后安那其Ⓐ哲学｜警察不要找我，激动会紫砂｜性别虚无主义者🏴 LGBTQ+🏳️‍🌈Ally｜大五:高O/两极化C/低E/情景化A/高N｜INXP-T｜河南高三自学ing｜同类快来互fo！🥺",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cosmorisa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cosmorisa",
+                "start": 0,
+                "url": "https://t.co/bMdrCBFSLn"
+              }
+            ]
+          }
+        },
+        "id": "1983213298708574208",
+        "location": "Digital Nomad",
+        "name": "CosMorisa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983813859032158208/VjhU6-7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 254,
+          "like_count": 2073,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/bMdrCBFSLn",
+        "username": "cosmorisa",
+        "verified": false
+      }
+    ]
+  }
+}

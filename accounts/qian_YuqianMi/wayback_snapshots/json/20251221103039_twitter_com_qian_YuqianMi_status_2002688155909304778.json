@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2002687828619338210",
+    "created_at": "2025-12-21T10:30:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T11:30:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002688155909304778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641968587102621696",
+          "start": 0,
+          "username": "0voki33Me"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002688155909304778",
+    "in_reply_to_user_id": "1641968587102621696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002687828619338210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0voki33Me 卧槽深有同感。。以前高中有人拉我左手臂我就一脸难以言说的表情把他手掰开（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2002687828619338210",
+        "created_at": "2025-12-21T10:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002688155909304778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641968587102621696",
+              "start": 0,
+              "username": "0voki33Me"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002688155909304778",
+        "in_reply_to_user_id": "1641968587102621696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002687828619338210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0voki33Me 卧槽深有同感。。以前高中有人拉我左手臂我就一脸难以言说的表情把他手掰开（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641968587102621696",
+        "conversation_id": "2002687828619338210",
+        "created_at": "2025-12-21T10:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T11:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002687828619338210"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002687828619338210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "朋友你别扯我打我左手臂了我要他妈死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 430,
+          "like_count": 6139,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1546
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "我是静♡⃝OD♡⃝自伤♡⃝绘画♡⃝-查成分回fo ///顺女 什么都发 接受一切 立场是关我屁事////善良人格⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/0voki33me2?s=21",
+                "end": 23,
+                "expanded_url": "https://x.com/0voki33me2?s=21",
+                "start": 0,
+                "url": "https://t.co/UyqSd6sHWZ"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "淚",
+        "name": "RvN4w4Y",
+        "pinned_tweet_id": "1998061954095853671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000765477682077696/SHZKmiyu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 538,
+          "like_count": 2114,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 897
+        },
+        "url": "https://t.co/UyqSd6sHWZ",
+        "username": "0voki33Me",
+        "verified": false
+      }
+    ]
+  }
+}

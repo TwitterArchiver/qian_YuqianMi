@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2064335214365774225",
+    "created_at": "2026-06-11T07:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T08:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064970498828796287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043300901050322944",
+          "start": 0,
+          "username": "lindong2200"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064970498828796287",
+    "in_reply_to_user_id": "2043300901050322944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064335214365774225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lindong2200 导员还有权力看学生pyq内容吗？好恐怖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2064335214365774225",
+        "created_at": "2026-06-11T07:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T08:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064970498828796287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043300901050322944",
+              "start": 0,
+              "username": "lindong2200"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064970498828796287",
+        "in_reply_to_user_id": "2043300901050322944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064335214365774225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lindong2200 导员还有权力看学生pyq内容吗？好恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043300901050322944",
+        "conversation_id": "2064335214365774225",
+        "created_at": "2026-06-09T13:14:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064335214365774225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064335214365774225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 384,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天神经病导员跟我说，我是不是心里不舒服，我说我好得很，我只是神经衰弱，她又让我删朋友圈的负面信息，我说“不要”“我连发朋友圈的自由都没有了吗”他说他担心我，我说我好得很，我非常的好，我都说了我很好了你在担心什么，她说她要关心我，我说我很好\n今天哦pr，晕的要死，加上共济失调，走一半"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 877,
+          "like_count": 29072,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 5851
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-12T12:11:32.000Z",
+        "description": "18↑‖infp‖🚪‖互fo慢有上限漏掉可以在置顶帖子留言‖祭奠前世@Xilne_cc‖3.0挂一下防止坠机@lindong30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 34,
+                "username": "Xilne_cc"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "lindong30"
+              }
+            ]
+          }
+        },
+        "id": "2043300901050322944",
+        "location": "你心里ദ്ദി˶ᵒ ᵕ ˂)✧",
+        "name": "凜冬2.0",
+        "pinned_tweet_id": "2060445796869546070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047823864349294592/4MXgupZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 195,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 364
+        },
+        "username": "lindong2200",
+        "verified": false
+      }
+    ]
+  }
+}

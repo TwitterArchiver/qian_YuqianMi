@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009277445325598949",
+    "created_at": "2026-01-08T15:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T16:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009279066810048927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009279066810048927",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009277445325598949",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 那我已经爱上你了！宝宝我是不是完蛋了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009277418272698369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JjKpNbsAE8NwT.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2009277418268446720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JjKpMa0AAdlpJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009277445325598949",
+        "created_at": "2026-01-08T15:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009279066810048927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009279066810048927",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009277445325598949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 那我已经爱上你了！宝宝我是不是完蛋了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009277418272698369",
+            "3_2009277418268446720"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2009277445325598949",
+        "created_at": "2026-01-08T14:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T15:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009277445325598949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUfTzrJNhF",
+              "end": 110,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2009277445325598949/photo/1",
+              "media_key": "3_2009277418272698369",
+              "start": 87,
+              "url": "https://t.co/RUfTzrJNhF"
+            },
+            {
+              "display_url": "pic.x.com/RUfTzrJNhF",
+              "end": 110,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2009277445325598949/photo/1",
+              "media_key": "3_2009277418268446720",
+              "start": 87,
+              "url": "https://t.co/RUfTzrJNhF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009277445325598949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在禁止任何人跟我聊天，因为你想一下，我的智商也很高，我的情商也很高，我品味也很好，你跟我聊几句话，我这个人又很神秘，两三天直接你就爱上我了，那我怎么办？我到时候怎么办？ https://t.co/RUfTzrJNhF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 606,
+          "like_count": 10013,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2346
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0kadami0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0kadami0",
+                "start": 0,
+                "url": "https://t.co/K7lD9UABTb"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "ミオ没睡醒",
+        "pinned_tweet_id": "1977444582653935861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 106,
+          "like_count": 5130,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 908
+        },
+        "url": "https://t.co/K7lD9UABTb",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

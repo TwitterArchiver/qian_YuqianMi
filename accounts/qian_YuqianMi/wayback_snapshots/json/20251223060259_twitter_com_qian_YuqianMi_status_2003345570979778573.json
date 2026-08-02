@@ -1,0 +1,621 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2003345570979778573",
+    "created_at": "2025-12-23T06:02:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T07:02:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003345570979778573"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 134,
+          "start": 129,
+          "tag": "イラスト"
+        },
+        {
+          "end": 139,
+          "start": 135,
+          "tag": "art"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1427173647475695621",
+          "start": 3,
+          "username": "meshieshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003345570979778573",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5024
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003058170739278141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meshieshi: 1枚の紙の上で、絵の具を塗り重ねてたこ焼きを焼きました。\n頑張れば焼けるもんやなぁ🐙\n2枚目の紙に移して盛りつけたので、ぜひ最後まで流れるように見てほしいです😃\n私のたこ焼きに対する愛と情熱がたくさんの方に届きますように✨🕊️\n#イラスト #art…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 97500,
+        "height": 720,
+        "media_key": "7_2003058080595226624",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2003058080595226624/pu/img/sAksKvkM253F4f7s.jpg",
+        "public_metrics": {
+          "view_count": 207414
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003058080595226624/pu/vid/avc1/480x270/CQzzqpTUQsPa2Hgt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003058080595226624/pu/vid/avc1/640x360/eFre8yY3KVPhqdFq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2003058080595226624/pu/vid/avc1/1280x720/BtKcLYPom-3FNb0d.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2003058080595226624/pu/pl/JPfzxdpn3o-9mEAi.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2003345570979778573",
+        "created_at": "2025-12-23T06:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T07:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003345570979778573"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 129,
+              "tag": "イラスト"
+            },
+            {
+              "end": 139,
+              "start": 135,
+              "tag": "art"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1427173647475695621",
+              "start": 3,
+              "username": "meshieshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003345570979778573",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5024
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003058170739278141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meshieshi: 1枚の紙の上で、絵の具を塗り重ねてたこ焼きを焼きました。\n頑張れば焼けるもんやなぁ🐙\n2枚目の紙に移して盛りつけたので、ぜひ最後まで流れるように見てほしいです😃\n私のたこ焼きに対する愛と情熱がたくさんの方に届きますように✨🕊️\n#イラスト #art…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2003058080595226624"
+          ]
+        },
+        "author_id": "1427173647475695621",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2003058170739278141",
+        "created_at": "2025-12-22T11:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003058170739278141"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "イラスト"
+            },
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "art"
+            },
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "ポスターカラー"
+            },
+            {
+              "end": 146,
+              "start": 134,
+              "tag": "絵描きさんと繋がりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ri7DBlSsXb",
+              "end": 170,
+              "expanded_url": "https://x.com/meshieshi/status/2003058170739278141/video/1",
+              "media_key": "7_2003058080595226624",
+              "start": 147,
+              "url": "https://t.co/Ri7DBlSsXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003058170739278141",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2040,
+          "impression_count": 453530,
+          "like_count": 18073,
+          "quote_count": 538,
+          "reply_count": 115,
+          "retweet_count": 5024
+        },
+        "reply_settings": "everyone",
+        "text": "1枚の紙の上で、絵の具を塗り重ねてたこ焼きを焼きました。\n頑張れば焼けるもんやなぁ🐙\n2枚目の紙に移して盛りつけたので、ぜひ最後まで流れるように見てほしいです😃\n私のたこ焼きに対する愛と情熱がたくさんの方に届きますように✨🕊️\n#イラスト #art #ポスターカラー\n#絵描きさんと繋がりたい https://t.co/Ri7DBlSsXb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 437,
+          "like_count": 6339,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1592
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-16T07:41:39.000Z",
+        "description": "ポスターカラーを塗り重ねてイラストを展開させるのが好き。食べ物を描くのが好き。リアルに描くのが好き。弁当作るのが好き。\nインスタ→https://t.co/8dv0xNq1zc\nTikTok→https://t.co/cK72bRZYRq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/ymd.meshiga",
+                "end": 88,
+                "expanded_url": "https://www.instagram.com/ymd.meshiga",
+                "start": 65,
+                "url": "https://t.co/8dv0xNq1zc"
+              },
+              {
+                "display_url": "tiktok.com/@ymd725?_t=8VO…",
+                "end": 119,
+                "expanded_url": "https://www.tiktok.com/@ymd725?_t=8VOEB8A7tGT&_r=1",
+                "start": 96,
+                "url": "https://t.co/cK72bRZYRq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCHyFJ…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCHyFJIZtxKT8dBR1k0eoX_w",
+                "start": 0,
+                "url": "https://t.co/1t0x2o3Cq1"
+              }
+            ]
+          }
+        },
+        "id": "1427173647475695621",
+        "name": "山田 めしが 【写実絵師×調理師】",
+        "pinned_tweet_id": "1639123512941219840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990021114559594496/Jx2L_T9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24402,
+          "following_count": 104,
+          "like_count": 20738,
+          "listed_count": 157,
+          "media_count": 3233,
+          "tweet_count": 18209
+        },
+        "url": "https://t.co/1t0x2o3Cq1",
+        "username": "meshieshi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038288734588977152"
+      ],
+      "media_source_tweet_id": [
+        "2038288741123719296"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2038453260982620182",
+    "created_at": "2026-03-30T03:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T04:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038453260982620182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nr9pC271nI",
+          "end": 47,
+          "expanded_url": "https://x.com/Miiharukawa/status/2038288741123719296/photo/1",
+          "media_key": "3_2038288734588977152",
+          "start": 24,
+          "url": "https://t.co/nr9pC271nI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038453260982620182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 418
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038288741123719296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 这个好萌 接 https://t.co/nr9pC271nI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1218,
+        "media_key": "3_2038288734588977152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEl0zgbbQAA0bzb.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038288734588977152"
+          ],
+          "media_source_tweet_id": [
+            "2038288741123719296"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2038453260982620182",
+        "created_at": "2026-03-30T03:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T04:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038453260982620182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nr9pC271nI",
+              "end": 47,
+              "expanded_url": "https://x.com/Miiharukawa/status/2038288741123719296/photo/1",
+              "media_key": "3_2038288734588977152",
+              "start": 24,
+              "url": "https://t.co/nr9pC271nI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038453260982620182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 418
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038288741123719296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 这个好萌 接 https://t.co/nr9pC271nI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038288734588977152"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2038288741123719296",
+        "created_at": "2026-03-29T16:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T17:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038288741123719296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nr9pC271nI",
+              "end": 30,
+              "expanded_url": "https://x.com/Miiharukawa/status/2038288741123719296/photo/1",
+              "media_key": "3_2038288734588977152",
+              "start": 7,
+              "url": "https://t.co/nr9pC271nI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038288741123719296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 281,
+          "impression_count": 250444,
+          "like_count": 7297,
+          "quote_count": 122,
+          "reply_count": 79,
+          "retweet_count": 418
+        },
+        "reply_settings": "everyone",
+        "text": "这个好萌 接 https://t.co/nr9pC271nI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 820,
+          "like_count": 26613,
+          "listed_count": 0,
+          "media_count": 363,
+          "tweet_count": 5234
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及 | 亦是安和。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/Qn8w6FgBfd"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2031086056993624406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783,
+          "following_count": 157,
+          "like_count": 3907,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/Qn8w6FgBfd",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

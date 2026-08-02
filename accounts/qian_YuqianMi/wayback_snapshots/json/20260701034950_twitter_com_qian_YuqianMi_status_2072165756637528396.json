@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2072024901918277815",
+    "created_at": "2026-07-01T03:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072165756637528396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734992918312800257",
+          "start": 0,
+          "username": "xs_sanso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072165756637528396",
+    "in_reply_to_user_id": "1734992918312800257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072024901918277815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xs_sanso 哦不为什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2072024901918277815",
+        "created_at": "2026-07-01T03:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072165756637528396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734992918312800257",
+              "start": 0,
+              "username": "xs_sanso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072165756637528396",
+        "in_reply_to_user_id": "1734992918312800257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072024901918277815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xs_sanso 哦不为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734992918312800257",
+        "conversation_id": "2072024901918277815",
+        "created_at": "2026-06-30T18:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T19:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072024901918277815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072024901918277815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直女不要和男娘谈恋爱。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1425,
+          "following_count": 875,
+          "like_count": 29868,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 6093
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T17:45:28.000Z",
+        "description": "别把我当正常人 我是一个傻逼 是一个精神病。\n匿名提问箱:https://t.co/IQtQodTr01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xs_sanso",
+                "end": 52,
+                "expanded_url": "https://ngl.link/xs_sanso",
+                "start": 29,
+                "url": "https://t.co/IQtQodTr01"
+              }
+            ]
+          }
+        },
+        "id": "1734992918312800257",
+        "location": "离你1.14km",
+        "name": "かがみ_鏡",
+        "pinned_tweet_id": "2056801038179647753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056726412321550336/tPgXdH9h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 46,
+          "like_count": 1399,
+          "listed_count": 2,
+          "media_count": 83,
+          "tweet_count": 1780
+        },
+        "url": "",
+        "username": "xs_sanso",
+        "verified": false
+      }
+    ]
+  }
+}

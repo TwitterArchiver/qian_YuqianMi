@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993863194574807063",
+    "created_at": "2025-11-27T09:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T10:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993979281588851166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993979281588851166",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993863194574807063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxian1527 呜哇 宝宝贴贴づ♡ど"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1993863181350162432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6uf_98bUAAk8CZ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993863194574807063",
+        "created_at": "2025-11-27T09:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993979281588851166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993979281588851166",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993863194574807063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 呜哇 宝宝贴贴づ♡ど"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993863181350162432"
+          ]
+        },
+        "author_id": "1929416262989557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1993863194574807063",
+        "created_at": "2025-11-27T02:03:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T03:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993863194574807063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1993956472338923520/RFTP1mU_?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993956472338923520/RFTP1mU_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/0MFG3tJ73t"
+            },
+            {
+              "display_url": "pic.x.com/eKR8QG28km",
+              "end": 64,
+              "expanded_url": "https://x.com/maoxian1527/status/1993863194574807063/photo/1",
+              "media_key": "3_1993863181350162432",
+              "start": 41,
+              "url": "https://t.co/eKR8QG28km"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993863194574807063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/0MFG3tJ73t https://t.co/eKR8QG28km"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 275,
+          "like_count": 2069,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 506
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍 喵呜…是一只可爱小猫咪🤍 是小女孩哦🤍简体🤍同类互fo🤍不摄政🤍@mao_xian1527🤍",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "mao_xian1527"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華人民共和國",
+        "name": "猫弦nekogen🎀（欢迎来互fo喵）",
+        "pinned_tweet_id": "1990667639837110569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991779484425654272/hgjKN6HK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 205,
+          "like_count": 483,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 187
+        },
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2023346030998438172",
+    "created_at": "2026-02-16T10:37:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:37:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023346032479014964"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 122,
+          "tag": "日常弥"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023346032479014964",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023346030998438172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "基本上是最近什么东西听得多就是什么的声音。。我现在是可洛的声音！！（好好笑我服了（这是能说的吗（？）总之就是在看的虚拟主播（我不行了吧）真的好魔性啊特别特别可爱你们懂不，，弄得我自己都觉得自己好可爱啊！！可说呢。。\n盒盒盒盒盒盒盒盒盒盒盒盒盒\n#日常弥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2023346030998438172",
+        "created_at": "2026-02-16T10:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023346032479014964"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 122,
+              "tag": "日常弥"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023346032479014964",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023346030998438172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "基本上是最近什么东西听得多就是什么的声音。。我现在是可洛的声音！！（好好笑我服了（这是能说的吗（？）总之就是在看的虚拟主播（我不行了吧）真的好魔性啊特别特别可爱你们懂不，，弄得我自己都觉得自己好可爱啊！！可说呢。。\n盒盒盒盒盒盒盒盒盒盒盒盒盒\n#日常弥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2023346030998438172",
+        "created_at": "2026-02-16T10:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023346030998438172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 133,
+              "tag": "日常弥"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023346030998438172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "失梦园里从来没有千千。只是YuMi和一堆别的东西。。\n（好了这条其实完全不是什么沉重的内容我笑死了）\n嗯对的我就是想说我脑子里没有自己的声音，比如说读文字的时候不是一般都会有一个声音在脑子里念出来吗，我就没有这种能力，要么是YuMi替我念，要么就是一些别的声音在读\n#日常弥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 751,
+          "like_count": 20679,
+          "listed_count": 0,
+          "media_count": 307,
+          "tweet_count": 4186
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

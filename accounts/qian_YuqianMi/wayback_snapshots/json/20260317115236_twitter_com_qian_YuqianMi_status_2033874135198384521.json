@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2033874135198384521",
+    "created_at": "2026-03-17T11:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033874135198384521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1237186208104472576",
+          "start": 3,
+          "username": "Miranda1ove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033874135198384521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033502201436651772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miranda1ove: 刚刚跟菜刀表白了，它在我脖子上吸出了一条长长的草莓，我激动的脸都白了，好暧昧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2033874135198384521",
+        "created_at": "2026-03-17T11:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033874135198384521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1237186208104472576",
+              "start": 3,
+              "username": "Miranda1ove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033874135198384521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033502201436651772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miranda1ove: 刚刚跟菜刀表白了，它在我脖子上吸出了一条长长的草莓，我激动的脸都白了，好暧昧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1237186208104472576",
+        "conversation_id": "2033502201436651772",
+        "created_at": "2026-03-16T11:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033502201436651772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033502201436651772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 26834,
+          "like_count": 744,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚跟菜刀表白了，它在我脖子上吸出了一条长长的草莓，我激动的脸都白了，好暧昧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 825,
+          "like_count": 26037,
+          "listed_count": 1,
+          "media_count": 360,
+          "tweet_count": 5138
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-10T01:19:30.000Z",
+        "description": "壊す\n\nhttps://t.co/1O76qJ2CKo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miranda1ove",
+                "end": 27,
+                "expanded_url": "http://ngl.link/miranda1ove",
+                "start": 4,
+                "url": "https://t.co/1O76qJ2CKo"
+              }
+            ]
+          }
+        },
+        "id": "1237186208104472576",
+        "name": "Miranda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033853933505155072/QvJBEV-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1190,
+          "following_count": 44,
+          "like_count": 1330,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 395
+        },
+        "username": "Miranda1ove",
+        "verified": false
+      }
+    ]
+  }
+}

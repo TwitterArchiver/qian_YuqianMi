@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2027750719831654449",
+    "created_at": "2026-02-28T14:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027757311146790967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1999504877337395200",
+          "start": 0,
+          "username": "chuan_0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027757311146790967",
+    "in_reply_to_user_id": "1999504877337395200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027750719831654449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chuan_0123 美丽🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3648,
+        "media_key": "3_2027750712923529216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQEh6jaIAAzCwZ.jpg",
+        "width": 2736
+      },
+      {
+        "height": 3906,
+        "media_key": "3_2027750714056015872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQEh-xagAAJnff.jpg",
+        "width": 2930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2027750719831654449",
+        "created_at": "2026-02-28T14:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027757311146790967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1999504877337395200",
+              "start": 0,
+              "username": "chuan_0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027757311146790967",
+        "in_reply_to_user_id": "1999504877337395200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027750719831654449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chuan_0123 美丽🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027750712923529216",
+            "3_2027750714056015872"
+          ]
+        },
+        "author_id": "1999504877337395200",
+        "conversation_id": "2027750719831654449",
+        "created_at": "2026-02-28T14:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027750719831654449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jEHx9hWCEa",
+              "end": 31,
+              "expanded_url": "https://x.com/chuan_0123/status/2027750719831654449/photo/1",
+              "media_key": "3_2027750712923529216",
+              "start": 8,
+              "url": "https://t.co/jEHx9hWCEa"
+            },
+            {
+              "display_url": "pic.x.com/jEHx9hWCEa",
+              "end": 31,
+              "expanded_url": "https://x.com/chuan_0123/status/2027750719831654449/photo/1",
+              "media_key": "3_2027750714056015872",
+              "start": 8,
+              "url": "https://t.co/jEHx9hWCEa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027750719831654449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我驯服修眉刀了 https://t.co/jEHx9hWCEa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 803,
+          "like_count": 23577,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 4628
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/20↑/大体雑多垢 病み注意/無言フォロー失礼いたしました/直fo＝喜欢你/顺女/努力戒割戒药中/关取随意 回fo请私信！祝你以后都开心/误清请私信orz不是故意的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 279,
+          "like_count": 9241,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 4290
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      }
+    ]
+  }
+}

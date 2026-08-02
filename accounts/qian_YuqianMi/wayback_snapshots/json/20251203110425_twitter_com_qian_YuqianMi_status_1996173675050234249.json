@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1996173160220365173",
+    "created_at": "2025-12-03T11:04:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T12:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996173675050234249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1715212387869962240",
+          "start": 0,
+          "username": "Azhi967806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996173675050234249",
+    "in_reply_to_user_id": "1715212387869962240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996173160220365173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Azhi967806 喜欢你呀₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1996173160220365173",
+        "created_at": "2025-12-03T11:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996173675050234249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1715212387869962240",
+              "start": 0,
+              "username": "Azhi967806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996173675050234249",
+        "in_reply_to_user_id": "1715212387869962240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996173160220365173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Azhi967806 喜欢你呀₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1715212387869962240",
+        "conversation_id": "1996173160220365173",
+        "created_at": "2025-12-03T11:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T12:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996173160220365173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996173160220365173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "終於100fo了！我愛大家🥰🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 323,
+          "like_count": 3378,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 834
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-20T03:45:14.000Z",
+        "description": "hi   精神疾病/od/自傷/我的猫 —\n請和我互fo 同類會直接回 看不出成分的請私信互—\n要是不小心漏掉請私信我！—\nbtw：不會理只看黃的 對我開黃腔死全家\n\n不定期清理關注列表有誤取請聯繫我🥰",
+        "id": "1715212387869962240",
+        "location": "0.7km",
+        "name": "貓條條ovo",
+        "pinned_tweet_id": "1990423708431765762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984296735653666816/YN77fCIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 116,
+          "like_count": 1793,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 144
+        },
+        "username": "Azhi967806",
+        "verified": false
+      }
+    ]
+  }
+}

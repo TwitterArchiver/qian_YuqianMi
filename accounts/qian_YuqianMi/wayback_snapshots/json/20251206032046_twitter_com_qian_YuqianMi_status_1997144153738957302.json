@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997137709375389998",
+    "created_at": "2025-12-06T03:20:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T04:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997144153738957302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1833086574579654656",
+          "start": 0,
+          "username": "henry4226z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997144153738957302",
+    "in_reply_to_user_id": "1833086574579654656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997143523947421792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@henry4226z 额啊啊不是啊哈哈哈哈\n大傻椿是鸣潮角色“椿”的一个玩偶服形象，因为看起来特别傻又很可爱所以被叫“大傻椿”。真的很可爱所以很多人很喜欢啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997137709375389998",
+        "created_at": "2025-12-06T03:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997144153738957302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1833086574579654656",
+              "start": 0,
+              "username": "henry4226z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997144153738957302",
+        "in_reply_to_user_id": "1833086574579654656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997143523947421792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henry4226z 额啊啊不是啊哈哈哈哈\n大傻椿是鸣潮角色“椿”的一个玩偶服形象，因为看起来特别傻又很可爱所以被叫“大傻椿”。真的很可爱所以很多人很喜欢啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833086574579654656",
+        "conversation_id": "1997137709375389998",
+        "created_at": "2025-12-06T03:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997143523947421792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997143523947421792",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997143052071379079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 不是夏洛特烦恼？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 341,
+          "like_count": 3744,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 937
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T10:14:42.000Z",
+        "description": "大四学生|infp|喜欢历史|阅读|听歌|fps游戏|可互fo|喜欢到处评论|欢迎找我聊天",
+        "id": "1833086574579654656",
+        "name": "henry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996973541615636480/6DTcvFrH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 22,
+          "like_count": 330,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 263
+        },
+        "username": "henry4226z",
+        "verified": false
+      }
+    ]
+  }
+}

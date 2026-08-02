@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2011647292009562112"
+      ],
+      "media_source_tweet_id": [
+        "2011647352852169008"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2011991626173071438",
+    "created_at": "2026-01-16T02:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T03:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011991626173071438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562700436041527297",
+          "start": 3,
+          "username": "_saku_rin_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lOmVBnUXx4",
+          "end": 48,
+          "expanded_url": "https://x.com/_saku_rin_/status/2011647352852169008/video/1",
+          "media_key": "13_2011647292009562112",
+          "start": 25,
+          "url": "https://t.co/lOmVBnUXx4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011991626173071438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011647352852169008",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_saku_rin_: 爱我你就抱抱我～ https://t.co/lOmVBnUXx4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7666,
+        "height": 1280,
+        "media_key": "13_2011647292009562112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011647292009562112/img/O7-TAeFw_iyYvd1F.jpg",
+        "public_metrics": {
+          "view_count": 2655
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011647292009562112/vid/avc1/320x568/OnopeAR8Q2l4Vt9z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011647292009562112/vid/avc1/480x852/E468YJ5AFtmp5y62.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011647292009562112/vid/avc1/720x1280/W5vL2XPEcEhuSgca.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011647292009562112/pl/v9n2FjyFNeJhWJP6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011647292009562112"
+          ],
+          "media_source_tweet_id": [
+            "2011647352852169008"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2011991626173071438",
+        "created_at": "2026-01-16T02:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T03:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011991626173071438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562700436041527297",
+              "start": 3,
+              "username": "_saku_rin_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lOmVBnUXx4",
+              "end": 48,
+              "expanded_url": "https://x.com/_saku_rin_/status/2011647352852169008/video/1",
+              "media_key": "13_2011647292009562112",
+              "start": 25,
+              "url": "https://t.co/lOmVBnUXx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011991626173071438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011647352852169008",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_saku_rin_: 爱我你就抱抱我～ https://t.co/lOmVBnUXx4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011647292009562112"
+          ]
+        },
+        "author_id": "1562700436041527297",
+        "conversation_id": "2011647352852169008",
+        "created_at": "2026-01-15T03:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T04:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011647352852169008"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lOmVBnUXx4",
+              "end": 32,
+              "expanded_url": "https://x.com/_saku_rin_/status/2011647352852169008/video/1",
+              "media_key": "13_2011647292009562112",
+              "start": 9,
+              "url": "https://t.co/lOmVBnUXx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011647352852169008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 8459,
+          "like_count": 541,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "爱我你就抱抱我～ https://t.co/lOmVBnUXx4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 657,
+          "like_count": 12952,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2892
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T07:16:44.000Z",
+        "description": "这里是小曦的娃分身。桜凛です | 着ぐるみ",
+        "id": "1562700436041527297",
+        "name": "さくりん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975877413725962240/yHustWSR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 334,
+          "like_count": 57,
+          "listed_count": 3,
+          "media_count": 6,
+          "tweet_count": 15
+        },
+        "username": "_saku_rin_",
+        "verified": false
+      }
+    ]
+  }
+}

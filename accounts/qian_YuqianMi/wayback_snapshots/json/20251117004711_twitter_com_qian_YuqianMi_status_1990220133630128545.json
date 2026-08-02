@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990217586764890320",
+    "created_at": "2025-11-17T00:47:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T01:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990220133630128545"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990220133630128545",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990217586764890320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "老师：很多同学都在笑，可能你们的家庭里也是这样的，哈哈。我们先下课\n（其实只是因为在刷推。）\n\n（\nYuMi：这个课实在是太水了！英语课完全不知道听来干嘛！\n我：上学这么多年 英语课不一直是这样吗，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990217586764890320",
+        "created_at": "2025-11-17T00:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990220133630128545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990220133630128545",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990217586764890320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "老师：很多同学都在笑，可能你们的家庭里也是这样的，哈哈。我们先下课\n（其实只是因为在刷推。）\n\n（\nYuMi：这个课实在是太水了！英语课完全不知道听来干嘛！\n我：上学这么多年 英语课不一直是这样吗，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990217586764890320",
+        "created_at": "2025-11-17T00:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T01:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990217586764890320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990217586764890320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "艹了 英语课老师问我们是想当男的还是相当女的。\n我不敢说话。\n（我们这个老师一直在扯一些很爆的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 111,
+          "like_count": 654,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 128
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

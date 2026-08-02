@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2012903245455511847",
+    "created_at": "2026-01-18T15:29:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T16:29:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012910229466575100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1936091086470193152",
+          "start": 0,
+          "username": "yui1225love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012910229466575100",
+    "in_reply_to_user_id": "1936091086470193152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012903245455511847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui1225love 萌啊🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2012903231785971712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-9E0xHWsAAWN9J.jpg",
+        "width": 982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012903245455511847",
+        "created_at": "2026-01-18T15:29:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:29:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012910229466575100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1936091086470193152",
+              "start": 0,
+              "username": "yui1225love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012910229466575100",
+        "in_reply_to_user_id": "1936091086470193152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012903245455511847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui1225love 萌啊🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012903231785971712"
+          ]
+        },
+        "author_id": "1936091086470193152",
+        "conversation_id": "2012903245455511847",
+        "created_at": "2026-01-18T15:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012903245455511847"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "地雷系女子"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T9ddvdAyBx",
+              "end": 56,
+              "expanded_url": "https://x.com/yui1225love/status/2012903245455511847/photo/1",
+              "media_key": "3_2012903231785971712",
+              "start": 33,
+              "url": "https://t.co/T9ddvdAyBx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012903245455511847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自撮り界隈  #地雷系女子 \n我真的很喜欢推呀，终于有人理我了 https://t.co/T9ddvdAyBx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 667,
+          "like_count": 13905,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 3072
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-20T15:58:54.000Z",
+        "description": "堆图＆碎碎念♡我喜欢可爱的女孩子，请和我互fo！",
+        "id": "1936091086470193152",
+        "location": "🚪50纯绿",
+        "name": "这里没有你要找的好小兔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008196339608244224/gwKTHD6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 18,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "username": "yui1225love",
+        "verified": false
+      }
+    ]
+  }
+}

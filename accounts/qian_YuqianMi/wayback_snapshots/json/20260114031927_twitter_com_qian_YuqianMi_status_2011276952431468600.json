@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2011227743938318366",
+    "created_at": "2026-01-14T03:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T04:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011276952431468600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1966106364901740544",
+          "start": 0,
+          "username": "AgNo3_XQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011276952431468600",
+    "in_reply_to_user_id": "1966106364901740544",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011227743938318366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AgNo3_XQ 87"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2011227738003423233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-lQ-MYbQAEbcQi.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2011227743938318366",
+        "created_at": "2026-01-14T03:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T04:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011276952431468600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1966106364901740544",
+              "start": 0,
+              "username": "AgNo3_XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011276952431468600",
+        "in_reply_to_user_id": "1966106364901740544",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011227743938318366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AgNo3_XQ 87"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011227738003423233"
+          ]
+        },
+        "author_id": "1966106364901740544",
+        "conversation_id": "2011227743938318366",
+        "created_at": "2026-01-14T00:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T01:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011227743938318366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgtpllAOhV",
+              "end": 27,
+              "expanded_url": "https://x.com/AgNo3_XQ/status/2011227743938318366/photo/1",
+              "media_key": "3_2011227738003423233",
+              "start": 4,
+              "url": "https://t.co/MgtpllAOhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011227743938318366",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想玩咪 https://t.co/MgtpllAOhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 645,
+          "like_count": 12346,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 2761
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T11:47:50.000Z",
+        "description": "09｜双相｜istp-t｜巨蟹座｜日常频繁od｜目前已戒割｜顺女双性恋｜欢迎互fo｜精神无国籍｜骂我的人都是傻逼支那猪我就是个刻薄的人",
+        "id": "1966106364901740544",
+        "location": "🚪52",
+        "name": "硝酸银#浅",
+        "pinned_tweet_id": "1999757994960257289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009482020779642885/7lEfJruW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 673,
+          "like_count": 1984,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1627
+        },
+        "username": "AgNo3_XQ",
+        "verified": false
+      }
+    ]
+  }
+}

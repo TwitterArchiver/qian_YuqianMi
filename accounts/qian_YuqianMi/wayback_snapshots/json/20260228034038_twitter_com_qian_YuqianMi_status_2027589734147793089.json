@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2027589734147793089",
+    "created_at": "2026-02-28T03:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T04:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027589734147793089"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027589734147793089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉这些年还是有点长进的，更能把控人与人间的距离了（你确定不是默认疏远所有人吗。）\n高中有个女性朋友，还在校的时候关系还行吧，但是毕业后明显感觉到对我很冷淡，可能之前也只是在维持表面关系吧，还挺伤心的。\n（↓）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2027589734147793089",
+        "created_at": "2026-02-28T03:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T04:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027589734147793089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027589734147793089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉这些年还是有点长进的，更能把控人与人间的距离了（你确定不是默认疏远所有人吗。）\n高中有个女性朋友，还在校的时候关系还行吧，但是毕业后明显感觉到对我很冷淡，可能之前也只是在维持表面关系吧，还挺伤心的。\n（↓）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 799,
+          "like_count": 23413,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 4608
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

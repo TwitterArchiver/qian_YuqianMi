@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2008230541498417309",
+    "created_at": "2026-01-06T01:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T02:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008357210196242609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1132536081667149824",
+          "start": 0,
+          "username": "OwGMktSAjommOHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008357210196242609",
+    "in_reply_to_user_id": "1132536081667149824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008230541498417309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwGMktSAjommOHN 来上海玩，，各种东西都很好吃，主要是什么都有₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2008230541498417309",
+        "created_at": "2026-01-06T01:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008357210196242609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1132536081667149824",
+              "start": 0,
+              "username": "OwGMktSAjommOHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008357210196242609",
+        "in_reply_to_user_id": "1132536081667149824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008230541498417309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwGMktSAjommOHN 来上海玩，，各种东西都很好吃，主要是什么都有₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132536081667149824",
+        "conversation_id": "2008230541498417309",
+        "created_at": "2026-01-05T17:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T18:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008230541498417309"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008230541498417309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老實說原本我一直想去日本玩，但現在發現去大陸旅遊也可以耶，語言也通打遊戲辦實名開支付寶方便，有點心動了，想今年年中或年尾去，但目前還不知道要去哪裡，可能上海或廣州？但聽說淄博燒烤好吃旅遊人文也很棒，去淄博也不錯，欸…越想越心動"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 536,
+          "like_count": 8690,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 2082
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T06:36:58.000Z",
+        "description": "INFP\n愛逛四愛/\n愛發牢騷話/\n愛溫柔熾熱狗男",
+        "id": "1132536081667149824",
+        "name": "方",
+        "pinned_tweet_id": "1991967457729450062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007848613108678656/rHBKLfOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 654,
+          "like_count": 3826,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1297
+        },
+        "username": "OwGMktSAjommOHN",
+        "verified": false
+      }
+    ]
+  }
+}

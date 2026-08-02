@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2008365636674875600",
+    "created_at": "2026-01-06T22:57:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T23:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008674381804061053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795516236698472449",
+          "start": 0,
+          "username": "Violet01698113"
+        },
+        {
+          "end": 32,
+          "id": "2003990629135929345",
+          "start": 16,
+          "username": "zzethldOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008674381804061053",
+    "in_reply_to_user_id": "1795516236698472449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008547427889062203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Violet01698113 @zzethldOfficial 我嘞个豆你们搁这调情呢（💢）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2008365636674875600",
+        "created_at": "2026-01-06T22:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T23:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008674381804061053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795516236698472449",
+              "start": 0,
+              "username": "Violet01698113"
+            },
+            {
+              "end": 32,
+              "id": "2003990629135929345",
+              "start": 16,
+              "username": "zzethldOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008674381804061053",
+        "in_reply_to_user_id": "1795516236698472449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008547427889062203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Violet01698113 @zzethldOfficial 我嘞个豆你们搁这调情呢（💢）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795516236698472449",
+        "conversation_id": "2008365636674875600",
+        "created_at": "2026-01-06T14:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008547427889062203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003990629135929345",
+              "start": 0,
+              "username": "zzethldOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008547427889062203",
+        "in_reply_to_user_id": "2003990629135929345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008546491166847006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzethldOfficial 我……的……天……真的！超！可爱！！！！！！˃ 𖥦 ˂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 554,
+          "like_count": 9174,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 2175
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T18:03:48.000Z",
+        "description": "最大的愿望是能够有一个自己的小窝和猫猫，然后自由且天真的活着\n记录生活发癫碎碎念什么的\n给以后的自己留点记忆的碎片\n如果讨厌我请直接说或者拉黑\n非常讨厌我自己\n有时候会很恶心让人感到不适\n比较内向不会聊天\n然后，希望大家都能好好吃饭",
+        "id": "1795516236698472449",
+        "location": "0.00001mm",
+        "name": "Violet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005204748623048706/IickfUWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 236,
+          "like_count": 8926,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 2930
+        },
+        "username": "Violet01698113",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T00:46:36.000Z",
+        "description": "泽托德伯爵 | 别名义：Cosmospïka. | Zzz Zzz",
+        "id": "2003990629135929345",
+        "location": "Hethereau, NTE",
+        "name": "Comte Zzethld de Hethereau",
+        "pinned_tweet_id": "2008510147765944557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003997640024117254/LDWKEYCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 268,
+          "like_count": 1024,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 368
+        },
+        "username": "zzethldOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

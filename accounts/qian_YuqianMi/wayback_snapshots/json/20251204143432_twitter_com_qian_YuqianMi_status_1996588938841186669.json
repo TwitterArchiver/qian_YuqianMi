@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1996588938841186669",
+    "created_at": "2025-12-04T14:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T15:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996588938841186669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51904755",
+          "start": 3,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996588938841186669",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 557
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996018500125819053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Morris_LT: 在中国，有两大学科禁忌，一个是逻辑学，另一个是心理学。逻辑学为什么缺失大家都知道，而为什么不提倡心理学呢？我敢说80%的人都没有想过这个问题。心理学为什么不推广？不是因为它不重要，而是因为它太重要。重要在哪？一共有三点：…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1996588938841186669",
+        "created_at": "2025-12-04T14:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T15:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996588938841186669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51904755",
+              "start": 3,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996588938841186669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 557
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996018500125819053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Morris_LT: 在中国，有两大学科禁忌，一个是逻辑学，另一个是心理学。逻辑学为什么缺失大家都知道，而为什么不提倡心理学呢？我敢说80%的人都没有想过这个问题。心理学为什么不推广？不是因为它不重要，而是因为它太重要。重要在哪？一共有三点：…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51904755",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1996018500125819053",
+        "created_at": "2025-12-03T00:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996018500125819053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996018500125819053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在中国，有两大学科禁忌，一个是逻辑学，另一个是心理学。逻辑学为什么缺失大家都知道，而为什么不提倡心理学呢？我敢说80%的人都没有想过这个问题。心理学为什么不推广？不是因为它不重要，而是因为它太重要。重要在哪？一共有三点：\n\n第一点，心理学高度承认个体感受。心理学发展的起源是人类在农耕岁月里吃饱了饭以后，突然间有一个人觉得不开心。对这种不开心的探索溯源就是心理学的全部。如果推广心理学，那么第一个问题它就无法回避，即他必须要认可你在环境中可能存在不开心和不满。那承认了你的坏情绪，你是不是也可以表达出这种坏情绪呢？表达了之后呢，下一步又如何？所以说的这条逻辑线在第一步承认情绪那里就已经开始掐灭了。有人问，不对，不推广心理学的话，为什么我们还有心理健康课呢？其实这也是经典的，有形式没内容，我们只允许的是正向积极心理学。他只会告诉你，你焦虑是因为你的努力还配不上你的野心。高中苦三年，幸福一辈子。你可能觉得学生时代有些迷茫、压抑，但你很快就会以为都是自己的问题。\n\n第二点，难被规训心理学上，有个大杀器叫群体心理学，个体一旦进入群体，就会变得情绪化、盲目、狂热，容易被鼓动。德国的宣传部长戈普耳就是群体心理学的高手，他的名言是没有祖国，你什么也不是。就是演讲中的这句话，让无数民众在台下亢奋激昂到泪流满面。通过对语言的简化、极化和重复加工，民众只知道自己时常感动、愤怒、狂热，但不知道自己是如何被推到这种情绪之上的。但如果人人都学过心理学的话，听到喊口号时，第一反应不是热血，而是这是群体情绪在发酵。推广心理学后，操控暗示机制就会完全暴露无遗，就像魔术被揭秘，马上就会失去神奇效果了。\n\n第三点，心理学解构一切。如果说逻辑学挑战外在叙事，即你说的是真的吗，有没有漏洞。那么心理学挑战的就是内在趋势，我为什么会这么痛苦？我为什么要这么活？为什么心理学的威力这么大？其实就是五个字，承认你的情绪正当性，你的愤怒悲伤并不是病，而是环境与内互动的产物，这一句话足以解释一切。我我每天忙成狗，是不是源于加班文化？我的考试压力是不是源于教育传统？我的孤独是不不是源于社会本身？这些追问指向了，已经不是个情绪控制和修养了，而是这片环境的生态质地。\n\n人一旦开始追寻真正的意义，便会排斥社会所赋予的意义。人为什么要为一个水泥盒子一辈子工？为什么要当一颗螺丝钉，而不是做点自己真正喜欢的事？一旦你通过心理学开始向内索求，向外发问，并开始理解自我识别需求时，你就更倾向于追求个人幸福，而不是牺牲自我去迎合集体目标结构，到最后你会发现，这何尝不可以是个老庄学说的无为世界。\n\n当然，这也完完全全背离了中国现在所倡导的世界观、价值观。在我们今天，心理学比逻辑学这个词更常见、更质朴，但可惜的是，真正的心理学依然是门影学。我们今天所熟悉的所有心理学概念，都是被矮化但未被收窄的心理学。在职场领域推广的是管理心理学、积极心理学和拖延心理学。在大众领域，心理学被包装成焦虑测试、MBTI人格测试、励志鸡汤，教的都是打败拖延、缓解焦虑、接纳自我的那套螺丝钉学。那其实真正的心理学不是一门适应学，而是一门觉醒学。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1614,
+          "impression_count": 408436,
+          "like_count": 2712,
+          "quote_count": 13,
+          "reply_count": 117,
+          "retweet_count": 557
+        },
+        "reply_settings": "everyone",
+        "text": "在中国，有两大学科禁忌，一个是逻辑学，另一个是心理学。逻辑学为什么缺失大家都知道，而为什么不提倡心理学呢？我敢说80%的人都没有想过这个问题。心理学为什么不推广？不是因为它不重要，而是因为它太重要。重要在哪？一共有三点："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 328,
+          "like_count": 3553,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 877
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "1993488404248691100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170068,
+          "following_count": 411,
+          "like_count": 51552,
+          "listed_count": 975,
+          "media_count": 6998,
+          "tweet_count": 70161
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

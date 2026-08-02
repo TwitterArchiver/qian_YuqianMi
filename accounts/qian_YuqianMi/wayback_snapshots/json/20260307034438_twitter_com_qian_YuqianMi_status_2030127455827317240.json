@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030127433081561088"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2030127455827317240",
+    "created_at": "2026-03-07T03:44:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T04:44:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030127455827317240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Iu6qvfb6PM",
+          "end": 48,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2030127455827317240/photo/1",
+          "media_key": "3_2030127433081561088",
+          "start": 25,
+          "url": "https://t.co/Iu6qvfb6PM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030127455827317240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可爱形态小千千出击（这条裤子显得脚好小哦嘿嘿嘿） https://t.co/Iu6qvfb6PM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030127433081561088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCx2JPGaIAAqhoT.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030127433081561088"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2030127455827317240",
+        "created_at": "2026-03-07T03:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T04:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030127455827317240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Iu6qvfb6PM",
+              "end": 48,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2030127455827317240/photo/1",
+              "media_key": "3_2030127433081561088",
+              "start": 25,
+              "url": "https://t.co/Iu6qvfb6PM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030127455827317240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可爱形态小千千出击（这条裤子显得脚好小哦嘿嘿嘿） https://t.co/Iu6qvfb6PM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 818,
+          "like_count": 24869,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 4879
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

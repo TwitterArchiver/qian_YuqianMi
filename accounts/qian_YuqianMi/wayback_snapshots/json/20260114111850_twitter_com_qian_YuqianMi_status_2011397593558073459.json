@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011367235525423104"
+      ],
+      "media_source_tweet_id": [
+        "2011367247667675445"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2011397593558073459",
+    "created_at": "2026-01-14T11:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T12:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011397593558073459"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "丰川祥子"
+        },
+        {
+          "end": 80,
+          "start": 72,
+          "tag": "cosplay"
+        },
+        {
+          "end": 84,
+          "start": 81,
+          "tag": "试衣"
+        },
+        {
+          "end": 88,
+          "start": 85,
+          "tag": "致歉"
+        },
+        {
+          "end": 99,
+          "start": 89,
+          "tag": "AveMujica"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "876363325998678017",
+          "start": 3,
+          "username": "copymellowclip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yKri7nTKbY",
+          "end": 123,
+          "expanded_url": "https://x.com/copymellowclip/status/2011367247667675445/photo/1",
+          "media_key": "3_2011367235525423104",
+          "start": 100,
+          "url": "https://t.co/yKri7nTKbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011397593558073459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011367247667675445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @copymellowclip: saki酱试衣、、鞋子和袜子还没去拿快递太冷了喵\n本来想举手的发现举太高有点像那个手势（）\n#丰川祥子 #cosplay #试衣 #致歉 #AveMujica https://t.co/yKri7nTKbY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2011367235525423104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-nP2BJaMAA737V.jpg",
+        "width": 2873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011367235525423104"
+          ],
+          "media_source_tweet_id": [
+            "2011367247667675445"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2011397593558073459",
+        "created_at": "2026-01-14T11:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011397593558073459"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "丰川祥子"
+            },
+            {
+              "end": 80,
+              "start": 72,
+              "tag": "cosplay"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "试衣"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "致歉"
+            },
+            {
+              "end": 99,
+              "start": 89,
+              "tag": "AveMujica"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "876363325998678017",
+              "start": 3,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKri7nTKbY",
+              "end": 123,
+              "expanded_url": "https://x.com/copymellowclip/status/2011367247667675445/photo/1",
+              "media_key": "3_2011367235525423104",
+              "start": 100,
+              "url": "https://t.co/yKri7nTKbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011397593558073459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011367247667675445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @copymellowclip: saki酱试衣、、鞋子和袜子还没去拿快递太冷了喵\n本来想举手的发现举太高有点像那个手势（）\n#丰川祥子 #cosplay #试衣 #致歉 #AveMujica https://t.co/yKri7nTKbY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011367235525423104"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2011367247667675445",
+        "created_at": "2026-01-14T09:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011367247667675445"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 46,
+              "tag": "丰川祥子"
+            },
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "cosplay"
+            },
+            {
+              "end": 64,
+              "start": 61,
+              "tag": "试衣"
+            },
+            {
+              "end": 68,
+              "start": 65,
+              "tag": "致歉"
+            },
+            {
+              "end": 79,
+              "start": 69,
+              "tag": "AveMujica"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yKri7nTKbY",
+              "end": 103,
+              "expanded_url": "https://x.com/copymellowclip/status/2011367247667675445/photo/1",
+              "media_key": "3_2011367235525423104",
+              "start": 80,
+              "url": "https://t.co/yKri7nTKbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011367247667675445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 488,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "saki酱试衣、、鞋子和袜子还没去拿快递太冷了喵\n本来想举手的发现举太高有点像那个手势（）\n#丰川祥子 #cosplay #试衣 #致歉 #AveMujica https://t.co/yKri7nTKbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 694,
+          "following_count": 649,
+          "like_count": 12574,
+          "listed_count": 1,
+          "media_count": 233,
+          "tweet_count": 2807
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜二次浓度高｜\nID是copy，也可以随意起称呼｜我会立刻回fo｜私信闲聊大欢迎｜匿名提问箱：https://t.co/6r9MyxsyAI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/copymellowclip",
+                "end": 80,
+                "expanded_url": "http://ngl.link/copymellowclip",
+                "start": 57,
+                "url": "https://t.co/6r9MyxsyAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "http://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/OWTv6FQdTn"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "生理性别女泛性恋，旁边是防走丢网址",
+        "name": "COPYww",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 368,
+          "like_count": 2196,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1015
+        },
+        "url": "https://t.co/OWTv6FQdTn",
+        "username": "copymellowclip",
+        "verified": true
+      }
+    ]
+  }
+}

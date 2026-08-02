@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014296314193014784"
+      ],
+      "media_source_tweet_id": [
+        "2014296321730158717"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014568217377964249",
+    "created_at": "2026-01-23T05:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T06:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014568217377964249"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827203342436855812",
+          "start": 3,
+          "username": "nanaj00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MRYan25mui",
+          "end": 58,
+          "expanded_url": "https://x.com/nanaj00_/status/2014296321730158717/photo/1",
+          "media_key": "3_2014296314193014784",
+          "start": 35,
+          "url": "https://t.co/MRYan25mui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014568217377964249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014296321730158717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaj00_: ちょっと前の\nフリーアイコンにどうぞ🙌🎀 https://t.co/MRYan25mui"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014296314193014784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Q301facAA0vho.jpg",
+        "width": 1612
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014296314193014784"
+          ],
+          "media_source_tweet_id": [
+            "2014296321730158717"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014568217377964249",
+        "created_at": "2026-01-23T05:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014568217377964249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827203342436855812",
+              "start": 3,
+              "username": "nanaj00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRYan25mui",
+              "end": 58,
+              "expanded_url": "https://x.com/nanaj00_/status/2014296321730158717/photo/1",
+              "media_key": "3_2014296314193014784",
+              "start": 35,
+              "url": "https://t.co/MRYan25mui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014568217377964249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014296321730158717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaj00_: ちょっと前の\nフリーアイコンにどうぞ🙌🎀 https://t.co/MRYan25mui"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014296314193014784"
+          ]
+        },
+        "author_id": "1827203342436855812",
+        "conversation_id": "2014296321730158717",
+        "created_at": "2026-01-22T11:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T12:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014296321730158717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MRYan25mui",
+              "end": 44,
+              "expanded_url": "https://x.com/nanaj00_/status/2014296321730158717/photo/1",
+              "media_key": "3_2014296314193014784",
+              "start": 21,
+              "url": "https://t.co/MRYan25mui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014296321730158717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 414,
+          "impression_count": 34074,
+          "like_count": 3137,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "ちょっと前の\nフリーアイコンにどうぞ🙌🎀 https://t.co/MRYan25mui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 684,
+          "like_count": 15240,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 3300
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "18↓┊︎自創作┊︎Unauthorized use prohibited┊︎サブ 依頼垢 @LA92361┊︎ご依頼詳細▷https://t.co/bPg7jwuR9k",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 46,
+                "username": "LA92361"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/nanaji00",
+                "end": 85,
+                "expanded_url": "https://lit.link/nanaji00",
+                "start": 62,
+                "url": "https://t.co/bPg7jwuR9k"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "location": "狗ヲさんrespect",
+        "name": "七時",
+        "pinned_tweet_id": "2014296321730158717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009247675527622656/_z78i6Ex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2111,
+          "following_count": 39,
+          "like_count": 27605,
+          "listed_count": 7,
+          "media_count": 4,
+          "tweet_count": 529
+        },
+        "username": "nanaj00_",
+        "verified": false
+      }
+    ]
+  }
+}

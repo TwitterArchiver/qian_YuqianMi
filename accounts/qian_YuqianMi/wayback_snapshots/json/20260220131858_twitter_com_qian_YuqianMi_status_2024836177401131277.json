@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2024800910602645945",
+    "created_at": "2026-02-20T13:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T14:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024836177401131277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1963870046708772864",
+          "start": 0,
+          "username": "Yuriovo_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024836177401131277",
+    "in_reply_to_user_id": "1963870046708772864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024800910602645945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuriovo_qaq 定期增加颜粉！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5250,
+        "height": 1280,
+        "media_key": "13_2024800848937934848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2024800848937934848/img/ZOl26vGAoy7zqL6r.jpg",
+        "public_metrics": {
+          "view_count": 59
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024800848937934848/vid/avc1/320x568/N_O62hjM4n-gbbBq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024800848937934848/vid/avc1/480x852/IbW9cHqXVIxGmnyg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2024800848937934848/vid/avc1/720x1280/ZrqZqcDnWoF8HIKN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2024800848937934848/pl/yqSMm14su_jeKf1U.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2024800910602645945",
+        "created_at": "2026-02-20T13:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T14:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024836177401131277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1963870046708772864",
+              "start": 0,
+              "username": "Yuriovo_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024836177401131277",
+        "in_reply_to_user_id": "1963870046708772864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024800910602645945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuriovo_qaq 定期增加颜粉！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2024800848937934848"
+          ]
+        },
+        "author_id": "1963870046708772864",
+        "conversation_id": "2024800910602645945",
+        "created_at": "2026-02-20T10:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T11:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024800910602645945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WFK2aPYZia",
+              "end": 30,
+              "expanded_url": "https://x.com/Yuriovo_qaq/status/2024800910602645945/video/1",
+              "media_key": "13_2024800848937934848",
+              "start": 7,
+              "url": "https://t.co/WFK2aPYZia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024800910602645945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "定期清理颜粉 https://t.co/WFK2aPYZia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1072,
+          "following_count": 765,
+          "like_count": 21533,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 4303
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-05T07:41:29.000Z",
+        "description": "Love wins all",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuri52038",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuri52038",
+                "start": 0,
+                "url": "https://t.co/2tAedjx4ve"
+              }
+            ]
+          }
+        },
+        "id": "1963870046708772864",
+        "name": "玉米大帝",
+        "pinned_tweet_id": "2002365009121140792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022922507565912064/AgICKmO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 137,
+          "like_count": 2029,
+          "listed_count": 0,
+          "media_count": 596,
+          "tweet_count": 3620
+        },
+        "url": "https://t.co/2tAedjx4ve",
+        "username": "Yuriovo_qaq",
+        "verified": false
+      }
+    ]
+  }
+}

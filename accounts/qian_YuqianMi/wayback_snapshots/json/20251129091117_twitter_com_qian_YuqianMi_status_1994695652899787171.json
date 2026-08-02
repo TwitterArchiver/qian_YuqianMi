@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994675662947586146",
+    "created_at": "2025-11-29T09:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T10:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994695652899787171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1975516163078594560",
+          "start": 0,
+          "username": "Freundis21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994695652899787171",
+    "in_reply_to_user_id": "1975516163078594560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994686310486085693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freundis21 谢谢你喵૮ต•̤ ༝ •̤ตა"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994675662947586146",
+        "created_at": "2025-11-29T09:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T10:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994695652899787171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1975516163078594560",
+              "start": 0,
+              "username": "Freundis21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994695652899787171",
+        "in_reply_to_user_id": "1975516163078594560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994686310486085693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freundis21 谢谢你喵૮ต•̤ ༝ •̤ตა"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975516163078594560",
+        "conversation_id": "1994675662947586146",
+        "created_at": "2025-11-29T08:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T09:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994686310486085693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994686310486085693",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994675662947586146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 抱抱你，希望你天天开心(;_;)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 297,
+          "like_count": 2448,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 605
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T10:59:00.000Z",
+        "description": "=废物｜女性｜INFJ｜友同友跨｜此账号包括：废话、自残图片、药物滥用。直关无言抱歉，可互fo",
+        "id": "1975516163078594560",
+        "name": "Bokuwayakudatazudesu",
+        "pinned_tweet_id": "1986037851113373928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709468096053248/NP6_6sIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 252,
+          "like_count": 2649,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 566
+        },
+        "username": "Freundis21",
+        "verified": false
+      }
+    ]
+  }
+}

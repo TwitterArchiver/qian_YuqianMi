@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994272147435606457",
+    "created_at": "2025-11-28T05:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T06:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994272147435606457"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994272147435606457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌男女对立。我更讨厌搞男女对立的。\n（我们小男娘已经超脱五行之外了无敌了）\n选择群居就是要互相磨合互相适应。而“磨合”就是在互相削减棱角，才能磨合地顺滑。\n搞得非黑即白不死即伤的有什么意思呢。大家都在互相容忍啊，别搞得好像谁就受苦了一样。\n\n（听歌，评论区竟然在吵男女对立气死我了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994272147435606457",
+        "created_at": "2025-11-28T05:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T06:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994272147435606457"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994272147435606457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌男女对立。我更讨厌搞男女对立的。\n（我们小男娘已经超脱五行之外了无敌了）\n选择群居就是要互相磨合互相适应。而“磨合”就是在互相削减棱角，才能磨合地顺滑。\n搞得非黑即白不死即伤的有什么意思呢。大家都在互相容忍啊，别搞得好像谁就受苦了一样。\n\n（听歌，评论区竟然在吵男女对立气死我了喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 280,
+          "like_count": 2218,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 540
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

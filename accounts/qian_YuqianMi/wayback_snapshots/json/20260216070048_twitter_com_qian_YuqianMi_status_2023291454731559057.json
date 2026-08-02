@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2023290389747343452",
+    "created_at": "2026-02-16T07:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023291454731559057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023291454731559057",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023290389747343452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 好五颜六色的菜！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023290376807948288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQr4LsaoAA0K4M.jpg",
+        "width": 1785
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023290376816336897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQr4LuaoAE5TU8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023290376791216129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQr4LobUAEiHuw.jpg",
+        "width": 1540
+      },
+      {
+        "height": 1929,
+        "media_key": "3_2023290376803725312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQr4LraMAA345J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2023290389747343452",
+        "created_at": "2026-02-16T07:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023291454731559057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023291454731559057",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023290389747343452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 好五颜六色的菜！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023290376807948288",
+            "3_2023290376816336897",
+            "3_2023290376791216129",
+            "3_2023290376803725312"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          }
+        ],
+        "conversation_id": "2023290389747343452",
+        "created_at": "2026-02-16T06:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023290389747343452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6yH3HGy8W",
+              "end": 94,
+              "expanded_url": "https://x.com/wasabits013/status/2023290389747343452/photo/1",
+              "media_key": "3_2023290376807948288",
+              "start": 71,
+              "url": "https://t.co/o6yH3HGy8W"
+            },
+            {
+              "display_url": "pic.x.com/o6yH3HGy8W",
+              "end": 94,
+              "expanded_url": "https://x.com/wasabits013/status/2023290389747343452/photo/1",
+              "media_key": "3_2023290376816336897",
+              "start": 71,
+              "url": "https://t.co/o6yH3HGy8W"
+            },
+            {
+              "display_url": "pic.x.com/o6yH3HGy8W",
+              "end": 94,
+              "expanded_url": "https://x.com/wasabits013/status/2023290389747343452/photo/1",
+              "media_key": "3_2023290376791216129",
+              "start": 71,
+              "url": "https://t.co/o6yH3HGy8W"
+            },
+            {
+              "display_url": "pic.x.com/o6yH3HGy8W",
+              "end": 94,
+              "expanded_url": "https://x.com/wasabits013/status/2023290389747343452/photo/1",
+              "media_key": "3_2023290376803725312",
+              "start": 71,
+              "url": "https://t.co/o6yH3HGy8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023290389747343452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芥末与芥末之父芥末之母芥末之咪祝大家除夕快乐🎊🎉\n新的一年祝大家都有爱可做🥳\n芥末和芥末之母喝了一整瓶干红🍷 现在已晕厥 睡觉之\n除夕快乐😽 https://t.co/o6yH3HGy8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1052,
+          "following_count": 749,
+          "like_count": 20613,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 4171
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "我是神。我爱你们。",
+        "id": "1828780381107298304",
+        "location": "✟",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023048511542226944/MFx0rEDk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 199,
+          "like_count": 14589,
+          "listed_count": 1,
+          "media_count": 451,
+          "tweet_count": 5793
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

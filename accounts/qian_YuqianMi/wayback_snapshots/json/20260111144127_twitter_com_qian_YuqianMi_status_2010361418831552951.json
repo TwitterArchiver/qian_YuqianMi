@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2010360999115911238",
+    "created_at": "2026-01-11T14:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T15:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010361418831552951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1666107223691636737",
+          "start": 0,
+          "username": "ADZ79187"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010361418831552951",
+    "in_reply_to_user_id": "1666107223691636737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 9,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010361160844108167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ADZ79187 我们学校是先给平时分再考试，，不咋能捞。越靠近政治中心的傻逼学校越形式主义越把学生逼死。学校傻逼的要死我真服了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2010360999115911238",
+        "created_at": "2026-01-11T14:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010361418831552951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1666107223691636737",
+              "start": 0,
+              "username": "ADZ79187"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010361418831552951",
+        "in_reply_to_user_id": "1666107223691636737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010361160844108167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ADZ79187 我们学校是先给平时分再考试，，不咋能捞。越靠近政治中心的傻逼学校越形式主义越把学生逼死。学校傻逼的要死我真服了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666107223691636737",
+        "conversation_id": "2010360999115911238",
+        "created_at": "2026-01-11T14:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T15:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010361160844108167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010361160844108167",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010360999115911238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 别这样，相信老师的捞人水平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 641,
+          "like_count": 11266,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 2578
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T15:38:52.000Z",
+        "description": "我不知道，我只是一个在哪都没人要的fw英精生🙁",
+        "id": "1666107223691636737",
+        "name": "Adz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008750674692239362/oBgvgKKs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 129,
+          "like_count": 5819,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 865
+        },
+        "username": "ADZ79187",
+        "verified": false
+      }
+    ]
+  }
+}

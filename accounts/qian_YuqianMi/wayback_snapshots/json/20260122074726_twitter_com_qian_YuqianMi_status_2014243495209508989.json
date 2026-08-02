@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013947881200427008"
+      ],
+      "media_source_tweet_id": [
+        "2013947886799589421"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014243495209508989",
+    "created_at": "2026-01-22T07:47:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:47:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014243495209508989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1816145919055912961",
+          "start": 3,
+          "username": "Pastel_Illust_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ly2PswmZIY",
+          "end": 64,
+          "expanded_url": "https://x.com/Pastel_Illust_/status/2013947886799589421/photo/1",
+          "media_key": "3_2013947881200427008",
+          "start": 41,
+          "url": "https://t.co/Ly2PswmZIY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014243495209508989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 197
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013947886799589421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pastel_Illust_: 本日の宝石フルーツ！\nいちごちゃん🍓🍓🍓 https://t.co/Ly2PswmZIY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2013947881200427008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_L67XcaIAAWthU.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013947881200427008"
+          ],
+          "media_source_tweet_id": [
+            "2013947886799589421"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014243495209508989",
+        "created_at": "2026-01-22T07:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014243495209508989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1816145919055912961",
+              "start": 3,
+              "username": "Pastel_Illust_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ly2PswmZIY",
+              "end": 64,
+              "expanded_url": "https://x.com/Pastel_Illust_/status/2013947886799589421/photo/1",
+              "media_key": "3_2013947881200427008",
+              "start": 41,
+              "url": "https://t.co/Ly2PswmZIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014243495209508989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 197
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013947886799589421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pastel_Illust_: 本日の宝石フルーツ！\nいちごちゃん🍓🍓🍓 https://t.co/Ly2PswmZIY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013947881200427008"
+          ]
+        },
+        "author_id": "1816145919055912961",
+        "conversation_id": "2013947886799589421",
+        "created_at": "2026-01-21T12:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013947886799589421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ly2PswmZIY",
+              "end": 44,
+              "expanded_url": "https://x.com/Pastel_Illust_/status/2013947886799589421/photo/1",
+              "media_key": "3_2013947881200427008",
+              "start": 21,
+              "url": "https://t.co/Ly2PswmZIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013947886799589421",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 23541,
+          "like_count": 2318,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "本日の宝石フルーツ！\nいちごちゃん🍓🍓🍓 https://t.co/Ly2PswmZIY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 681,
+          "like_count": 14948,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 3260
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:18:30.000Z",
+        "description": "Pastel Creative AI Atelier．AIを使ってイラストを生成しています。ポスター販売中。色とキラキラの空間を提供します✨️/ご依頼はDMから受け付けております！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/pastelshirono",
+                "end": 23,
+                "expanded_url": "https://lit.link/pastelshirono",
+                "start": 0,
+                "url": "https://t.co/dDqOGkuDEC"
+              }
+            ]
+          }
+        },
+        "id": "1816145919055912961",
+        "location": "AI Atelier",
+        "name": "城野ぱすてる",
+        "pinned_tweet_id": "2010248799231586714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008312051584884736/Fd_tcTx__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71099,
+          "following_count": 2438,
+          "like_count": 58725,
+          "listed_count": 434,
+          "media_count": 2850,
+          "tweet_count": 45235
+        },
+        "url": "https://t.co/dDqOGkuDEC",
+        "username": "Pastel_Illust_",
+        "verified": true
+      }
+    ]
+  }
+}

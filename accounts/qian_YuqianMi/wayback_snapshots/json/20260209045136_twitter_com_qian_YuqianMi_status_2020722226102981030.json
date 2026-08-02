@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020722223720644608"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2020722226102981030",
+    "created_at": "2026-02-09T04:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T05:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020722226102981030"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IWjWqPbjk4",
+          "end": 150,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2020722226102981030/photo/1",
+          "media_key": "3_2020722223720644608",
+          "start": 127,
+          "url": "https://t.co/IWjWqPbjk4"
+        },
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/2020526517181169732",
+          "start": 151,
+          "url": "https://t.co/bSgN4QbEen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020722226102981030",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020526517181169732",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "饿了么关闭！\n\n版本1.0.1\n修复已知问题，提升用户体验。\n· 修复了眼神漂移问题\n· 删除了诡异的早坂爱侧边马尾\n· 修改了光环透视，使其更符合面部朝向\n· 明确了手部姿势（等待修复中）\n即将更新：\n· 确立背景\n· 确立翅膀画法\n· 优化面部表情 https://t.co/IWjWqPbjk4 https://t.co/bSgN4QbEen"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2020722223720644608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAsMJ_6bQAARIsM.jpg",
+        "width": 1409
+      },
+      {
+        "height": 1234,
+        "media_key": "3_2020526513972707328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApaKMSaAAAzpep.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020722223720644608"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2020722226102981030",
+        "created_at": "2026-02-09T04:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T05:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020722226102981030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IWjWqPbjk4",
+              "end": 150,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2020722226102981030/photo/1",
+              "media_key": "3_2020722223720644608",
+              "start": 127,
+              "url": "https://t.co/IWjWqPbjk4"
+            },
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2020526517181169732",
+              "start": 151,
+              "url": "https://t.co/bSgN4QbEen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020722226102981030",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020526517181169732",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "饿了么关闭！\n\n版本1.0.1\n修复已知问题，提升用户体验。\n· 修复了眼神漂移问题\n· 删除了诡异的早坂爱侧边马尾\n· 修改了光环透视，使其更符合面部朝向\n· 明确了手部姿势（等待修复中）\n即将更新：\n· 确立背景\n· 确立翅膀画法\n· 优化面部表情 https://t.co/IWjWqPbjk4 https://t.co/bSgN4QbEen"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020526513972707328"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2020526517181169732",
+        "created_at": "2026-02-08T15:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020526517181169732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4MtAH4bmGr",
+              "end": 167,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2020526517181169732/photo/1",
+              "media_key": "3_2020526513972707328",
+              "start": 144,
+              "url": "https://t.co/4MtAH4bmGr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020526517181169732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 572,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绘画进度分享\n其实我刚躺下准备耍手机睡觉我就觉得有好多地方要改，，那就在这里简单记一下吧明天再改吧！\n1、眼睛要改，具体怎么改没想出来\n2、前发要改，感觉有点偏了，但是还没想出来怎么改。\n3.头是不是有点大？？上庭要缩小一点。脑壳太突出了\n4、巨乳导致画面失衡，左边屁股要想办法突出来点 https://t.co/4MtAH4bmGr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1011,
+          "following_count": 742,
+          "like_count": 19167,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 3961
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

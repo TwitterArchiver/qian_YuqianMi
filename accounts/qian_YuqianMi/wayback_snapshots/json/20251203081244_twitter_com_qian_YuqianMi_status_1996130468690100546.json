@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995877800549777412"
+      ],
+      "media_source_tweet_id": [
+        "1995877837732282538"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1996130468690100546",
+    "created_at": "2025-12-03T08:12:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T09:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996130468690100546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1136433068653158400",
+          "start": 3,
+          "username": "gogonom_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A1gvonJhXw",
+          "end": 41,
+          "expanded_url": "https://x.com/gogonom_/status/1995877837732282538/photo/1",
+          "media_key": "3_1995877800549777412",
+          "start": 18,
+          "url": "https://t.co/A1gvonJhXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996130468690100546",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 207
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995877837732282538",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gogonom_: wip https://t.co/A1gvonJhXw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 846,
+        "media_key": "3_1995877800549777412",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LISPTbgAQBuqZ.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995877800549777412"
+          ],
+          "media_source_tweet_id": [
+            "1995877837732282538"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1996130468690100546",
+        "created_at": "2025-12-03T08:12:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996130468690100546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1136433068653158400",
+              "start": 3,
+              "username": "gogonom_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1gvonJhXw",
+              "end": 41,
+              "expanded_url": "https://x.com/gogonom_/status/1995877837732282538/photo/1",
+              "media_key": "3_1995877800549777412",
+              "start": 18,
+              "url": "https://t.co/A1gvonJhXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996130468690100546",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995877837732282538",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gogonom_: wip https://t.co/A1gvonJhXw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995877800549777412"
+          ]
+        },
+        "author_id": "1136433068653158400",
+        "conversation_id": "1995877837732282538",
+        "created_at": "2025-12-02T15:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T16:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995877837732282538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A1gvonJhXw",
+              "end": 27,
+              "expanded_url": "https://x.com/gogonom_/status/1995877837732282538/photo/1",
+              "media_key": "3_1995877800549777412",
+              "start": 4,
+              "url": "https://t.co/A1gvonJhXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995877837732282538",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 500,
+          "impression_count": 30318,
+          "like_count": 3999,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 207
+        },
+        "reply_settings": "everyone",
+        "text": "wip https://t.co/A1gvonJhXw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 322,
+          "like_count": 3335,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 814
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-06-06T00:42:12.000Z",
+        "description": "20⬆️  / 🚫AI / 커미션, 1차위주/ 문의 및 신청은 only 크레페 / DM 확인이 많이 느립니다ㅠㅠ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crepe.cm/@gogonom_",
+                "end": 23,
+                "expanded_url": "https://crepe.cm/@gogonom_",
+                "start": 0,
+                "url": "https://t.co/7XK9aUd1KO"
+              }
+            ]
+          }
+        },
+        "id": "1136433068653158400",
+        "name": "고고_Gogo",
+        "pinned_tweet_id": "1921323005726093694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951820278742552576/SRrLG0gU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3219,
+          "following_count": 127,
+          "like_count": 6712,
+          "listed_count": 9,
+          "media_count": 916,
+          "tweet_count": 1757
+        },
+        "url": "https://t.co/7XK9aUd1KO",
+        "username": "gogonom_",
+        "verified": false
+      }
+    ]
+  }
+}

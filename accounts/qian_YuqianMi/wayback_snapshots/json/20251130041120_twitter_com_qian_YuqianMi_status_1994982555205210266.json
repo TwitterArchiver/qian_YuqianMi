@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994785270215184387"
+      ],
+      "media_source_tweet_id": [
+        "1994785428831179223"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994982555205210266",
+    "created_at": "2025-11-30T04:11:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T05:11:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994982555205210266"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "しのぶ",
+          "probability": 0.7343,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1982193054204522496",
+          "start": 3,
+          "username": "tksveryveryumai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Obv2JddVOT",
+          "end": 49,
+          "expanded_url": "https://x.com/tksveryveryumai/status/1994785428831179223/photo/1",
+          "media_key": "3_1994785270215184387",
+          "start": 26,
+          "url": "https://t.co/Obv2JddVOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994982555205210266",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4672
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994785428831179223",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @tksveryveryumai: しのぶ。 https://t.co/Obv2JddVOT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_1994785270215184387",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67mompbkAM29zs.png",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994785270215184387"
+          ],
+          "media_source_tweet_id": [
+            "1994785428831179223"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994982555205210266",
+        "created_at": "2025-11-30T04:11:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T05:11:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994982555205210266"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "しのぶ",
+              "probability": 0.7343,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1982193054204522496",
+              "start": 3,
+              "username": "tksveryveryumai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Obv2JddVOT",
+              "end": 49,
+              "expanded_url": "https://x.com/tksveryveryumai/status/1994785428831179223/photo/1",
+              "media_key": "3_1994785270215184387",
+              "start": 26,
+              "url": "https://t.co/Obv2JddVOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994982555205210266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4672
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994785428831179223",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @tksveryveryumai: しのぶ。 https://t.co/Obv2JddVOT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994785270215184387"
+          ]
+        },
+        "author_id": "1982193054204522496",
+        "conversation_id": "1994785428831179223",
+        "created_at": "2025-11-29T15:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994785428831179223"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "しのぶ",
+              "probability": 0.7449,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Obv2JddVOT",
+              "end": 28,
+              "expanded_url": "https://x.com/tksveryveryumai/status/1994785428831179223/photo/1",
+              "media_key": "3_1994785270215184387",
+              "start": 5,
+              "url": "https://t.co/Obv2JddVOT"
+            },
+            {
+              "display_url": "x.com/Zamael91140/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Zamael91140/status/1991555540112273493",
+              "start": 29,
+              "url": "https://t.co/nt2XYampgn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994785428831179223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3457,
+          "impression_count": 713490,
+          "like_count": 57640,
+          "quote_count": 35,
+          "reply_count": 0,
+          "retweet_count": 4672
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991555540112273493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "しのぶ。 https://t.co/Obv2JddVOT https://t.co/nt2XYampgn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 304,
+          "like_count": 2701,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 655
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-25T21:10:40.000Z",
+        "description": "再熱 20↑ /Do not reupload or use/AI利用禁止/呟き用→https://t.co/hiwm5YtlO9   アイコンは知り合いが描いてくれました。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/oisiitks_kansha",
+                "end": 65,
+                "expanded_url": "https://x.com/oisiitks_kansha",
+                "start": 42,
+                "url": "https://t.co/hiwm5YtlO9"
+              }
+            ]
+          }
+        },
+        "id": "1982193054204522496",
+        "location": "童しの固定。",
+        "name": "おいしいタコス",
+        "pinned_tweet_id": "1985078380539285654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988562890115502080/1gpO8HDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2894,
+          "following_count": 19,
+          "like_count": 97,
+          "listed_count": 9,
+          "media_count": 10,
+          "tweet_count": 47
+        },
+        "username": "tksveryveryumai",
+        "verified": false
+      }
+    ]
+  }
+}

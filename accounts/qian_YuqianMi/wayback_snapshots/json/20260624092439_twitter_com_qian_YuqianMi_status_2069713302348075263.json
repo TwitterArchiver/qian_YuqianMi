@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2069684272294764661",
+    "created_at": "2026-06-24T09:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069713302348075263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1860364507236757504",
+          "start": 0,
+          "username": "w2014ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069713302348075263",
+    "in_reply_to_user_id": "1860364507236757504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069684272294764661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w2014ai 啊啊我也这样盒盒盒盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2069684272294764661",
+        "created_at": "2026-06-24T09:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069713302348075263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1860364507236757504",
+              "start": 0,
+              "username": "w2014ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069713302348075263",
+        "in_reply_to_user_id": "1860364507236757504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069684272294764661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w2014ai 啊啊我也这样盒盒盒盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860364507236757504",
+        "conversation_id": "2069684272294764661",
+        "created_at": "2026-06-24T07:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T08:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069684272294764661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069684272294764661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有透明的东西最终归宿都是被我贴满贴纸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 889,
+          "like_count": 29505,
+          "listed_count": 0,
+          "media_count": 392,
+          "tweet_count": 6020
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T16:47:29.000Z",
+        "description": "🫧☁️只想静静地过完一生\n画｜碎碎念｜bdsm\n前世@w2013ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "w2013ai"
+              }
+            ]
+          }
+        },
+        "id": "1860364507236757504",
+        "location": "月球",
+        "name": "落月",
+        "pinned_tweet_id": "2064990833518973122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063200569745915904/cPffrdy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 174,
+          "like_count": 6962,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "w2014ai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2011365938814476289"
+      ],
+      "media_source_tweet_id": [
+        "2011366297834308080"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2012052150634070270",
+    "created_at": "2026-01-16T06:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T07:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012052150634070270"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "ツギハギスタッカート",
+          "probability": 0.4538,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1656427574736863233",
+          "start": 3,
+          "username": "NxcturneOp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FP7vjkqSct",
+          "end": 55,
+          "expanded_url": "https://x.com/NxcturneOp/status/2011366297834308080/video/1",
+          "media_key": "13_2011365938814476289",
+          "start": 32,
+          "url": "https://t.co/FP7vjkqSct"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012052150634070270",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011366297834308080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NxcturneOp: ツギハギスタッカート (とあ) https://t.co/FP7vjkqSct"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41266,
+        "height": 2160,
+        "media_key": "13_2011365938814476289",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011365938814476289/img/rg48yQ1J9fCWgQ3_.jpg",
+        "public_metrics": {
+          "view_count": 26598
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011365938814476289/vid/avc1/480x270/wqcJ9zBSDA1J66G1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011365938814476289/vid/avc1/640x360/IqYNXPR0LAdh9F-8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011365938814476289/vid/avc1/1280x720/LDzWW7_qLs5zvH2m.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011365938814476289/pl/_rfs42aCpSQ7A10K.m3u8?tag=14"
+          }
+        ],
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011365938814476289"
+          ],
+          "media_source_tweet_id": [
+            "2011366297834308080"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012052150634070270",
+        "created_at": "2026-01-16T06:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012052150634070270"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "ツギハギスタッカート",
+              "probability": 0.4538,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1656427574736863233",
+              "start": 3,
+              "username": "NxcturneOp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FP7vjkqSct",
+              "end": 55,
+              "expanded_url": "https://x.com/NxcturneOp/status/2011366297834308080/video/1",
+              "media_key": "13_2011365938814476289",
+              "start": 32,
+              "url": "https://t.co/FP7vjkqSct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012052150634070270",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011366297834308080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NxcturneOp: ツギハギスタッカート (とあ) https://t.co/FP7vjkqSct"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011365938814476289"
+          ]
+        },
+        "author_id": "1656427574736863233",
+        "conversation_id": "2011366297834308080",
+        "created_at": "2026-01-14T09:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T10:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011366297834308080"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "ツギハギスタッカート",
+              "probability": 0.4085,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FP7vjkqSct",
+              "end": 39,
+              "expanded_url": "https://x.com/NxcturneOp/status/2011366297834308080/video/1",
+              "media_key": "13_2011365938814476289",
+              "start": 16,
+              "url": "https://t.co/FP7vjkqSct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011366297834308080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 557,
+          "impression_count": 62668,
+          "like_count": 2764,
+          "quote_count": 10,
+          "reply_count": 11,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "ツギハギスタッカート (とあ) https://t.co/FP7vjkqSct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 659,
+          "like_count": 13068,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 2929
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T22:34:49.000Z",
+        "description": "tsukushi, 츠쿠시 #dearshi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 14,
+                "tag": "dearshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/snegurxchka?ut…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/snegurxchka?utm_source=linktree_profile_share&ltsid=4d4e04a8-b9da-4fea-8918-91cb88",
+                "start": 0,
+                "url": "https://t.co/wvu9rEql3Z"
+              }
+            ]
+          }
+        },
+        "id": "1656427574736863233",
+        "name": "つくし",
+        "pinned_tweet_id": "1942547046621438284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977237393393827842/2g8PjKkX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5152,
+          "following_count": 162,
+          "like_count": 5863,
+          "listed_count": 20,
+          "media_count": 25,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/wvu9rEql3Z",
+        "username": "NxcturneOp",
+        "verified": false
+      }
+    ]
+  }
+}

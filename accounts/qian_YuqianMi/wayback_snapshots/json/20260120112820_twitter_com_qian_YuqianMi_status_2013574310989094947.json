@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2013556813049012625",
+    "created_at": "2026-01-20T11:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T12:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013574310989094947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1968225364163141632",
+          "start": 0,
+          "username": "Deborah90330371"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013574310989094947",
+    "in_reply_to_user_id": "1968225364163141632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013556813049012625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Deborah90330371 我真没招了，，这么喜欢男娘吗。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2013556798469386240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_GXPWvXMAA_-Ze.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2013556813049012625",
+        "created_at": "2026-01-20T11:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T12:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013574310989094947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1968225364163141632",
+              "start": 0,
+              "username": "Deborah90330371"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013574310989094947",
+        "in_reply_to_user_id": "1968225364163141632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013556813049012625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Deborah90330371 我真没招了，，这么喜欢男娘吗。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013556798469386240"
+          ]
+        },
+        "author_id": "1968225364163141632",
+        "conversation_id": "2013556813049012625",
+        "created_at": "2026-01-20T10:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013556813049012625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvWSgEWvNM",
+              "end": 106,
+              "expanded_url": "https://x.com/Deborah90330371/status/2013556813049012625/photo/1",
+              "media_key": "3_2013556798469386240",
+              "start": 83,
+              "url": "https://t.co/TvWSgEWvNM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013556813049012625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "所有人去攻击这个傻逼。我他妈最恶心的一次。你真的死全家都跟你说了，不是还他妈一直恶心我。还可爱可爱可爱，你他妈死全家了。你自己喜欢自己变啊，操你妈，没有大脑的东西。 https://t.co/TvWSgEWvNM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 671,
+          "like_count": 14477,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 3164
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T08:07:54.000Z",
+        "description": "我素绑带结or小若 双/不完全健全/女宝全认可/善良邪恶人格乱切/友好私信欢迎！（私信有些收不到/互fo看成分。有问题发小号@dai7831",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "dai7831"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A528546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A528546",
+                "start": 0,
+                "url": "https://t.co/RuKjS3c4S8"
+              }
+            ]
+          }
+        },
+        "id": "1968225364163141632",
+        "location": "无🚪的意思是 想认识我门都没有。只和喜欢的人玩",
+        "name": "感觉自己很呆萌",
+        "pinned_tweet_id": "2006253707105828937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002613646657216514/c_8H58pg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 161,
+          "like_count": 3055,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1792
+        },
+        "url": "https://t.co/RuKjS3c4S8",
+        "username": "Deborah90330371",
+        "verified": false
+      }
+    ]
+  }
+}

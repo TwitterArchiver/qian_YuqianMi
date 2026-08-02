@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1996146473088712965",
+    "created_at": "2025-12-03T09:16:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996146473088712965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1431691236436418564",
+          "start": 3,
+          "username": "FLCLSSSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996146473088712965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996145284662108253",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FLCLSSSS: 每当我的舍友因为煞比游戏破口大麻我都想请他尝尝氦闪你妈比的你是脑子里晒了几顿石无处排泄只好让空气发出呢你贴把你生在墙上的嘶哑嘛最重要的是你妈个丑傻比LOL没有麦我草你妈你没有麦你吼你妈呢能不能死掉啊你你好吵啊输出你妈臭嘿的负能量能不能去死啊去死啊去死…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1996146473088712965",
+        "created_at": "2025-12-03T09:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996146473088712965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1431691236436418564",
+              "start": 3,
+              "username": "FLCLSSSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996146473088712965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996145284662108253",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FLCLSSSS: 每当我的舍友因为煞比游戏破口大麻我都想请他尝尝氦闪你妈比的你是脑子里晒了几顿石无处排泄只好让空气发出呢你贴把你生在墙上的嘶哑嘛最重要的是你妈个丑傻比LOL没有麦我草你妈你没有麦你吼你妈呢能不能死掉啊你你好吵啊输出你妈臭嘿的负能量能不能去死啊去死啊去死…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431691236436418564",
+        "conversation_id": "1996145284662108253",
+        "created_at": "2025-12-03T09:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996145284662108253"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996145284662108253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每当我的舍友因为煞比游戏破口大麻我都想请他尝尝氦闪你妈比的你是脑子里晒了几顿石无处排泄只好让空气发出呢你贴把你生在墙上的嘶哑嘛最重要的是你妈个丑傻比LOL没有麦我草你妈你没有麦你吼你妈呢能不能死掉啊你你好吵啊输出你妈臭嘿的负能量能不能去死啊去死啊去死啊老子要确诊精神病第一个杀你傻比"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 322,
+          "like_count": 3352,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 818
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T18:53:12.000Z",
+        "description": "死去的躯壳/\n精神污染中/\n亚空间幽灵/\nINFP 4w5 or 9w1/\n虚无主义/\n事生理男/\n人格缺陷/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hello2233.top",
+                "end": 23,
+                "expanded_url": "https://hello2233.top",
+                "start": 0,
+                "url": "https://t.co/1DEItzWJDL"
+              }
+            ]
+          }
+        },
+        "id": "1431691236436418564",
+        "location": "地狱",
+        "name": "四折光曲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889366134295818240/VNjpKKKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 34,
+          "like_count": 6751,
+          "listed_count": 0,
+          "media_count": 137,
+          "tweet_count": 1065
+        },
+        "url": "https://t.co/1DEItzWJDL",
+        "username": "FLCLSSSS",
+        "verified": false
+      }
+    ]
+  }
+}

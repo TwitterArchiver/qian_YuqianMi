@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2076177046909362316",
+    "created_at": "2026-07-12T10:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076252773528863024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1983184628208050176",
+          "start": 0,
+          "username": "Grimheart_00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076252773528863024",
+    "in_reply_to_user_id": "1983184628208050176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076177046909362316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grimheart_00 好漂亮www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076177036549427200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAQA8JaEAAxKrJ.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2076177046909362316",
+        "created_at": "2026-07-12T10:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076252773528863024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1983184628208050176",
+              "start": 0,
+              "username": "Grimheart_00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076252773528863024",
+        "in_reply_to_user_id": "1983184628208050176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076177046909362316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grimheart_00 好漂亮www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076177036549427200"
+          ]
+        },
+        "author_id": "1983184628208050176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2076177046909362316",
+        "created_at": "2026-07-12T05:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076177046909362316"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 4,
+              "tag": "下江コハル"
+            },
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 29,
+              "start": 17,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F8yWepKj5g",
+              "end": 53,
+              "expanded_url": "https://x.com/Grimheart_00/status/2076177046909362316/photo/1",
+              "media_key": "3_2076177036549427200",
+              "start": 30,
+              "url": "https://t.co/F8yWepKj5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076177046909362316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 2473,
+          "like_count": 253,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "小春💓\n#下江コハル #ブルアカ #BlueArchive https://t.co/F8yWepKj5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 866,
+          "like_count": 29922,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 6135
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T14:51:29.000Z",
+        "description": "我叫雪雫｜极度厌蠢｜精神状态不详｜\n匿名提问箱 欢迎来玩喵https://t.co/3Ra1GRaBr6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/184546",
+                "end": 52,
+                "expanded_url": "https://ngl.link/184546",
+                "start": 29,
+                "url": "https://t.co/3Ra1GRaBr6"
+              }
+            ]
+          }
+        },
+        "id": "1983184628208050176",
+        "location": "天國",
+        "name": "N ya🎀",
+        "pinned_tweet_id": "2048989534441136138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069863330765045762/7eacHrV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 434,
+          "like_count": 3368,
+          "listed_count": 5,
+          "media_count": 113,
+          "tweet_count": 1460
+        },
+        "url": "",
+        "username": "Grimheart_00",
+        "verified": false
+      }
+    ]
+  }
+}

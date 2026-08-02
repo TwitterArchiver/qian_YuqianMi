@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009578318065193141",
+    "created_at": "2026-01-09T14:47:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T15:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009638187279548659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795435473537478656",
+          "start": 0,
+          "username": "k2993998281667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009638187279548659",
+    "in_reply_to_user_id": "1795435473537478656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009637886480843095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k2993998281667 omg期待！xdxd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009578318065193141",
+        "created_at": "2026-01-09T14:47:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009638187279548659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795435473537478656",
+              "start": 0,
+              "username": "k2993998281667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009638187279548659",
+        "in_reply_to_user_id": "1795435473537478656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009637886480843095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k2993998281667 omg期待！xdxd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795435473537478656",
+        "conversation_id": "2009578318065193141",
+        "created_at": "2026-01-09T14:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009637886480843095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009637886480843095",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009604251874705825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 好的宝宝 我已购入 等我好消息☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 624,
+          "like_count": 10404,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2438
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T12:42:38.000Z",
+        "description": "把推当日记发\n喜欢格斗和卡牌游戏 炉石/szb/ygo/sf6/ggst",
+        "id": "1795435473537478656",
+        "name": "kakaa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991747316735488000/l9lvbbEA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 65,
+          "like_count": 860,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 313
+        },
+        "username": "k2993998281667",
+        "verified": false
+      }
+    ]
+  }
+}

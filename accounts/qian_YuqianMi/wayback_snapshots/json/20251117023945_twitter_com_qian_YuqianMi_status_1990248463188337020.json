@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989824414079488001"
+      ],
+      "media_source_tweet_id": [
+        "1989824421910253864"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990248463188337020",
+    "created_at": "2025-11-17T02:39:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:39:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990248463188337020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1740961633374228480",
+          "start": 3,
+          "username": "Bl3Exl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CWWnmRPyUw",
+          "end": 37,
+          "expanded_url": "https://x.com/Bl3Exl/status/1989824421910253864/photo/1",
+          "media_key": "3_1989824414079488001",
+          "start": 14,
+          "url": "https://t.co/CWWnmRPyUw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990248463188337020",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2527
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989824421910253864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @Bl3Exl: 🪽 https://t.co/CWWnmRPyUw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989824414079488001",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G51GwxabkAEmTkZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989824414079488001"
+          ],
+          "media_source_tweet_id": [
+            "1989824421910253864"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990248463188337020",
+        "created_at": "2025-11-17T02:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990248463188337020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1740961633374228480",
+              "start": 3,
+              "username": "Bl3Exl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CWWnmRPyUw",
+              "end": 37,
+              "expanded_url": "https://x.com/Bl3Exl/status/1989824421910253864/photo/1",
+              "media_key": "3_1989824414079488001",
+              "start": 14,
+              "url": "https://t.co/CWWnmRPyUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990248463188337020",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2527
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989824421910253864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @Bl3Exl: 🪽 https://t.co/CWWnmRPyUw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989824414079488001"
+          ]
+        },
+        "author_id": "1740961633374228480",
+        "conversation_id": "1989824421910253864",
+        "created_at": "2025-11-15T22:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T23:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989824421910253864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CWWnmRPyUw",
+              "end": 25,
+              "expanded_url": "https://x.com/Bl3Exl/status/1989824421910253864/photo/1",
+              "media_key": "3_1989824414079488001",
+              "start": 2,
+              "url": "https://t.co/CWWnmRPyUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989824421910253864",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1410,
+          "impression_count": 210705,
+          "like_count": 26380,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 2527
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🪽 https://t.co/CWWnmRPyUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 111,
+          "like_count": 666,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 131
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T05:03:06.000Z",
+        "description": "FA｜雑多｜@fxrypp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "fxrypp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wavebox.me/wave/7c13se8mg…",
+                "end": 23,
+                "expanded_url": "https://wavebox.me/wave/7c13se8mg2a1th9x/",
+                "start": 0,
+                "url": "https://t.co/K2SozC5JFV"
+              }
+            ]
+          }
+        },
+        "id": "1740961633374228480",
+        "location": "🚫AI・無断使用",
+        "name": "Mo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981981435859709952/oAUKlCPk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7057,
+          "following_count": 15,
+          "like_count": 2393,
+          "listed_count": 11,
+          "media_count": 32,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/K2SozC5JFV",
+        "username": "Bl3Exl",
+        "verified": false
+      }
+    ]
+  }
+}

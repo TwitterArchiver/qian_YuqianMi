@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2007107402068582796",
+    "created_at": "2026-01-02T15:11:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:11:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007107402068582796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Xianzhong_1953…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/Xianzhong_1953/status/2006790010792759730",
+          "start": 33,
+          "url": "https://t.co/hiC6o5Mgp3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007107402068582796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006790010792759730",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "理论上来讲类似的这种东西已经看过无数遍了但是我还是笑成一条区。。 https://t.co/hiC6o5Mgp3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2006790007739355136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9mM4S4bkAAE9GX.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2007107402068582796",
+        "created_at": "2026-01-02T15:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007107402068582796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xianzhong_1953…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/Xianzhong_1953/status/2006790010792759730",
+              "start": 33,
+              "url": "https://t.co/hiC6o5Mgp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007107402068582796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006790010792759730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理论上来讲类似的这种东西已经看过无数遍了但是我还是笑成一条区。。 https://t.co/hiC6o5Mgp3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006790007739355136"
+          ]
+        },
+        "author_id": "912623216899715072",
+        "conversation_id": "2006790010792759730",
+        "created_at": "2026-01-01T18:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T19:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006790010792759730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tvsUNhObRb",
+              "end": 40,
+              "expanded_url": "https://x.com/Xianzhong_1953/status/2006790010792759730/photo/1",
+              "media_key": "3_2006790007739355136",
+              "start": 17,
+              "url": "https://t.co/tvsUNhObRb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006790010792759730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 87491,
+          "like_count": 754,
+          "quote_count": 11,
+          "reply_count": 30,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "用特色社会主义答案回答马克思主义 https://t.co/tvsUNhObRb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 484,
+          "like_count": 7604,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1848
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-26T10:21:45.000Z",
+        "description": "唯一账号，年过七旬的小孩子。不是著名支黑哦，但是不妨碍俺盼献忠。\n\n曾经的浙江苗族人。\n\n已拉黑1亿条蛆 ，不在乎再多拉黑千八百条海内外各类蛆虫 。🕷学资深专家。诅咒回复俺推特的粉蛆、战螂们死一户口本。\n体制内外的阶级对立和阶级矛盾才是墙内最大问题！",
+        "id": "912623216899715072",
+        "location": "Hawaii, USA",
+        "name": "红袍猫后Penny",
+        "pinned_tweet_id": "1500427883395051523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974500216377163776/cCRJ74YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106701,
+          "following_count": 809,
+          "like_count": 245866,
+          "listed_count": 346,
+          "media_count": 23045,
+          "tweet_count": 44776
+        },
+        "username": "Xianzhong_1953",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1989985302249918878",
+    "created_at": "2025-11-16T09:15:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T10:15:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989985761933107370"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1989985761933107370",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989985302249918878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我什么都没做码字也码不动害怕被别人发现所以割手也两个礼拜没割了我郁期就这样。\n躁期的作用就是让我拿起来11号往我手上划。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1989985302249918878",
+        "created_at": "2025-11-16T09:15:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T10:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989985761933107370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989985761933107370",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989985302249918878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我什么都没做码字也码不动害怕被别人发现所以割手也两个礼拜没割了我郁期就这样。\n躁期的作用就是让我拿起来11号往我手上划。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1989985302249918878",
+        "created_at": "2025-11-16T09:14:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T10:14:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989985302249918878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1989985302249918878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当我意识到向我父母诉苦撒娇时完全不会得到任何我想要的安慰之后\n我只能自慰自残拿绳子勒自己偷偷藏在被子里扇自己耳光做那些完全有害的活动来获取快感 我就面无表情地打字。\n事实上外伤也一点不能有不然被别人发现就会异常麻烦。只能和tulpa做一些暴力事项。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱精神失常阿宅 | 多意识体 | 双相玉米 | 非常喜欢画画 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 106,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 114
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

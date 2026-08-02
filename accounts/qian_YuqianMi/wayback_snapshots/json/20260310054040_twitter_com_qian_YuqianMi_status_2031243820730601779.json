@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2031228920931168589",
+    "created_at": "2026-03-10T05:40:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T06:40:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031243820730601779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2004977573332492288",
+          "start": 0,
+          "username": "gzi1068795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031243820730601779",
+    "in_reply_to_user_id": "2004977573332492288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031228920931168589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gzi1068795 配好色特别困难。。画风越简单越考验色彩功底"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031228892892246021",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBf6opaMAU8t4J.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1929,
+        "media_key": "3_2031228918230126592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBf8HCbkAArGYt.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2031228920931168589",
+        "created_at": "2026-03-10T05:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T06:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031243820730601779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2004977573332492288",
+              "start": 0,
+              "username": "gzi1068795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031243820730601779",
+        "in_reply_to_user_id": "2004977573332492288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031228920931168589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gzi1068795 配好色特别困难。。画风越简单越考验色彩功底"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031228892892246021",
+            "3_2031228918230126592"
+          ]
+        },
+        "author_id": "2004977573332492288",
+        "conversation_id": "2031228920931168589",
+        "created_at": "2026-03-10T04:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T05:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031228920931168589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZlvsvTd5a",
+              "end": 78,
+              "expanded_url": "https://x.com/gzi1068795/status/2031228920931168589/photo/1",
+              "media_key": "3_2031228892892246021",
+              "start": 55,
+              "url": "https://t.co/XZlvsvTd5a"
+            },
+            {
+              "display_url": "pic.x.com/XZlvsvTd5a",
+              "end": 78,
+              "expanded_url": "https://x.com/gzi1068795/status/2031228920931168589/photo/1",
+              "media_key": "3_2031228918230126592",
+              "start": 55,
+              "url": "https://t.co/XZlvsvTd5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031228920931168589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 177,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直觉得罗小黑的画风看似很简单的线条实际上很难画好，我自己画过所以我知道（下面都是我给朋友无偿画的仿画风） https://t.co/XZlvsvTd5a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 825,
+          "like_count": 25589,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 5004
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T18:09:14.000Z",
+        "description": "🇨🇳/22 ↑/我是女的，男的别来，我只和女孩子玩/来这是为了搞同人 / 绘画练习中/觉得不适随意屏蔽不用告知/自己开心最重要/日本語が話せないため翻訳ツールを使っています。もし表現に誤解があったらごめんなさい！",
+        "id": "2004977573332492288",
+        "location": "東京 豊島区",
+        "name": "Ukiyo",
+        "pinned_tweet_id": "2018943353199755380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022497308412432384/0gRJHPR-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 240,
+          "like_count": 10294,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 4648
+        },
+        "username": "gzi1068795",
+        "verified": false
+      }
+    ]
+  }
+}

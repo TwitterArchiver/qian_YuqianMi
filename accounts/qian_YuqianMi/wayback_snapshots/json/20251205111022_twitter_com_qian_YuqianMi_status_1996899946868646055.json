@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996899944599564288"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996899946868646055",
+    "created_at": "2025-12-05T11:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T12:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996899946868646055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jMNdYxslRi",
+          "end": 153,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1996899946868646055/photo/1",
+          "media_key": "3_1996899944599564288",
+          "start": 130,
+          "url": "https://t.co/jMNdYxslRi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996899946868646055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "脑瘫nk能不能告诉我你这个匹配是怎么搞得。。？\n我这个号刚注册一个礼拜吧然后给我匹到了一个段位数都直接是我两倍的人。\n\n进去一看对面8000血我才2000。人都傻了\n\n但是对面这老哥非常绅士直接退了，也不知道是不是bug才匹到的，，（可能是人机？我不知道。） https://t.co/jMNdYxslRi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 907,
+        "media_key": "3_1996899944599564288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Zp62nasAA1ktW.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996899944599564288"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996899946868646055",
+        "created_at": "2025-12-05T11:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T12:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996899946868646055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jMNdYxslRi",
+              "end": 153,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1996899946868646055/photo/1",
+              "media_key": "3_1996899944599564288",
+              "start": 130,
+              "url": "https://t.co/jMNdYxslRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996899946868646055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "脑瘫nk能不能告诉我你这个匹配是怎么搞得。。？\n我这个号刚注册一个礼拜吧然后给我匹到了一个段位数都直接是我两倍的人。\n\n进去一看对面8000血我才2000。人都傻了\n\n但是对面这老哥非常绅士直接退了，也不知道是不是bug才匹到的，，（可能是人机？我不知道。） https://t.co/jMNdYxslRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 339,
+          "like_count": 3691,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 906
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

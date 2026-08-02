@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026938359822884864"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2026938362599452981",
+    "created_at": "2026-02-26T08:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026938362599452981"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9t7nt6W1zO",
+          "end": 60,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2026938362599452981/photo/1",
+          "media_key": "3_2026938359822884864",
+          "start": 37,
+          "url": "https://t.co/9t7nt6W1zO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026938362599452981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做汉堡肉所以我在剁肉。。好爽啊卧槽。以后躁期我就去肉店打工切肉去。爽啊。 https://t.co/9t7nt6W1zO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026938359822884864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEhsvbbIAAWYWg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026938359822884864"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2026938362599452981",
+        "created_at": "2026-02-26T08:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026938362599452981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9t7nt6W1zO",
+              "end": 60,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2026938362599452981/photo/1",
+              "media_key": "3_2026938359822884864",
+              "start": 37,
+              "url": "https://t.co/9t7nt6W1zO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026938362599452981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做汉堡肉所以我在剁肉。。好爽啊卧槽。以后躁期我就去肉店打工切肉去。爽啊。 https://t.co/9t7nt6W1zO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 783,
+          "like_count": 22940,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 4499
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

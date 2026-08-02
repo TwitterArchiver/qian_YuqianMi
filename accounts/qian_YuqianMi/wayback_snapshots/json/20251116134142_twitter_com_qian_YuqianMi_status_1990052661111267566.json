@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990052178682319195",
+    "created_at": "2025-11-16T13:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T14:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990052661111267566"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990052661111267566",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990052178682319195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他安慰我问我怎么了，我一句话也说不出口，他就静静地走开去忙自己的事。我说不出道谢的话，后来悄悄溜走了。\n\n我当时想等以后找到对象了一定要来这里请她喝奶茶。但是这么多年过去了那家店早就拆走了，\n对我好的人也已经不见了。\n\n我想我外公了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990052178682319195",
+        "created_at": "2025-11-16T13:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990052661111267566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990052661111267566",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990052178682319195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他安慰我问我怎么了，我一句话也说不出口，他就静静地走开去忙自己的事。我说不出道谢的话，后来悄悄溜走了。\n\n我当时想等以后找到对象了一定要来这里请她喝奶茶。但是这么多年过去了那家店早就拆走了，\n对我好的人也已经不见了。\n\n我想我外公了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990052178682319195",
+        "created_at": "2025-11-16T13:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990052178682319195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990052178682319195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拖着箱子走到宿舍楼底下，要进宿舍楼得先上三四级台阶，好像无法逾越的一道坎 一下子解离了 盯着台阶十几分钟（可能吧我不记得了），宿管阿姨从我身边走过，瞟了我一眼走了。\n\n我想起来初中的那个下午，我背着书包走向地铁站，路过一家奶茶店号啕大哭。才一两分钟，店员把我拉到店里，给了我一小杯奶茶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱精神失常阿宅 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 110,
+          "like_count": 625,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 124
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

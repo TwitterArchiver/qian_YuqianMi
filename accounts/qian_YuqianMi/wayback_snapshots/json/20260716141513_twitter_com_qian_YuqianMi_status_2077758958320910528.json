@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2077737048358744255",
+    "created_at": "2026-07-16T14:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077758958320910528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        },
+        {
+          "end": 24,
+          "id": "2070541460659924992",
+          "start": 13,
+          "username": "Kiri_yume1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077758958320910528",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077737048358744255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU @Kiri_yume1 喜欢喜欢喜欢喜欢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6960,
+        "height": 960,
+        "media_key": "13_2077737013487308800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077737013487308800/img/BxLpuZ9Ubr6zNcHE.jpg",
+        "public_metrics": {
+          "view_count": 25
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077737013487308800/vid/avc1/320x426/DAjP5xzM2TVctknq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077737013487308800/vid/avc1/480x640/tIk59t_y31p6R_Vb.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077737013487308800/vid/avc1/720x960/B2q3ft5gu7T2nhHb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077737013487308800/pl/xZbmdGtysGydDd6i.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2077737048358744255",
+        "created_at": "2026-07-16T14:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077758958320910528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            },
+            {
+              "end": 24,
+              "id": "2070541460659924992",
+              "start": 13,
+              "username": "Kiri_yume1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077758958320910528",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077737048358744255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU @Kiri_yume1 喜欢喜欢喜欢喜欢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077737013487308800"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2077737048358744255",
+        "created_at": "2026-07-16T12:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T13:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077737048358744255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 36,
+              "tag": "雰囲気"
+            },
+            {
+              "end": 48,
+              "start": 42,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 55,
+              "start": 49,
+              "tag": "踊ってみた"
+            },
+            {
+              "end": 69,
+              "start": 57,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 82,
+              "start": 70,
+              "tag": "地雷系女子と繋がりたい"
+            },
+            {
+              "end": 90,
+              "start": 83,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 109,
+              "start": 92,
+              "tag": "雰囲気嫌いじゃないよって人いいね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xP49TilzHJ",
+              "end": 135,
+              "expanded_url": "https://x.com/DrankghostU/status/2077737048358744255/video/1",
+              "media_key": "13_2077737013487308800",
+              "start": 112,
+              "url": "https://t.co/xP49TilzHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077737048358744255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从恶魔的温床肃声复活的死目莉！！\n喜欢？不喜欢？喜欢？不喜欢？最喜欢！\n#雰囲気 ⁠#自撮り界隈 #踊ってみた\n⁠#病み垢さんと繋がりたい\n#地雷系女子と繋がりたい\n#承認欲求の塊\n⁠#雰囲気嫌いじゃないよって人いいね⁠从 https://t.co/xP49TilzHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 874,
+          "like_count": 29995,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 6155
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…\n需要回fo请私信或评论我！",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 211,
+          "like_count": 210,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 971
+        },
+        "url": "",
+        "username": "DrankghostU",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "わがはいはきり夢です ||",
+        "id": "2070541460659924992",
+        "name": "Kiriyume",
+        "pinned_tweet_id": "2070546609449173327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071959727718703104/nMajyzP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 98,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2010167881057894525",
+    "created_at": "2026-01-11T01:52:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T02:52:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010167881057894525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1324943600929529857",
+          "start": 3,
+          "username": "chucaorenlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010167881057894525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010002365202813109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chucaorenlei: 我發明了一個性愛新體位叫做\n[9] \n基本上就是我自己一個人蜷曲在床\n上痛哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2010167881057894525",
+        "created_at": "2026-01-11T01:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T02:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010167881057894525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1324943600929529857",
+              "start": 3,
+              "username": "chucaorenlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010167881057894525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010002365202813109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chucaorenlei: 我發明了一個性愛新體位叫做\n[9] \n基本上就是我自己一個人蜷曲在床\n上痛哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324943600929529857",
+        "conversation_id": "2010002365202813109",
+        "created_at": "2026-01-10T14:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T15:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010002365202813109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010002365202813109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17028,
+          "like_count": 390,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我發明了一個性愛新體位叫做\n[9] \n基本上就是我自己一個人蜷曲在床\n上痛哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 638,
+          "like_count": 10991,
+          "listed_count": 1,
+          "media_count": 217,
+          "tweet_count": 2518
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T05:15:55.000Z",
+        "description": "重新自我介绍下吧💔爱哭💔脾气不好💔胆小💔强迫症💔喜欢自闭💔成绩差打游戏菜💔满口脏话💔矫情💔爱吃醋💔爱生气喜欢听歌💔睡觉吃东西缺乏安全感💔熬夜洁癖💔爱黏人话多不自信💔爱他脑子有病💔内向难以控制情绪💔 如果有天我变坏了💔善良也不在了💔就别把我往回拽了💔更别说你爱了💔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chucaorenlei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chucaorenlei",
+                "start": 0,
+                "url": "https://t.co/9MGsrQXozw"
+              }
+            ]
+          }
+        },
+        "id": "1324943600929529857",
+        "location": "不会卖萌的不要跟我讲话了 我看到太冰冷的文字就聊不下去",
+        "name": "除草人类",
+        "pinned_tweet_id": "2007925591451017607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005600123280084992/stFtmw9Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6129,
+          "following_count": 598,
+          "like_count": 1352,
+          "listed_count": 19,
+          "media_count": 138,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/9MGsrQXozw",
+        "username": "chucaorenlei",
+        "verified": false
+      }
+    ]
+  }
+}

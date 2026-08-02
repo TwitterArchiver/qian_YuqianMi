@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2012156397908336684",
+    "created_at": "2026-01-16T13:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T14:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012156399611158848"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012156399611158848",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012156397908336684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪怕一开始只是尝试谈论一件普通的小事，最终也会因为思想的不同而最终变成一场争论。而我又是一个过于不擅长争吵的人。最终都是以我的妥协与愤懑作结。我真的不应该再与她谈论任何思想问题。我跟她的差异实在太大了。\n我现在很难过，言语有些组织不清。抱歉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012156397908336684",
+        "created_at": "2026-01-16T13:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T14:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012156399611158848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012156399611158848",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012156397908336684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪怕一开始只是尝试谈论一件普通的小事，最终也会因为思想的不同而最终变成一场争论。而我又是一个过于不擅长争吵的人。最终都是以我的妥协与愤懑作结。我真的不应该再与她谈论任何思想问题。我跟她的差异实在太大了。\n我现在很难过，言语有些组织不清。抱歉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012156397908336684",
+        "created_at": "2026-01-16T13:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T14:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012156397908336684"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012156397908336684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我早就认识到了，我是无法与我的母亲谈论思想问题的。我跟她完全是不同类型的人，她又是一个过于不会倾听的人。哪怕我再能忍受，再能接受别人的想法，我还是会忍不住去站在她的对立面，发表我的观点。而无论我怎样讲，她都会不管不顾地阐述她的想法。她不会尝试理解我。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 659,
+          "like_count": 13181,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 2962
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

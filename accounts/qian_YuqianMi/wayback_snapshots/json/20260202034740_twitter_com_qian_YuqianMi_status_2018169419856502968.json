@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2018157441289269444",
+    "created_at": "2026-02-02T03:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T04:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018169419856502968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906024483431047168",
+          "start": 0,
+          "username": "Chudokusho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018169419856502968",
+    "in_reply_to_user_id": "1906024483431047168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018157441289269444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chudokusho 臣附议"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2018157433114505217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAHvfiWasAElEJv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2018157441289269444",
+        "created_at": "2026-02-02T03:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018169419856502968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018169419856502968",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018157441289269444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho 臣附议"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018157433114505217"
+          ]
+        },
+        "author_id": "1906024483431047168",
+        "conversation_id": "2018157441289269444",
+        "created_at": "2026-02-02T03:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018157441289269444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P8pLTFF26z",
+              "end": 118,
+              "expanded_url": "https://x.com/Chudokusho/status/2018157441289269444/photo/1",
+              "media_key": "3_2018157433114505217",
+              "start": 95,
+              "url": "https://t.co/P8pLTFF26z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018157441289269444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要出台一项互联网交友新规 刚认识一周内不允许更换头像和网名 后续尽量也不要更换 如需更换 请先换头像 与好友频繁互动 一周后再更换网名 并加上(前世xxx) 维持至少一周后 即可删除后缀 https://t.co/P8pLTFF26z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 707,
+          "like_count": 17228,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 3646
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你 @Chudokushowo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "Chudokushowo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chudokusho1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chudokusho1",
+                "start": 0,
+                "url": "https://t.co/B2IXaTpzxd"
+              }
+            ]
+          }
+        },
+        "id": "1906024483431047168",
+        "location": "匿名信箱",
+        "name": "叙春日",
+        "pinned_tweet_id": "2012377584156447185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006905531848601602/DnnroOGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702,
+          "following_count": 76,
+          "like_count": 2656,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 1846
+        },
+        "url": "https://t.co/B2IXaTpzxd",
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

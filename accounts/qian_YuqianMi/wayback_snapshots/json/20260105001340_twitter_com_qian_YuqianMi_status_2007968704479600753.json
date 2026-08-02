@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2007968704479600753",
+    "created_at": "2026-01-05T00:13:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T01:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007968704479600753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1864468641305251844",
+          "start": 3,
+          "username": "AkaNpc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007968704479600753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007701552656724260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkaNpc: 为什么一直偷偷去看推开你的人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2007968704479600753",
+        "created_at": "2026-01-05T00:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T01:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007968704479600753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1864468641305251844",
+              "start": 3,
+              "username": "AkaNpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007968704479600753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007701552656724260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkaNpc: 为什么一直偷偷去看推开你的人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864468641305251844",
+        "conversation_id": "2007701552656724260",
+        "created_at": "2026-01-04T06:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007701552656724260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007701552656724260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 31880,
+          "like_count": 532,
+          "quote_count": 9,
+          "reply_count": 55,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "为什么一直偷偷去看推开你的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 527,
+          "like_count": 8304,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1983
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T00:35:51.000Z",
+        "description": "做S会笑场，做M会还手☁️全是网上段子&日常美食🍽️ 唯一大号｜小号@AkaNpc2｜仅此两号慎防受骗 ☺︎｜｜粤/国｜叫我小曼就好🗿｜📸｜🎧｜保持禮貌 唔該 ｜‼️置顶锁评推广自行分辨‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "AkaNpc2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/album/4m5WJ461…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/album/4m5WJ461G2KsDfjTwKarF8?si=qFKUWWJ2TSe-tNV_ELwQtQ",
+                "start": 0,
+                "url": "https://t.co/Oy9GMmbvRm"
+              }
+            ]
+          }
+        },
+        "id": "1864468641305251844",
+        "location": "CK律師樓｜置顶锁评推广请自辨🤖｜🚪77",
+        "name": "曼醬⋆౨ৎ˚⟡˖ ࣪",
+        "pinned_tweet_id": "2007479516877459793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006710835981520896/LJnA8faK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12167,
+          "following_count": 138,
+          "like_count": 10765,
+          "listed_count": 19,
+          "media_count": 160,
+          "tweet_count": 3077
+        },
+        "url": "https://t.co/Oy9GMmbvRm",
+        "username": "AkaNpc",
+        "verified": false
+      }
+    ]
+  }
+}

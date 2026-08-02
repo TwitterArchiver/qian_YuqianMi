@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2013132659267137852",
+    "created_at": "2026-01-20T02:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T03:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013436223692644383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1982306950806458368",
+          "start": 0,
+          "username": "27shengjianbao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013436223692644383",
+    "in_reply_to_user_id": "1982306950806458368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013132659267137852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@27shengjianbao 狠狠攻略泥！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2013132659267137852",
+        "created_at": "2026-01-20T02:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T03:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013436223692644383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982306950806458368",
+              "start": 0,
+              "username": "27shengjianbao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013436223692644383",
+        "in_reply_to_user_id": "1982306950806458368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013132659267137852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@27shengjianbao 狠狠攻略泥！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982306950806458368",
+        "conversation_id": "2013132659267137852",
+        "created_at": "2026-01-19T06:13:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013132659267137852"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013132659267137852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1566,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想更新了  这里没有人喜欢我也没人攻略我😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 715,
+          "following_count": 667,
+          "like_count": 14268,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 3132
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-26T04:43:21.000Z",
+        "description": "叫我生煎包（被盗图大王）｜想发什么发什么｜不约别烦｜随缘回私信｜盗图替我挡灾｜喜欢我可以打钱｜全职在家玩小手机｜悄悄视奸所有人....",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27%E7%94%9F%E7…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/27%E7%94%9F%E7%85%8E%E5%8C%85",
+                "start": 0,
+                "url": "https://t.co/HtwgpCfNRl"
+              }
+            ]
+          }
+        },
+        "id": "1982306950806458368",
+        "location": "🚪288/520｜提问👉",
+        "name": "生煎包大王",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004444714083536896/lX36H7kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4992,
+          "following_count": 43,
+          "like_count": 1415,
+          "listed_count": 11,
+          "media_count": 166,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/HtwgpCfNRl",
+        "username": "27shengjianbao",
+        "verified": false
+      }
+    ]
+  }
+}

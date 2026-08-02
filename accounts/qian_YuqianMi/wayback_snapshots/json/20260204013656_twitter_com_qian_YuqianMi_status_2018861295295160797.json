@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2018861295295160797",
+    "created_at": "2026-02-04T01:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T02:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018861295295160797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663516164306382852",
+          "start": 3,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018861295295160797",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018150372528042408",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DouBao8964: “我比以前漂亮多了你想见我吗”是什么脑残文案，不如改成“我现在拿到驾照了，你愿意站在马路中间吗？”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2018861295295160797",
+        "created_at": "2026-02-04T01:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T02:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018861295295160797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663516164306382852",
+              "start": 3,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018861295295160797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018150372528042408",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DouBao8964: “我比以前漂亮多了你想见我吗”是什么脑残文案，不如改成“我现在拿到驾照了，你愿意站在马路中间吗？”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "2018150372528042408",
+        "created_at": "2026-02-02T02:31:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T03:31:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018150372528042408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018150372528042408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 89505,
+          "like_count": 2544,
+          "quote_count": 24,
+          "reply_count": 60,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "“我比以前漂亮多了你想见我吗”是什么脑残文案，不如改成“我现在拿到驾照了，你愿意站在马路中间吗？”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 720,
+          "like_count": 17832,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 3742
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包 老公@callme_mom_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 10,
+                "username": "callme_mom_"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005501477104889856/F2ohZri8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10967,
+          "following_count": 83,
+          "like_count": 14277,
+          "listed_count": 5,
+          "media_count": 332,
+          "tweet_count": 6166
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2030192917160284251",
+    "created_at": "2026-03-07T09:50:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T10:50:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030219565947592756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587706320181899265",
+          "start": 0,
+          "username": "woxipanghai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030219565947592756",
+    "in_reply_to_user_id": "1587706320181899265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030192917160284251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woxipanghai 啊啊我也是。失恋了之后和ds聊了36页。。完全找不到情绪出口一直在消沉😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2030192917160284251",
+        "created_at": "2026-03-07T09:50:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T10:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030219565947592756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587706320181899265",
+              "start": 0,
+              "username": "woxipanghai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030219565947592756",
+        "in_reply_to_user_id": "1587706320181899265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030192917160284251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woxipanghai 啊啊我也是。失恋了之后和ds聊了36页。。完全找不到情绪出口一直在消沉😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587706320181899265",
+        "conversation_id": "2030192917160284251",
+        "created_at": "2026-03-07T08:04:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T09:04:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030192917160284251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030192917160284251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无助啊，我真是那种失恋之后会在网上搜索或者问ai怎么走出失恋的那种家伙。我心脏好痛，但是又狠不下心远离。他每次和我说话我都拒绝不了不回复。我真的又高兴又难受，高兴的是他还在乎我。难受就是我和他永远都不可能走到一起了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 820,
+          "like_count": 24918,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 4886
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T07:21:10.000Z",
+        "description": "一个量产型萌妹……日常碎碎念 （有少量oc或自产出没）| 双相| 喜欢画画 | 我只是……一个……自娱自乐的……傻逼。如果冒犯了你别骂我。请善待 | 欢迎来找我玩！喜欢友善的人",
+        "id": "1587706320181899265",
+        "name": "雲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029581345106866176/Q2U2nCjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 83,
+          "like_count": 262,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 45
+        },
+        "username": "woxipanghai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tanning",
+          "id": "855114635963318272",
+          "name": "Tanning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tanning",
+          "id": "855114635963318272",
+          "name": "Tanning"
+        }
+      }
+    ],
+    "conversation_id": "2075958700137931061",
+    "created_at": "2026-07-11T15:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T16:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075958700137931061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hajimekakeru/s…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/hajimekakeru/status/2075761076759867564",
+          "start": 17,
+          "url": "https://t.co/V761Jd54gO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075958700137931061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075761076759867564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看了一万年没搞懂这是什么结构（） https://t.co/V761Jd54gO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075761069143060481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM6VsczbcAEcTRb.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          }
+        ],
+        "conversation_id": "2075958700137931061",
+        "created_at": "2026-07-11T15:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075958700137931061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hajimekakeru/s…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/hajimekakeru/status/2075761076759867564",
+              "start": 17,
+              "url": "https://t.co/V761Jd54gO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075958700137931061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075761076759867564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看了一万年没搞懂这是什么结构（） https://t.co/V761Jd54gO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075761069143060481"
+          ]
+        },
+        "author_id": "1569617042998988800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          }
+        ],
+        "conversation_id": "2075761076759867564",
+        "created_at": "2026-07-11T01:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075761076759867564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SxtTSWxqDo",
+              "end": 34,
+              "expanded_url": "https://x.com/hajimekakeru/status/2075761076759867564/photo/1",
+              "media_key": "3_2075761069143060481",
+              "start": 11,
+              "url": "https://t.co/SxtTSWxqDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075761076759867564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1672,
+          "impression_count": 9532116,
+          "like_count": 14616,
+          "quote_count": 1888,
+          "reply_count": 1811,
+          "retweet_count": 727
+        },
+        "reply_settings": "everyone",
+        "text": "日焼けやばいかも笑笑 https://t.co/SxtTSWxqDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 866,
+          "like_count": 29909,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 6130
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-13T09:20:58.000Z",
+        "description": "歌い手🎤/Vライバー📱/ツイ廃界隈🐦/⚡️一推し様 @tokidoki77/🤝251 @sakenmilove @xavierutage/🧑‍🎨絵師様@Miyusu_uZz/👍トレードマーク/ポストは基本ネタです。拾い画をポストしてます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "tokidoki77"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "sakenmilove"
+              },
+              {
+                "end": 68,
+                "start": 56,
+                "username": "xavierutage"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "Miyusu_uZz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "room.rakuten.co.jp/room_1bf61238a…",
+                "end": 23,
+                "expanded_url": "https://room.rakuten.co.jp/room_1bf61238a9/items",
+                "start": 0,
+                "url": "https://t.co/hi7rPeU72j"
+              }
+            ]
+          }
+        },
+        "id": "1569617042998988800",
+        "name": "はじめ駆ける👍@面白ツイート",
+        "pinned_tweet_id": "2075761076759867564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004088957068627969/WIsGaXzc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64811,
+          "following_count": 28816,
+          "like_count": 78791,
+          "listed_count": 166,
+          "media_count": 3362,
+          "tweet_count": 12219
+        },
+        "url": "https://t.co/hi7rPeU72j",
+        "username": "hajimekakeru",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996933889298935808"
+      ],
+      "media_source_tweet_id": [
+        "1996933893593956747"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997159250595139697",
+    "created_at": "2025-12-06T04:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T05:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997159250595139697"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1931569215674425344",
+          "start": 3,
+          "username": "NLH_00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Q3l3IC2bn",
+          "end": 36,
+          "expanded_url": "https://x.com/NLH_00_/status/1996933893593956747/photo/1",
+          "media_key": "3_1996933889298935808",
+          "start": 13,
+          "url": "https://t.co/7Q3l3IC2bn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997159250595139697",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 377
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996933893593956747",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NLH_00_: https://t.co/7Q3l3IC2bn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1139,
+        "media_key": "3_1996933889298935808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7aIyseaMAAISzP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996933889298935808"
+          ],
+          "media_source_tweet_id": [
+            "1996933893593956747"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997159250595139697",
+        "created_at": "2025-12-06T04:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T05:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997159250595139697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1931569215674425344",
+              "start": 3,
+              "username": "NLH_00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Q3l3IC2bn",
+              "end": 36,
+              "expanded_url": "https://x.com/NLH_00_/status/1996933893593956747/photo/1",
+              "media_key": "3_1996933889298935808",
+              "start": 13,
+              "url": "https://t.co/7Q3l3IC2bn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997159250595139697",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 377
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996933893593956747",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NLH_00_: https://t.co/7Q3l3IC2bn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996933889298935808"
+          ]
+        },
+        "author_id": "1931569215674425344",
+        "conversation_id": "1996933893593956747",
+        "created_at": "2025-12-05T13:25:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T14:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996933893593956747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Q3l3IC2bn",
+              "end": 23,
+              "expanded_url": "https://x.com/NLH_00_/status/1996933893593956747/photo/1",
+              "media_key": "3_1996933889298935808",
+              "start": 0,
+              "url": "https://t.co/7Q3l3IC2bn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996933893593956747",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 320,
+          "impression_count": 34980,
+          "like_count": 5316,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7Q3l3IC2bn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 345,
+          "like_count": 3758,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 945
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T04:29:34.000Z",
+        "description": "不穏大好きっ子┊︎ｻﾌﾞ→@Rei_rkgk__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "Rei_rkgk__"
+              }
+            ]
+          }
+        },
+        "id": "1931569215674425344",
+        "location": "無断転載・無断使用・自作発言・AI学習等NG",
+        "name": "¿?",
+        "pinned_tweet_id": "1942734520773664818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953405579877355520/0OLuSM19_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13767,
+          "following_count": 246,
+          "like_count": 4363,
+          "listed_count": 25,
+          "media_count": 35,
+          "tweet_count": 39
+        },
+        "username": "NLH_00_",
+        "verified": false
+      }
+    ]
+  }
+}

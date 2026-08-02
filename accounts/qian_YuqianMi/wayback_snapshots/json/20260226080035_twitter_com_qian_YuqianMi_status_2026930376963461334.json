@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2026929301979885904",
+    "created_at": "2026-02-26T08:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026930376963461334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1997701474705645568",
+          "start": 0,
+          "username": "S1J1AN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026930376963461334",
+    "in_reply_to_user_id": "1997701474705645568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026929301979885904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S1J1AN 是这样的我也是。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2026929301979885904",
+        "created_at": "2026-02-26T08:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026930376963461334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1997701474705645568",
+              "start": 0,
+              "username": "S1J1AN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026930376963461334",
+        "in_reply_to_user_id": "1997701474705645568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026929301979885904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S1J1AN 是这样的我也是。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997701474705645568",
+        "conversation_id": "2026929301979885904",
+        "created_at": "2026-02-26T07:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T08:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026929301979885904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026929301979885904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是我晚出生几年学校所有坏事都轮不到我然后所有好事就都轮到了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 783,
+          "like_count": 22922,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 4493
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T16:15:31.000Z",
+        "description": "分享doi视频只是为了记录恋爱的一部分 ｜快开学了🥲复习考试中｜普通人而已我还要上学｜不定制不线下不约不出yw｜私信看见不爽的会拉黑 礼貌会回复",
+        "id": "1997701474705645568",
+        "name": "半只烤鸭",
+        "pinned_tweet_id": "2022350306512867735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015685227385847809/3YAAA_Lh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10993,
+          "following_count": 91,
+          "like_count": 924,
+          "listed_count": 27,
+          "media_count": 23,
+          "tweet_count": 830
+        },
+        "username": "S1J1AN",
+        "verified": false
+      }
+    ]
+  }
+}

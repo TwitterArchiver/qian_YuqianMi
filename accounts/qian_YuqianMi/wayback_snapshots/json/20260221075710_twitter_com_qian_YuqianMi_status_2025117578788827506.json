@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2025117578788827506",
+    "created_at": "2026-02-21T07:57:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:57:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025117578788827506"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/2025054996455449081",
+          "start": 107,
+          "url": "https://t.co/97C0Aw1Uxt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025117578788827506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025054996455449081",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从现在开始看到叫我柯洁的不管是谁我秒b哈😃\n\n算了柯洁的智商估计比我高几百倍吧。人家那么优秀我当是在夸我了。\n操你妈但是别叫我柯洁了好吗我好崩溃。\n之前那个发型确实有点像吧但是现在我真没感觉像啊。我一点都不难过。 https://t.co/97C0Aw1Uxt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025054966172581889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpwwzVbgAE_DRI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025117578788827506",
+        "created_at": "2026-02-21T07:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025117578788827506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2025054996455449081",
+              "start": 107,
+              "url": "https://t.co/97C0Aw1Uxt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025117578788827506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025054996455449081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从现在开始看到叫我柯洁的不管是谁我秒b哈😃\n\n算了柯洁的智商估计比我高几百倍吧。人家那么优秀我当是在夸我了。\n操你妈但是别叫我柯洁了好吗我好崩溃。\n之前那个发型确实有点像吧但是现在我真没感觉像啊。我一点都不难过。 https://t.co/97C0Aw1Uxt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025054966172581889"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025054996455449081",
+        "created_at": "2026-02-21T03:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025054996455449081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QS2QyaqLiG",
+              "end": 43,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2025054996455449081/photo/1",
+              "media_key": "3_2025054966172581889",
+              "start": 20,
+              "url": "https://t.co/QS2QyaqLiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025054996455449081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 913,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的建模很普通，反尔呢，我的醒图很美丽 https://t.co/QS2QyaqLiG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 767,
+          "like_count": 21684,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 4329
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

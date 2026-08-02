@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2007652695445057657",
+    "created_at": "2026-01-26T03:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T04:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015624776837214274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916434358917033984",
+          "start": 0,
+          "username": "BlackTrapTrip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015624776837214274",
+    "in_reply_to_user_id": "1916434358917033984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007652695445057657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BlackTrapTrip 好美丽🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007652691095236608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ydfE0WsAAg7y1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2007652695445057657",
+        "created_at": "2026-01-26T03:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T04:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015624776837214274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916434358917033984",
+              "start": 0,
+              "username": "BlackTrapTrip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015624776837214274",
+        "in_reply_to_user_id": "1916434358917033984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007652695445057657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BlackTrapTrip 好美丽🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007652691095236608"
+          ]
+        },
+        "author_id": "1916434358917033984",
+        "conversation_id": "2007652695445057657",
+        "created_at": "2026-01-04T03:17:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T04:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007652695445057657"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "shtwt"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "cuts"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "torso"
+            },
+            {
+              "end": 26,
+              "start": 20,
+              "tag": "blood"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LoXfr4BUN8",
+              "end": 50,
+              "expanded_url": "https://x.com/BlackTrapTrip/status/2007652695445057657/photo/1",
+              "media_key": "3_2007652691095236608",
+              "start": 27,
+              "url": "https://t.co/LoXfr4BUN8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007652695445057657",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 635,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#shtwt #cuts #torso #blood https://t.co/LoXfr4BUN8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 696,
+          "like_count": 16003,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 3429
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T10:09:04.000Z",
+        "description": "=黑阱/Kuroi｜同类互fo欢迎｜泛性恋｜支持大麻合法化｜#WeAreNotaVirus｜uncensored #shtwt #odtwt #drugtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 30,
+                "tag": "WeAreNotaVirus"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "tag": "shtwt"
+              },
+              {
+                "end": 70,
+                "start": 64,
+                "tag": "odtwt"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/blacktraptrip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/blacktraptrip",
+                "start": 0,
+                "url": "https://t.co/2gFjzyw5py"
+              }
+            ]
+          }
+        },
+        "id": "1916434358917033984",
+        "location": "无🚪不接不卖任何",
+        "name": "黒阱／STONED",
+        "pinned_tweet_id": "2007652695445057657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984880790535061504/JtQebCAP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 136,
+          "like_count": 917,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 1441
+        },
+        "url": "https://t.co/2gFjzyw5py",
+        "username": "BlackTrapTrip",
+        "verified": false
+      }
+    ]
+  }
+}

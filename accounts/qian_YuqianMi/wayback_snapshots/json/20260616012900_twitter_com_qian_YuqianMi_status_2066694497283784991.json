@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2066578889326088233",
+    "created_at": "2026-06-16T01:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T02:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066694497283784991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066694497283784991",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066578889326088233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 天呐画的太好了，，太厉害了！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2066578889326088233",
+        "created_at": "2026-06-16T01:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T02:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066694497283784991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066694497283784991",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066578889326088233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 天呐画的太好了，，太厉害了！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409516495571501066",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "pixiv",
+              "id": "1038127846168780800",
+              "name": "pixiv (ピクシブ)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431017969627271169",
+              "name": "Short comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2066578889326088233",
+        "created_at": "2026-06-15T17:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066578889326088233"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 56,
+              "tag": "漫画が読めるハッシュタグ"
+            },
+            {
+              "end": 75,
+              "start": 70,
+              "tag": "創作漫画"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "创作百合"
+            },
+            {
+              "end": 86,
+              "start": 82,
+              "tag": "ジト目"
+            },
+            {
+              "end": 92,
+              "start": 87,
+              "tag": "ヤンデレ"
+            },
+            {
+              "end": 97,
+              "start": 93,
+              "tag": "地雷系"
+            },
+            {
+              "end": 107,
+              "start": 98,
+              "tag": "スプリットカラー"
+            },
+            {
+              "end": 114,
+              "start": 108,
+              "tag": "pixiv"
+            },
+            {
+              "end": 119,
+              "start": 116,
+              "tag": "漫画"
+            },
+            {
+              "end": 123,
+              "start": 120,
+              "tag": "百合"
+            },
+            {
+              "end": 127,
+              "start": 124,
+              "tag": "gl"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "日常"
+            },
+            {
+              "end": 136,
+              "start": 133,
+              "tag": "原创"
+            }
+          ],
+          "urls": [
+            {
+              "description": "该如何解释我有两个女朋友的事情？",
+              "display_url": "pixiv.net/artworks/14606…",
+              "end": 161,
+              "expanded_url": "https://www.pixiv.net/artworks/146062070",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2066575211760336896/9dcy3gM3?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066575211760336896/9dcy3gM3?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "status": 200,
+              "title": "【一觉醒来我和10年的友人在一起了】",
+              "unwound_url": "https://www.pixiv.net/artworks/146062070",
+              "url": "https://t.co/3K8Wybateb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066578889326088233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的黑历史吧！但也是纪念漫画哦……分享给你们！关于死目莉和死目莉妻。\n\n一觉醒来我和10年的友人在一起了……？\n#漫画が読めるハッシュタグ #創作漫画 #创作百合 #ジト目 #ヤンデレ #地雷系 #スプリットカラー #pixiv  #漫画 #百合 #gl #日常  #原创  https://t.co/3K8Wybateb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 878,
+          "like_count": 29151,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 5896
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "𓆩♡𓆪 死目莉 𓆩♡𓆪\n 🩹 | 双相情感障碍• 𝖠𝖣𝖧𝖣 • 重焦 • 繪師 \n\n🎀没有喜欢死目莉的觉悟的人请不要靠近死目莉⚠️😸…",
+        "id": "1409516495571501066",
+        "location": "我想要的是世界上根本就没有的东西",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063196138987995136/5SVYRVyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 201,
+          "like_count": 114,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 724
+        },
+        "username": "DrankghostU",
+        "verified": true
+      }
+    ]
+  }
+}

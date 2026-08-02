@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2006743006607716705",
+    "created_at": "2026-01-02T05:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T06:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006959859720401299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663516164306382852",
+          "start": 0,
+          "username": "DouBao8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006959859720401299",
+    "in_reply_to_user_id": "1663516164306382852",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006743006607716705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DouBao8964 对。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2006743006607716705",
+        "created_at": "2026-01-02T05:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T06:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006959859720401299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663516164306382852",
+              "start": 0,
+              "username": "DouBao8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006959859720401299",
+        "in_reply_to_user_id": "1663516164306382852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006743006607716705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DouBao8964 对。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663516164306382852",
+        "conversation_id": "2006743006607716705",
+        "created_at": "2026-01-01T15:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T16:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006743006607716705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006743006607716705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4634,
+          "like_count": 133,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "最朴素的傻逼往往以室友的身份出现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 471,
+          "like_count": 7393,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1796
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "此豆包非彼豆包",
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "1997851298579022031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005501477104889856/F2ohZri8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10360,
+          "following_count": 84,
+          "like_count": 13846,
+          "listed_count": 4,
+          "media_count": 317,
+          "tweet_count": 5945
+        },
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

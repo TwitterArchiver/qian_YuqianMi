@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2048750711555690877",
+    "created_at": "2026-04-27T13:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048750711555690877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/koning321/stat…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/koning321/status/2048749459119755398",
+          "start": 104,
+          "url": "https://t.co/Gbvr5X74Fx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048750711555690877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048749459119755398",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对！！！卧槽。。我刚想吐槽。我服了。xd懂我😇😇😇我看个片还有双重淫叫。感觉吃菌子了。。。笑得我半死。而且貌似你二重声音的那个视频完全播放完之后会自动播放下一个视频。冲到一半突然开始足球进球了。吗的笑萎了。 https://t.co/Gbvr5X74Fx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2048750711555690877",
+        "created_at": "2026-04-27T13:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048750711555690877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/koning321/stat…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/koning321/status/2048749459119755398",
+              "start": 104,
+              "url": "https://t.co/Gbvr5X74Fx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048750711555690877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048749459119755398",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对！！！卧槽。。我刚想吐槽。我服了。xd懂我😇😇😇我看个片还有双重淫叫。感觉吃菌子了。。。笑得我半死。而且貌似你二重声音的那个视频完全播放完之后会自动播放下一个视频。冲到一半突然开始足球进球了。吗的笑萎了。 https://t.co/Gbvr5X74Fx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761768162469593088",
+        "conversation_id": "2048645623151530092",
+        "created_at": "2026-04-27T13:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048749459119755398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048749459119755398",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048645623151530092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 最近网页版推特上播放视频会出现两个声音，体验好差ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 840,
+          "like_count": 27274,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 5390
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T15:00:57.000Z",
+        "description": "07年/性别沃尔玛塑料袋/喜欢画画/跑步/二次元浓度极高/喜欢可爱温柔的人/清水（虽然我实际上很色）/性格温良，希望能和人轻松地相处！欢迎互fo！真的很欢迎大家找我聊天！（此人极其渴望被关注被认同）",
+        "id": "1761768162469593088",
+        "location": "罗德兰 传火祭祀场",
+        "name": "Ayanami",
+        "pinned_tweet_id": "2030980210435506589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011488744118108163/dBgQvDGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 210,
+          "like_count": 2590,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 1463
+        },
+        "username": "koning321",
+        "verified": false
+      }
+    ]
+  }
+}

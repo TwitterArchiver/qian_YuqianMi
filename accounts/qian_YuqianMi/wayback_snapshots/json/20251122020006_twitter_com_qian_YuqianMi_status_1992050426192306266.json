@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1991894995591463330",
+    "created_at": "2025-11-22T02:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T03:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992050426192306266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1931634000453345280",
+          "start": 0,
+          "username": "ll97515"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992050426192306266",
+    "in_reply_to_user_id": "1931634000453345280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992049439834570953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ll97515 发了咪 就是这个后面一条（害羞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1991894995591463330",
+        "created_at": "2025-11-22T02:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T03:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992050426192306266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1931634000453345280",
+              "start": 0,
+              "username": "ll97515"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992050426192306266",
+        "in_reply_to_user_id": "1931634000453345280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992049439834570953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ll97515 发了咪 就是这个后面一条（害羞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931634000453345280",
+        "conversation_id": "1991894995591463330",
+        "created_at": "2025-11-22T01:56:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T02:56:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992049439834570953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992049439834570953",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991894995591463330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 请发给我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 170,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 256
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-08T08:46:56.000Z",
+        "description": "自残 | 应该是地雷女来的。？| 不定时崩溃 喜欢互动 可以来找我互fo聊天˃ʍ˂",
+        "id": "1931634000453345280",
+        "name": "(●─●)",
+        "pinned_tweet_id": "1990739159653261743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987318821154324480/qCEPNWhB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 305,
+          "like_count": 1634,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 483
+        },
+        "username": "ll97515",
+        "verified": false
+      }
+    ]
+  }
+}

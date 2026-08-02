@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2048644743517667718",
+    "created_at": "2026-04-27T11:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T12:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048727752363426226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2007800360057135104",
+          "start": 0,
+          "username": "chessiaya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048727752363426226",
+    "in_reply_to_user_id": "2007800360057135104",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048644743517667718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chessiaya1 我的法克"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2048644743517667718",
+        "created_at": "2026-04-27T11:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T12:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048727752363426226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2007800360057135104",
+              "start": 0,
+              "username": "chessiaya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048727752363426226",
+        "in_reply_to_user_id": "2007800360057135104",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048644743517667718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chessiaya1 我的法克"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007800360057135104",
+        "conversation_id": "2048644743517667718",
+        "created_at": "2026-04-27T06:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T07:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048644743517667718"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048644743517667718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8356,
+          "like_count": 184,
+          "quote_count": 4,
+          "reply_count": 50,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "以前我也是浦西臭，后来用了香批水，老公连烟都不吸了，天天都来吸我的批。有次用了出去，一群蝴蝶围着我转，哎呀讨厌，不是花，是批啦。我闺蜜知道了之后也和我借用了一些，然后我们去看她的植物人老公，一进病房她那个昏迷五年的老公立马跳起来吸她的批，能帮助植物人苏醒也是一件善事啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1270,
+          "following_count": 839,
+          "like_count": 27256,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 5387
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T13:04:57.000Z",
+        "description": "这个世界好坏但是姐姐会带我走@StarryLove_1005",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 14,
+                "username": "StarryLove_1005"
+              }
+            ]
+          }
+        },
+        "id": "2007800360057135104",
+        "location": "288好友位（口令",
+        "name": "塞西莉娅",
+        "pinned_tweet_id": "2044432209646399602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020711776904777729/xWO0jx7n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 344,
+          "like_count": 13109,
+          "listed_count": 2,
+          "media_count": 242,
+          "tweet_count": 1872
+        },
+        "username": "chessiaya1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2005238534630994259",
+    "created_at": "2025-12-28T11:24:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T12:24:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005238534630994259"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005238534630994259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在在朋友圈就装死。\n看到有趣的也不点赞。因为这样的话别人就知道我看了朋友圈但是我没给他点赞。就是很讨厌大红人啊 还要背后蛐蛐我。可能只是嫉妒吧嗯 我就是这么恶心的人。但是我不给你点赞然后要排挤我那我就全装死好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2005238534630994259",
+        "created_at": "2025-12-28T11:24:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:24:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005238534630994259"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005238534630994259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在在朋友圈就装死。\n看到有趣的也不点赞。因为这样的话别人就知道我看了朋友圈但是我没给他点赞。就是很讨厌大红人啊 还要背后蛐蛐我。可能只是嫉妒吧嗯 我就是这么恶心的人。但是我不给你点赞然后要排挤我那我就全装死好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 458,
+          "like_count": 6851,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1687
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

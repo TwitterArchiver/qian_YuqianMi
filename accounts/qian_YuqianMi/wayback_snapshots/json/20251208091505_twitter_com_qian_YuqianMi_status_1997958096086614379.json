@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997953945990582284",
+    "created_at": "2025-12-08T09:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T10:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997958096086614379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1886810489717690368",
+          "start": 0,
+          "username": "QuQkuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997958096086614379",
+    "in_reply_to_user_id": "1886810489717690368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997953945990582284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuQkuu 抱抱你₍ᐢ..ᐢ₎♡\n宝宝很漂亮了呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997953945990582284",
+        "created_at": "2025-12-08T09:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T10:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997958096086614379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1886810489717690368",
+              "start": 0,
+              "username": "QuQkuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997958096086614379",
+        "in_reply_to_user_id": "1886810489717690368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997953945990582284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuQkuu 抱抱你₍ᐢ..ᐢ₎♡\n宝宝很漂亮了呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886810489717690368",
+        "conversation_id": "1997953945990582284",
+        "created_at": "2025-12-08T08:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T09:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997953945990582284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997953945990582284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前特别自卑，觉得自己不好看，谈恋爱也是，总是推开人，因为觉得自己哪里都不好，这点我也不明白为什么。我总是用推开一个人来证明他喜欢我，唉这点我真的…至今没有办法解决。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 358,
+          "like_count": 4191,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1055
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T16:14:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2837967340",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2837967340",
+                "start": 0,
+                "url": "https://t.co/uBcTvJQpQ4"
+              }
+            ]
+          }
+        },
+        "id": "1886810489717690368",
+        "name": "我想喵喵觉",
+        "pinned_tweet_id": "1995725240425464222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995828978775719936/BP1-SZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1016,
+          "following_count": 116,
+          "like_count": 1744,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1063
+        },
+        "url": "https://t.co/uBcTvJQpQ4",
+        "username": "QuQkuu",
+        "verified": false
+      }
+    ]
+  }
+}

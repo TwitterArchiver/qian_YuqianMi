@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2068587865886568733",
+    "created_at": "2026-06-21T11:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068650862550097979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970515784762859520",
+          "start": 0,
+          "username": "Semp1trnal_2345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068650862550097979",
+    "in_reply_to_user_id": "1970515784762859520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068587865886568733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Semp1trnal_2345 此乃萌物"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2068587858605264896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLUZspLaUAAbpfo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2068587865886568733",
+        "created_at": "2026-06-21T11:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068650862550097979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068650862550097979",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068587865886568733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 此乃萌物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068587858605264896"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2068587865886568733",
+        "created_at": "2026-06-21T06:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T07:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068587865886568733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v5yrPHVXoT",
+              "end": 28,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2068587865886568733/photo/1",
+              "media_key": "3_2068587858605264896",
+              "start": 5,
+              "url": "https://t.co/v5yrPHVXoT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068587865886568733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 441,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此乃何物 https://t.co/v5yrPHVXoT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 891,
+          "like_count": 29548,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 5987
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜07  叫我墨墨就可以 欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3dfnPE或者https://t.co/BHZo1YhpuV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 52,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 29,
+                "url": "https://t.co/tJ7j3dfnPE"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania",
+                "end": 77,
+                "expanded_url": "https://ngl.link/mooo1ania",
+                "start": 54,
+                "url": "https://t.co/BHZo1YhpuV"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2046745423088652528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054742517825011712/aMIdoxfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 99,
+          "like_count": 13320,
+          "listed_count": 1,
+          "media_count": 450,
+          "tweet_count": 4278
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false
+      }
+    ]
+  }
+}

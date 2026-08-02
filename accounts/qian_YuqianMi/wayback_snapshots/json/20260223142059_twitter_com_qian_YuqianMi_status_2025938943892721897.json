@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025876373378936833"
+      ],
+      "media_source_tweet_id": [
+        "2025876396535664763"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2025938943892721897",
+    "created_at": "2026-02-23T14:20:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025938943892721897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1778700125944381440",
+          "start": 3,
+          "username": "_adip0cere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9v3f4TM3MK",
+          "end": 39,
+          "expanded_url": "https://x.com/_adip0cere/status/2025876396535664763/video/1",
+          "media_key": "13_2025876373378936833",
+          "start": 16,
+          "url": "https://t.co/9v3f4TM3MK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025938943892721897",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1013
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025876396535664763",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_adip0cere: https://t.co/9v3f4TM3MK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3200,
+        "height": 928,
+        "media_key": "13_2025876373378936833",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025876373378936833/img/OayooAQgvSWONfU6.jpg",
+        "public_metrics": {
+          "view_count": 23285
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025876373378936833/vid/avc1/320x320/CTwEtbXqwf_-_gNf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025876373378936833/vid/avc1/540x540/mQnZBTdimaELQrNG.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025876373378936833/vid/avc1/720x720/Dcm6Km_GxorkkUB5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025876373378936833/pl/4vpPh8TMr50hiiuC.m3u8?tag=14"
+          }
+        ],
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025876373378936833"
+          ],
+          "media_source_tweet_id": [
+            "2025876396535664763"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025938943892721897",
+        "created_at": "2026-02-23T14:20:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025938943892721897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1778700125944381440",
+              "start": 3,
+              "username": "_adip0cere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9v3f4TM3MK",
+              "end": 39,
+              "expanded_url": "https://x.com/_adip0cere/status/2025876396535664763/video/1",
+              "media_key": "13_2025876373378936833",
+              "start": 16,
+              "url": "https://t.co/9v3f4TM3MK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025938943892721897",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1013
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025876396535664763",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_adip0cere: https://t.co/9v3f4TM3MK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025876373378936833"
+          ]
+        },
+        "author_id": "1778700125944381440",
+        "conversation_id": "2025876396535664763",
+        "created_at": "2026-02-23T10:12:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T11:12:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025876396535664763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9v3f4TM3MK",
+              "end": 23,
+              "expanded_url": "https://x.com/_adip0cere/status/2025876396535664763/video/1",
+              "media_key": "13_2025876373378936833",
+              "start": 0,
+              "url": "https://t.co/9v3f4TM3MK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025876396535664763",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1154,
+          "impression_count": 68078,
+          "like_count": 10303,
+          "quote_count": 14,
+          "reply_count": 4,
+          "retweet_count": 1013
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9v3f4TM3MK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 770,
+          "like_count": 22293,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 4417
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T08:22:49.000Z",
+        "description": "FA▶︎ #リジ絵クト\n無断転載🚫AI学習🚫\n現在有償依頼を受け付けています。気になった方は気軽にDMやリプなどでお声がけください！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 5,
+                "tag": "リジ絵クト"
+              }
+            ]
+          }
+        },
+        "id": "1778700125944381440",
+        "location": "ヘッダーはかわるいのちちゃん作",
+        "name": "拒否ଳ ご依頼受付中",
+        "pinned_tweet_id": "2022630799305248849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820261973239754752/7rxYTk0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19213,
+          "following_count": 188,
+          "like_count": 12557,
+          "listed_count": 65,
+          "media_count": 238,
+          "tweet_count": 502
+        },
+        "username": "_adip0cere",
+        "verified": false
+      }
+    ]
+  }
+}

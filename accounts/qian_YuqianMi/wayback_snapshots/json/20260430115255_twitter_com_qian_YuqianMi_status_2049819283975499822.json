@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049465029431644160"
+      ],
+      "media_source_tweet_id": [
+        "2049465103196565782"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2049819283975499822",
+    "created_at": "2026-04-30T11:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049819283975499822"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2030500472327720961",
+          "start": 3,
+          "username": "earthserenityy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v93Cg4WTzg",
+          "end": 43,
+          "expanded_url": "https://x.com/earthserenityy/status/2049465103196565782/video/1",
+          "media_key": "13_2049465029431644160",
+          "start": 20,
+          "url": "https://t.co/v93Cg4WTzg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049819283975499822",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 992
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049465103196565782",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @earthserenityy: https://t.co/v93Cg4WTzg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7878,
+        "height": 1350,
+        "media_key": "13_2049465029431644160",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049465029431644160/img/bY-rlc0Unl9TjIQ6.jpg",
+        "public_metrics": {
+          "view_count": 27314
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049465029431644160/vid/avc1/1080x1350/SYVzmmtqbA2D5pgH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049465029431644160/vid/avc1/480x600/hV0D9rVvq9Nc7Hmo.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049465029431644160/vid/avc1/320x400/Hpbi9PViBiTlh9Mm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049465029431644160/pl/KqIJa_PoU_zjpfqR.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049465029431644160/vid/avc1/720x900/ppEXN7JthxDcpGFO.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049465029431644160"
+          ],
+          "media_source_tweet_id": [
+            "2049465103196565782"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2049819283975499822",
+        "created_at": "2026-04-30T11:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049819283975499822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2030500472327720961",
+              "start": 3,
+              "username": "earthserenityy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v93Cg4WTzg",
+              "end": 43,
+              "expanded_url": "https://x.com/earthserenityy/status/2049465103196565782/video/1",
+              "media_key": "13_2049465029431644160",
+              "start": 20,
+              "url": "https://t.co/v93Cg4WTzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049819283975499822",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 992
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049465103196565782",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @earthserenityy: https://t.co/v93Cg4WTzg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049465029431644160"
+          ]
+        },
+        "author_id": "2030500472327720961",
+        "conversation_id": "2049465103196565782",
+        "created_at": "2026-04-29T12:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049465103196565782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v93Cg4WTzg",
+              "end": 23,
+              "expanded_url": "https://x.com/earthserenityy/status/2049465103196565782/video/1",
+              "media_key": "13_2049465029431644160",
+              "start": 0,
+              "url": "https://t.co/v93Cg4WTzg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049465103196565782",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 309,
+          "impression_count": 120918,
+          "like_count": 5364,
+          "quote_count": 20,
+          "reply_count": 28,
+          "retweet_count": 992
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/v93Cg4WTzg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 860,
+          "like_count": 27655,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 5482
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-08T04:27:10.000Z",
+        "description": "for tired minds and wandering hearts",
+        "id": "2030500472327720961",
+        "name": "🌿",
+        "pinned_tweet_id": "2048615078690525412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047864398585413632/AUuftf39_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9458,
+          "following_count": 809,
+          "like_count": 1625,
+          "listed_count": 11,
+          "media_count": 940,
+          "tweet_count": 1661
+        },
+        "username": "earthserenityy",
+        "verified": true
+      }
+    ]
+  }
+}

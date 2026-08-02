@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2008394999214592245",
+    "created_at": "2026-01-06T22:42:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T23:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008670580426539210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1931915142192824320",
+          "start": 0,
+          "username": "MuratiLaudy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008670580426539210",
+    "in_reply_to_user_id": "1931915142192824320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008617665095664021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuratiLaudy 不尊重不理解。只是为了学费的话办法多的是。如果需要家长牺牲尊严来换取学费那就不该上这样的学。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2008394999214592245",
+        "created_at": "2026-01-06T22:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T23:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008670580426539210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1931915142192824320",
+              "start": 0,
+              "username": "MuratiLaudy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008670580426539210",
+        "in_reply_to_user_id": "1931915142192824320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008617665095664021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuratiLaudy 不尊重不理解。只是为了学费的话办法多的是。如果需要家长牺牲尊严来换取学费那就不该上这样的学。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1931915142192824320",
+        "conversation_id": "2008394999214592245",
+        "created_at": "2026-01-06T19:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T20:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008617665095664021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008617665095664021",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008394999214592245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 嗯，我母亲有一个同事是靠出轨为孩子赚学费的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 553,
+          "like_count": 9120,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2165
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T03:25:18.000Z",
+        "description": "你怎么复习到这里来了？还有7天期末",
+        "id": "1931915142192824320",
+        "name": "Laudy Murati",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006650514549735425/8JyI6Qg9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 13,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "username": "MuratiLaudy",
+        "verified": false
+      }
+    ]
+  }
+}

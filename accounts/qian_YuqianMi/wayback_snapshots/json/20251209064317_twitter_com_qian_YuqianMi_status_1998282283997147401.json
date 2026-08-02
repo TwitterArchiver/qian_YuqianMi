@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1998141334671200258",
+    "created_at": "2025-12-09T06:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T07:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998282283997147401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998282283997147401",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998141334671200258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 mon3ter周边（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1998141331701690368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7rS9F8a8AAqixx.jpg",
+        "width": 1122
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1998141334671200258",
+        "created_at": "2025-12-09T06:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998282283997147401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998282283997147401",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998141334671200258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 mon3ter周边（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998141331701690368"
+          ]
+        },
+        "author_id": "1303335410609790976",
+        "conversation_id": "1998141334671200258",
+        "created_at": "2025-12-08T21:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T22:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998141334671200258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fj8chQ2NME",
+              "end": 39,
+              "expanded_url": "https://x.com/Rococo90933671/status/1998141334671200258/photo/1",
+              "media_key": "3_1998141331701690368",
+              "start": 16,
+              "url": "https://t.co/fj8chQ2NME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998141334671200258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9458,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜如此抽象的店名是卖什么的？ https://t.co/fj8chQ2NME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 363,
+          "like_count": 4322,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1094
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "不是24岁，不是学生。母单、足控、十六年war3玩家、语言爱好者，想成为polyglot。椎名林檎を愛する。本科辍学，未能毕业。回fo看认可度，可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，包括钢姐。Langues: 🇬🇧🇯🇵🇫🇷。每种语言各有不公开的小号，但是在考虑露出(bushi)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/XjHYf5Fa0m"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐帝国京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7262,
+          "following_count": 2218,
+          "like_count": 29334,
+          "listed_count": 18,
+          "media_count": 2935,
+          "tweet_count": 17092
+        },
+        "url": "https://t.co/XjHYf5Fa0m",
+        "username": "Rococo90933671",
+        "verified": false
+      }
+    ]
+  }
+}

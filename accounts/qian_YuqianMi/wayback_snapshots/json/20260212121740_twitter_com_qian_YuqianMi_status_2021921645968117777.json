@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021921622480072705",
+        "3_2021921622308069376",
+        "3_2021921622106816512",
+        "3_2021921621959929856"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2021921645968117777",
+    "created_at": "2026-02-12T12:17:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:17:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021921645968117777"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZnzpTazxEo",
+          "end": 69,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2021921645968117777/photo/1",
+          "media_key": "3_2021921622480072705",
+          "start": 46,
+          "url": "https://t.co/ZnzpTazxEo"
+        },
+        {
+          "display_url": "pic.x.com/ZnzpTazxEo",
+          "end": 69,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2021921645968117777/photo/1",
+          "media_key": "3_2021921622308069376",
+          "start": 46,
+          "url": "https://t.co/ZnzpTazxEo"
+        },
+        {
+          "display_url": "pic.x.com/ZnzpTazxEo",
+          "end": 69,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2021921645968117777/photo/1",
+          "media_key": "3_2021921622106816512",
+          "start": 46,
+          "url": "https://t.co/ZnzpTazxEo"
+        },
+        {
+          "display_url": "pic.x.com/ZnzpTazxEo",
+          "end": 69,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2021921645968117777/photo/1",
+          "media_key": "3_2021921621959929856",
+          "start": 46,
+          "url": "https://t.co/ZnzpTazxEo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021921645968117777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天在外面玩了一整天！特别开心呀十九岁生日\n嘿嘿嘿爱你们呀₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛ https://t.co/ZnzpTazxEo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021921622480072705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9PAMebMAE1Xzq.jpg",
+        "width": 1329
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021921622308069376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9PAL1aoAAiZnH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2021921622106816512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9PALFbwAAK-1W.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1273,
+        "media_key": "3_2021921621959929856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA9PAKiacAAsfxK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021921622480072705",
+            "3_2021921622308069376",
+            "3_2021921622106816512",
+            "3_2021921621959929856"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2021921645968117777",
+        "created_at": "2026-02-12T12:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021921645968117777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZnzpTazxEo",
+              "end": 69,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2021921645968117777/photo/1",
+              "media_key": "3_2021921622480072705",
+              "start": 46,
+              "url": "https://t.co/ZnzpTazxEo"
+            },
+            {
+              "display_url": "pic.x.com/ZnzpTazxEo",
+              "end": 69,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2021921645968117777/photo/1",
+              "media_key": "3_2021921622308069376",
+              "start": 46,
+              "url": "https://t.co/ZnzpTazxEo"
+            },
+            {
+              "display_url": "pic.x.com/ZnzpTazxEo",
+              "end": 69,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2021921645968117777/photo/1",
+              "media_key": "3_2021921622106816512",
+              "start": 46,
+              "url": "https://t.co/ZnzpTazxEo"
+            },
+            {
+              "display_url": "pic.x.com/ZnzpTazxEo",
+              "end": 69,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2021921645968117777/photo/1",
+              "media_key": "3_2021921621959929856",
+              "start": 46,
+              "url": "https://t.co/ZnzpTazxEo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021921645968117777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在外面玩了一整天！特别开心呀十九岁生日\n嘿嘿嘿爱你们呀₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛ https://t.co/ZnzpTazxEo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1026,
+          "following_count": 746,
+          "like_count": 19945,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 4061
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

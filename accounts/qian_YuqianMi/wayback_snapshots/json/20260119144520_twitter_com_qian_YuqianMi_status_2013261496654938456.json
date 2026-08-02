@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2013255211754914121",
+    "created_at": "2026-01-19T14:45:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-19T15:45:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013261496654938456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906024483431047168",
+          "start": 0,
+          "username": "Chudokusho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013261496654938456",
+    "in_reply_to_user_id": "1906024483431047168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013255211754914121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chudokusho 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2013255211754914121",
+        "created_at": "2026-01-19T14:45:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:45:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013261496654938456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013261496654938456",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013255211754914121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906024483431047168",
+        "conversation_id": "2013255211754914121",
+        "created_at": "2026-01-19T14:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013255211754914121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013255211754914121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "马上500fo啦 谢谢大家喜欢我 陪着我 以后也要和我一起玩！\n这条给大家抽个奖！只要是我的小粉丝评论一下就可以！等500就开！\n咪没有太多喵喵币 希望大家不要嫌弃~\n🎁30r ✖️1\n🎁20r ✖️2\n🎁10r  ✖️3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 669,
+          "like_count": 14209,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 3124
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chudokusho1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chudokusho1",
+                "start": 0,
+                "url": "https://t.co/B2IXaTp1HF"
+              }
+            ]
+          }
+        },
+        "id": "1906024483431047168",
+        "location": "匿名信箱",
+        "name": "叙春日",
+        "pinned_tweet_id": "2012377584156447185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006905531848601602/DnnroOGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 68,
+          "like_count": 2473,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/B2IXaTp1HF",
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014362428440490085",
+    "created_at": "2026-01-23T04:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T05:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014557643059429691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1997985969958699008",
+          "start": 0,
+          "username": "ZaneTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014557643059429691",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014362428440490085",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaneTuT 我也是，，相册里一堆情头我笑了。我对象呢？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014362428440490085",
+        "created_at": "2026-01-23T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014557643059429691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014557643059429691",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014362428440490085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 我也是，，相册里一堆情头我笑了。我对象呢？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2014362428440490085",
+        "created_at": "2026-01-22T15:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T16:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014362428440490085"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014362428440490085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4815,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "妈的我真的不知道我收藏那么多情侣头像做什么 情呢？侣呢？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 734,
+          "following_count": 683,
+          "like_count": 15237,
+          "listed_count": 1,
+          "media_count": 256,
+          "tweet_count": 3299
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信看心情回丨高频率发帖丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 163,
+          "like_count": 2507,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1166
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

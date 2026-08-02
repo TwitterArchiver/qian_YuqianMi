@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1999699966395392131",
+    "created_at": "2025-12-13T11:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T12:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999798104091210085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679982917806882816",
+          "start": 0,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999798104091210085",
+    "in_reply_to_user_id": "1679982917806882816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999699966395392131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limao382525 我来吃口煎蛋づ♡ど"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999699954672238594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Bcg4-agAIfrel.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1999699966395392131",
+        "created_at": "2025-12-13T11:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999798104091210085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679982917806882816",
+              "start": 0,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999798104091210085",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999699966395392131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limao382525 我来吃口煎蛋づ♡ど"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999699954672238594"
+          ]
+        },
+        "author_id": "1679982917806882816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1999699966395392131",
+        "created_at": "2025-12-13T04:36:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T05:36:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999699966395392131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GAToRcoMBu",
+              "end": 99,
+              "expanded_url": "https://x.com/limao382525/status/1999699966395392131/photo/1",
+              "media_key": "3_1999699954672238594",
+              "start": 76,
+              "url": "https://t.co/GAToRcoMBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999699966395392131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家大家~\n曼波今天超开心的~\n每天大家在一起感觉曼波的生活也变成彩色了呢~\nps.曼波这里热死了…今天还有17度…曼波也想穿的圆滚滚的在雪地里玩呀… https://t.co/GAToRcoMBu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 371,
+          "like_count": 4836,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1209
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "这里是曼波喵~想叫什么都可以啦~ ٩(´Д` ;)۶:.* 嘴巴笨笨的…如果说了什么话让大家不舒服请一定要说哦！！！(不要讨厌我˃̣̣̥᷄⌓˂̣̣̥᷅ )曼波会努力让大家喜欢上我的！！！ 之后会在推上分享一下傻傻的日常~~如果大家愿意的话，私信随意骚扰曼波也没问题的！！☆～（ゝ。∂",
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1994807166642131455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995521044510019584/cTIw1cJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 175,
+          "like_count": 3094,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 1305
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

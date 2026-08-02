@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014036251155079168"
+      ],
+      "media_source_tweet_id": [
+        "2014036326614736991"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2014236492747661399",
+    "created_at": "2026-01-22T07:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014236492747661399"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "光が死んだ夏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1495694373992169473",
+          "start": 3,
+          "username": "carL__4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1QwA0AtLnk",
+          "end": 45,
+          "expanded_url": "https://x.com/carL__4/status/2014036326614736991/photo/1",
+          "media_key": "3_2014036251155079168",
+          "start": 22,
+          "url": "https://t.co/1QwA0AtLnk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014236492747661399",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2877
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014036326614736991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @carL__4: 🍰#光が死んだ夏 https://t.co/1QwA0AtLnk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3648,
+        "media_key": "3_2014036251155079168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_NLTLLboAAxE-A.jpg",
+        "width": 3018
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014036251155079168"
+          ],
+          "media_source_tweet_id": [
+            "2014036326614736991"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014236492747661399",
+        "created_at": "2026-01-22T07:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014236492747661399"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "光が死んだ夏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1495694373992169473",
+              "start": 3,
+              "username": "carL__4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QwA0AtLnk",
+              "end": 45,
+              "expanded_url": "https://x.com/carL__4/status/2014036326614736991/photo/1",
+              "media_key": "3_2014036251155079168",
+              "start": 22,
+              "url": "https://t.co/1QwA0AtLnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014236492747661399",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2877
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014036326614736991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @carL__4: 🍰#光が死んだ夏 https://t.co/1QwA0AtLnk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014036251155079168"
+          ]
+        },
+        "author_id": "1495694373992169473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2014036326614736991",
+        "created_at": "2026-01-21T18:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T19:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014036326614736991"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 1,
+              "tag": "光が死んだ夏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1QwA0AtLnk",
+              "end": 32,
+              "expanded_url": "https://x.com/carL__4/status/2014036326614736991/photo/1",
+              "media_key": "3_2014036251155079168",
+              "start": 9,
+              "url": "https://t.co/1QwA0AtLnk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014036326614736991",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1021,
+          "impression_count": 114681,
+          "like_count": 19643,
+          "quote_count": 42,
+          "reply_count": 6,
+          "retweet_count": 2877
+        },
+        "reply_settings": "everyone",
+        "text": "🍰#光が死んだ夏 https://t.co/1QwA0AtLnk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 716,
+          "following_count": 681,
+          "like_count": 14927,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 3257
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T09:38:43.000Z",
+        "description": "🇰🇷| Re-upload, Edit, Ai❌",
+        "id": "1495694373992169473",
+        "name": "카",
+        "pinned_tweet_id": "2005702520128299245",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941537616387768325/rAkRIUlI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27074,
+          "following_count": 0,
+          "like_count": 62,
+          "listed_count": 127,
+          "media_count": 100,
+          "tweet_count": 147
+        },
+        "username": "carL__4",
+        "verified": false
+      }
+    ]
+  }
+}

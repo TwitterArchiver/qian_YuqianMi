@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990658756489982082",
+    "created_at": "2025-11-18T05:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T06:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990659077933052373"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990659077933052373",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990658756489982082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就不是干大事的人 从小我就没什么远大理想。每个人都能造原子弹的话社会也没法运转了。我就想普通的活下去而已，这么刀锋般的生活我真的会惧怕，，还是远离吧。\n\n就这样稀里糊涂地过完一生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 461,
+        "media_key": "3_1990658752220196865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6A9lpMbcAEYmjG.jpg",
+        "width": 944
+      },
+      {
+        "height": 1317,
+        "media_key": "3_1990658753205866496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6A9ls3bkAAOSIi.jpg",
+        "width": 1133
+      },
+      {
+        "height": 1262,
+        "media_key": "3_1990658753142923264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6A9lsobIAAfh2Q.jpg",
+        "width": 1325
+      },
+      {
+        "height": 1665,
+        "media_key": "3_1990658753205841925",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6A9ls3bMAUCExS.jpg",
+        "width": 1315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990658756489982082",
+        "created_at": "2025-11-18T05:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990659077933052373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990659077933052373",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990658756489982082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就不是干大事的人 从小我就没什么远大理想。每个人都能造原子弹的话社会也没法运转了。我就想普通的活下去而已，这么刀锋般的生活我真的会惧怕，，还是远离吧。\n\n就这样稀里糊涂地过完一生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990658752220196865",
+            "3_1990658753205866496",
+            "3_1990658753142923264",
+            "3_1990658753205841925"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990658756489982082",
+        "created_at": "2025-11-18T05:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990658756489982082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QQT3SQqvX5",
+              "end": 166,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1990658756489982082/photo/1",
+              "media_key": "3_1990658752220196865",
+              "start": 143,
+              "url": "https://t.co/QQT3SQqvX5"
+            },
+            {
+              "display_url": "pic.x.com/QQT3SQqvX5",
+              "end": 166,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1990658756489982082/photo/1",
+              "media_key": "3_1990658753205866496",
+              "start": 143,
+              "url": "https://t.co/QQT3SQqvX5"
+            },
+            {
+              "display_url": "pic.x.com/QQT3SQqvX5",
+              "end": 166,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1990658756489982082/photo/1",
+              "media_key": "3_1990658753142923264",
+              "start": 143,
+              "url": "https://t.co/QQT3SQqvX5"
+            },
+            {
+              "display_url": "pic.x.com/QQT3SQqvX5",
+              "end": 166,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1990658756489982082/photo/1",
+              "media_key": "3_1990658753205841925",
+              "start": 143,
+              "url": "https://t.co/QQT3SQqvX5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990658756489982082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "老师给了一个官方ai平台让我们写报告，p1是我写给ai的东西，p234是ai给我的生涯规划\n还是比较清晰的认识到我和“优秀的人”差距有多大吧。真的是有人在用这种规划引领每天的行动，但是我连里面写的那些名词是什么都不知道。\n我没有什么惭愧的（我竟然突然阔达了一下谢谢你YuMi谢谢你。） https://t.co/QQT3SQqvX5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 118,
+          "like_count": 745,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 166
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

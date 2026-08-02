@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994797797963698388",
+    "created_at": "2025-11-29T15:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994797797963698388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanoka_san/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/nanoka_san/status/1994322152145997927",
+          "start": 29,
+          "url": "https://t.co/FBMGNzKPUe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994797797963698388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994322152145997927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下辈子能画成这样吗，，\n这个塑造一笔一笔能耗我10h，， https://t.co/FBMGNzKPUe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 41625,
+        "height": 646,
+        "media_key": "13_1994322089122385921",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994322089122385921/img/XEKOHkQ03hgtXNJK.jpg",
+        "public_metrics": {
+          "view_count": 257048
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994322089122385921/vid/avc1/320x350/ZBwVOorcJ8d01gQ8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994322089122385921/vid/avc1/480x524/2mLW2PcqjHHXzkgv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994322089122385921/vid/avc1/590x646/2Tubo-QAp3RJeFaR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994322089122385921/pl/vHMOHMnGN9PhQein.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994797797963698388",
+        "created_at": "2025-11-29T15:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994797797963698388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanoka_san/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/nanoka_san/status/1994322152145997927",
+              "start": 29,
+              "url": "https://t.co/FBMGNzKPUe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994797797963698388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994322152145997927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下辈子能画成这样吗，，\n这个塑造一笔一笔能耗我10h，， https://t.co/FBMGNzKPUe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994322089122385921"
+          ]
+        },
+        "author_id": "1262785483630772227",
+        "conversation_id": "1994322152145997927",
+        "created_at": "2025-11-28T08:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T09:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994322152145997927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/juANC7BCIi",
+              "end": 23,
+              "expanded_url": "https://x.com/nanoka_san/status/1994322152145997927/video/1",
+              "media_key": "13_1994322089122385921",
+              "start": 0,
+              "url": "https://t.co/juANC7BCIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994322152145997927",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13951,
+          "impression_count": 732424,
+          "like_count": 29873,
+          "quote_count": 228,
+          "reply_count": 8,
+          "retweet_count": 3690
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/juANC7BCIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 302,
+          "like_count": 2611,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 643
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-19T16:41:43.000Z",
+        "description": "✉️zinntyou8417@gmail.com(2026年1月以降納品)┊skeb：https://t.co/EkMOpYeOL6 ┊ booth：https://t.co/kzpBP2ttJI┊ポートフォリオ：https://t.co/UYHcYcHVzp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nanoka_san",
+                "end": 66,
+                "expanded_url": "https://skeb.jp/@nanoka_san",
+                "start": 43,
+                "url": "https://t.co/EkMOpYeOL6"
+              },
+              {
+                "display_url": "yayonano.booth.pm",
+                "end": 98,
+                "expanded_url": "https://yayonano.booth.pm/",
+                "start": 75,
+                "url": "https://t.co/kzpBP2ttJI"
+              },
+              {
+                "display_url": "fori.io/nanokasan",
+                "end": 130,
+                "expanded_url": "https://fori.io/nanokasan",
+                "start": 107,
+                "url": "https://t.co/UYHcYcHVzp"
+              }
+            ]
+          }
+        },
+        "id": "1262785483630772227",
+        "location": "AI利用・無断転載禁止",
+        "name": "7日",
+        "pinned_tweet_id": "1860987346969297039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653639904298176512/qmz8H9pU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189228,
+          "following_count": 855,
+          "like_count": 33046,
+          "listed_count": 1296,
+          "media_count": 127,
+          "tweet_count": 1021
+        },
+        "username": "nanoka_san",
+        "verified": true
+      }
+    ]
+  }
+}

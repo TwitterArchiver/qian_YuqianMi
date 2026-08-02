@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029925978835976192"
+      ],
+      "media_source_tweet_id": [
+        "2029925985836269962"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2030127463855181949",
+    "created_at": "2026-03-07T03:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T04:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030127463855181949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1875278432273362949",
+          "start": 3,
+          "username": "ooPATIQoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lf2VjoslkK",
+          "end": 38,
+          "expanded_url": "https://x.com/ooPATIQoo/status/2029925985836269962/photo/1",
+          "media_key": "3_2029925978835976192",
+          "start": 15,
+          "url": "https://t.co/lf2VjoslkK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030127463855181949",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029925985836269962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ooPATIQoo: https://t.co/lf2VjoslkK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3172,
+        "media_key": "3_2029925978835976192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu-7DjbAAA_2zj.jpg",
+        "width": 2998
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029925978835976192"
+          ],
+          "media_source_tweet_id": [
+            "2029925985836269962"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2030127463855181949",
+        "created_at": "2026-03-07T03:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T04:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030127463855181949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1875278432273362949",
+              "start": 3,
+              "username": "ooPATIQoo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lf2VjoslkK",
+              "end": 38,
+              "expanded_url": "https://x.com/ooPATIQoo/status/2029925985836269962/photo/1",
+              "media_key": "3_2029925978835976192",
+              "start": 15,
+              "url": "https://t.co/lf2VjoslkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030127463855181949",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029925985836269962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ooPATIQoo: https://t.co/lf2VjoslkK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029925978835976192"
+          ]
+        },
+        "author_id": "1875278432273362949",
+        "conversation_id": "2029925985836269962",
+        "created_at": "2026-03-06T14:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029925985836269962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lf2VjoslkK",
+              "end": 23,
+              "expanded_url": "https://x.com/ooPATIQoo/status/2029925985836269962/photo/1",
+              "media_key": "3_2029925978835976192",
+              "start": 0,
+              "url": "https://t.co/lf2VjoslkK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029925985836269962",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 29676,
+          "like_count": 2981,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lf2VjoslkK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1182,
+          "following_count": 818,
+          "like_count": 24869,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 4879
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T20:30:06.000Z",
+        "description": "◻️스터디 계정\n◻️illust: @pati_Q_\n◻️커미션: https://t.co/WWZzNNS4HZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "pati_Q_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kre.pe/rRVm",
+                "end": 58,
+                "expanded_url": "https://kre.pe/rRVm",
+                "start": 35,
+                "url": "https://t.co/WWZzNNS4HZ"
+              }
+            ]
+          }
+        },
+        "id": "1875278432273362949",
+        "name": "파티큐",
+        "pinned_tweet_id": "1954169549043138897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947719406618017792/OPiOO0Xd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10476,
+          "following_count": 75,
+          "like_count": 3901,
+          "listed_count": 68,
+          "media_count": 203,
+          "tweet_count": 587
+        },
+        "username": "ooPATIQoo",
+        "verified": true
+      }
+    ]
+  }
+}

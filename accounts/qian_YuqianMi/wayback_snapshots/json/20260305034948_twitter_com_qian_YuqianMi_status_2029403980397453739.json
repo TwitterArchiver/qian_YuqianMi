@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2028988476130013410",
+    "created_at": "2026-03-05T03:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T04:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029403980397453739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918236611684233216",
+          "start": 0,
+          "username": "mshuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029403980397453739",
+    "in_reply_to_user_id": "1918236611684233216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028988476130013410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mshuxing 诶嘿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2028988476130013410",
+        "created_at": "2026-03-05T03:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029403980397453739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918236611684233216",
+              "start": 0,
+              "username": "mshuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029403980397453739",
+        "in_reply_to_user_id": "1918236611684233216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028988476130013410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mshuxing 诶嘿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918236611684233216",
+        "conversation_id": "2028988476130013410",
+        "created_at": "2026-03-04T00:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T01:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028988476130013410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028988476130013410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3398,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经分不清男女了，怎么做到这么萌的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 810,
+          "like_count": 24506,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 4799
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T09:30:44.000Z",
+        "description": "我是低龄 2011年 高p线下查无此人｜幼幼 | 兄控（性取向不明) | 惨圈 割手 ｜顺女 | 友跨｜INTP-T｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhan0804",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhan0804",
+                "start": 0,
+                "url": "https://t.co/m5r02qyK7z"
+              }
+            ]
+          }
+        },
+        "id": "1918236611684233216",
+        "location": "🚪纯绿88 128 288 zfb口令",
+        "name": "呆幼作",
+        "pinned_tweet_id": "2026322590273356003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028239700025131009/6Rn_hLvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 145,
+          "like_count": 10503,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/m5r02qyK7z",
+        "username": "mshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2017207864687735201",
+    "created_at": "2026-01-30T13:23:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T14:23:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017227059597324662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589508609578176512",
+          "start": 0,
+          "username": "mifanmiaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017227059597324662",
+    "in_reply_to_user_id": "1589508609578176512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017207864687735201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mifanmiaomiao 哈哈哈哈好萌的胖次"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1760,
+        "media_key": "3_2017207537695633408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_6PkWKWsAAhNq-.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2017207864687735201",
+        "created_at": "2026-01-30T13:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017227059597324662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589508609578176512",
+              "start": 0,
+              "username": "mifanmiaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017227059597324662",
+        "in_reply_to_user_id": "1589508609578176512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017207864687735201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mifanmiaomiao 哈哈哈哈好萌的胖次"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017207537695633408"
+          ]
+        },
+        "author_id": "1589508609578176512",
+        "conversation_id": "2017207864687735201",
+        "created_at": "2026-01-30T12:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017207864687735201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "奴的日记"
+            },
+            {
+              "end": 25,
+              "start": 23,
+              "tag": "m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HeNDmXbLCh",
+              "end": 49,
+              "expanded_url": "https://x.com/mifanmiaomiao/status/2017207864687735201/photo/1",
+              "media_key": "3_2017207537695633408",
+              "start": 26,
+              "url": "https://t.co/HeNDmXbLCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017207864687735201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 126,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示内裤   \n哈哈哈我p的巨白\n#奴的日记 #m https://t.co/HeNDmXbLCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 702,
+          "like_count": 16769,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 3568
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T06:42:57.000Z",
+        "description": "会互fo~（大部分时间在搞/写/发黄色介意可取关~）俺喜欢和大家交朋友！ 欢迎互转互粉互赞~正在努力学英语润出去.... 偶尔会写点抽象的满足自己！！会给互fo画画（不过技术不太好 /画的有些慢）希望宝宝会喜欢^•͈༝•^ฅ欢迎宝宝们来找我私信聊天哦🥰太冒昧的私信休怪我的刀不长眼！🔪🪓🗡",
+        "id": "1589508609578176512",
+        "name": "米花糖",
+        "pinned_tweet_id": "1998563648768487661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998359027051618304/QN4w_EJX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 853,
+          "like_count": 7443,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1592
+        },
+        "username": "mifanmiaomiao",
+        "verified": false
+      }
+    ]
+  }
+}

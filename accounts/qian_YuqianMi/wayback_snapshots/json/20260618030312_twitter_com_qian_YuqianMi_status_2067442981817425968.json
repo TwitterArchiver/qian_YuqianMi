@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2067442981817425968",
+    "created_at": "2026-06-18T03:03:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T04:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067442981817425968"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/keyfipyIasimIa…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/keyfipyIasimIar/status/2067200590992572761",
+          "start": 5,
+          "url": "https://t.co/rYGNG90LAV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067442981817425968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067200590992572761",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了 https://t.co/rYGNG90LAV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23244,
+        "height": 860,
+        "media_key": "13_2067197059564707840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067197059564707840/img/o_vIqGYHtrnK8-E5.jpg",
+        "public_metrics": {
+          "view_count": 237491
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067197059564707840/vid/avc1/320x390/FWiqJVj2XfYBuD_u.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067197059564707840/vid/avc1/480x586/ZghEzXejXHgKOT21.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067197059564707840/vid/avc1/704x860/bOlks1SFAu3qszHc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067197059564707840/pl/YLK2AfBPn3KzEyaf.m3u8?v=831"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2067442981817425968",
+        "created_at": "2026-06-18T03:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067442981817425968"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keyfipyIasimIa…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/keyfipyIasimIar/status/2067200590992572761",
+              "start": 5,
+              "url": "https://t.co/rYGNG90LAV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067442981817425968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067200590992572761",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了 https://t.co/rYGNG90LAV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067197059564707840"
+          ]
+        },
+        "author_id": "1417240690438909958",
+        "conversation_id": "2067200590992572761",
+        "created_at": "2026-06-17T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067200590992572761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwWRTYCjxw",
+              "end": 81,
+              "expanded_url": "https://x.com/keyfipyIasimIar/status/2067200590992572761/video/1",
+              "media_key": "13_2067197059564707840",
+              "start": 58,
+              "url": "https://t.co/JwWRTYCjxw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067200590992572761",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 773,
+          "impression_count": 489833,
+          "like_count": 5314,
+          "quote_count": 18,
+          "reply_count": 19,
+          "retweet_count": 402
+        },
+        "reply_settings": "everyone",
+        "text": "Ağız hareketlerine bağlı olarak göz ifadeleri de değişir. https://t.co/JwWRTYCjxw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 887,
+          "like_count": 29391,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 5956
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T21:51:52.000Z",
+        "description": "Günlük koşturmacada küçük bir soluk…\nKeyifli anlar ve iyi hissettiren detaylarla dolu... Reklam ve İşbirliği için DM 👉🏻📩",
+        "id": "1417240690438909958",
+        "name": "Keyfi Paylaşımlar",
+        "pinned_tweet_id": "2067351579645403525",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898906204904075264/ZfI1pPhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425828,
+          "following_count": 23,
+          "like_count": 68841,
+          "listed_count": 331,
+          "media_count": 6115,
+          "tweet_count": 6302
+        },
+        "username": "keyfipyIasimIar",
+        "verified": true
+      }
+    ]
+  }
+}

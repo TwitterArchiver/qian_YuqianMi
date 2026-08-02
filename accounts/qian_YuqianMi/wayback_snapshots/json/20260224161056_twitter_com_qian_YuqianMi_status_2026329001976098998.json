@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2026329001976098998",
+    "created_at": "2026-02-24T16:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T17:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026329001976098998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maruu_aru/stat…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/maruu_aru/status/2026294320668840076",
+          "start": 140,
+          "url": "https://t.co/vPlgh9qSBU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026329001976098998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026294320668840076",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就喜欢这种画嗯。比那种超级绚烂复杂的喜欢太多太多了。寥寥几笔，功力已经硬的我流水了。就脖子以下那一半的画面，塑造能力强的我五体投地（不是说脖子以上不强的意思）。\n看的超级舒服啊赏心悦目。。我真的很想学这种东西。哎我做得到吗\n（可能夸的有点夸张了但是我很激动！100%真心！！） https://t.co/vPlgh9qSBU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026294316562632704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7X8fUb0AAURUs.jpg",
+        "width": 1389
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2026329001976098998",
+        "created_at": "2026-02-24T16:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026329001976098998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maruu_aru/stat…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/maruu_aru/status/2026294320668840076",
+              "start": 140,
+              "url": "https://t.co/vPlgh9qSBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026329001976098998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026294320668840076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就喜欢这种画嗯。比那种超级绚烂复杂的喜欢太多太多了。寥寥几笔，功力已经硬的我流水了。就脖子以下那一半的画面，塑造能力强的我五体投地（不是说脖子以上不强的意思）。\n看的超级舒服啊赏心悦目。。我真的很想学这种东西。哎我做得到吗\n（可能夸的有点夸张了但是我很激动！100%真心！！） https://t.co/vPlgh9qSBU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026294316562632704"
+          ]
+        },
+        "author_id": "1081776687514300416",
+        "conversation_id": "2026294320668840076",
+        "created_at": "2026-02-24T13:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026294320668840076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6tM6gemVC",
+              "end": 26,
+              "expanded_url": "https://x.com/maruu_aru/status/2026294320668840076/photo/1",
+              "media_key": "3_2026294316562632704",
+              "start": 3,
+              "url": "https://t.co/Z6tM6gemVC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026294320668840076",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 6474,
+          "like_count": 1073,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "oc https://t.co/Z6tM6gemVC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 779,
+          "like_count": 22552,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 4443
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-06T04:57:15.000Z",
+        "description": "畫很爛 在努力／TOG：❄🌰不逆／v3：最原中心/weibo：aruMaru／除獲得許可外禁止轉載❌／禁止商用❌／中國語、日本語OK／自由插画师😔十分忙碌",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/16158827?share…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/16158827?share_medium=android&share_source=copy_link&bbid=PAg_BjcBM1YwCDg",
+                "start": 0,
+                "url": "https://t.co/ymAUBsflhJ"
+              }
+            ]
+          }
+        },
+        "id": "1081776687514300416",
+        "location": "愛之",
+        "name": "●●◎",
+        "pinned_tweet_id": "2009542265451213046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983872581687300096/vty3EpmK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13433,
+          "following_count": 326,
+          "like_count": 2628,
+          "listed_count": 42,
+          "media_count": 1243,
+          "tweet_count": 3661
+        },
+        "url": "https://t.co/ymAUBsflhJ",
+        "username": "maruu_aru",
+        "verified": false
+      }
+    ]
+  }
+}

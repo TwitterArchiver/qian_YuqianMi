@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dads",
+          "id": "847545883637891072",
+          "name": "Fatherhood"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "1997145648949514467",
+    "created_at": "2025-12-06T03:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T04:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997145648949514467"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "皇女殿下",
+          "probability": 0.6115,
+          "start": 33,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "703046273604067329",
+          "start": 3,
+          "username": "wanwan_majin5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997145648949514467",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 528
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997119020303372697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wanwan_majin5: 騎士学校で優秀な成績を収め、皇女殿下の近衛になるのは確実と謳われていたにも関わらず、勢力拡大を目論む父親に顔も知らない貴族の息子との政略結婚を命じられ、夢を打ち砕かれても虚ろな瞳で従うしかないイザベラ様\n(1/2) https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3888,
+        "media_key": "3_1997118997175980032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7cxJZDb0AATMm8.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1997145648949514467",
+        "created_at": "2025-12-06T03:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T04:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997145648949514467"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "皇女殿下",
+              "probability": 0.6115,
+              "start": 33,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "703046273604067329",
+              "start": 3,
+              "username": "wanwan_majin5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997145648949514467",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 528
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997119020303372697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wanwan_majin5: 騎士学校で優秀な成績を収め、皇女殿下の近衛になるのは確実と謳われていたにも関わらず、勢力拡大を目論む父親に顔も知らない貴族の息子との政略結婚を命じられ、夢を打ち砕かれても虚ろな瞳で従うしかないイザベラ様\n(1/2) https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997118997175980032"
+          ]
+        },
+        "author_id": "703046273604067329",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Dads",
+              "id": "847545883637891072",
+              "name": "Fatherhood"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1997119020303372697",
+        "created_at": "2025-12-06T01:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T02:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997119020303372697"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "皇女殿下",
+              "probability": 0.6098,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FaPGM1x8kU",
+              "end": 131,
+              "expanded_url": "https://x.com/wanwan_majin5/status/1997119020303372697/photo/1",
+              "media_key": "3_1997118997175980032",
+              "start": 108,
+              "url": "https://t.co/FaPGM1x8kU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997119020303372697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1239,
+          "impression_count": 298994,
+          "like_count": 8470,
+          "quote_count": 11,
+          "reply_count": 62,
+          "retweet_count": 528
+        },
+        "reply_settings": "everyone",
+        "text": "騎士学校で優秀な成績を収め、皇女殿下の近衛になるのは確実と謳われていたにも関わらず、勢力拡大を目論む父親に顔も知らない貴族の息子との政略結婚を命じられ、夢を打ち砕かれても虚ろな瞳で従うしかないイザベラ様\n(1/2) https://t.co/FaPGM1x8kU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 342,
+          "like_count": 3754,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 939
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-26T02:37:48.000Z",
+        "description": "KADOKAWAより『蒼アル』『ワンワン物語』『聖女さま？』など小説３作12冊。コミック２作８冊。日英中韓で発売中。ウェブポンよりグッズコラボ・orizumよりグッズコラボ\nhttps://t.co/2R8LVOfWgN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/xJM04",
+                "end": 110,
+                "expanded_url": "https://x.gd/xJM04",
+                "start": 87,
+                "url": "https://t.co/2R8LVOfWgN"
+              }
+            ]
+          }
+        },
+        "id": "703046273604067329",
+        "name": "犬魔人",
+        "pinned_tweet_id": "1974574791240843436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971373455691169792/VOlMQgKH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417181,
+          "following_count": 734,
+          "like_count": 21460,
+          "listed_count": 1824,
+          "media_count": 775,
+          "tweet_count": 18780
+        },
+        "username": "wanwan_majin5",
+        "verified": true
+      }
+    ]
+  }
+}

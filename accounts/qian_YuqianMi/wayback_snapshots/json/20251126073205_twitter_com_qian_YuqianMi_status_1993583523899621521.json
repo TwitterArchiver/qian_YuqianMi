@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993582297380164080",
+    "created_at": "2025-11-26T07:32:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T08:32:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993583523899621521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621160921539420161",
+          "start": 0,
+          "username": "SoraSushi776"
+        },
+        {
+          "end": 24,
+          "id": "1981062014517514240",
+          "start": 14,
+          "username": "weiye1995"
+        },
+        {
+          "end": 37,
+          "id": "758296624875446272",
+          "start": 25,
+          "username": "ShimonaChan"
+        },
+        {
+          "end": 51,
+          "id": "1346089740978638849",
+          "start": 38,
+          "username": "Nanarakuchan"
+        },
+        {
+          "end": 66,
+          "id": "1516470982986321923",
+          "start": 52,
+          "username": "Swimming_DOGE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993583523899621521",
+    "in_reply_to_user_id": "1621160921539420161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993582297380164080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoraSushi776 @weiye1995 @ShimonaChan @Nanarakuchan @Swimming_DOGE 宝宝₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛ \n（这是真宝宝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1993582288312111104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6qgh11akAAevvV.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993582297380164080",
+        "created_at": "2025-11-26T07:32:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:32:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993583523899621521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621160921539420161",
+              "start": 0,
+              "username": "SoraSushi776"
+            },
+            {
+              "end": 24,
+              "id": "1981062014517514240",
+              "start": 14,
+              "username": "weiye1995"
+            },
+            {
+              "end": 37,
+              "id": "758296624875446272",
+              "start": 25,
+              "username": "ShimonaChan"
+            },
+            {
+              "end": 51,
+              "id": "1346089740978638849",
+              "start": 38,
+              "username": "Nanarakuchan"
+            },
+            {
+              "end": 66,
+              "id": "1516470982986321923",
+              "start": 52,
+              "username": "Swimming_DOGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993583523899621521",
+        "in_reply_to_user_id": "1621160921539420161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993582297380164080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoraSushi776 @weiye1995 @ShimonaChan @Nanarakuchan @Swimming_DOGE 宝宝₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛ \n（这是真宝宝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993582288312111104"
+          ]
+        },
+        "author_id": "1621160921539420161",
+        "conversation_id": "1993582297380164080",
+        "created_at": "2025-11-26T07:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T08:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993582297380164080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "1976659813863227392",
+              "start": 22,
+              "username": "qian_YuqianMi"
+            },
+            {
+              "end": 47,
+              "id": "1981062014517514240",
+              "start": 37,
+              "username": "weiye1995"
+            },
+            {
+              "end": 66,
+              "id": "758296624875446272",
+              "start": 54,
+              "username": "ShimonaChan"
+            },
+            {
+              "end": 86,
+              "id": "1346089740978638849",
+              "start": 73,
+              "username": "Nanarakuchan"
+            },
+            {
+              "end": 101,
+              "id": "1516470982986321923",
+              "start": 87,
+              "username": "Swimming_DOGE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 129,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1992426624772685824/tS2_mcNg?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/CUOQVyBiks"
+            },
+            {
+              "display_url": "pic.x.com/bs9tgXfYjE",
+              "end": 153,
+              "expanded_url": "https://x.com/SoraSushi776/status/1993582297380164080/photo/1",
+              "media_key": "3_1993582288312111104",
+              "start": 130,
+              "url": "https://t.co/bs9tgXfYjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993582297380164080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @qian_YuqianMi @weiye1995\n👰 配偶: @ShimonaChan\n👶 孩子: @Nanarakuchan @Swimming_DOGE\n\n➡️ https://t.co/CUOQVyBiks https://t.co/bs9tgXfYjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 264,
+          "like_count": 1804,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 448
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T14:57:43.000Z",
+        "description": "**负能警告** ｜如果你不喜歡看我在這裡倒苦水的，可以退出了｜基礎： INFP-T｜大部分語言都會寫一點｜會發病｜想和你做朋友｜擅長：音游、開發 | 前後端分離人不分離｜共舞的線主制作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/SoraSushi776",
+                "end": 23,
+                "expanded_url": "http://www.github.com/SoraSushi776",
+                "start": 0,
+                "url": "https://t.co/cvKxUOJ6Vc"
+              }
+            ]
+          }
+        },
+        "id": "1621160921539420161",
+        "location": "Hualien County, Taiwan",
+        "name": "筱夕今天活着吗",
+        "pinned_tweet_id": "1992755641564430416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992751317081817089/FcOiwFXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 308,
+          "like_count": 306,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 373
+        },
+        "url": "https://t.co/cvKxUOJ6Vc",
+        "username": "SoraSushi776",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T18:16:19.000Z",
+        "description": "独立开发者 - 别约我 - 技术只够糊弄洋人",
+        "id": "1981062014517514240",
+        "location": "渥太华",
+        "name": "小名维也 - 他看起来好像一条狗啊",
+        "pinned_tweet_id": "1987566218887434665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989568556061921280/Xw9jj19Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 125,
+          "like_count": 637,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 104
+        },
+        "username": "weiye1995",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-27T13:42:58.000Z",
+        "description": "|| CN/EN/JP || Shimona or Rophlis || Icon: ©️Acacia || Banner: おにやまけい 様 || Fragments and Threads from the Void… || #まのさば #ヨグソトースの庭 #NeedyGirlOverdose",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 120,
+                "start": 115,
+                "tag": "まのさば"
+              },
+              {
+                "end": 130,
+                "start": 121,
+                "tag": "ヨグソトースの庭"
+              },
+              {
+                "end": 149,
+                "start": 131,
+                "tag": "NeedyGirlOverdose"
+              }
+            ]
+          }
+        },
+        "id": "758296624875446272",
+        "location": "Rophlis",
+        "name": "Shimona@共犯者",
+        "pinned_tweet_id": "1984815386660143332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984795389481140225/l7_mOVqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27915,
+          "following_count": 3548,
+          "like_count": 11527,
+          "listed_count": 30,
+          "media_count": 4380,
+          "tweet_count": 30046
+        },
+        "username": "ShimonaChan",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-04T13:43:05.000Z",
+        "description": "凡是过去，皆为序章。爱所有人，信任少数人，不负任何人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Nanarakuchan",
+                "end": 23,
+                "expanded_url": "https://t.me/Nanarakuchan",
+                "start": 0,
+                "url": "https://t.co/2RalPTGkuG"
+              }
+            ]
+          }
+        },
+        "id": "1346089740978638849",
+        "location": "幻想乡",
+        "name": "七楽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757684874113318912/uGsCwG6C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 1249,
+          "like_count": 5654,
+          "listed_count": 2,
+          "media_count": 493,
+          "tweet_count": 2706
+        },
+        "url": "https://t.co/2RalPTGkuG",
+        "username": "Nanarakuchan",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T17:37:47.000Z",
+        "description": "Male\nASD/ADHD/INFP-T\nCN/EN/JP/🌐\nInternational;\nA Rhythm Gamer;\nA funny DOGE with a warm heart;\nAnd… It's up to you♡",
+        "id": "1516470982986321923",
+        "location": "Hefei University of Technology",
+        "name": "Sunset Glow The DOGE",
+        "pinned_tweet_id": "1961439498396733898",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961439254095265792/ZCCcOczC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 1160,
+          "like_count": 28685,
+          "listed_count": 2,
+          "media_count": 845,
+          "tweet_count": 11957
+        },
+        "username": "Swimming_DOGE",
+        "verified": false
+      }
+    ]
+  }
+}

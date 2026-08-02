@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048361270320267264"
+      ],
+      "media_source_tweet_id": [
+        "2048361277081415697"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2049024346098958410",
+    "created_at": "2026-04-28T07:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049024346098958410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1607385073015492608",
+          "start": 3,
+          "username": "Aputto_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j0LfUGDSc1",
+          "end": 62,
+          "expanded_url": "https://x.com/Aputto_9/status/2048361277081415697/photo/1",
+          "media_key": "3_2048361270320267264",
+          "start": 39,
+          "url": "https://t.co/j0LfUGDSc1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049024346098958410",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2562
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048361277081415697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aputto_9: ツインテールと見せかけてサメに頭かじられてるミク https://t.co/j0LfUGDSc1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048361270320267264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG09uQEbgAAwYmO.jpg",
+        "width": 1321
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048361270320267264"
+          ],
+          "media_source_tweet_id": [
+            "2048361277081415697"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2049024346098958410",
+        "created_at": "2026-04-28T07:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049024346098958410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1607385073015492608",
+              "start": 3,
+              "username": "Aputto_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0LfUGDSc1",
+              "end": 62,
+              "expanded_url": "https://x.com/Aputto_9/status/2048361277081415697/photo/1",
+              "media_key": "3_2048361270320267264",
+              "start": 39,
+              "url": "https://t.co/j0LfUGDSc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049024346098958410",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2562
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048361277081415697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aputto_9: ツインテールと見せかけてサメに頭かじられてるミク https://t.co/j0LfUGDSc1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048361270320267264"
+          ]
+        },
+        "author_id": "1607385073015492608",
+        "conversation_id": "2048361277081415697",
+        "created_at": "2026-04-26T11:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T12:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048361277081415697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j0LfUGDSc1",
+              "end": 48,
+              "expanded_url": "https://x.com/Aputto_9/status/2048361277081415697/photo/1",
+              "media_key": "3_2048361270320267264",
+              "start": 25,
+              "url": "https://t.co/j0LfUGDSc1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048361277081415697",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2580,
+          "impression_count": 980399,
+          "like_count": 37113,
+          "quote_count": 56,
+          "reply_count": 10,
+          "retweet_count": 2562
+        },
+        "reply_settings": "everyone",
+        "text": "ツインテールと見せかけてサメに頭かじられてるミク https://t.co/j0LfUGDSc1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 850,
+          "like_count": 27416,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 5420
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-26T14:37:27.000Z",
+        "description": "FA #あぷのおーしー 依頼詳細はリトリン",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 11,
+                "start": 3,
+                "tag": "あぷのおーしー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/aputto9",
+                "end": 23,
+                "expanded_url": "https://lit.link/aputto9",
+                "start": 0,
+                "url": "https://t.co/PMwbggX0Ue"
+              }
+            ]
+          }
+        },
+        "id": "1607385073015492608",
+        "location": "無断利用禁止",
+        "name": "Apu︎",
+        "pinned_tweet_id": "1938889759688196377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020787792343875584/8Rr8tLH5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42318,
+          "following_count": 348,
+          "like_count": 63607,
+          "listed_count": 207,
+          "media_count": 1015,
+          "tweet_count": 9163
+        },
+        "url": "https://t.co/PMwbggX0Ue",
+        "username": "Aputto_9",
+        "verified": false
+      }
+    ]
+  }
+}

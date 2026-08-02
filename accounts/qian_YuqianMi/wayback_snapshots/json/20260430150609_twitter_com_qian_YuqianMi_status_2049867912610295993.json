@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2049867912610295993",
+    "created_at": "2026-04-30T15:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T16:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049867912610295993"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049867912610295993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天那两个疯狂打游戏的傻福回去了，剩我和我的好室友，刚才他上床了，我意识到今天我竟然是最后一个上床的，很兴奋的打开手机的照明，关了大灯爬上床。现在寝室里一点声音都没有，没有外放的枪声，没有连麦的嘶吼。好幸福。这绝对是我在床上窝的最爽的一个晚上。。好了那还说啥了xd我要开冲了😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2049867912610295993",
+        "created_at": "2026-04-30T15:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T16:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049867912610295993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049867912610295993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天那两个疯狂打游戏的傻福回去了，剩我和我的好室友，刚才他上床了，我意识到今天我竟然是最后一个上床的，很兴奋的打开手机的照明，关了大灯爬上床。现在寝室里一点声音都没有，没有外放的枪声，没有连麦的嘶吼。好幸福。这绝对是我在床上窝的最爽的一个晚上。。好了那还说啥了xd我要开冲了😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 860,
+          "like_count": 27680,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 5489
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

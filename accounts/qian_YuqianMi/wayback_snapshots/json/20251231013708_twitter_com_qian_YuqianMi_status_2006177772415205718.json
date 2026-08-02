@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2006030797342437551",
+    "created_at": "2025-12-31T01:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T02:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006177772415205718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006177772415205718",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006030797342437551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxian1527 过米画师审核真的好难，，加油喵！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2006030797342437551",
+        "created_at": "2025-12-31T01:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T02:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006177772415205718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006177772415205718",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006030797342437551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 过米画师审核真的好难，，加油喵！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929416262989557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2006030797342437551",
+        "created_at": "2025-12-30T15:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T16:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006030797342437551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006030797342437551",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2026年的plan goals\n1.成功过米画师审核\n2.od次数少于10（虽然不太可能…猫猫加油！\n3.换iPad air11…\n4.拥有一台属于自己的台式电脑！\n5.考上高中，去苏州过美好生活（bushi\n6.去趟…韩国…？（不太可能）\n7.暑假一定要 接稿赚钱&gt;500r\n基本这些…加油喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 467,
+          "like_count": 7176,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1752
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍｜喵呜…是一个可爱小猫娘｜顺女｜简体｜System query系统查询 | 同类互fo｜负能｜不摄政｜ @mao_xian1527 ｜含🍥友跨顺女（bushi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "mao_xian1527"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華人民共和國",
+        "name": "猫弦nekogen❄️",
+        "pinned_tweet_id": "2002717284411023603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005701870963277824/4t_vGe7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 271,
+          "like_count": 1165,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 473
+        },
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

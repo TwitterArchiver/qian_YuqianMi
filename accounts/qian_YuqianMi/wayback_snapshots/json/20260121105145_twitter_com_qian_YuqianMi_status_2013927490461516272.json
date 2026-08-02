@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2013915744933994962",
+    "created_at": "2026-01-21T10:51:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T11:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013927490461516272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761768162469593088",
+          "start": 0,
+          "username": "koning321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013927490461516272",
+    "in_reply_to_user_id": "1761768162469593088",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013918699162399094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@koning321 真的期待很久了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2013915744933994962",
+        "created_at": "2026-01-21T10:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013927490461516272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761768162469593088",
+              "start": 0,
+              "username": "koning321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013927490461516272",
+        "in_reply_to_user_id": "1761768162469593088",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013918699162399094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@koning321 真的期待很久了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761768162469593088",
+        "conversation_id": "2013915744933994962",
+        "created_at": "2026-01-21T10:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013918699162399094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013918699162399094",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013915744933994962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 期待很久了！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 675,
+          "like_count": 14589,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 3191
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T15:00:57.000Z",
+        "description": "07年/性别沃尔玛塑料袋/喜欢画画/跑步/二次元浓度极高/喜欢可爱温柔的人/清水（虽然我实际上很色）/性格温良，希望能和人轻松地相处！欢迎互fo！真的很欢迎大家找我聊天！（此人极其渴望被关注被认同）",
+        "id": "1761768162469593088",
+        "name": "Ayanami",
+        "pinned_tweet_id": "2012548862779547791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011488744118108163/dBgQvDGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 107,
+          "like_count": 768,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 561
+        },
+        "username": "koning321",
+        "verified": false
+      }
+    ]
+  }
+}

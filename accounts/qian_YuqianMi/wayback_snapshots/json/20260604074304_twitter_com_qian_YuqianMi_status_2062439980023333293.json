@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2062162016362795054",
+    "created_at": "2026-06-04T07:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T08:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062439980023333293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047867480576794624",
+          "start": 0,
+          "username": "yuganbb823"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062439980023333293",
+    "in_reply_to_user_id": "2047867480576794624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062162016362795054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuganbb823 人间真实。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4125,
+        "height": 960,
+        "media_key": "13_2062161458725896192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062161458725896192/img/k47cJL7mjAh7BBav.jpg",
+        "public_metrics": {
+          "view_count": 1551
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062161458725896192/vid/avc1/320x568/Og7v_AJ4hMmhe9QK.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062161458725896192/vid/avc1/480x852/6xphaqvnqzQ-xt--.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062161458725896192/vid/avc1/540x960/OPUQf0aWTZO5bNiU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062161458725896192/pl/Uzvwn1lsj1ZPzxn5.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2062162016362795054",
+        "created_at": "2026-06-04T07:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T08:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062439980023333293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047867480576794624",
+              "start": 0,
+              "username": "yuganbb823"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062439980023333293",
+        "in_reply_to_user_id": "2047867480576794624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062162016362795054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuganbb823 人间真实。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062161458725896192"
+          ]
+        },
+        "author_id": "2047867480576794624",
+        "conversation_id": "2062162016362795054",
+        "created_at": "2026-06-03T13:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T14:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062162016362795054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/awkmMREyBL",
+              "end": 39,
+              "expanded_url": "https://x.com/yuganbb823/status/2062162016362795054/video/1",
+              "media_key": "13_2062161458725896192",
+              "start": 16,
+              "url": "https://t.co/awkmMREyBL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062162016362795054",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 3099,
+          "like_count": 230,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "又整了一个脂肪层我只能这样洗澡 https://t.co/awkmMREyBL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 874,
+          "like_count": 28984,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5792
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |",
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2061102606643044586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 197,
+          "like_count": 3579,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 611
+        },
+        "username": "yuganbb823",
+        "verified": false
+      }
+    ]
+  }
+}

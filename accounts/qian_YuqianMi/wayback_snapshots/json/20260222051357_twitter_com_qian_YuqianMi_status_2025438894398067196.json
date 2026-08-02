@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2025431250056671265",
+    "created_at": "2026-02-22T05:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T06:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025438894398067196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2860821939",
+          "start": 0,
+          "username": "Youzieew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025438894398067196",
+    "in_reply_to_user_id": "2860821939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025435258741543176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Youzieew 那这是个中性词吗 我怎么感觉现在好多人拿这个当贬义词用啊，好像顺直男就跟下头男一样（）我感觉没这种意思吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025431250056671265",
+        "created_at": "2026-02-22T05:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T06:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025438894398067196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2860821939",
+              "start": 0,
+              "username": "Youzieew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025438894398067196",
+        "in_reply_to_user_id": "2860821939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025435258741543176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Youzieew 那这是个中性词吗 我怎么感觉现在好多人拿这个当贬义词用啊，好像顺直男就跟下头男一样（）我感觉没这种意思吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2860821939",
+        "conversation_id": "2025431250056671265",
+        "created_at": "2026-02-22T04:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T05:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025435258741543176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025435258741543176",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025431250056671265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 顺直这个词是从英语翻译过来的，用原语言（英语）讲就清楚多了\n\n顺=Cisgender\n直=Heterosexual\n\n为什么顺直和直有区别？因为有越来越多人是跨直，因此加上个“顺”可以和跨直区分"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 769,
+          "like_count": 21944,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 4361
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-04T15:17:31.000Z",
+        "description": "",
+        "id": "2860821939",
+        "name": "Hydrosya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551459842115702785/s9rXH9jK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 1994,
+          "like_count": 41952,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 24
+        },
+        "username": "Youzieew",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2007442380568293718",
+    "created_at": "2026-01-04T00:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T01:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007616315771760941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850017112087199744",
+          "start": 0,
+          "username": "HatsuneMafuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007616315771760941",
+    "in_reply_to_user_id": "1850017112087199744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007607769487290613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HatsuneMafuyu 请放心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2007442380568293718",
+        "created_at": "2026-01-04T00:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T01:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007616315771760941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850017112087199744",
+              "start": 0,
+              "username": "HatsuneMafuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007616315771760941",
+        "in_reply_to_user_id": "1850017112087199744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007607769487290613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HatsuneMafuyu 请放心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850017112087199744",
+        "conversation_id": "2007442380568293718",
+        "created_at": "2026-01-04T00:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T01:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007607769487290613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007607769487290613",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007442380568293718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 我不放心😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 507,
+          "like_count": 7982,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1917
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T03:31:05.000Z",
+        "description": "光?我自己伪造的。\n「君を照らす為に咲く花さ」",
+        "id": "1850017112087199744",
+        "name": "神無月の再生奏歌",
+        "pinned_tweet_id": "2001878903082901772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002196200813178882/2FB9icAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 309,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 296
+        },
+        "username": "HatsuneMafuyu",
+        "verified": false
+      }
+    ]
+  }
+}

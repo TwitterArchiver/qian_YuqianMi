@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993194062418264276",
+    "created_at": "2025-11-25T07:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T08:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993221024834633949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802024392391802880",
+          "start": 0,
+          "username": "Determinat_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993221024834633949",
+    "in_reply_to_user_id": "1802024392391802880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993220619446763711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Determinat_37 至福，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993194062418264276",
+        "created_at": "2025-11-25T07:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993221024834633949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802024392391802880",
+              "start": 0,
+              "username": "Determinat_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993221024834633949",
+        "in_reply_to_user_id": "1802024392391802880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993220619446763711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Determinat_37 至福，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802024392391802880",
+        "conversation_id": "1993194062418264276",
+        "created_at": "2025-11-25T07:30:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T08:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993220619446763711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993220619446763711",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993194062418264276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 试试边割手边吃甜食？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993220437858566148/Ul8sWI_L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 251,
+          "like_count": 1574,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 391
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T17:04:47.000Z",
+        "description": "乱发乱写乱七八糟",
+        "id": "1802024392391802880",
+        "name": "樂( ◜‿◝ )♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906817971940728832/i4eSccJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 633,
+          "like_count": 5543,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2006
+        },
+        "username": "Determinat_37",
+        "verified": false
+      }
+    ]
+  }
+}

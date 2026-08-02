@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996530165976051712"
+      ],
+      "media_source_tweet_id": [
+        "1996530171281899551"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1996771930079482002",
+    "created_at": "2025-12-05T02:41:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T03:41:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996771930079482002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776851197250674688",
+          "start": 3,
+          "username": "maromiaaaaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gf9C4Q25bd",
+          "end": 43,
+          "expanded_url": "https://x.com/maromiaaaaa/status/1996530171281899551/photo/1",
+          "media_key": "3_1996530165976051712",
+          "start": 20,
+          "url": "https://t.co/gf9C4Q25bd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996771930079482002",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1251
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996530171281899551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @maromiaaaaa: 🐋🦈 https://t.co/gf9C4Q25bd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1996530165976051712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UZm55asAA4KMx.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996530165976051712"
+          ],
+          "media_source_tweet_id": [
+            "1996530171281899551"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1996771930079482002",
+        "created_at": "2025-12-05T02:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T03:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996771930079482002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776851197250674688",
+              "start": 3,
+              "username": "maromiaaaaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gf9C4Q25bd",
+              "end": 43,
+              "expanded_url": "https://x.com/maromiaaaaa/status/1996530171281899551/photo/1",
+              "media_key": "3_1996530165976051712",
+              "start": 20,
+              "url": "https://t.co/gf9C4Q25bd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996771930079482002",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1251
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996530171281899551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @maromiaaaaa: 🐋🦈 https://t.co/gf9C4Q25bd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996530165976051712"
+          ]
+        },
+        "author_id": "1776851197250674688",
+        "conversation_id": "1996530171281899551",
+        "created_at": "2025-12-04T10:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996530171281899551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gf9C4Q25bd",
+              "end": 26,
+              "expanded_url": "https://x.com/maromiaaaaa/status/1996530171281899551/photo/1",
+              "media_key": "3_1996530165976051712",
+              "start": 3,
+              "url": "https://t.co/gf9C4Q25bd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996530171281899551",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2337,
+          "impression_count": 147483,
+          "like_count": 18504,
+          "quote_count": 32,
+          "reply_count": 9,
+          "retweet_count": 1251
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "🐋🦈 https://t.co/gf9C4Q25bd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 335,
+          "like_count": 3603,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 890
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-07T05:55:32.000Z",
+        "description": "ペンネはゆのみです 発言汚め ジャンル雑多なので絵柄が気に入ったらフォローしてください FANBOX→https://t.co/jjOzI8DoWr お題箱やマシュマロのその他リンクは下のリンクから⤵︎ ︎",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yunomi004.fanbox.cc",
+                "end": 74,
+                "expanded_url": "https://yunomi004.fanbox.cc/",
+                "start": 51,
+                "url": "https://t.co/jjOzI8DoWr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/yunomi29",
+                "end": 23,
+                "expanded_url": "https://potofu.me/yunomi29",
+                "start": 0,
+                "url": "https://t.co/6mRxiLAqEX"
+              }
+            ]
+          }
+        },
+        "id": "1776851197250674688",
+        "name": "酒",
+        "pinned_tweet_id": "1976678036302151917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987768738712825856/D7D8nVDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4527,
+          "following_count": 9,
+          "like_count": 6420,
+          "listed_count": 18,
+          "media_count": 938,
+          "tweet_count": 12182
+        },
+        "url": "https://t.co/6mRxiLAqEX",
+        "username": "maromiaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

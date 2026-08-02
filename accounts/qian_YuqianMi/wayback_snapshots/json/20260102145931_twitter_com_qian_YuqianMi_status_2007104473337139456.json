@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2007104473337139456",
+    "created_at": "2026-01-02T14:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007104473337139456"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2007104473337139456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我本来想今天晚上猛击我的屁眼的（卧槽这样讲是否有些过于下头恶俗且露骨了。。算了这里是推特那就这样吧。放下一切身为文明人的廉耻嗯。）嗯对就是这样。但是该死的双相弄得我又没写作业又很难过我现在完全不想做爱了我就在纯粹的焦虑我的学业。我困的要死但是我又想去学习了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2007104473337139456",
+        "created_at": "2026-01-02T14:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007104473337139456"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007104473337139456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我本来想今天晚上猛击我的屁眼的（卧槽这样讲是否有些过于下头恶俗且露骨了。。算了这里是推特那就这样吧。放下一切身为文明人的廉耻嗯。）嗯对就是这样。但是该死的双相弄得我又没写作业又很难过我现在完全不想做爱了我就在纯粹的焦虑我的学业。我困的要死但是我又想去学习了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 484,
+          "like_count": 7596,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1844
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

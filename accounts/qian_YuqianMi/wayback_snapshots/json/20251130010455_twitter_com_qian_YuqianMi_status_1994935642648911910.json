@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994935642648911910",
+    "created_at": "2025-11-30T01:04:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T02:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994935642648911910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jealousytarou/…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Jealousytarou/status/1994768561014018104",
+          "start": 6,
+          "url": "https://t.co/QMzloITPt8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994935642648911910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994768561014018104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吓哭了，， https://t.co/QMzloITPt8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_1994768515610648576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G67XZW4bIAA_qFn.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994935642648911910",
+        "created_at": "2025-11-30T01:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994935642648911910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jealousytarou/…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Jealousytarou/status/1994768561014018104",
+              "start": 6,
+              "url": "https://t.co/QMzloITPt8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994935642648911910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994768561014018104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吓哭了，， https://t.co/QMzloITPt8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994768515610648576"
+          ]
+        },
+        "author_id": "1896438481716723712",
+        "conversation_id": "1994768561014018104",
+        "created_at": "2025-11-29T14:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994768561014018104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oKxAy11USJ",
+              "end": 23,
+              "expanded_url": "https://x.com/Jealousytarou/status/1994768561014018104/photo/1",
+              "media_key": "3_1994768515610648576",
+              "start": 0,
+              "url": "https://t.co/oKxAy11USJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994768561014018104",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 602,
+          "impression_count": 120748,
+          "like_count": 14968,
+          "quote_count": 53,
+          "reply_count": 44,
+          "retweet_count": 1388
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oKxAy11USJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 304,
+          "like_count": 2665,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 650
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T05:52:32.000Z",
+        "description": "よく嫉妬します YouTube→ https://t.co/Wq935lcEUu ニコニコ動画→ https://t.co/7LxOOheG5n サブ垢→ https://t.co/vR7pRC4gOO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Jealousytarou",
+                "end": 40,
+                "expanded_url": "https://www.youtube.com/@Jealousytarou",
+                "start": 17,
+                "url": "https://t.co/Wq935lcEUu"
+              },
+              {
+                "display_url": "nicovideo.jp/user/137222018",
+                "end": 72,
+                "expanded_url": "https://www.nicovideo.jp/user/137222018",
+                "start": 49,
+                "url": "https://t.co/7LxOOheG5n"
+              },
+              {
+                "display_url": "x.com/jealousyjirou?…",
+                "end": 101,
+                "expanded_url": "https://x.com/jealousyjirou?s=21",
+                "start": 78,
+                "url": "https://t.co/vR7pRC4gOO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/z699qgp4uzt1isj",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/z699qgp4uzt1isj",
+                "start": 0,
+                "url": "https://t.co/CXly0r4Rbh"
+              }
+            ]
+          }
+        },
+        "id": "1896438481716723712",
+        "name": "▼嫉妬太郎▼",
+        "pinned_tweet_id": "1951051466246070500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964188930343063552/SpXXcDcJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 335,
+          "like_count": 19872,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/CXly0r4Rbh",
+        "username": "Jealousytarou",
+        "verified": false
+      }
+    ]
+  }
+}

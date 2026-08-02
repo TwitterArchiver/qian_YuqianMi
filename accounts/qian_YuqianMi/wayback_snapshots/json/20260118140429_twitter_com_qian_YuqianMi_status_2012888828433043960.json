@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012835641877233664"
+      ],
+      "media_source_tweet_id": [
+        "2012835645215932424"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2012888828433043960",
+    "created_at": "2026-01-18T14:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012888828433043960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1345806819189424129",
+          "start": 3,
+          "username": "DaeCHU_K"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rvZnxPqAA6",
+          "end": 41,
+          "expanded_url": "https://x.com/DaeCHU_K/status/2012835645215932424/photo/1",
+          "media_key": "3_2012835641877233664",
+          "start": 18,
+          "url": "https://t.co/rvZnxPqAA6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012888828433043960",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 291
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012835645215932424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DaeCHU_K: Wip https://t.co/rvZnxPqAA6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1734,
+        "media_key": "3_2012835641877233664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8HWhFWgAApRn5.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012835641877233664"
+          ],
+          "media_source_tweet_id": [
+            "2012835645215932424"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012888828433043960",
+        "created_at": "2026-01-18T14:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012888828433043960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1345806819189424129",
+              "start": 3,
+              "username": "DaeCHU_K"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvZnxPqAA6",
+              "end": 41,
+              "expanded_url": "https://x.com/DaeCHU_K/status/2012835645215932424/photo/1",
+              "media_key": "3_2012835641877233664",
+              "start": 18,
+              "url": "https://t.co/rvZnxPqAA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012888828433043960",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 291
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012835645215932424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DaeCHU_K: Wip https://t.co/rvZnxPqAA6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012835641877233664"
+          ]
+        },
+        "author_id": "1345806819189424129",
+        "conversation_id": "2012835645215932424",
+        "created_at": "2026-01-18T10:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T11:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012835645215932424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvZnxPqAA6",
+              "end": 27,
+              "expanded_url": "https://x.com/DaeCHU_K/status/2012835645215932424/photo/1",
+              "media_key": "3_2012835641877233664",
+              "start": 4,
+              "url": "https://t.co/rvZnxPqAA6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012835645215932424",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 24934,
+          "like_count": 2881,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 291
+        },
+        "reply_settings": "everyone",
+        "text": "Wip https://t.co/rvZnxPqAA6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 665,
+          "like_count": 13806,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 3057
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-03T18:58:51.000Z",
+        "description": "이노래때문에도저히일상생활이안됩니다 \n(pixiv)https://t.co/vFl8AkPbz4\n(instagram)https://t.co/GTbpuJhYP0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/120995098",
+                "end": 50,
+                "expanded_url": "https://www.pixiv.net/users/120995098",
+                "start": 27,
+                "url": "https://t.co/vFl8AkPbz4"
+              },
+              {
+                "display_url": "instagram.com/daechu_k?igsh=…",
+                "end": 85,
+                "expanded_url": "https://www.instagram.com/daechu_k?igsh=aDAxdXV6cm96cG9k",
+                "start": 62,
+                "url": "https://t.co/GTbpuJhYP0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/P3PrTiZa16Q?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/P3PrTiZa16Q?si=QJKWk8NkcWzRmFDZ",
+                "start": 0,
+                "url": "https://t.co/zl1mzLNYJh"
+              }
+            ]
+          }
+        },
+        "id": "1345806819189424129",
+        "name": "DAECHU 김대추",
+        "pinned_tweet_id": "2009467436576509995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984506742039068675/ydf7a7hB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3187,
+          "following_count": 156,
+          "like_count": 22052,
+          "listed_count": 27,
+          "media_count": 2532,
+          "tweet_count": 14479
+        },
+        "url": "https://t.co/zl1mzLNYJh",
+        "username": "DaeCHU_K",
+        "verified": false
+      }
+    ]
+  }
+}

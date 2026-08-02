@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2017868982125277378",
+    "created_at": "2026-02-01T09:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T10:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017897002424848731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1997985969958699008",
+          "start": 0,
+          "username": "ZaneTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017897002424848731",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017868982125277378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaneTuT omg好痛啊卧槽。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017868953805348864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HADpH1LbYAA2jvI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2017868982125277378",
+        "created_at": "2026-02-01T09:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T10:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017897002424848731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017897002424848731",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017868982125277378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT omg好痛啊卧槽。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017868953805348864"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2017868982125277378",
+        "created_at": "2026-02-01T07:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T08:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017868982125277378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPM0SexFv1",
+              "end": 70,
+              "expanded_url": "https://x.com/ZaneTuT/status/2017868982125277378/photo/1",
+              "media_key": "3_2017868953805348864",
+              "start": 47,
+              "url": "https://t.co/TPM0SexFv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017868982125277378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4980,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都别od了 我刚做了一天的指甲都不知道咋掀的。。痛死了啊啊啊 本甲掀了医生说要养三个月啊啊啊 https://t.co/TPM0SexFv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 705,
+          "like_count": 17024,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 3612
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨神秘账号@Rotte2t00丨极度玻璃心丨08丨od丨私信只回口令丨互fo可以直接➕V丨我听点udg sasi很多很多丨我皮下非常没有素质别惹我了行吗丨算卦找@kill_this_hate💗一个天使女孩@Ri0trix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 10,
+                "username": "Rotte2t00"
+              },
+              {
+                "end": 100,
+                "start": 85,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "Ri0trix"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128 纯绿",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2014264365734867022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2931,
+          "following_count": 187,
+          "like_count": 3003,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

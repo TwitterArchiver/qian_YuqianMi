@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2048926108113109358",
+    "created_at": "2026-04-28T00:43:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:43:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048926108113109358"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunayuispink/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/yunayuispink/status/2048914008439435633",
+          "start": 28,
+          "url": "https://t.co/txxUFjcNGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048926108113109358",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048914008439435633",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的法克两只yunayu。。。至福。（我要下面那只！） https://t.co/txxUFjcNGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_2048913970615156736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG80ZpHaAAAPiWF.png",
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2048926108113109358",
+        "created_at": "2026-04-28T00:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048926108113109358"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunayuispink/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/yunayuispink/status/2048914008439435633",
+              "start": 28,
+              "url": "https://t.co/txxUFjcNGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048926108113109358",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048914008439435633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的法克两只yunayu。。。至福。（我要下面那只！） https://t.co/txxUFjcNGp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048913970615156736"
+          ]
+        },
+        "author_id": "1581971600903409664",
+        "conversation_id": "2048914008439435633",
+        "created_at": "2026-04-27T23:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048914008439435633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zjffrs3L3V",
+              "end": 23,
+              "expanded_url": "https://x.com/yunayuispink/status/2048914008439435633/photo/1",
+              "media_key": "3_2048913970615156736",
+              "start": 0,
+              "url": "https://t.co/Zjffrs3L3V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048914008439435633",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 13228,
+          "like_count": 2375,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zjffrs3L3V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 842,
+          "like_count": 27307,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 5398
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T11:33:42.000Z",
+        "description": "I wanna be drawing hero one day..!\n\nyunayuispink@gmail.com\n🖍fanart #yunayum",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 67,
+                "tag": "yunayum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/yunayuispink",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/yunayuispink",
+                "start": 0,
+                "url": "https://t.co/1DC68R1QSG"
+              }
+            ]
+          }
+        },
+        "id": "1581971600903409664",
+        "name": "yunayu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039112602840903680/xsLJrw7A_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189706,
+          "following_count": 226,
+          "like_count": 21506,
+          "listed_count": 462,
+          "media_count": 1943,
+          "tweet_count": 4541
+        },
+        "url": "https://t.co/1DC68R1QSG",
+        "username": "yunayuispink",
+        "verified": true
+      }
+    ]
+  }
+}

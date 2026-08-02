@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2007464780299415892",
+    "created_at": "2026-01-03T14:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T15:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007464780299415892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ExtremeBlitz__…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/ExtremeBlitz__/status/2007115061845016921",
+          "start": 46,
+          "url": "https://t.co/DOTL19hfVz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007464780299415892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007115061845016921",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了。我就这样。\n（哦不对我的推特甚至不会有私信提醒。导致我错过不知道多少人的信息！） https://t.co/DOTL19hfVz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13066,
+        "height": 1058,
+        "media_key": "13_2007114993397874689",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007114993397874689/img/2g3OioYFilxHLchN.jpg",
+        "public_metrics": {
+          "view_count": 280874
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/vid/avc1/734x720/V8v5nC996zTEdWeL.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/vid/avc1/274x270/6tJv7akkbL-VnoP7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/pl/NmKzGxpZ0JJiAC_i.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/vid/avc1/1080x1058/6NHJbsflZh2UQiZA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007114993397874689/vid/avc1/366x360/Ot71QLkpVqhZ9gWD.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2007464780299415892",
+        "created_at": "2026-01-03T14:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T15:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007464780299415892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ExtremeBlitz__…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/ExtremeBlitz__/status/2007115061845016921",
+              "start": 46,
+              "url": "https://t.co/DOTL19hfVz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007464780299415892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007115061845016921",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了。我就这样。\n（哦不对我的推特甚至不会有私信提醒。导致我错过不知道多少人的信息！） https://t.co/DOTL19hfVz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007114993397874689"
+          ]
+        },
+        "author_id": "1099082900056739840",
+        "conversation_id": "2007115061845016921",
+        "created_at": "2026-01-02T15:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007115061845016921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bu5O9DP7ew",
+              "end": 23,
+              "expanded_url": "https://x.com/ExtremeBlitz__/status/2007115061845016921/video/1",
+              "media_key": "13_2007114993397874689",
+              "start": 0,
+              "url": "https://t.co/bu5O9DP7ew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007115061845016921",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1907,
+          "impression_count": 724946,
+          "like_count": 44158,
+          "quote_count": 619,
+          "reply_count": 122,
+          "retweet_count": 9509
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bu5O9DP7ew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 500,
+          "like_count": 7926,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1902
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-22T23:05:58.000Z",
+        "description": "real",
+        "id": "1099082900056739840",
+        "name": "duck",
+        "pinned_tweet_id": "1941142720732594562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705880241531502592/7pn9NVaJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425887,
+          "following_count": 573,
+          "like_count": 16699,
+          "listed_count": 575,
+          "media_count": 4763,
+          "tweet_count": 8152
+        },
+        "username": "ExtremeBlitz__",
+        "verified": true
+      }
+    ]
+  }
+}

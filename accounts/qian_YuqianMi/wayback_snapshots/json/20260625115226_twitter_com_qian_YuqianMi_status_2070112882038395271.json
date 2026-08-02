@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070039572810280960"
+      ],
+      "media_source_tweet_id": [
+        "2070039577155551602"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2070112882038395271",
+    "created_at": "2026-06-25T11:52:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T12:52:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070112882038395271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "763150487046590465",
+          "start": 3,
+          "username": "animalkyat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yy3z2lNhVm",
+          "end": 58,
+          "expanded_url": "https://x.com/animalkyat/status/2070039577155551602/photo/1",
+          "media_key": "3_2070039572810280960",
+          "start": 35,
+          "url": "https://t.co/Yy3z2lNhVm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070112882038395271",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 656
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070039577155551602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animalkyat: 完璧なタイミングで撮影された写真見て https://t.co/Yy3z2lNhVm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2070039572810280960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLpCBiBbsAA_xso.jpg",
+        "width": 856
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070039572810280960"
+          ],
+          "media_source_tweet_id": [
+            "2070039577155551602"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2070112882038395271",
+        "created_at": "2026-06-25T11:52:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T12:52:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070112882038395271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "763150487046590465",
+              "start": 3,
+              "username": "animalkyat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yy3z2lNhVm",
+              "end": 58,
+              "expanded_url": "https://x.com/animalkyat/status/2070039577155551602/photo/1",
+              "media_key": "3_2070039572810280960",
+              "start": 35,
+              "url": "https://t.co/Yy3z2lNhVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070112882038395271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 656
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070039577155551602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animalkyat: 完璧なタイミングで撮影された写真見て https://t.co/Yy3z2lNhVm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070039572810280960"
+          ]
+        },
+        "author_id": "763150487046590465",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2070039577155551602",
+        "created_at": "2026-06-25T07:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070039577155551602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yy3z2lNhVm",
+              "end": 42,
+              "expanded_url": "https://x.com/animalkyat/status/2070039577155551602/photo/1",
+              "media_key": "3_2070039572810280960",
+              "start": 19,
+              "url": "https://t.co/Yy3z2lNhVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070039577155551602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 117389,
+          "like_count": 11363,
+          "quote_count": 35,
+          "reply_count": 85,
+          "retweet_count": 656
+        },
+        "reply_settings": "everyone",
+        "text": "完璧なタイミングで撮影された写真見て https://t.co/Yy3z2lNhVm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 874,
+          "like_count": 29632,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 6040
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-09T23:10:29.000Z",
+        "description": "いろんな動物をお届けします🦦🦥🐿️🦜🐈🐓🦔🐕🐇投稿の削除依頼やPRや広告拡散等のお仕事はDMまで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1KQB8ZVCQ4KWV?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/B1YFF3Khsa"
+              }
+            ]
+          }
+        },
+        "id": "763150487046590465",
+        "location": "日本 東京",
+        "name": "癒しの動物",
+        "pinned_tweet_id": "2068312438366445577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893589723161280512/ea2nEpd5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239219,
+          "following_count": 193,
+          "like_count": 782,
+          "listed_count": 563,
+          "media_count": 5074,
+          "tweet_count": 5904
+        },
+        "url": "https://t.co/B1YFF3Khsa",
+        "username": "animalkyat",
+        "verified": false
+      }
+    ]
+  }
+}

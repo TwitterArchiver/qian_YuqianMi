@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025118434774958080"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2025118437031510341",
+    "created_at": "2026-02-21T08:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T09:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025118437031510341"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zFKiKhJZMc",
+          "end": 83,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2025118437031510341/photo/1",
+          "media_key": "3_2025118434774958080",
+          "start": 60,
+          "url": "https://t.co/zFKiKhJZMc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025118437031510341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "稍微喷个消光质感好了一百倍。。我以前拼的那些算啥😭😭\n​（上色准备！！）\n​你的技术很松弛，但是郡士喷罐又弥补了这一点 https://t.co/zFKiKhJZMc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025118434774958080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqqfKTbQAATXab.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025118434774958080"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025118437031510341",
+        "created_at": "2026-02-21T08:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T09:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025118437031510341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zFKiKhJZMc",
+              "end": 83,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2025118437031510341/photo/1",
+              "media_key": "3_2025118434774958080",
+              "start": 60,
+              "url": "https://t.co/zFKiKhJZMc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025118437031510341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "稍微喷个消光质感好了一百倍。。我以前拼的那些算啥😭😭\n​（上色准备！！）\n​你的技术很松弛，但是郡士喷罐又弥补了这一点 https://t.co/zFKiKhJZMc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1076,
+          "following_count": 768,
+          "like_count": 21694,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 4332
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

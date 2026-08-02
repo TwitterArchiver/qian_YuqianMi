@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992571502768906240"
+      ],
+      "media_source_tweet_id": [
+        "1992571509987332137"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1992590617638269018",
+    "created_at": "2025-11-23T13:46:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T14:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992590617638269018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1557011899182886918",
+          "start": 3,
+          "username": "DATOKU_Alba"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uHmAl2uAol",
+          "end": 62,
+          "expanded_url": "https://x.com/DATOKU_Alba/status/1992571509987332137/photo/1",
+          "media_key": "3_1992571502768906240",
+          "start": 39,
+          "url": "https://t.co/uHmAl2uAol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992590617638269018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992571509987332137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DATOKU_Alba: 第2弾です🪧\n\n思ってたよりずっと楽しい〜 https://t.co/uHmAl2uAol"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_1992571502768906240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6cJOYQbYAA7bMR.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992571502768906240"
+          ],
+          "media_source_tweet_id": [
+            "1992571509987332137"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1992590617638269018",
+        "created_at": "2025-11-23T13:46:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T14:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992590617638269018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1557011899182886918",
+              "start": 3,
+              "username": "DATOKU_Alba"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHmAl2uAol",
+              "end": 62,
+              "expanded_url": "https://x.com/DATOKU_Alba/status/1992571509987332137/photo/1",
+              "media_key": "3_1992571502768906240",
+              "start": 39,
+              "url": "https://t.co/uHmAl2uAol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992590617638269018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992571509987332137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DATOKU_Alba: 第2弾です🪧\n\n思ってたよりずっと楽しい〜 https://t.co/uHmAl2uAol"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992571502768906240"
+          ]
+        },
+        "author_id": "1557011899182886918",
+        "conversation_id": "1992571509987332137",
+        "created_at": "2025-11-23T12:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T13:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992571509987332137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uHmAl2uAol",
+              "end": 45,
+              "expanded_url": "https://x.com/DATOKU_Alba/status/1992571509987332137/photo/1",
+              "media_key": "3_1992571502768906240",
+              "start": 22,
+              "url": "https://t.co/uHmAl2uAol"
+            },
+            {
+              "display_url": "x.com/datoku_alba/st…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/datoku_alba/status/1991446713404625136",
+              "start": 46,
+              "url": "https://t.co/vCNGYLCoRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992571509987332137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 13647,
+          "like_count": 678,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991446713404625136",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第2弾です🪧\n\n思ってたよりずっと楽しい〜 https://t.co/uHmAl2uAol https://t.co/vCNGYLCoRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 212,
+          "like_count": 1232,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 316
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-09T14:32:29.000Z",
+        "description": "だとくです skeb▷▷https://t.co/6nYwQo7SFe 23/02/26",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@DATOKU_Alba",
+                "end": 35,
+                "expanded_url": "https://skeb.jp/@DATOKU_Alba",
+                "start": 12,
+                "url": "https://t.co/6nYwQo7SFe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/_datoku_?utm_m…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/_datoku_?utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/RAttgupOTH"
+              }
+            ]
+          }
+        },
+        "id": "1557011899182886918",
+        "location": "ぜひに",
+        "name": "あるだとくば",
+        "pinned_tweet_id": "1955974111886500269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629125333097254913/vKRkf9RK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11627,
+          "following_count": 55,
+          "like_count": 1826,
+          "listed_count": 53,
+          "media_count": 249,
+          "tweet_count": 859
+        },
+        "url": "https://t.co/RAttgupOTH",
+        "username": "DATOKU_Alba",
+        "verified": false
+      }
+    ]
+  }
+}

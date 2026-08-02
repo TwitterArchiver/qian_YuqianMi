@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2016866595927384437",
+    "created_at": "2026-01-30T01:06:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T02:06:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017041612204064792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1653078335709396992",
+          "start": 0,
+          "username": "tsu8asaAcid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017041612204064792",
+    "in_reply_to_user_id": "1653078335709396992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016900787243458854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tsu8asaAcid 宝宝🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2016866595927384437",
+        "created_at": "2026-01-30T01:06:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:06:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017041612204064792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1653078335709396992",
+              "start": 0,
+              "username": "tsu8asaAcid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017041612204064792",
+        "in_reply_to_user_id": "1653078335709396992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016900787243458854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tsu8asaAcid 宝宝🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653078335709396992",
+        "conversation_id": "2016866595927384437",
+        "created_at": "2026-01-29T15:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016900787243458854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016900787243458854",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016866595927384437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 怎麼了！沒關係 我們一起死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 701,
+          "like_count": 16668,
+          "listed_count": 1,
+          "media_count": 272,
+          "tweet_count": 3549
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T16:46:14.000Z",
+        "description": "歡迎互fo！地雷/自殘/負能/高二/美術",
+        "id": "1653078335709396992",
+        "name": "翼米",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994788621656997888/_thSe0QC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 167,
+          "like_count": 1723,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 456
+        },
+        "username": "tsu8asaAcid",
+        "verified": false
+      }
+    ]
+  }
+}

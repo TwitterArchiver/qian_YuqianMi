@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2000042973338452317",
+    "created_at": "2025-12-14T03:19:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:19:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000042973338452317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/1992404761128370523",
+          "start": 148,
+          "url": "https://t.co/iwmrZNmbgk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000042973338452317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992404761128370523",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "day22\n军训上台唱歌破音了。嗯。\n当时去当排长了，一直在喊，嗓子已经爆炸了，然后我上去升了3key唱jj的学不会，，（因为平时就是这个key最舒服，我没注意到嗓子已经不行了），然后非常害羞非常想死，，开学就出丑了。\n（虽然还是绝对的唱的最好的吧，他们实在弱爆了，，但是我确实破音了！（瘫倒） https://t.co/iwmrZNmbgk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 828,
+        "media_key": "3_1992404753759051776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6ZxkTyboAAZEki.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2000042973338452317",
+        "created_at": "2025-12-14T03:19:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:19:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000042973338452317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/1992404761128370523",
+              "start": 148,
+              "url": "https://t.co/iwmrZNmbgk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000042973338452317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992404761128370523",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "day22\n军训上台唱歌破音了。嗯。\n当时去当排长了，一直在喊，嗓子已经爆炸了，然后我上去升了3key唱jj的学不会，，（因为平时就是这个key最舒服，我没注意到嗓子已经不行了），然后非常害羞非常想死，，开学就出丑了。\n（虽然还是绝对的唱的最好的吧，他们实在弱爆了，，但是我确实破音了！（瘫倒） https://t.co/iwmrZNmbgk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992404753759051776"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1992404761128370523",
+        "created_at": "2025-11-23T01:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992404761128370523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lnJOzf2O0x",
+              "end": 37,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1992404761128370523/photo/1",
+              "media_key": "3_1992404753759051776",
+              "start": 14,
+              "url": "https://t.co/lnJOzf2O0x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992404761128370523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5241,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想玩一下这个₍ᐢ..ᐢ₎♡ https://t.co/lnJOzf2O0x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 372,
+          "like_count": 4916,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1224
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

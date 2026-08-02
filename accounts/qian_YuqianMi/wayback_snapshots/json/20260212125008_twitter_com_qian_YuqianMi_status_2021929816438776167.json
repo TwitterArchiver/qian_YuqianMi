@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2021839373789213059",
+    "created_at": "2026-02-12T12:50:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T13:50:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021929816438776167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621943298473758720",
+          "start": 0,
+          "username": "Akiscara_3405"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021929816438776167",
+    "in_reply_to_user_id": "1621943298473758720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021839373789213059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiscara_3405 雷霆美工刀一枚"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021839369905307648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8EMdwbAAAYkc5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2021839373789213059",
+        "created_at": "2026-02-12T12:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T13:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021929816438776167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621943298473758720",
+              "start": 0,
+              "username": "Akiscara_3405"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021929816438776167",
+        "in_reply_to_user_id": "1621943298473758720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021839373789213059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiscara_3405 雷霆美工刀一枚"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021839369905307648"
+          ]
+        },
+        "author_id": "1621943298473758720",
+        "conversation_id": "2021839373789213059",
+        "created_at": "2026-02-12T06:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021839373789213059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vXJrwV8R2Q",
+              "end": 36,
+              "expanded_url": "https://x.com/Akiscara_3405/status/2021839373789213059/photo/1",
+              "media_key": "3_2021839369905307648",
+              "start": 13,
+              "url": "https://t.co/vXJrwV8R2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021839373789213059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这东西不适合地蕾妹拿着。 https://t.co/vXJrwV8R2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 746,
+          "like_count": 19969,
+          "listed_count": 0,
+          "media_count": 300,
+          "tweet_count": 4065
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T18:46:43.000Z",
+        "description": "=霜夜。  18↑ 非二元性别｜@cnmdsjdqs小玖非常萌w｜@STULRS永远的老哥｜@sev_cloud我的小宝｜🚪66纯绿｜互关请私信查成分会回。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "cnmdsjdqs"
+              },
+              {
+                "end": 40,
+                "start": 33,
+                "username": "STULRS"
+              },
+              {
+                "end": 56,
+                "start": 46,
+                "username": "sev_cloud"
+              }
+            ]
+          }
+        },
+        "id": "1621943298473758720",
+        "location": "无限城",
+        "name": "霜皇帝☁︎☾.‎˖٭",
+        "pinned_tweet_id": "2013597242188538137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018862283078905857/d3yzQtFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 954,
+          "like_count": 21513,
+          "listed_count": 5,
+          "media_count": 837,
+          "tweet_count": 10166
+        },
+        "username": "Akiscara_3405",
+        "verified": false
+      }
+    ]
+  }
+}

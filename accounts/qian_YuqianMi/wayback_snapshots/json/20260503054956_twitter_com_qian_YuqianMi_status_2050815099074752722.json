@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2050815099074752722",
+    "created_at": "2026-05-03T05:49:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:49:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050815099074752722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mnx2ek0/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/mnx2ek0/status/2050461712202240425",
+          "start": 15,
+          "url": "https://t.co/z61TXNHUTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050815099074752722",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050461712202240425",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？这是怎么做到的 不可思议 https://t.co/z61TXNHUTT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2050461645403774977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHS0AK_a4AEOYzy.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2050815099074752722",
+        "created_at": "2026-05-03T05:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050815099074752722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mnx2ek0/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/mnx2ek0/status/2050461712202240425",
+              "start": 15,
+              "url": "https://t.co/z61TXNHUTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050815099074752722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050461712202240425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？这是怎么做到的 不可思议 https://t.co/z61TXNHUTT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050461645403774977"
+          ]
+        },
+        "author_id": "1815071289956323328",
+        "conversation_id": "2050461712202240425",
+        "created_at": "2026-05-02T06:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T07:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050461712202240425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6VQCAlQ9J",
+              "end": 29,
+              "expanded_url": "https://x.com/mnx2ek0/status/2050461712202240425/photo/1",
+              "media_key": "3_2050461645403774977",
+              "start": 6,
+              "url": "https://t.co/P6VQCAlQ9J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050461712202240425",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2191,
+          "impression_count": 304627,
+          "like_count": 14662,
+          "quote_count": 58,
+          "reply_count": 14,
+          "retweet_count": 469
+        },
+        "reply_settings": "everyone",
+        "text": "白、同じ色 https://t.co/P6VQCAlQ9J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 866,
+          "like_count": 27894,
+          "listed_count": 0,
+          "media_count": 374,
+          "tweet_count": 5522
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-21T17:08:21.000Z",
+        "description": "◇ キャラデザ専攻の専門学生 \n◇ 一枚絵 / キャラデザ / ゲーム素材 / デザイン系ならほとんどなんでも出来ます。\n◇ スキル - CLIP STUDIO PAINT / Ps / Ai / Ae\n◇ サークル名・FAタグ - #カラパレすたじお\n◇ サブ垢 - @mnx2ek0_sub",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 126,
+                "start": 117,
+                "tag": "カラパレすたじお"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 147,
+                "start": 135,
+                "username": "mnx2ek0_sub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mnx2ek0",
+                "end": 23,
+                "expanded_url": "https://lit.link/mnx2ek0",
+                "start": 0,
+                "url": "https://t.co/abXhmi9GCi"
+              }
+            ]
+          }
+        },
+        "id": "1815071289956323328",
+        "location": "CP Studio",
+        "name": "みにまねこ🎨",
+        "pinned_tweet_id": "2049661811600019749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016748801395216387/wMuYwZFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6671,
+          "following_count": 845,
+          "like_count": 4233,
+          "listed_count": 32,
+          "media_count": 1144,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/abXhmi9GCi",
+        "username": "mnx2ek0",
+        "verified": true
+      }
+    ]
+  }
+}

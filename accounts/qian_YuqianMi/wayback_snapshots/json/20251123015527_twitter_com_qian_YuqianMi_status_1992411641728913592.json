@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992411619536846849",
+        "3_1992411619880779776",
+        "3_1992411620061130752",
+        "3_1992411619717246976"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1992411641728913592",
+    "created_at": "2025-11-23T01:55:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T02:55:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992411641728913592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0UscIrw7BO",
+          "end": 43,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1992411641728913592/photo/1",
+          "media_key": "3_1992411619536846849",
+          "start": 20,
+          "url": "https://t.co/0UscIrw7BO"
+        },
+        {
+          "display_url": "pic.x.com/0UscIrw7BO",
+          "end": 43,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1992411641728913592/photo/1",
+          "media_key": "3_1992411619880779776",
+          "start": 20,
+          "url": "https://t.co/0UscIrw7BO"
+        },
+        {
+          "display_url": "pic.x.com/0UscIrw7BO",
+          "end": 43,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1992411641728913592/photo/1",
+          "media_key": "3_1992411620061130752",
+          "start": 20,
+          "url": "https://t.co/0UscIrw7BO"
+        },
+        {
+          "display_url": "pic.x.com/0UscIrw7BO",
+          "end": 43,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1992411641728913592/photo/1",
+          "media_key": "3_1992411619717246976",
+          "start": 20,
+          "url": "https://t.co/0UscIrw7BO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992411641728913592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "可恶的小组活动。\n算了我当是出来玩吧！ https://t.co/0UscIrw7BO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992411619536846849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Z3z8zawAEeoxi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992411619880779776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Z3z-FawAAhXXV.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992411620061130752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Z3z-wasAAYLlL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992411619717246976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Z3z9ebcAAL_4F.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992411619536846849",
+            "3_1992411619880779776",
+            "3_1992411620061130752",
+            "3_1992411619717246976"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1992411641728913592",
+        "created_at": "2025-11-23T01:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T02:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992411641728913592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0UscIrw7BO",
+              "end": 43,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1992411641728913592/photo/1",
+              "media_key": "3_1992411619536846849",
+              "start": 20,
+              "url": "https://t.co/0UscIrw7BO"
+            },
+            {
+              "display_url": "pic.x.com/0UscIrw7BO",
+              "end": 43,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1992411641728913592/photo/1",
+              "media_key": "3_1992411619880779776",
+              "start": 20,
+              "url": "https://t.co/0UscIrw7BO"
+            },
+            {
+              "display_url": "pic.x.com/0UscIrw7BO",
+              "end": 43,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1992411641728913592/photo/1",
+              "media_key": "3_1992411620061130752",
+              "start": 20,
+              "url": "https://t.co/0UscIrw7BO"
+            },
+            {
+              "display_url": "pic.x.com/0UscIrw7BO",
+              "end": 43,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1992411641728913592/photo/1",
+              "media_key": "3_1992411619717246976",
+              "start": 20,
+              "url": "https://t.co/0UscIrw7BO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992411641728913592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "可恶的小组活动。\n算了我当是出来玩吧！ https://t.co/0UscIrw7BO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 189,
+          "like_count": 1172,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 298
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

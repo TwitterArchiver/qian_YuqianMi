@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2067171237131083781",
+    "created_at": "2026-06-17T09:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T10:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067171237131083781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/t_tuelhinhos/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/t_tuelhinhos/status/2066898593210892767",
+          "start": 5,
+          "url": "https://t.co/i7iMPkFE5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067171237131083781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066898593210892767",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一块兔子 https://t.co/i7iMPkFE5a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1003,
+        "media_key": "3_2066799926873370624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6_lUcXMAAIKDg.jpg",
+        "width": 1003
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2067171237131083781",
+        "created_at": "2026-06-17T09:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T10:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067171237131083781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/t_tuelhinhos/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/t_tuelhinhos/status/2066898593210892767",
+              "start": 5,
+              "url": "https://t.co/i7iMPkFE5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067171237131083781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066898593210892767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一块兔子 https://t.co/i7iMPkFE5a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066799926873370624"
+          ]
+        },
+        "author_id": "1562677302143565824",
+        "conversation_id": "2066898593210892767",
+        "created_at": "2026-06-16T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066898593210892767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZczoRwKqIa",
+              "end": 42,
+              "expanded_url": "https://x.com/t_tuelhinhos/status/2066898593210892767/photo/1",
+              "media_key": "3_2066799926873370624",
+              "start": 19,
+              "url": "https://t.co/ZczoRwKqIa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066898593210892767",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 22515,
+          "like_count": 1487,
+          "quote_count": 26,
+          "reply_count": 1,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "um bloco de coelho https://t.co/ZczoRwKqIa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 881,
+          "like_count": 29272,
+          "listed_count": 0,
+          "media_count": 389,
+          "tweet_count": 5927
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-25T05:44:49.000Z",
+        "description": "Está é uma pagina de compilação e coleção de conteúdos sobre coelho, vale ressaltar que não sou dono de nenhum dos conteúdos postados!",
+        "id": "1562677302143565824",
+        "location": "Aos pés da Yggdrasil",
+        "name": "Tuelhinhos 🐇",
+        "pinned_tweet_id": "2033647891131076800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970638790797488128/qiNeFgLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5234,
+          "following_count": 73,
+          "like_count": 49194,
+          "listed_count": 23,
+          "media_count": 5600,
+          "tweet_count": 19367
+        },
+        "username": "t_tuelhinhos",
+        "verified": false
+      }
+    ]
+  }
+}

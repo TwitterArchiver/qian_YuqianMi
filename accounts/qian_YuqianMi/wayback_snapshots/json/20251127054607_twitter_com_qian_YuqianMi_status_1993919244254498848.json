@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1993547128526995456"
+      ],
+      "media_source_tweet_id": [
+        "1993547540898468243"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993919244254498848",
+    "created_at": "2025-11-27T05:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T06:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993919244254498848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865125301816299522",
+          "start": 3,
+          "username": "themkoffline"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t755RYV1ii",
+          "end": 64,
+          "expanded_url": "https://x.com/themkoffline/status/1993547540898468243/video/1",
+          "media_key": "13_1993547128526995456",
+          "start": 41,
+          "url": "https://t.co/t755RYV1ii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993919244254498848",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993547540898468243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @themkoffline: no thoughts, just spin https://t.co/t755RYV1ii"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9833,
+        "height": 1080,
+        "media_key": "13_1993547128526995456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993547128526995456/img/l1MnA869VbZ1ldUw.jpg",
+        "public_metrics": {
+          "view_count": 701205
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/vid/avc1/1080x1080/OfrQXtDg9XpSc5Kt.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/vid/avc1/540x540/zAqvDMzdoXECU6ET.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/pl/r6jb01omFYA1JR80.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/vid/avc1/320x320/GH2laYhY2atG2O_j.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993547128526995456/vid/avc1/720x720/sTXJgFMFdVqWd3Pg.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993547128526995456"
+          ],
+          "media_source_tweet_id": [
+            "1993547540898468243"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993919244254498848",
+        "created_at": "2025-11-27T05:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T06:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993919244254498848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865125301816299522",
+              "start": 3,
+              "username": "themkoffline"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t755RYV1ii",
+              "end": 64,
+              "expanded_url": "https://x.com/themkoffline/status/1993547540898468243/video/1",
+              "media_key": "13_1993547128526995456",
+              "start": 41,
+              "url": "https://t.co/t755RYV1ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993919244254498848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22319
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993547540898468243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @themkoffline: no thoughts, just spin https://t.co/t755RYV1ii"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993547128526995456"
+          ]
+        },
+        "author_id": "1865125301816299522",
+        "conversation_id": "1993547540898468243",
+        "created_at": "2025-11-26T05:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T06:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993547540898468243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t755RYV1ii",
+              "end": 46,
+              "expanded_url": "https://x.com/themkoffline/status/1993547540898468243/video/1",
+              "media_key": "13_1993547128526995456",
+              "start": 23,
+              "url": "https://t.co/t755RYV1ii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993547540898468243",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9236,
+          "impression_count": 2001790,
+          "like_count": 120482,
+          "quote_count": 1616,
+          "reply_count": 298,
+          "retweet_count": 22319
+        },
+        "reply_settings": "everyone",
+        "text": "no thoughts, just spin https://t.co/t755RYV1ii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 270,
+          "like_count": 2012,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 497
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T20:05:12.000Z",
+        "description": "video editor /daily sea life posting / big gamer / bigger heart / @styyyria is my wife",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 66,
+                "username": "styyyria"
+              }
+            ]
+          }
+        },
+        "id": "1865125301816299522",
+        "name": "ManKind",
+        "pinned_tweet_id": "1992249915263836497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951395943582154752/xLMruiLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 170,
+          "like_count": 2167,
+          "listed_count": 4,
+          "media_count": 184,
+          "tweet_count": 491
+        },
+        "username": "themkoffline",
+        "verified": true
+      }
+    ]
+  }
+}

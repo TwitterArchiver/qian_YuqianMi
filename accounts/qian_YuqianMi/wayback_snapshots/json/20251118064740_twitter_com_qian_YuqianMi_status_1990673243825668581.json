@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990673240977780738"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990673243825668581",
+    "created_at": "2025-11-18T06:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T07:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990673243825668581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HNkr4vFRER",
+          "end": 161,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1990673243825668581/photo/1",
+          "media_key": "3_1990673240977780738",
+          "start": 138,
+          "url": "https://t.co/HNkr4vFRER"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990673243825668581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "希望能和未来的另一半一起唱这首歌\n从歌词的意境到歌曲的旋律，一切都是如此的静谧而美丽。\n能和她这样惺惺相惜，如此的互相欣赏，真的很美好了，，\n\n如宝石一般的你，无论你的光芒被如何遮掩，事实上你比什么都更加美丽。\n太纯爱了。\n（有没有人能对我说这句话，你将获得我的随机夸夸，， https://t.co/HNkr4vFRER"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1990673240977780738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6BKxABbMAI0cR5.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990673240977780738"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990673243825668581",
+        "created_at": "2025-11-18T06:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990673243825668581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HNkr4vFRER",
+              "end": 161,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1990673243825668581/photo/1",
+              "media_key": "3_1990673240977780738",
+              "start": 138,
+              "url": "https://t.co/HNkr4vFRER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990673243825668581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望能和未来的另一半一起唱这首歌\n从歌词的意境到歌曲的旋律，一切都是如此的静谧而美丽。\n能和她这样惺惺相惜，如此的互相欣赏，真的很美好了，，\n\n如宝石一般的你，无论你的光芒被如何遮掩，事实上你比什么都更加美丽。\n太纯爱了。\n（有没有人能对我说这句话，你将获得我的随机夸夸，， https://t.co/HNkr4vFRER"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 119,
+          "like_count": 751,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 167
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019726178316427264"
+      ],
+      "media_source_tweet_id": [
+        "2019726388987928956"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2020027870157193455",
+    "created_at": "2026-02-07T06:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T07:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020027870157193455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1973430266124541952",
+          "start": 3,
+          "username": "niki769989"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9IB91NAj5j",
+          "end": 96,
+          "expanded_url": "https://x.com/niki769989/status/2019726388987928956/photo/1",
+          "media_key": "3_2019726178316427264",
+          "start": 73,
+          "url": "https://t.co/9IB91NAj5j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020027870157193455",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019726388987928956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @niki769989: 此号是寿司🍣的秽土转生版，原账号被人恶意举报，正在申诉中，希望互关宝宝们看见了可以帮忙转一下这条帖子，非常感谢！ https://t.co/9IB91NAj5j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1406,
+        "media_key": "3_2019726178316427264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAeCQhoboAA4vY6.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019726178316427264"
+          ],
+          "media_source_tweet_id": [
+            "2019726388987928956"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2020027870157193455",
+        "created_at": "2026-02-07T06:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T07:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020027870157193455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1973430266124541952",
+              "start": 3,
+              "username": "niki769989"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9IB91NAj5j",
+              "end": 96,
+              "expanded_url": "https://x.com/niki769989/status/2019726388987928956/photo/1",
+              "media_key": "3_2019726178316427264",
+              "start": 73,
+              "url": "https://t.co/9IB91NAj5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020027870157193455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019726388987928956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @niki769989: 此号是寿司🍣的秽土转生版，原账号被人恶意举报，正在申诉中，希望互关宝宝们看见了可以帮忙转一下这条帖子，非常感谢！ https://t.co/9IB91NAj5j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019726178316427264"
+          ]
+        },
+        "author_id": "1973430266124541952",
+        "conversation_id": "2019726388987928956",
+        "created_at": "2026-02-06T10:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T11:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019726388987928956"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9IB91NAj5j",
+              "end": 80,
+              "expanded_url": "https://x.com/niki769989/status/2019726388987928956/photo/1",
+              "media_key": "3_2019726178316427264",
+              "start": 57,
+              "url": "https://t.co/9IB91NAj5j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019726388987928956",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7964,
+          "like_count": 19,
+          "quote_count": 17,
+          "reply_count": 9,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "此号是寿司🍣的秽土转生版，原账号被人恶意举报，正在申诉中，希望互关宝宝们看见了可以帮忙转一下这条帖子，非常感谢！ https://t.co/9IB91NAj5j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 737,
+          "like_count": 18643,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 3894
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-01T16:50:30.000Z",
+        "description": "此号是@Kexuejiazhuang的转生版，寻找互关好朋友中，互关宝宝们看到了都帮我转转好吗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "Kexuejiazhuang"
+              }
+            ]
+          }
+        },
+        "id": "1973430266124541952",
+        "name": "给我寿司吧🍣（互联网寻亲版）",
+        "pinned_tweet_id": "2019171930243543443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015116959730589696/qstIzpJu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 66,
+          "like_count": 1297,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 233
+        },
+        "username": "niki769989",
+        "verified": false
+      }
+    ]
+  }
+}

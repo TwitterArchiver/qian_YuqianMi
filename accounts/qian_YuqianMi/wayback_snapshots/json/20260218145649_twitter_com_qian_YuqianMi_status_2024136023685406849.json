@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2024117171325227130",
+    "created_at": "2026-02-18T14:56:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:56:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024136023685406849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022438221590990848",
+          "start": 0,
+          "username": "Miharuka_96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024136023685406849",
+    "in_reply_to_user_id": "2022438221590990848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024117171325227130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miharuka_96 宝贝你好鱿鱼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 734,
+        "media_key": "3_2024117164765216769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBcb1k2aAAEgDJd.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2024117171325227130",
+        "created_at": "2026-02-18T14:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024136023685406849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022438221590990848",
+              "start": 0,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024136023685406849",
+        "in_reply_to_user_id": "2022438221590990848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024117171325227130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_96 宝贝你好鱿鱼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024117164765216769"
+          ]
+        },
+        "author_id": "2022438221590990848",
+        "conversation_id": "2024117171325227130",
+        "created_at": "2026-02-18T13:41:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:41:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024117171325227130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzGI5eSJcE",
+              "end": 27,
+              "expanded_url": "https://x.com/Miharuka_96/status/2024117171325227130/photo/1",
+              "media_key": "3_2024117164765216769",
+              "start": 4,
+              "url": "https://t.co/ZzGI5eSJcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024117171325227130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夸夸我 https://t.co/ZzGI5eSJcE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 764,
+          "like_count": 21157,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 4249
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T22:30:27.000Z",
+        "description": "心的距离是遥不可及 | 我是小遥 之前的账号都鼠了",
+        "id": "2022438221590990848",
+        "name": "遥",
+        "pinned_tweet_id": "2023783513414406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023132154692272128/kQXliKeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 39,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 85
+        },
+        "username": "Miharuka_96",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993632817129918576",
+    "created_at": "2025-11-26T10:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T11:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993632817129918576"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993632817129918576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "周四周五没什么课然后周三又是下午全空。现在一个礼拜我就当半个礼拜来使，过了周三中午我就感觉解放了。空闲时间多的很但是我就是静不下心来学习。\n好焦虑，，感觉自己好没用。\n我寝室是真的两极分化，一个在疯狂打游戏，一个在疯狂内卷。我就挤在中间不得安生，，算了我挤在中间割手吧挺好的嗯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993632817129918576",
+        "created_at": "2025-11-26T10:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T11:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993632817129918576"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993632817129918576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周四周五没什么课然后周三又是下午全空。现在一个礼拜我就当半个礼拜来使，过了周三中午我就感觉解放了。空闲时间多的很但是我就是静不下心来学习。\n好焦虑，，感觉自己好没用。\n我寝室是真的两极分化，一个在疯狂打游戏，一个在疯狂内卷。我就挤在中间不得安生，，算了我挤在中间割手吧挺好的嗯。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 266,
+          "like_count": 1833,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 458
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

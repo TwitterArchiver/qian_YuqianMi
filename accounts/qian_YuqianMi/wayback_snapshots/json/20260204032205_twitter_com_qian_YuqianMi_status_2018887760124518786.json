@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2018713695660941653",
+    "created_at": "2026-02-04T03:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T04:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018887760124518786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018887760124518786",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018713695660941653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_8964 极致发量我羡慕了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1253,
+        "media_key": "3_2018713686895190016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPpZxKbYAADPlY.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2018713695660941653",
+        "created_at": "2026-02-04T03:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018887760124518786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018887760124518786",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018713695660941653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_8964 极致发量我羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018713686895190016"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "conversation_id": "2018713695660941653",
+        "created_at": "2026-02-03T15:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T16:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018713695660941653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XMvYwU6bss",
+              "end": 43,
+              "expanded_url": "https://x.com/Miaooo_8964/status/2018713695660941653/photo/1",
+              "media_key": "3_2018713686895190016",
+              "start": 20,
+              "url": "https://t.co/XMvYwU6bss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018713695660941653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2228,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一说一 我现在有一个炸裂的抽象发型。 https://t.co/XMvYwU6bss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 721,
+          "like_count": 17861,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 3752
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "就一破发抽象文案碎碎念的。别性骚扰我。 | 心的距離是遙不可及。| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡|",
+        "id": "2000126709375623168",
+        "name": "夢遙",
+        "pinned_tweet_id": "2018398587890409558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2332,
+          "following_count": 154,
+          "like_count": 3955,
+          "listed_count": 5,
+          "media_count": 105,
+          "tweet_count": 1075
+        },
+        "username": "Miaooo_8964",
+        "verified": false
+      }
+    ]
+  }
+}

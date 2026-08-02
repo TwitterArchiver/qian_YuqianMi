@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2020468496019177680",
+    "created_at": "2026-02-08T13:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T14:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020487310127558764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020487310127558764",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020468496019177680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 好漂亮呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020468481922408448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAolYSDboAA-HLw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020468482106925056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAolYSvbIAAw1Pk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2020468481922310144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAolYSDaIAAd9_r.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020468481930792960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAolYSFbkAAMWHf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2020468496019177680",
+        "created_at": "2026-02-08T13:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020487310127558764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020487310127558764",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020468496019177680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 好漂亮呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020468481922408448",
+            "3_2020468482106925056",
+            "3_2020468481922310144",
+            "3_2020468481930792960"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "conversation_id": "2020468496019177680",
+        "created_at": "2026-02-08T12:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020468496019177680"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBBUb9davS",
+              "end": 40,
+              "expanded_url": "https://x.com/wasabits013/status/2020468496019177680/photo/1",
+              "media_key": "3_2020468481922408448",
+              "start": 17,
+              "url": "https://t.co/KBBUb9davS"
+            },
+            {
+              "display_url": "pic.x.com/KBBUb9davS",
+              "end": 40,
+              "expanded_url": "https://x.com/wasabits013/status/2020468496019177680/photo/1",
+              "media_key": "3_2020468482106925056",
+              "start": 17,
+              "url": "https://t.co/KBBUb9davS"
+            },
+            {
+              "display_url": "pic.x.com/KBBUb9davS",
+              "end": 40,
+              "expanded_url": "https://x.com/wasabits013/status/2020468496019177680/photo/1",
+              "media_key": "3_2020468481922310144",
+              "start": 17,
+              "url": "https://t.co/KBBUb9davS"
+            },
+            {
+              "display_url": "pic.x.com/KBBUb9davS",
+              "end": 40,
+              "expanded_url": "https://x.com/wasabits013/status/2020468496019177680/photo/1",
+              "media_key": "3_2020468481930792960",
+              "start": 17,
+              "url": "https://t.co/KBBUb9davS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020468496019177680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 509,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人 能不能以后不要一个人去看海😿 https://t.co/KBBUb9davS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 741,
+          "like_count": 19037,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3940
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/不聊黄/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 195,
+          "like_count": 9221,
+          "listed_count": 1,
+          "media_count": 318,
+          "tweet_count": 3581
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

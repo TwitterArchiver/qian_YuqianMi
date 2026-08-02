@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027756813492629504",
+        "3_2027756814046248960"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027756817397518339",
+    "created_at": "2026-02-28T14:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T15:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027756817397518339"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LI4elTwx3R",
+          "end": 90,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2027756817397518339/photo/1",
+          "media_key": "3_2027756813492629504",
+          "start": 67,
+          "url": "https://t.co/LI4elTwx3R"
+        },
+        {
+          "display_url": "pic.x.com/LI4elTwx3R",
+          "end": 90,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2027756817397518339/photo/1",
+          "media_key": "3_2027756814046248960",
+          "start": 67,
+          "url": "https://t.co/LI4elTwx3R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027756817397518339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "造出来了房子！！\n以及我堆出来一个迪克（我真不是故意的）\n鬼知道这个千千为什么要在寒假最后一天的晚上买个新游戏（）总之好好玩（诶嘿） https://t.co/LI4elTwx3R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2027756813492629504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQKFA8bMAAMaSn.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2027756814046248960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQKFDAawAAquea.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027756813492629504",
+            "3_2027756814046248960"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027756817397518339",
+        "created_at": "2026-02-28T14:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027756817397518339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LI4elTwx3R",
+              "end": 90,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2027756817397518339/photo/1",
+              "media_key": "3_2027756813492629504",
+              "start": 67,
+              "url": "https://t.co/LI4elTwx3R"
+            },
+            {
+              "display_url": "pic.x.com/LI4elTwx3R",
+              "end": 90,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2027756817397518339/photo/1",
+              "media_key": "3_2027756814046248960",
+              "start": 67,
+              "url": "https://t.co/LI4elTwx3R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027756817397518339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "造出来了房子！！\n以及我堆出来一个迪克（我真不是故意的）\n鬼知道这个千千为什么要在寒假最后一天的晚上买个新游戏（）总之好好玩（诶嘿） https://t.co/LI4elTwx3R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 803,
+          "like_count": 23567,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 4624
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

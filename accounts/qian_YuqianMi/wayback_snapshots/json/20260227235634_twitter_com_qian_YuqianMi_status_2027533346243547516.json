@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2027435472201646394",
+    "created_at": "2026-02-27T23:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T00:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027533346243547516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007104134466736129",
+          "start": 0,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027533346243547516",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027435472201646394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@peipeimao 可爱裴裴"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7333,
+        "height": 720,
+        "media_key": "13_2027435400814592000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027435400814592000/img/47UfBA322wPkLgWY.jpg",
+        "public_metrics": {
+          "view_count": 1249
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027435400814592000/vid/avc1/480x270/eRhy8ksIjW1zSV3j.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027435400814592000/vid/avc1/640x360/noWFTbb7jGux8Atn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027435400814592000/vid/avc1/1280x720/gfvdZBPQ1yLcBQPh.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027435400814592000/pl/pVbQc0RQyXgJjhu7.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2027435472201646394",
+        "created_at": "2026-02-27T23:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T00:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027533346243547516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027533346243547516",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027435472201646394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@peipeimao 可爱裴裴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027435400814592000"
+          ]
+        },
+        "author_id": "2007104134466736129",
+        "conversation_id": "2027435472201646394",
+        "created_at": "2026-02-27T17:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T18:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027435472201646394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZAw1GCAak",
+              "end": 28,
+              "expanded_url": "https://x.com/peipeimao/status/2027435472201646394/video/1",
+              "media_key": "13_2027435400814592000",
+              "start": 5,
+              "url": "https://t.co/rZAw1GCAak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027435472201646394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3231,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想卖惨 https://t.co/rZAw1GCAak"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 799,
+          "like_count": 23321,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 4598
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "这里是一点点爱和不灭的冷火还有闪烁的我",
+        "id": "2007104134466736129",
+        "location": "🚪128/288/520/1314只回口令",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2017769917165232223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022287813027528704/egZEZg61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3572,
+          "following_count": 170,
+          "like_count": 514,
+          "listed_count": 8,
+          "media_count": 77,
+          "tweet_count": 1219
+        },
+        "username": "peipeimao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2007099798709842055",
+    "created_at": "2026-01-02T14:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T15:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007099798709842055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cosmorisa/stat…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/cosmorisa/status/2006935119974871331",
+          "start": 104,
+          "url": "https://t.co/VFhlmq7WRD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007099798709842055",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006935119974871331",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告訴我，不要用@\n\n小猫：\n小狗：\n一生之敌：\n宝宝：\n好朋友：\n笨蛋：\n暗恋我的：\n我暗恋的：\n最性压抑：\n最禁欲：\n最涩情：\n最可爱： https://t.co/VFhlmq7WRD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2007099798709842055",
+        "created_at": "2026-01-02T14:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007099798709842055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cosmorisa/stat…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/cosmorisa/status/2006935119974871331",
+              "start": 104,
+              "url": "https://t.co/VFhlmq7WRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007099798709842055",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006935119974871331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告訴我，不要用@\n\n小猫：\n小狗：\n一生之敌：\n宝宝：\n好朋友：\n笨蛋：\n暗恋我的：\n我暗恋的：\n最性压抑：\n最禁欲：\n最涩情：\n最可爱： https://t.co/VFhlmq7WRD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983213298708574208",
+        "conversation_id": "2006935119974871331",
+        "created_at": "2026-01-02T03:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T04:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006935119974871331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kurazawanaki/s…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/kurazawanaki/status/2006893984216723687",
+              "start": 104,
+              "url": "https://t.co/rhD8JCMaFF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006935119974871331",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 708,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006893984216723687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 参考在和我互相关注的人中的推文，也包括我的推文，只用昵称告訴我，不要用@\n\n小猫：\n小狗：\n一生之敌：\n宝宝：\n好朋友：\n笨蛋：\n暗恋我的：\n我暗恋的：\n最性压抑：\n最禁欲：\n最涩情：\n最可爱： https://t.co/rhD8JCMaFF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 484,
+          "like_count": 7580,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1838
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7012050,
+          "following_count": 3,
+          "like_count": 80,
+          "listed_count": 5607,
+          "media_count": 4330917,
+          "tweet_count": 81210010
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-28T16:44:41.000Z",
+        "description": "Morisa 森紗｜18yo｜Big Five O↑ C↓ E↓ A↑ N↑｜PostMo PostⒶn｜AMAB｜They/Them｜雌化中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cosmorisa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cosmorisa",
+                "start": 0,
+                "url": "https://t.co/bMdrCBFSLn"
+              }
+            ]
+          }
+        },
+        "id": "1983213298708574208",
+        "location": "Nomad",
+        "name": "Morisa☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004479100769959938/RmVQPmtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 314,
+          "like_count": 13414,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2010
+        },
+        "url": "https://t.co/bMdrCBFSLn",
+        "username": "cosmorisa",
+        "verified": false
+      }
+    ]
+  }
+}

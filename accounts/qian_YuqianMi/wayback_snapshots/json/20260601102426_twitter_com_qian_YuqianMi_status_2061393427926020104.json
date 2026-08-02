@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2061379221797355838",
+    "created_at": "2026-06-01T10:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061393427926020104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901858008210219008",
+          "start": 0,
+          "username": "shimokita_1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061393427926020104",
+    "in_reply_to_user_id": "1901858008210219008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061390182868553857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimokita_1204 抱抱抱抱抱抱抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2061379221797355838",
+        "created_at": "2026-06-01T10:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061393427926020104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901858008210219008",
+              "start": 0,
+              "username": "shimokita_1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061393427926020104",
+        "in_reply_to_user_id": "1901858008210219008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061390182868553857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimokita_1204 抱抱抱抱抱抱抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901858008210219008",
+        "conversation_id": "2061379221797355838",
+        "created_at": "2026-06-01T10:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061390182868553857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061390182868553857",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061379221797355838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 抱抱！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 870,
+          "like_count": 28746,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5761
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T04:47:49.000Z",
+        "description": "偶尔上推/有对象/非二元or性别流动/无自杀倾向 有负能 有NSFW内容（较少量）/会ban看黄推/互fo请私信",
+        "id": "1901858008210219008",
+        "name": "下北（可以找我互fo）",
+        "pinned_tweet_id": "1907846041032077774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056337621564133376/6XRRjKfF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 345,
+          "like_count": 2131,
+          "listed_count": 1,
+          "media_count": 451,
+          "tweet_count": 2784
+        },
+        "username": "shimokita_1204",
+        "verified": false
+      }
+    ]
+  }
+}

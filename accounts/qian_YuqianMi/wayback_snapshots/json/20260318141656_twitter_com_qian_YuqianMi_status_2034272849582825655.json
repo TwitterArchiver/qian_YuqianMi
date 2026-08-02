@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2034272340541104318",
+    "created_at": "2026-03-18T14:16:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T15:16:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034272849582825655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1666107223691636737",
+          "start": 0,
+          "username": "ADZ79178"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034272849582825655",
+    "in_reply_to_user_id": "1666107223691636737",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034272598088188292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ADZ79178 我不是😭😭😭我不好看，，完全高p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2034272340541104318",
+        "created_at": "2026-03-18T14:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034272849582825655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1666107223691636737",
+              "start": 0,
+              "username": "ADZ79178"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034272849582825655",
+        "in_reply_to_user_id": "1666107223691636737",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034272598088188292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ADZ79178 我不是😭😭😭我不好看，，完全高p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666107223691636737",
+        "conversation_id": "2034272340541104318",
+        "created_at": "2026-03-18T14:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034272598088188292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034272598088188292",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034272340541104318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 你就是某些中的一个😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 823,
+          "like_count": 26188,
+          "listed_count": 1,
+          "media_count": 359,
+          "tweet_count": 5164
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-06T15:38:52.000Z",
+        "description": "adx，暗灯盏\n贱人一个",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/adz68968",
+                "end": 23,
+                "expanded_url": "https://ngl.link/adz68968",
+                "start": 0,
+                "url": "https://t.co/dnD8ZBIdez"
+              }
+            ]
+          }
+        },
+        "id": "1666107223691636737",
+        "name": "Adz",
+        "pinned_tweet_id": "2024173247290298430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031625036352860163/g2RY5SW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 188,
+          "like_count": 14260,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 3518
+        },
+        "url": "https://t.co/dnD8ZBIdez",
+        "username": "ADZ79178",
+        "verified": false
+      }
+    ]
+  }
+}

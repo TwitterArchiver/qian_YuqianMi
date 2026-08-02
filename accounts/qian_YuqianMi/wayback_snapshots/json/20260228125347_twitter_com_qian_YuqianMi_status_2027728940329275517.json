@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027728936353009664"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027728940329275517",
+    "created_at": "2026-02-28T12:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027728940329275517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2OoYr0IoNa",
+          "end": 60,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2027728940329275517/photo/1",
+          "media_key": "3_2027728936353009664",
+          "start": 37,
+          "url": "https://t.co/2OoYr0IoNa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027728940329275517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的要去上学了www，小雪兔陪我去上学咯（我真的好不想去上学哦no。。） https://t.co/2OoYr0IoNa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027728936353009664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPwuWgaEAA1dc5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027728936353009664"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027728940329275517",
+        "created_at": "2026-02-28T12:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027728940329275517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2OoYr0IoNa",
+              "end": 60,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2027728940329275517/photo/1",
+              "media_key": "3_2027728936353009664",
+              "start": 37,
+              "url": "https://t.co/2OoYr0IoNa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027728940329275517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的要去上学了www，小雪兔陪我去上学咯（我真的好不想去上学哦no。。） https://t.co/2OoYr0IoNa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 802,
+          "like_count": 23556,
+          "listed_count": 0,
+          "media_count": 328,
+          "tweet_count": 4621
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

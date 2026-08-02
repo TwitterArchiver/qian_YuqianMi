@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994382464433975479",
+    "created_at": "2025-11-28T12:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T13:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994382464433975479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inuwohairuka/s…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/inuwohairuka/status/1994360926422860223",
+          "start": 30,
+          "url": "https://t.co/6la4n3g8UF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994382464433975479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994360926422860223",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我趣这也太萌了，，又涩又可爱。这就是我最想画的东西啊哦哦哦 https://t.co/6la4n3g8UF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1924,
+        "media_key": "3_1994360922236928000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61ksTPaQAAHIIC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994382464433975479",
+        "created_at": "2025-11-28T12:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T13:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994382464433975479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inuwohairuka/s…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/inuwohairuka/status/1994360926422860223",
+              "start": 30,
+              "url": "https://t.co/6la4n3g8UF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994382464433975479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994360926422860223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我趣这也太萌了，，又涩又可爱。这就是我最想画的东西啊哦哦哦 https://t.co/6la4n3g8UF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994360922236928000"
+          ]
+        },
+        "author_id": "1795998821526458368",
+        "conversation_id": "1994360926422860223",
+        "created_at": "2025-11-28T11:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994360926422860223"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "カイせれ",
+              "probability": 0.432,
+              "start": 45,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWDd2midFJ",
+              "end": 75,
+              "expanded_url": "https://x.com/inuwohairuka/status/1994360926422860223/photo/1",
+              "media_key": "3_1994360922236928000",
+              "start": 52,
+              "url": "https://t.co/FWDd2midFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994360926422860223",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 309,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⚠センシティブ\nなんも出す機会がなかったなーと思ったので、ワンクッションつけて載せます\n\nカイせれです https://t.co/FWDd2midFJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 286,
+          "like_count": 2311,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 563
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T02:01:19.000Z",
+        "description": "成人済みの🐶🦆⁉️一次創作🖤 見たいのでフォローさせていただいてます！アイコンヘッダー貰い物です サブSkeb→https://t.co/Wp2HdKHZbQ メール(マネージャーが対応します)→contact.shibakureinuwo@of-lapixel.com FA→#狗ヲの餌入れ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 146,
+                "start": 139,
+                "tag": "狗ヲの餌入れ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@inuwoartwork2",
+                "end": 79,
+                "expanded_url": "https://skeb.jp/@inuwoartwork2",
+                "start": 56,
+                "url": "https://t.co/Wp2HdKHZbQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/8i1ih15zcgn85z…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/8i1ih15zcgn85z7?t=XcUgMp&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/ZSLW7zONMc"
+              }
+            ]
+          }
+        },
+        "id": "1795998821526458368",
+        "location": "ocのリクなど気軽にどうぞ🐤↓",
+        "name": "イヌかも",
+        "pinned_tweet_id": "1818255310546702623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879715177605861376/V_fXZ8ed_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10655,
+          "following_count": 338,
+          "like_count": 9023,
+          "listed_count": 77,
+          "media_count": 1359,
+          "tweet_count": 18619
+        },
+        "url": "https://t.co/ZSLW7zONMc",
+        "username": "inuwohairuka",
+        "verified": false
+      }
+    ]
+  }
+}

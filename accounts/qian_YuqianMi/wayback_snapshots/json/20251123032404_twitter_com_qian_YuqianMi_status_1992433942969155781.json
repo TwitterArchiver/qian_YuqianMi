@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1992428784285528127",
+    "created_at": "2025-11-23T03:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T04:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992433942969155781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952345008478232576",
+          "start": 0,
+          "username": "Yu_071127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992433942969155781",
+    "in_reply_to_user_id": "1952345008478232576",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992428987973595441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yu_071127 点了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1992428784285528127",
+        "created_at": "2025-11-23T03:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992433942969155781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952345008478232576",
+              "start": 0,
+              "username": "Yu_071127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992433942969155781",
+        "in_reply_to_user_id": "1952345008478232576",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992428987973595441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yu_071127 点了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952345008478232576",
+        "conversation_id": "1992428784285528127",
+        "created_at": "2025-11-23T03:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T04:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992428987973595441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992428987973595441",
+        "in_reply_to_user_id": "1952345008478232576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992428784285528127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个亲戚家是非要去吗 除了给钱别叫我了行不行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 196,
+          "like_count": 1179,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 303
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T12:25:06.000Z",
+        "description": "季屿/shima \n07/双向/地雷系/职高在读/intp/od/自残\n可能偶尔会发点和彼氏有关的东西\n现在还没有🚪万一后面有了呢\n女孩子直fo会回 喜欢你们ww",
+        "id": "1952345008478232576",
+        "name": "于細雪中重逢相戀",
+        "pinned_tweet_id": "1988623003114938813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986891661306437633/kMyQO_LQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 111,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "Yu_071127",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996700890166640640"
+      ],
+      "media_source_tweet_id": [
+        "1996753891925381521"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1996969001520369900",
+    "created_at": "2025-12-05T15:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T16:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996969001520369900"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Malenia",
+          "probability": 0.6421,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 35,
+          "normalized_text": "Igor Sid",
+          "probability": 0.892,
+          "start": 28,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4166425527",
+          "start": 3,
+          "username": "solisolsoli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ete0JOMJHe",
+          "end": 60,
+          "expanded_url": "https://x.com/solisolsoli/status/1996753891925381521/photo/1",
+          "media_key": "3_1996700890166640640",
+          "start": 37,
+          "url": "https://t.co/Ete0JOMJHe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996969001520369900",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 245
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996753891925381521",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @solisolsoli: Malenia by Igor Sid https://t.co/Ete0JOMJHe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2581,
+        "media_key": "3_1996700890166640640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7W04XEWwAAVh7c.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996700890166640640"
+          ],
+          "media_source_tweet_id": [
+            "1996753891925381521"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1996969001520369900",
+        "created_at": "2025-12-05T15:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T16:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996969001520369900"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Malenia",
+              "probability": 0.6421,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Igor Sid",
+              "probability": 0.892,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4166425527",
+              "start": 3,
+              "username": "solisolsoli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ete0JOMJHe",
+              "end": 60,
+              "expanded_url": "https://x.com/solisolsoli/status/1996753891925381521/photo/1",
+              "media_key": "3_1996700890166640640",
+              "start": 37,
+              "url": "https://t.co/Ete0JOMJHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996969001520369900",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 245
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996753891925381521",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @solisolsoli: Malenia by Igor Sid https://t.co/Ete0JOMJHe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996700890166640640"
+          ]
+        },
+        "author_id": "4166425527",
+        "conversation_id": "1996753891925381521",
+        "created_at": "2025-12-05T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996753891925381521"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Malenia",
+              "probability": 0.6252,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 18,
+              "normalized_text": "Igor Sid",
+              "probability": 0.8606,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ete0JOMJHe",
+              "end": 43,
+              "expanded_url": "https://x.com/solisolsoli/status/1996753891925381521/photo/1",
+              "media_key": "3_1996700890166640640",
+              "start": 20,
+              "url": "https://t.co/Ete0JOMJHe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996753891925381521",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 30676,
+          "like_count": 2700,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 245
+        },
+        "reply_settings": "everyone",
+        "text": "Malenia by Igor Sid https://t.co/Ete0JOMJHe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 340,
+          "like_count": 3714,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 918
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-11T21:07:17.000Z",
+        "description": "https://t.co/Lws6KCEOUD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "solisolsoli.com",
+                "end": 23,
+                "expanded_url": "http://solisolsoli.com",
+                "start": 0,
+                "url": "https://t.co/Lws6KCEOUD"
+              }
+            ]
+          }
+        },
+        "id": "4166425527",
+        "name": "soli",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1240651592560513027/6fstVHAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1185168,
+          "following_count": 474,
+          "like_count": 13110,
+          "listed_count": 4101,
+          "media_count": 11515,
+          "tweet_count": 12880
+        },
+        "username": "solisolsoli",
+        "verified": true
+      }
+    ]
+  }
+}

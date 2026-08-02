@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993317386024255561",
+    "created_at": "2025-11-26T15:06:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T16:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993697894805770288"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1734992918312800257",
+          "start": 0,
+          "username": "xs_sanso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993697894805770288",
+    "in_reply_to_user_id": "1734992918312800257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993317386024255561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xs_sanso 我们这边也是，，我不扔垃圾那垃圾桶就永远是满的。地板脏了我全自动开拖，让他们抬一下脚还嫌我烦到他们打游戏了。我真的是主动当女仆了我都不知道我图啥，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993317386024255561",
+        "created_at": "2025-11-26T15:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993697894805770288"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734992918312800257",
+              "start": 0,
+              "username": "xs_sanso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993697894805770288",
+        "in_reply_to_user_id": "1734992918312800257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993317386024255561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xs_sanso 我们这边也是，，我不扔垃圾那垃圾桶就永远是满的。地板脏了我全自动开拖，让他们抬一下脚还嫌我烦到他们打游戏了。我真的是主动当女仆了我都不知道我图啥，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1734992918312800257",
+        "conversation_id": "1993317386024255561",
+        "created_at": "2025-11-25T13:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T14:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993317386024255561"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993317386024255561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1112,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "舍友死全家了。\n妈的老子主动打扫宿舍公区卫生，拖地拖得干干净净的，她转头就把拖把扔了。我晚上洗个衣服准备晾起来一看晾衣杆从阳台跑到舍友床旁边去了😹😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 269,
+          "like_count": 1904,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 479
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-13T17:45:28.000Z",
+        "description": "双相+社交恐惧症+重度抑郁重度焦虑 INFP 06女 人穷志也穷 浑身都是病 不要攻击我 约炮聊骚的别来 主页只是发疯发牢骚和做梦 互fo请发私信！",
+        "id": "1734992918312800257",
+        "location": "离你114514m",
+        "name": "かがみ🌧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990844250838249472/hII2gZMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 22,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 580
+        },
+        "username": "xs_sanso",
+        "verified": false
+      }
+    ]
+  }
+}

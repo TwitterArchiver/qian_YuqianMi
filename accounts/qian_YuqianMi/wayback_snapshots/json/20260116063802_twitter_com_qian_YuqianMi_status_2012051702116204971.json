@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2012018482133811424",
+    "created_at": "2026-01-16T06:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T07:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012051702116204971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1997985969958699008",
+          "start": 0,
+          "username": "ZaneTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012051702116204971",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012018482133811424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaneTuT 小溃疡你明明这么可爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012018482133811424",
+        "created_at": "2026-01-16T06:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T07:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012051702116204971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012051702116204971",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012018482133811424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 小溃疡你明明这么可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2012018482133811424",
+        "created_at": "2026-01-16T04:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012018482133811424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taikongjile/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/taikongjile/status/2004058498443997271",
+              "start": 10,
+              "url": "https://t.co/Dy4bHpN867"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012018482133811424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 892,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004058498443997271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么意思我一直哭。 https://t.co/Dy4bHpN867"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 659,
+          "like_count": 13065,
+          "listed_count": 1,
+          "media_count": 238,
+          "tweet_count": 2927
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨🚪88/128 纯绿丨08丨萌脸骚丨od丨私信看心情回 请礼貌丨高频率发帖我好无聊丨回fo眼熟的 可以直接➕V丨我听点udg 可以和我一起听歌…",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZPSx5"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "Tokyo-to, Japan",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2010591438627897389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 123,
+          "like_count": 1446,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 642
+        },
+        "url": "https://t.co/gLkGOZPSx5",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

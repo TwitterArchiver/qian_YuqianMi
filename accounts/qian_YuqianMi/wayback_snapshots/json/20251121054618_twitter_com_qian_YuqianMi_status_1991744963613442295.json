@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1991742473035805153",
+    "created_at": "2025-11-21T05:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T06:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991744963613442295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991744963613442295",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991742473035805153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 追随老大₍ᐢ..ᐢ₎♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1991742473035805153",
+        "created_at": "2025-11-21T05:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991744963613442295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991744963613442295",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991742473035805153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 追随老大₍ᐢ..ᐢ₎♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1991742473035805153",
+        "created_at": "2025-11-21T05:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991742473035805153"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991742473035805153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要讲什么和精神病在一起只会和彼此互相伤害了，实际上今年开drugtwt是我今年做得最棒的决定。\n我人生中的前二十年一直和健全人家人朋友们相亲相爱，他们对我的理解止步于某个点，我和他们当然是相爱相惜的，可是不被理解很痛苦，我没有认同感与归属感\n\n我在这里第一次意识到我是喜欢讲话喜欢群体的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 141,
+          "like_count": 977,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 216
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛躁郁圣体❤️绝赞病b小心染病❤️同类fo必回-漏fo请私-爱互关宝宝❤️点赞评论bot-讨厌不熟的人闲聊♡喜欢sex与drug♡不提供任何咨询♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 938,
+          "like_count": 3174,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2317
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

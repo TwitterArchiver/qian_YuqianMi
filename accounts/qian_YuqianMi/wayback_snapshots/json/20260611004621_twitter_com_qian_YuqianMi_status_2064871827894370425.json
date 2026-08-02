@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2064753074531709088",
+    "created_at": "2026-06-11T00:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064871827894370425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1732356232290222080",
+          "start": 0,
+          "username": "8964_Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064871827894370425",
+    "in_reply_to_user_id": "1732356232290222080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064753074531709088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8964_Y 可能是淤青（？）我也这样 好奇怪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064753063903342592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKd5-NrbsAAFXPe.jpg",
+        "width": 2046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2064753074531709088",
+        "created_at": "2026-06-11T00:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064871827894370425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1732356232290222080",
+              "start": 0,
+              "username": "8964_Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064871827894370425",
+        "in_reply_to_user_id": "1732356232290222080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064753074531709088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8964_Y 可能是淤青（？）我也这样 好奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064753063903342592"
+          ]
+        },
+        "author_id": "1732356232290222080",
+        "conversation_id": "2064753074531709088",
+        "created_at": "2026-06-10T16:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064753074531709088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cK5uq4XbvC",
+              "end": 45,
+              "expanded_url": "https://x.com/8964_Y/status/2064753074531709088/photo/1",
+              "media_key": "3_2064753063903342592",
+              "start": 22,
+              "url": "https://t.co/cK5uq4XbvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064753074531709088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 858,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我都不知道我腿咋了莫名其妙冒出来这么多尸斑 https://t.co/cK5uq4XbvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 877,
+          "like_count": 29019,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 5839
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T11:08:15.000Z",
+        "description": "希望您能多了解我一点｜专门发画的：@QY_art7 只会过信任的人的账号@whxsa11 ｜多靠近我一些吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "QY_art7"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "whxsa11"
+              }
+            ]
+          }
+        },
+        "id": "1732356232290222080",
+        "location": "神域市",
+        "name": "洇魔女だ",
+        "pinned_tweet_id": "2063991119185064183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038658610172157953/Vgc3WGox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6221,
+          "following_count": 739,
+          "like_count": 23947,
+          "listed_count": 19,
+          "media_count": 1126,
+          "tweet_count": 16481
+        },
+        "username": "8964_Y",
+        "verified": false
+      }
+    ]
+  }
+}

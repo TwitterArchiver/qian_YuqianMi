@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2017222639975301224",
+    "created_at": "2026-01-30T14:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T15:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017246419976105991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682778677912965121",
+          "start": 0,
+          "username": "may7lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017246419976105991",
+    "in_reply_to_user_id": "1682778677912965121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017222639975301224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@may7lucky 甜食是世界的根基！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2017222639975301224",
+        "created_at": "2026-01-30T14:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T15:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017246419976105991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682778677912965121",
+              "start": 0,
+              "username": "may7lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017246419976105991",
+        "in_reply_to_user_id": "1682778677912965121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017222639975301224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@may7lucky 甜食是世界的根基！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682778677912965121",
+        "conversation_id": "2017222639975301224",
+        "created_at": "2026-01-30T13:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T14:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017222639975301224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017222639975301224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 198,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来这两天都为一件事情烦着呢 吃了七块蛋糕心情一下子就好了 搞半天还是饿的馋的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 702,
+          "like_count": 16782,
+          "listed_count": 1,
+          "media_count": 273,
+          "tweet_count": 3573
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "我想发什么就发什么呀\n恶毒人格@chicken527ovo只过互关\n不爱回私信 有匿名提问\n没礼貌的私信不回 主页有血图的不回关 我会害怕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "chicken527ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chicken666ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chicken666ovo",
+                "start": 0,
+                "url": "https://t.co/prO8MJLbHn"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "我只是一个普通的蛋蛋！",
+        "name": "萌混过关",
+        "pinned_tweet_id": "2011779601626996828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016019857658281984/mcmJJrm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 97,
+          "like_count": 18224,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 5449
+        },
+        "url": "https://t.co/prO8MJLbHn",
+        "username": "may7lucky",
+        "verified": false
+      }
+    ]
+  }
+}

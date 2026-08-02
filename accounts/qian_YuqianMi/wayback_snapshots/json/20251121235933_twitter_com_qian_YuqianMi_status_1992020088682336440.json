@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992020085779890176"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1992020088682336440",
+    "created_at": "2025-11-21T23:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T00:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992020088682336440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p19B00YNH6",
+          "end": 139,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1992020088682336440/photo/1",
+          "media_key": "3_1992020085779890176",
+          "start": 116,
+          "url": "https://t.co/p19B00YNH6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992020088682336440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（一个很久很久的朋友搞的恶作剧）\n事后我真的超感动的，，我现生朋友本来就很少，她是最好的那一批了。但是我也是没想到有人愿意跟我玩这个。（我们缺爱b就这样吧！）\n真的很开心，，\n\n（一开始没认出来是恶作剧我还骂了她哈哈哈哈，（已滑跪 https://t.co/p19B00YNH6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1606,
+        "media_key": "3_1992020085779890176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6UTtr5agAADwAf.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992020085779890176"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1992020088682336440",
+        "created_at": "2025-11-21T23:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T00:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992020088682336440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p19B00YNH6",
+              "end": 139,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1992020088682336440/photo/1",
+              "media_key": "3_1992020085779890176",
+              "start": 116,
+              "url": "https://t.co/p19B00YNH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992020088682336440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（一个很久很久的朋友搞的恶作剧）\n事后我真的超感动的，，我现生朋友本来就很少，她是最好的那一批了。但是我也是没想到有人愿意跟我玩这个。（我们缺爱b就这样吧！）\n真的很开心，，\n\n（一开始没认出来是恶作剧我还骂了她哈哈哈哈，（已滑跪 https://t.co/p19B00YNH6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 169,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 255
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

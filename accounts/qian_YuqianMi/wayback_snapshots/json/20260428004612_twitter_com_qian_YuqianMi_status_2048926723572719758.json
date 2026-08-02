@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2048926338569155040",
+    "created_at": "2026-04-28T00:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T01:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048926723572719758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1991445770592219140",
+          "start": 0,
+          "username": "Sakurayukii77i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048926723572719758",
+    "in_reply_to_user_id": "1991445770592219140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048926338569155040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakurayukii77i 怎么这么好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048926322349719552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8_om6aQAAqFLM.jpg",
+        "width": 1364
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048926322312060928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG8_omxboAAns6L.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2048926338569155040",
+        "created_at": "2026-04-28T00:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048926723572719758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1991445770592219140",
+              "start": 0,
+              "username": "Sakurayukii77i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048926723572719758",
+        "in_reply_to_user_id": "1991445770592219140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048926338569155040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakurayukii77i 怎么这么好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048926322349719552",
+            "3_2048926322312060928"
+          ]
+        },
+        "author_id": "1991445770592219140",
+        "conversation_id": "2048926338569155040",
+        "created_at": "2026-04-28T00:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048926338569155040"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSVQL41wPa",
+              "end": 23,
+              "expanded_url": "https://x.com/Sakurayukii77i/status/2048926338569155040/photo/1",
+              "media_key": "3_2048926322349719552",
+              "start": 0,
+              "url": "https://t.co/uSVQL41wPa"
+            },
+            {
+              "display_url": "pic.x.com/uSVQL41wPa",
+              "end": 23,
+              "expanded_url": "https://x.com/Sakurayukii77i/status/2048926338569155040/photo/1",
+              "media_key": "3_2048926322312060928",
+              "start": 0,
+              "url": "https://t.co/uSVQL41wPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048926338569155040",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uSVQL41wPa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 842,
+          "like_count": 27314,
+          "listed_count": 0,
+          "media_count": 371,
+          "tweet_count": 5400
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T09:57:35.000Z",
+        "description": "你和雪有一个共同的特点",
+        "id": "1991445770592219140",
+        "location": "幻想乡｜🚪188/520/1314/5200（520可线下",
+        "name": "心裂了一道缝（坐标15",
+        "pinned_tweet_id": "1991448324319367613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991445945578647552/P-LIO0kK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5763,
+          "following_count": 12,
+          "like_count": 500,
+          "listed_count": 17,
+          "media_count": 297,
+          "tweet_count": 886
+        },
+        "username": "Sakurayukii77i",
+        "verified": false
+      }
+    ]
+  }
+}

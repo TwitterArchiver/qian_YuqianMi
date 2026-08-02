@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2065034590260199425"
+      ],
+      "media_source_tweet_id": [
+        "2065034706568286678"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2065238015619035644",
+    "created_at": "2026-06-12T01:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T02:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065238015619035644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1581971600903409664",
+          "start": 3,
+          "username": "yunayuispink"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQii84iwOd",
+          "end": 41,
+          "expanded_url": "https://x.com/yunayuispink/status/2065034706568286678/video/1",
+          "media_key": "13_2065034590260199425",
+          "start": 18,
+          "url": "https://t.co/vQii84iwOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065238015619035644",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 384
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065034706568286678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunayuispink: https://t.co/vQii84iwOd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36339,
+        "height": 1300,
+        "media_key": "13_2065034590260199425",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2065034590260199425/img/OfLmyM7e7KzLMCxI.jpg",
+        "public_metrics": {
+          "view_count": 9423
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2065034590260199425/pl/_aOekyF7KtWXtC1h.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065034590260199425/vid/avc1/320x346/b1u-WZorg5v43Iwv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065034590260199425/vid/avc1/480x520/_u6i2B4FEiLljs16.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065034590260199425/vid/avc1/1200x1300/0y9Z0QNhwd5HWNlS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2065034590260199425/vid/avc1/720x780/koCnkCCFHjwkjJa8.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065034590260199425"
+          ],
+          "media_source_tweet_id": [
+            "2065034706568286678"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2065238015619035644",
+        "created_at": "2026-06-12T01:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T02:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065238015619035644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1581971600903409664",
+              "start": 3,
+              "username": "yunayuispink"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQii84iwOd",
+              "end": 41,
+              "expanded_url": "https://x.com/yunayuispink/status/2065034706568286678/video/1",
+              "media_key": "13_2065034590260199425",
+              "start": 18,
+              "url": "https://t.co/vQii84iwOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065238015619035644",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 384
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065034706568286678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yunayuispink: https://t.co/vQii84iwOd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2065034590260199425"
+          ]
+        },
+        "author_id": "1581971600903409664",
+        "conversation_id": "2065034706568286678",
+        "created_at": "2026-06-11T11:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T12:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065034706568286678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQii84iwOd",
+              "end": 23,
+              "expanded_url": "https://x.com/yunayuispink/status/2065034706568286678/video/1",
+              "media_key": "13_2065034590260199425",
+              "start": 0,
+              "url": "https://t.co/vQii84iwOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065034706568286678",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 444,
+          "impression_count": 20947,
+          "like_count": 3662,
+          "quote_count": 6,
+          "reply_count": 40,
+          "retweet_count": 384
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vQii84iwOd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 878,
+          "like_count": 29091,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 5862
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T11:33:42.000Z",
+        "description": "I wanna be drawing hero one day..!\n\nyunayuispink@gmail.com\n🖍fanart #yunayum",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 67,
+                "tag": "yunayum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makeship.com/products/fat-y…",
+                "end": 23,
+                "expanded_url": "https://www.makeship.com/products/fat-yunayu-plushie",
+                "start": 0,
+                "url": "https://t.co/q9SitI6RbI"
+              }
+            ]
+          }
+        },
+        "id": "1581971600903409664",
+        "name": "yunayu",
+        "pinned_tweet_id": "2055571348332957901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039112602840903680/xsLJrw7A_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191467,
+          "following_count": 230,
+          "like_count": 22320,
+          "listed_count": 464,
+          "media_count": 2004,
+          "tweet_count": 4636
+        },
+        "url": "https://t.co/q9SitI6RbI",
+        "username": "yunayuispink",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2058169423563727334",
+    "created_at": "2026-05-24T01:10:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T02:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058354909406527679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1921107120768118785",
+          "start": 0,
+          "username": "SaotomeShimeri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058354909406527679",
+    "in_reply_to_user_id": "1921107120768118785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058169423563727334",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaotomeShimeri 可爱可爱可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14500,
+        "height": 1280,
+        "media_key": "13_2058169275223875585",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2058169275223875585/img/uG4PisZ1yo5goIhE.jpg",
+        "public_metrics": {
+          "view_count": 245
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058169275223875585/vid/avc1/320x568/Q8btsHTrP5BqMxJ4.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058169275223875585/vid/avc1/480x852/zG4jVG8vn-TD3Ue8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2058169275223875585/vid/avc1/720x1280/0G2zYL2f7HI4wXDl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2058169275223875585/pl/kZQrtCfxIeN4szXq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2058169423563727334",
+        "created_at": "2026-05-24T01:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T02:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058354909406527679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1921107120768118785",
+              "start": 0,
+              "username": "SaotomeShimeri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058354909406527679",
+        "in_reply_to_user_id": "1921107120768118785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058169423563727334",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaotomeShimeri 可爱可爱可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2058169275223875585"
+          ]
+        },
+        "author_id": "1921107120768118785",
+        "conversation_id": "2058169423563727334",
+        "created_at": "2026-05-23T12:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058169423563727334"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 44,
+              "tag": "自撮り"
+            },
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "病みかわいい"
+            },
+            {
+              "end": 64,
+              "start": 57,
+              "tag": "手振りダンス"
+            },
+            {
+              "end": 75,
+              "start": 65,
+              "tag": "ジェスチャーゲーム"
+            },
+            {
+              "end": 88,
+              "start": 76,
+              "tag": "病み垢さんと繋がりたい"
+            },
+            {
+              "end": 93,
+              "start": 89,
+              "tag": "雰囲気"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ng3txJpo32",
+              "end": 117,
+              "expanded_url": "https://x.com/SaotomeShimeri/status/2058169423563727334/video/1",
+              "media_key": "13_2058169275223875585",
+              "start": 94,
+              "url": "https://t.co/ng3txJpo32"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058169423563727334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1163,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "可爱吗？可爱吗？如果夸我可爱的话你就会获得幸福的buff！这是死目莉施下的魔法😈😈😈\n\n#自撮り #病みかわいい #手振りダンス #ジェスチャーゲーム #病み垢さんと繋がりたい #雰囲気 https://t.co/ng3txJpo32"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 861,
+          "like_count": 28394,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 5699
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-10T07:36:59.000Z",
+        "description": "＝死目莉\n🚫ai/双相/adhd/💊/🎨/🔪🩸/刻板印象entp4w3/喜欢twt的大家且希望所有人能幸福\n当朋友圈发，大量日常/废话/负能黑泥\n稿件相关请私讯",
+        "id": "1921107120768118785",
+        "name": "早乙女死目莉",
+        "pinned_tweet_id": "2058092274270232717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055923464910069760/gZVe8A7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 148,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 426
+        },
+        "username": "SaotomeShimeri",
+        "verified": false
+      }
+    ]
+  }
+}

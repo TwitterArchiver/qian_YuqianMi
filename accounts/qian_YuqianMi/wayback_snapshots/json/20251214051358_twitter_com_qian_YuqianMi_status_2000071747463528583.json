@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2000070701395714048"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2000071747463528583",
+    "created_at": "2025-12-14T05:13:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T06:13:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000071747463528583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/im4df3HIxb",
+          "end": 69,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2000071747463528583/video/1",
+          "media_key": "7_2000070701395714048",
+          "start": 46,
+          "url": "https://t.co/im4df3HIxb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000071747463528583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我还是适合弹这种曲子我只能说。\n【笼中鸟】\n\n完全没什么连续性只是发泄一下情绪吧！听个响。 https://t.co/im4df3HIxb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 121074,
+        "height": 1280,
+        "media_key": "7_2000070701395714048",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000070701395714048/pu/img/6EWc5SkEj78CLdqz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000070701395714048/pu/vid/avc1/320x568/FHOZkFgykv2cQqYl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000070701395714048/pu/vid/avc1/480x852/3J4UUXep3JTMrcCM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000070701395714048/pu/vid/avc1/720x1280/O7zXlZEIvpJT2fA0.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000070701395714048/pu/pl/iqd-VqXui0KH4fCH.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000070701395714048"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2000071747463528583",
+        "created_at": "2025-12-14T05:13:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T06:13:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000071747463528583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/im4df3HIxb",
+              "end": 69,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2000071747463528583/video/1",
+              "media_key": "7_2000070701395714048",
+              "start": 46,
+              "url": "https://t.co/im4df3HIxb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000071747463528583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是适合弹这种曲子我只能说。\n【笼中鸟】\n\n完全没什么连续性只是发泄一下情绪吧！听个响。 https://t.co/im4df3HIxb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 374,
+          "like_count": 4931,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1229
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

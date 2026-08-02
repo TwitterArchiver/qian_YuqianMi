@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2010015640606908426",
+    "created_at": "2026-01-10T15:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T16:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010015833712668698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1132536081667149824",
+          "start": 0,
+          "username": "OwGMktSAjommOHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010015833712668698",
+    "in_reply_to_user_id": "1132536081667149824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010015640606908426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OwGMktSAjommOHN 有品，，萌死了。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2010015640606908426",
+        "created_at": "2026-01-10T15:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010015833712668698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1132536081667149824",
+              "start": 0,
+              "username": "OwGMktSAjommOHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010015833712668698",
+        "in_reply_to_user_id": "1132536081667149824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010015640606908426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OwGMktSAjommOHN 有品，，萌死了。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132536081667149824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2010015640606908426",
+        "created_at": "2026-01-10T15:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T16:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010015640606908426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/copymellowclip…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/copymellowclip/status/2010003103396049086",
+              "start": 69,
+              "url": "https://t.co/LBSIqB5CB7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010015640606908426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010003103396049086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "居然是若葉睦…這麼好的cos我還以為破千粉是基本的我嚇到了，翻了一下發的東西也不少啊…推特怎麼這樣啊…真的特別特別喜歡，我要發到ig感嘆 https://t.co/LBSIqB5CB7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 636,
+          "like_count": 10889,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 2505
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-26T06:36:58.000Z",
+        "description": "INFP\n愛逛四愛/\n愛發牢騷話/\n愛溫柔熾熱狗男",
+        "id": "1132536081667149824",
+        "name": "方",
+        "pinned_tweet_id": "1991967457729450062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007848613108678656/rHBKLfOy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 665,
+          "like_count": 3877,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 1333
+        },
+        "username": "OwGMktSAjommOHN",
+        "verified": false
+      }
+    ]
+  }
+}

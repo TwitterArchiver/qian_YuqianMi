@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2027555154602693067",
+    "created_at": "2026-02-28T01:23:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T02:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027555154602693067"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ecco2k07/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/Ecco2k07/status/2027289703733702802",
+          "start": 27,
+          "url": "https://t.co/Cro2waQxu2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027555154602693067",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027289703733702802",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也是这样想的👉👈\n但是以前跟好朋友讲被她批斗了，， https://t.co/Cro2waQxu2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2027555154602693067",
+        "created_at": "2026-02-28T01:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027555154602693067"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ecco2k07/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/Ecco2k07/status/2027289703733702802",
+              "start": 27,
+              "url": "https://t.co/Cro2waQxu2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027555154602693067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027289703733702802",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是这样想的👉👈\n但是以前跟好朋友讲被她批斗了，， https://t.co/Cro2waQxu2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858703297403908097",
+        "conversation_id": "2027289703733702802",
+        "created_at": "2026-02-27T07:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027289703733702802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027289703733702802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 145835,
+          "like_count": 752,
+          "quote_count": 8,
+          "reply_count": 61,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得舌吻是比做爱还私密的事情。。因为我设想了一下和陌生人舌吻跟和陌生人做爱那我还是能接受做爱一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1147,
+          "following_count": 799,
+          "like_count": 23390,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 4605
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T02:46:23.000Z",
+        "description": "你这人满脑子都想着自己呢",
+        "id": "1858703297403908097",
+        "name": "Ecco2k",
+        "pinned_tweet_id": "2022221623991136409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954822094031814656/CntVsfng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4396,
+          "following_count": 8,
+          "like_count": 1144,
+          "listed_count": 19,
+          "media_count": 121,
+          "tweet_count": 1075
+        },
+        "username": "Ecco2k07",
+        "verified": false
+      }
+    ]
+  }
+}

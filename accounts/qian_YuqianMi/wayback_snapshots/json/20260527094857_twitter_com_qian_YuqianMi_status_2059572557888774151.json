@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057416196300083200"
+      ],
+      "media_source_tweet_id": [
+        "2057416255712395476"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2059572557888774151",
+    "created_at": "2026-05-27T09:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T10:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059572557888774151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675023060393672704",
+          "start": 3,
+          "username": "Oriori937182"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vVtfJvgJUn",
+          "end": 66,
+          "expanded_url": "https://x.com/Oriori937182/status/2057416255712395476/photo/1",
+          "media_key": "3_2057416196300083200",
+          "start": 43,
+          "url": "https://t.co/vVtfJvgJUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059572557888774151",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7352
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057416255712395476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oriori937182: 姉ちゃんがこんなことしてるなんて知りたくなかった https://t.co/vVtfJvgJUn"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2059572557888774151].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2059572557888774151",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2059572557888774151"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2057416196300083200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1pIT-aEAAfcfB.jpg",
+        "width": 1748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057416196300083200"
+          ]
+        },
+        "author_id": "1675023060393672704",
+        "conversation_id": "2057416255712395476",
+        "created_at": "2026-05-21T11:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057416255712395476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vVtfJvgJUn",
+              "end": 48,
+              "expanded_url": "https://x.com/Oriori937182/status/2057416255712395476/photo/1",
+              "media_key": "3_2057416196300083200",
+              "start": 25,
+              "url": "https://t.co/vVtfJvgJUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057416255712395476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 39021,
+          "impression_count": 2797216,
+          "like_count": 125025,
+          "quote_count": 19,
+          "reply_count": 49,
+          "retweet_count": 7352
+        },
+        "reply_settings": "everyone",
+        "text": "姉ちゃんがこんなことしてるなんて知りたくなかった https://t.co/vVtfJvgJUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 867,
+          "like_count": 28583,
+          "listed_count": 0,
+          "media_count": 387,
+          "tweet_count": 5738
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-01T06:06:51.000Z",
+        "description": "本垢-R18G（フユノクレ）：@pAsglqPi1sgQDl2\n予備垢：@fuyuzare153337\nFANBOX： https://t.co/MLOE0Y8En4\n\n当アカウントではグロ要素を含まない絵を上げていきます。\n18歳以下の方はフォローご遠慮ください。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "pAsglqPi1sgQDl2"
+              },
+              {
+                "end": 51,
+                "start": 36,
+                "username": "fuyuzare153337"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "fuyunokure.fanbox.cc",
+                "end": 83,
+                "expanded_url": "http://fuyunokure.fanbox.cc/",
+                "start": 60,
+                "url": "https://t.co/MLOE0Y8En4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/35070924",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/35070924",
+                "start": 0,
+                "url": "https://t.co/Mg4WQQXTxh"
+              }
+            ]
+          }
+        },
+        "id": "1675023060393672704",
+        "name": "冬乃暮🔞 FANBOX始めました",
+        "pinned_tweet_id": "2054762540929040668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986098501634416640/4jaEj8Ar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171446,
+          "following_count": 1610,
+          "like_count": 1321,
+          "listed_count": 848,
+          "media_count": 157,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/Mg4WQQXTxh",
+        "username": "Oriori937182",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001123943030431744"
+      ],
+      "media_source_tweet_id": [
+        "2001127722836496600"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2001132441608860016",
+    "created_at": "2025-12-17T03:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T04:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001132441608860016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2286864763",
+          "start": 3,
+          "username": "palmie_oekaki"
+        }
+      ],
+      "urls": [
+        {
+          "description": "かわいい制服の描き方を学んでみよう♪ 制服を着た女性キャラクターを描きたいけど、どう描けばいいのか分からない。 女子制服を描く時のポイントやコツを知りたい！といった悩み・苦手意識を持つ方にオススメ！ 「制服の描き方講座ー女性編ー」ではそんなお悩みを解決します。 イラストレーターのみなせなぎ先生をお招きし、女子制服の描き方を基本から解説していただきます。 制服のタイプやパーツ、描く上でのワンポイントを学んだ後、 冬服・夏服の制服を着た女性キャラクターの線画を描く実演＆解説を行います！",
+          "display_url": "palmie.jp/courses/255/lp…",
+          "end": 60,
+          "expanded_url": "https://www.palmie.jp/courses/255/lp?aff_id=twitter_palmie",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/2001127765513547776/7Hc0mFT7?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2001127765513547776/7Hc0mFT7?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 37,
+          "status": 200,
+          "title": "制服の描き方講座【女子制服編】| お絵かき講座パルミー",
+          "unwound_url": "https://www.palmie.jp/courses/255/lp?aff_id=twitter_palmie",
+          "url": "https://t.co/AWFrYBryGE"
+        },
+        {
+          "display_url": "pic.x.com/0FHrGFxg0c",
+          "end": 84,
+          "expanded_url": "https://x.com/palmie_oekaki/status/2001127722836496600/photo/1",
+          "media_key": "3_2001123943030431744",
+          "start": 61,
+          "url": "https://t.co/0FHrGFxg0c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001132441608860016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001127722836496600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @palmie_oekaki: 制服の種類や色のバリエーション例💡\nhttps://t.co/AWFrYBryGE https://t.co/0FHrGFxg0c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2001123943030431744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Vrn6_boAAUguG.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001123943030431744"
+          ],
+          "media_source_tweet_id": [
+            "2001127722836496600"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2001132441608860016",
+        "created_at": "2025-12-17T03:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T04:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001132441608860016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2286864763",
+              "start": 3,
+              "username": "palmie_oekaki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "かわいい制服の描き方を学んでみよう♪ 制服を着た女性キャラクターを描きたいけど、どう描けばいいのか分からない。 女子制服を描く時のポイントやコツを知りたい！といった悩み・苦手意識を持つ方にオススメ！ 「制服の描き方講座ー女性編ー」ではそんなお悩みを解決します。 イラストレーターのみなせなぎ先生をお招きし、女子制服の描き方を基本から解説していただきます。 制服のタイプやパーツ、描く上でのワンポイントを学んだ後、 冬服・夏服の制服を着た女性キャラクターの線画を描く実演＆解説を行います！",
+              "display_url": "palmie.jp/courses/255/lp…",
+              "end": 60,
+              "expanded_url": "https://www.palmie.jp/courses/255/lp?aff_id=twitter_palmie",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2001127765513547776/7Hc0mFT7?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001127765513547776/7Hc0mFT7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "制服の描き方講座【女子制服編】| お絵かき講座パルミー",
+              "unwound_url": "https://www.palmie.jp/courses/255/lp?aff_id=twitter_palmie",
+              "url": "https://t.co/AWFrYBryGE"
+            },
+            {
+              "display_url": "pic.x.com/0FHrGFxg0c",
+              "end": 84,
+              "expanded_url": "https://x.com/palmie_oekaki/status/2001127722836496600/photo/1",
+              "media_key": "3_2001123943030431744",
+              "start": 61,
+              "url": "https://t.co/0FHrGFxg0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001132441608860016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001127722836496600",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @palmie_oekaki: 制服の種類や色のバリエーション例💡\nhttps://t.co/AWFrYBryGE https://t.co/0FHrGFxg0c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001123943030431744"
+          ]
+        },
+        "author_id": "2286864763",
+        "conversation_id": "2001127722836496600",
+        "created_at": "2025-12-17T03:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T04:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001127722836496600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "かわいい制服の描き方を学んでみよう♪ 制服を着た女性キャラクターを描きたいけど、どう描けばいいのか分からない。 女子制服を描く時のポイントやコツを知りたい！といった悩み・苦手意識を持つ方にオススメ！ 「制服の描き方講座ー女性編ー」ではそんなお悩みを解決します。 イラストレーターのみなせなぎ先生をお招きし、女子制服の描き方を基本から解説していただきます。 制服のタイプやパーツ、描く上でのワンポイントを学んだ後、 冬服・夏服の制服を着た女性キャラクターの線画を描く実演＆解説を行います！",
+              "display_url": "palmie.jp/courses/255/lp…",
+              "end": 41,
+              "expanded_url": "https://www.palmie.jp/courses/255/lp?aff_id=twitter_palmie",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2001127765513547776/7Hc0mFT7?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2001127765513547776/7Hc0mFT7?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 18,
+              "status": 200,
+              "title": "制服の描き方講座【女子制服編】| お絵かき講座パルミー",
+              "unwound_url": "https://www.palmie.jp/courses/255/lp?aff_id=twitter_palmie",
+              "url": "https://t.co/AWFrYBryGE"
+            },
+            {
+              "display_url": "pic.x.com/0FHrGFxg0c",
+              "end": 65,
+              "expanded_url": "https://x.com/palmie_oekaki/status/2001127722836496600/photo/1",
+              "media_key": "3_2001123943030431744",
+              "start": 42,
+              "url": "https://t.co/0FHrGFxg0c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001127722836496600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 4077,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "制服の種類や色のバリエーション例💡\nhttps://t.co/AWFrYBryGE https://t.co/0FHrGFxg0c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 411,
+          "like_count": 5564,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1392
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-11T16:11:51.000Z",
+        "description": "絵の描き方を学ぶならお絵かき講座パルミー✨\n公式キャラクターのパルミーちゃんです！\nイラストや漫画の描き方、クリスタの使い方などの情報をお届け🌟\n\n#パルミー\n#パルミー11周年おめでとう",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 74,
+                "tag": "パルミー"
+              },
+              {
+                "end": 94,
+                "start": 80,
+                "tag": "パルミー11周年おめでとう"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "palmie.jp/?aff_id=twitte…",
+                "end": 23,
+                "expanded_url": "https://www.palmie.jp?aff_id=twitter_top",
+                "start": 0,
+                "url": "https://t.co/Xqm6qtewhD"
+              }
+            ]
+          }
+        },
+        "id": "2286864763",
+        "location": "お絵かきの国",
+        "name": "お絵かき講座パルミー",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1614876768313438210/xg943Rhx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351117,
+          "following_count": 80003,
+          "like_count": 27204,
+          "listed_count": 3610,
+          "media_count": 29150,
+          "tweet_count": 39029
+        },
+        "url": "https://t.co/Xqm6qtewhD",
+        "username": "palmie_oekaki",
+        "verified": true
+      }
+    ]
+  }
+}

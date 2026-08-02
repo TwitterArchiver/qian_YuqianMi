@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990040079130362331",
+    "created_at": "2025-11-16T13:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T14:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990042620144599046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "YesterdayOrange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990042620144599046",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990040079130362331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YesterdayOrange 希望我可以遇到我的精神寄托。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 447,
+        "media_key": "3_1990040065448497152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54K5VXaUAAJL7R.jpg",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990040079130362331",
+        "created_at": "2025-11-16T13:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T14:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990042620144599046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "YesterdayOrange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990042620144599046",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990040079130362331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YesterdayOrange 希望我可以遇到我的精神寄托。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990040065448497152"
+          ]
+        },
+        "author_id": "1788485889225834496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1990040079130362331",
+        "created_at": "2025-11-16T12:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990040079130362331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aVlqmU7pcF",
+              "end": 36,
+              "expanded_url": "https://x.com/YesterdayOrange/status/1990040079130362331/photo/1",
+              "media_key": "3_1990040065448497152",
+              "start": 13,
+              "url": "https://t.co/aVlqmU7pcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990040079130362331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你可以对欧润吉许一个愿望 https://t.co/aVlqmU7pcF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱精神失常阿宅 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 108,
+          "like_count": 612,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 121
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "大家有doro相关的图片/文字都可以代发。  明天就回家 明天就回到现实，明天是那样黑暗 我好想留在这。 明天我会去找你，我是那么爱你的梦。",
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "1989685373346426906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8248,
+          "following_count": 3250,
+          "like_count": 64807,
+          "listed_count": 14,
+          "media_count": 1344,
+          "tweet_count": 14854
+        },
+        "username": "YesterdayOrange",
+        "verified": false
+      }
+    ]
+  }
+}

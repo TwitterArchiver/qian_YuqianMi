@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990839568824766464"
+      ],
+      "media_source_tweet_id": [
+        "1990839617340178671"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990916956606861572",
+    "created_at": "2025-11-18T22:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T23:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990916956606861572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1293169971464372225",
+          "start": 3,
+          "username": "Mathias__Osland"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7e6AvHDxMU",
+          "end": 46,
+          "expanded_url": "https://x.com/Mathias__Osland/status/1990839617340178671/photo/1",
+          "media_key": "3_1990839568824766464",
+          "start": 23,
+          "url": "https://t.co/7e6AvHDxMU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990916956606861572",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3059
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990839617340178671",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mathias__Osland: 🤔 https://t.co/7e6AvHDxMU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1990839568824766464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6DiCjiXkAAHqI-.jpg",
+        "width": 2454
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990839568824766464"
+          ],
+          "media_source_tweet_id": [
+            "1990839617340178671"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990916956606861572",
+        "created_at": "2025-11-18T22:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T23:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990916956606861572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1293169971464372225",
+              "start": 3,
+              "username": "Mathias__Osland"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7e6AvHDxMU",
+              "end": 46,
+              "expanded_url": "https://x.com/Mathias__Osland/status/1990839617340178671/photo/1",
+              "media_key": "3_1990839568824766464",
+              "start": 23,
+              "url": "https://t.co/7e6AvHDxMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990916956606861572",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3059
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990839617340178671",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mathias__Osland: 🤔 https://t.co/7e6AvHDxMU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990839568824766464"
+          ]
+        },
+        "author_id": "1293169971464372225",
+        "conversation_id": "1990839617340178671",
+        "created_at": "2025-11-18T17:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T18:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990839617340178671"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7e6AvHDxMU",
+              "end": 25,
+              "expanded_url": "https://x.com/Mathias__Osland/status/1990839617340178671/photo/1",
+              "media_key": "3_1990839568824766464",
+              "start": 2,
+              "url": "https://t.co/7e6AvHDxMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990839617340178671",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2886,
+          "impression_count": 275955,
+          "like_count": 51110,
+          "quote_count": 13,
+          "reply_count": 42,
+          "retweet_count": 3059
+        },
+        "reply_settings": "everyone",
+        "text": "🤔 https://t.co/7e6AvHDxMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 119,
+          "like_count": 805,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 179
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-11T12:58:59.000Z",
+        "description": "Concept Artist and Illustrator\n\nI post art and teach.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "visign.com",
+                "end": 23,
+                "expanded_url": "https://visign.com/",
+                "start": 0,
+                "url": "https://t.co/mYzZiYJKoK"
+              }
+            ]
+          }
+        },
+        "id": "1293169971464372225",
+        "name": "Mathias Osland",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627467113479774209/8Lg6Tm5p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24072,
+          "following_count": 312,
+          "like_count": 4841,
+          "listed_count": 168,
+          "media_count": 171,
+          "tweet_count": 380
+        },
+        "url": "https://t.co/mYzZiYJKoK",
+        "username": "Mathias__Osland",
+        "verified": false
+      }
+    ]
+  }
+}

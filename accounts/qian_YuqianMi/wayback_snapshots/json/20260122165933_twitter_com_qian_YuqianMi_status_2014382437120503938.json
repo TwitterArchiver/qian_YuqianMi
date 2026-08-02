@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014135178248196096"
+      ],
+      "media_source_tweet_id": [
+        "2014135181909889076"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014382437120503938",
+    "created_at": "2026-01-22T16:59:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T17:59:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014382437120503938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1551342229016305666",
+          "start": 3,
+          "username": "_negau_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CLRNgh7jcj",
+          "end": 40,
+          "expanded_url": "https://x.com/_negau_2/status/2014135181909889076/photo/1",
+          "media_key": "3_2014135178248196096",
+          "start": 17,
+          "url": "https://t.co/CLRNgh7jcj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014382437120503938",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1010
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014135181909889076",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_negau_2: 再掲 https://t.co/CLRNgh7jcj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2014135178248196096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_OlRfUaEAA0jO0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014135178248196096"
+          ],
+          "media_source_tweet_id": [
+            "2014135181909889076"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014382437120503938",
+        "created_at": "2026-01-22T16:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T17:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014382437120503938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1551342229016305666",
+              "start": 3,
+              "username": "_negau_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLRNgh7jcj",
+              "end": 40,
+              "expanded_url": "https://x.com/_negau_2/status/2014135181909889076/photo/1",
+              "media_key": "3_2014135178248196096",
+              "start": 17,
+              "url": "https://t.co/CLRNgh7jcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014382437120503938",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1010
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014135181909889076",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_negau_2: 再掲 https://t.co/CLRNgh7jcj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014135178248196096"
+          ]
+        },
+        "author_id": "1551342229016305666",
+        "conversation_id": "2014135181909889076",
+        "created_at": "2026-01-22T00:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T01:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014135181909889076"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLRNgh7jcj",
+              "end": 26,
+              "expanded_url": "https://x.com/_negau_2/status/2014135181909889076/photo/1",
+              "media_key": "3_2014135178248196096",
+              "start": 3,
+              "url": "https://t.co/CLRNgh7jcj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014135181909889076",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1021,
+          "impression_count": 68248,
+          "like_count": 10103,
+          "quote_count": 14,
+          "reply_count": 4,
+          "retweet_count": 1010
+        },
+        "reply_settings": "everyone",
+        "text": "再掲 https://t.co/CLRNgh7jcj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 682,
+          "like_count": 15101,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 3276
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-24T23:03:21.000Z",
+        "description": "心の絵日記 / メインアカウント→@_negau_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 17,
+                "username": "_negau_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/irasuto_0r",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/irasuto_0r",
+                "start": 0,
+                "url": "https://t.co/TinpCMbhx1"
+              }
+            ]
+          }
+        },
+        "id": "1551342229016305666",
+        "name": "願U/negaU の 深淵",
+        "pinned_tweet_id": "2008919230448865371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971572915138420736/Iy1FDUef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8728,
+          "following_count": 0,
+          "like_count": 39,
+          "listed_count": 33,
+          "media_count": 138,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/TinpCMbhx1",
+        "username": "_negau_2",
+        "verified": false
+      }
+    ]
+  }
+}

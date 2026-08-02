@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2025526742530863350",
+    "created_at": "2026-02-22T16:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025606447359533382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1997985969958699008",
+          "start": 0,
+          "username": "ZaneTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025606447359533382",
+    "in_reply_to_user_id": "1997985969958699008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025526742530863350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZaneTuT 太美丽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025526731088793600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBwd1ImbEAAgrjd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025526742530863350",
+        "created_at": "2026-02-22T16:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025606447359533382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1997985969958699008",
+              "start": 0,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025606447359533382",
+        "in_reply_to_user_id": "1997985969958699008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025526742530863350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZaneTuT 太美丽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025526731088793600"
+          ]
+        },
+        "author_id": "1997985969958699008",
+        "conversation_id": "2025526742530863350",
+        "created_at": "2026-02-22T11:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025526742530863350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GGw41zf4OK",
+              "end": 23,
+              "expanded_url": "https://x.com/ZaneTuT/status/2025526742530863350/photo/1",
+              "media_key": "3_2025526731088793600",
+              "start": 0,
+              "url": "https://t.co/GGw41zf4OK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025526742530863350",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 7332,
+          "like_count": 268,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GGw41zf4OK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 772,
+          "like_count": 22130,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 4390
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "我叫小溃疡丨小⭕️ k9 brat丨od丨互fo可以直接➕V丨我听点udg sasi很多很多丨算卦找@kill_this_hate💗两个天使女孩@Ri0trix @Ameowxiaaa.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "Ameowxiaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪128/228纯绿 私信只回口令",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2019691363785416885",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 221,
+          "like_count": 3830,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 1747
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": false
+      }
+    ]
+  }
+}

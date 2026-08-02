@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2002021759147745280"
+      ],
+      "media_source_tweet_id": [
+        "2002021763832807474"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2002258025122566434",
+    "created_at": "2025-12-20T06:01:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-20T07:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002258025122566434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1678066699248209920",
+          "start": 3,
+          "username": "one_gate_AI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eEqDmacVwd",
+          "end": 53,
+          "expanded_url": "https://x.com/one_gate_AI/status/2002021763832807474/photo/1",
+          "media_key": "3_2002021759147745280",
+          "start": 30,
+          "url": "https://t.co/eEqDmacVwd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002258025122566434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 685
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002021763832807474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @one_gate_AI: 美味しそう🤤\n\nsfw🍒 https://t.co/eEqDmacVwd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2611,
+        "media_key": "3_2002021759147745280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8icLsqaoAA7VEf.jpg",
+        "width": 1564
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002021759147745280"
+          ],
+          "media_source_tweet_id": [
+            "2002021763832807474"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2002258025122566434",
+        "created_at": "2025-12-20T06:01:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T07:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002258025122566434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1678066699248209920",
+              "start": 3,
+              "username": "one_gate_AI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEqDmacVwd",
+              "end": 53,
+              "expanded_url": "https://x.com/one_gate_AI/status/2002021763832807474/photo/1",
+              "media_key": "3_2002021759147745280",
+              "start": 30,
+              "url": "https://t.co/eEqDmacVwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002258025122566434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 685
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002021763832807474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @one_gate_AI: 美味しそう🤤\n\nsfw🍒 https://t.co/eEqDmacVwd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002021759147745280"
+          ]
+        },
+        "author_id": "1678066699248209920",
+        "conversation_id": "2002021763832807474",
+        "created_at": "2025-12-19T14:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002021763832807474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEqDmacVwd",
+              "end": 36,
+              "expanded_url": "https://x.com/one_gate_AI/status/2002021763832807474/photo/1",
+              "media_key": "3_2002021759147745280",
+              "start": 13,
+              "url": "https://t.co/eEqDmacVwd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002021763832807474",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3653,
+          "impression_count": 146655,
+          "like_count": 21615,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 685
+        },
+        "reply_settings": "everyone",
+        "text": "美味しそう🤤\n\nsfw🍒 https://t.co/eEqDmacVwd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 429,
+          "like_count": 6044,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1530
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T15:41:02.000Z",
+        "description": "AIイラスト投稿してます！AIイラスト好きな人仲良くしてください😃 https://t.co/hIWi8XaEJn Patre0n▶️ https://t.co/85adEMsnbz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixai.art",
+                "end": 57,
+                "expanded_url": "https://pixai.art",
+                "start": 34,
+                "url": "https://t.co/hIWi8XaEJn"
+              },
+              {
+                "display_url": "x.gd/QHpQB",
+                "end": 91,
+                "expanded_url": "https://x.gd/QHpQB",
+                "start": 68,
+                "url": "https://t.co/85adEMsnbz"
+              }
+            ]
+          }
+        },
+        "id": "1678066699248209920",
+        "name": "ワンゲート",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927414677073444864/3-H8RRdz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6549,
+          "following_count": 118,
+          "like_count": 419,
+          "listed_count": 29,
+          "media_count": 98,
+          "tweet_count": 230
+        },
+        "username": "one_gate_AI",
+        "verified": false
+      }
+    ]
+  }
+}

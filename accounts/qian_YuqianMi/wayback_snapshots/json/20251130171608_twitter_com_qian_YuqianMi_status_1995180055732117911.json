@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994832731771904000"
+      ],
+      "media_source_tweet_id": [
+        "1994832736021074246"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1995180055732117911",
+    "created_at": "2025-11-30T17:16:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T18:16:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995180055732117911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1275912964915302403",
+          "start": 3,
+          "username": "miniapeur"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7tsxItDLtL",
+          "end": 41,
+          "expanded_url": "https://x.com/miniapeur/status/1994832736021074246/photo/1",
+          "media_key": "3_1994832731771904000",
+          "start": 18,
+          "url": "https://t.co/7tsxItDLtL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995180055732117911",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4600
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994832736021074246",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miniapeur: 😭😭 https://t.co/7tsxItDLtL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1581,
+        "media_key": "3_1994832731771904000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68RzOuWIAAkj-J.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994832731771904000"
+          ],
+          "media_source_tweet_id": [
+            "1994832736021074246"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1995180055732117911",
+        "created_at": "2025-11-30T17:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995180055732117911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1275912964915302403",
+              "start": 3,
+              "username": "miniapeur"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tsxItDLtL",
+              "end": 41,
+              "expanded_url": "https://x.com/miniapeur/status/1994832736021074246/photo/1",
+              "media_key": "3_1994832731771904000",
+              "start": 18,
+              "url": "https://t.co/7tsxItDLtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995180055732117911",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4600
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994832736021074246",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miniapeur: 😭😭 https://t.co/7tsxItDLtL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994832731771904000"
+          ]
+        },
+        "author_id": "1275912964915302403",
+        "conversation_id": "1994832736021074246",
+        "created_at": "2025-11-29T18:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T19:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994832736021074246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7tsxItDLtL",
+              "end": 26,
+              "expanded_url": "https://x.com/miniapeur/status/1994832736021074246/photo/1",
+              "media_key": "3_1994832731771904000",
+              "start": 3,
+              "url": "https://t.co/7tsxItDLtL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994832736021074246",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2674,
+          "impression_count": 1430858,
+          "like_count": 47085,
+          "quote_count": 481,
+          "reply_count": 291,
+          "retweet_count": 4600
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭 https://t.co/7tsxItDLtL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 307,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 698
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-24T22:05:38.000Z",
+        "description": "Non-member of the technical staff in a non-frontier lab. Gradient surfer by day, Möbius stripper by night. PhD @ai_ucl.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 111,
+                "username": "ai_ucl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "scholar.google.com/citations?user…",
+                "end": 23,
+                "expanded_url": "https://scholar.google.com/citations?user=mqxF640AAAAJ&hl",
+                "start": 0,
+                "url": "https://t.co/FlVx3vW3yb"
+              }
+            ]
+          }
+        },
+        "id": "1275912964915302403",
+        "location": "Canada ↔ UK ↔ France",
+        "name": "Mathieu",
+        "pinned_tweet_id": "1988474256649248942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1279117113580564481/T3PEblUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36244,
+          "following_count": 2332,
+          "like_count": 40736,
+          "listed_count": 179,
+          "media_count": 11690,
+          "tweet_count": 31413
+        },
+        "url": "https://t.co/FlVx3vW3yb",
+        "username": "miniapeur",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051882062286831616",
+        "3_2051882061900963840"
+      ],
+      "media_source_tweet_id": [
+        "2051882065428390288",
+        "2051882065428390288"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2052009641769615518",
+    "created_at": "2026-05-06T12:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052009641769615518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1751595389562822657",
+          "start": 3,
+          "username": "ijia522218"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UXFbmfhmTr",
+          "end": 71,
+          "expanded_url": "https://x.com/ijia522218/status/2051882065428390288/photo/1",
+          "media_key": "3_2051882062286831616",
+          "start": 48,
+          "url": "https://t.co/UXFbmfhmTr"
+        },
+        {
+          "display_url": "pic.x.com/UXFbmfhmTr",
+          "end": 71,
+          "expanded_url": "https://x.com/ijia522218/status/2051882065428390288/photo/1",
+          "media_key": "3_2051882061900963840",
+          "start": 48,
+          "url": "https://t.co/UXFbmfhmTr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052009641769615518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051882065428390288",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ijia522218: 里奈想要非常多的粉丝。里奈很温良，和我做朋友吧！（谁能帮我转） https://t.co/UXFbmfhmTr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051882062286831616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHm_3UOaQAA_0IU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1558,
+        "media_key": "3_2051882061900963840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHm_3SyaYAAwF2Y.jpg",
+        "width": 1558
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051882062286831616",
+            "3_2051882061900963840"
+          ],
+          "media_source_tweet_id": [
+            "2051882065428390288",
+            "2051882065428390288"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2052009641769615518",
+        "created_at": "2026-05-06T12:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052009641769615518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1751595389562822657",
+              "start": 3,
+              "username": "ijia522218"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXFbmfhmTr",
+              "end": 71,
+              "expanded_url": "https://x.com/ijia522218/status/2051882065428390288/photo/1",
+              "media_key": "3_2051882062286831616",
+              "start": 48,
+              "url": "https://t.co/UXFbmfhmTr"
+            },
+            {
+              "display_url": "pic.x.com/UXFbmfhmTr",
+              "end": 71,
+              "expanded_url": "https://x.com/ijia522218/status/2051882065428390288/photo/1",
+              "media_key": "3_2051882061900963840",
+              "start": 48,
+              "url": "https://t.co/UXFbmfhmTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052009641769615518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051882065428390288",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ijia522218: 里奈想要非常多的粉丝。里奈很温良，和我做朋友吧！（谁能帮我转） https://t.co/UXFbmfhmTr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051882062286831616",
+            "3_2051882061900963840"
+          ]
+        },
+        "author_id": "1751595389562822657",
+        "conversation_id": "2051882065428390288",
+        "created_at": "2026-05-06T04:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051882065428390288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UXFbmfhmTr",
+              "end": 55,
+              "expanded_url": "https://x.com/ijia522218/status/2051882065428390288/photo/1",
+              "media_key": "3_2051882062286831616",
+              "start": 32,
+              "url": "https://t.co/UXFbmfhmTr"
+            },
+            {
+              "display_url": "pic.x.com/UXFbmfhmTr",
+              "end": 55,
+              "expanded_url": "https://x.com/ijia522218/status/2051882065428390288/photo/1",
+              "media_key": "3_2051882061900963840",
+              "start": 32,
+              "url": "https://t.co/UXFbmfhmTr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051882065428390288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1355,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "里奈想要非常多的粉丝。里奈很温良，和我做朋友吧！（谁能帮我转） https://t.co/UXFbmfhmTr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1330,
+          "following_count": 867,
+          "like_count": 28215,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 5588
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T13:17:46.000Z",
+        "description": "于世赠大家一场雨🌸\n我是里奈/小女孩 跨性别 可爱的小男孩请与我互fo吧🥺（h男跟我说话暴毙）/日本語がとても下手です/点赞就是想和你互动/非常好脾气~/药物安全非专业人士全是亲身体验，想戒断麻烦可以一直翻我的帖子和评论会看到很多戒断建议/不要学我的用药剂量我是炼丹炉体质学我会出事",
+        "id": "1751595389562822657",
+        "name": "里奈🌸",
+        "pinned_tweet_id": "2049625244994830441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049316824324677632/QpNGCt_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 197,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 613
+        },
+        "username": "ijia522218",
+        "verified": false
+      }
+    ]
+  }
+}

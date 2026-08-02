@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2043715557095346445",
+    "created_at": "2026-04-14T07:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T08:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043947934514065704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1868562193484251136",
+          "start": 0,
+          "username": "LengChamSayBye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043947934514065704",
+    "in_reply_to_user_id": "1868562193484251136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043939788345225669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LengChamSayBye （？）第一次见有人叫这个的哈哈哈哈哈哈哈哈哈哈哈哈好雷霆 晚安宝宝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2043715557095346445",
+        "created_at": "2026-04-14T07:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T08:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043947934514065704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1868562193484251136",
+              "start": 0,
+              "username": "LengChamSayBye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043947934514065704",
+        "in_reply_to_user_id": "1868562193484251136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043939788345225669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LengChamSayBye （？）第一次见有人叫这个的哈哈哈哈哈哈哈哈哈哈哈哈好雷霆 晚安宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868562193484251136",
+        "conversation_id": "2043715557095346445",
+        "created_at": "2026-04-14T06:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T07:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043939788345225669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043939788345225669",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043715557095346445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 爸爸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 809,
+          "like_count": 26785,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 5282
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-16T07:42:05.000Z",
+        "description": "你们都是很可爱的乖宝宝  我也是💭\n黄推建政账号一律拒fo  \n05 |欧德尔 |不摄政 |不涉黄 |#病み垢 |严重精神焦虑 |欧美音乐 |清水推 |日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "病み垢"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lengchamsaybye",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lengchamsaybye",
+                "start": 0,
+                "url": "https://t.co/prR04lsVxp"
+              }
+            ]
+          }
+        },
+        "id": "1868562193484251136",
+        "location": "地府",
+        "name": "淩晨說晚安^",
+        "pinned_tweet_id": "2026875269626343443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035811546161692672/jAg9br50_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 209,
+          "like_count": 5585,
+          "listed_count": 2,
+          "media_count": 782,
+          "tweet_count": 4240
+        },
+        "url": "https://t.co/prR04lsVxp",
+        "username": "LengChamSayBye",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046164357944582144"
+      ],
+      "media_source_tweet_id": [
+        "2046164366874275876"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2046475308954693745",
+    "created_at": "2026-04-21T06:25:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T07:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046475308954693745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1827203342436855812",
+          "start": 3,
+          "username": "nanaj00_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hIcrSyAYnz",
+          "end": 37,
+          "expanded_url": "https://x.com/nanaj00_/status/2046164366874275876/photo/1",
+          "media_key": "3_2046164357944582144",
+          "start": 14,
+          "url": "https://t.co/hIcrSyAYnz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046475308954693745",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 960
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046164366874275876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanaj00_: https://t.co/hIcrSyAYnz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046164357944582144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGVvpHtaIAAFKht.jpg",
+        "width": 1979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046164357944582144"
+          ],
+          "media_source_tweet_id": [
+            "2046164366874275876"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2046475308954693745",
+        "created_at": "2026-04-21T06:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046475308954693745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1827203342436855812",
+              "start": 3,
+              "username": "nanaj00_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIcrSyAYnz",
+              "end": 37,
+              "expanded_url": "https://x.com/nanaj00_/status/2046164366874275876/photo/1",
+              "media_key": "3_2046164357944582144",
+              "start": 14,
+              "url": "https://t.co/hIcrSyAYnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046475308954693745",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 960
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046164366874275876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanaj00_: https://t.co/hIcrSyAYnz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046164357944582144"
+          ]
+        },
+        "author_id": "1827203342436855812",
+        "conversation_id": "2046164366874275876",
+        "created_at": "2026-04-20T09:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046164366874275876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hIcrSyAYnz",
+              "end": 23,
+              "expanded_url": "https://x.com/nanaj00_/status/2046164366874275876/photo/1",
+              "media_key": "3_2046164357944582144",
+              "start": 0,
+              "url": "https://t.co/hIcrSyAYnz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046164366874275876",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 526,
+          "impression_count": 59431,
+          "like_count": 9913,
+          "quote_count": 14,
+          "reply_count": 4,
+          "retweet_count": 960
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hIcrSyAYnz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 813,
+          "like_count": 26810,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 5303
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "ななじです。好きなもの描きます໒꒱┊︎Dreamcore・パロ 色々",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nanas70",
+                "end": 23,
+                "expanded_url": "https://lit.link/nanas70",
+                "start": 0,
+                "url": "https://t.co/CsyqLwBTOx"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "location": "AI・トレス・無断転載・参考×",
+        "name": "七時",
+        "pinned_tweet_id": "2046239231912362260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042269134206164992/v1fKb_OR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5960,
+          "following_count": 31,
+          "like_count": 30594,
+          "listed_count": 12,
+          "media_count": 30,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/CsyqLwBTOx",
+        "username": "nanaj00_",
+        "verified": false
+      }
+    ]
+  }
+}

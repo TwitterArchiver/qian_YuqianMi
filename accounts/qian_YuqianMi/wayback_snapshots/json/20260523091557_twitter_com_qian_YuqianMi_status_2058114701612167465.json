@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057489154628583424"
+      ],
+      "media_source_tweet_id": [
+        "2057752073756721423"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2058114701612167465",
+    "created_at": "2026-05-23T09:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058114701612167465"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 28,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "39neko"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1693565058306174976",
+          "start": 3,
+          "username": "YY749649883736"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/stGEa3hQsu",
+          "end": 65,
+          "expanded_url": "https://x.com/YY749649883736/status/2057752073756721423/photo/1",
+          "media_key": "3_2057489154628583424",
+          "start": 42,
+          "url": "https://t.co/stGEa3hQsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058114701612167465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1613
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057752073756721423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YY749649883736: みむかｩわミク\n#初音ミク #39neko https://t.co/stGEa3hQsu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_2057489154628583424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2rfC7bAAA7US3.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057489154628583424"
+          ],
+          "media_source_tweet_id": [
+            "2057752073756721423"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2058114701612167465",
+        "created_at": "2026-05-23T09:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058114701612167465"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "39neko"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1693565058306174976",
+              "start": 3,
+              "username": "YY749649883736"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/stGEa3hQsu",
+              "end": 65,
+              "expanded_url": "https://x.com/YY749649883736/status/2057752073756721423/photo/1",
+              "media_key": "3_2057489154628583424",
+              "start": 42,
+              "url": "https://t.co/stGEa3hQsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058114701612167465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1613
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057752073756721423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YY749649883736: みむかｩわミク\n#初音ミク #39neko https://t.co/stGEa3hQsu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057489154628583424"
+          ]
+        },
+        "author_id": "1693565058306174976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2057752073756721423",
+        "created_at": "2026-05-22T09:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057752073756721423"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "39neko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/stGEa3hQsu",
+              "end": 45,
+              "expanded_url": "https://x.com/YY749649883736/status/2057752073756721423/photo/1",
+              "media_key": "3_2057489154628583424",
+              "start": 22,
+              "url": "https://t.co/stGEa3hQsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057752073756721423",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4739,
+          "impression_count": 205860,
+          "like_count": 32052,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 1613
+        },
+        "reply_settings": "everyone",
+        "text": "みむかｩわミク\n#初音ミク #39neko https://t.co/stGEa3hQsu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 863,
+          "like_count": 28393,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 5695
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-21T10:05:58.000Z",
+        "description": "不定期でイラストあげてます",
+        "id": "1693565058306174976",
+        "name": "efbell",
+        "pinned_tweet_id": "1904107487894376917",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898789065090297856/RUoCd_rU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80560,
+          "following_count": 77,
+          "like_count": 9813,
+          "listed_count": 367,
+          "media_count": 500,
+          "tweet_count": 553
+        },
+        "username": "YY749649883736",
+        "verified": true
+      }
+    ]
+  }
+}

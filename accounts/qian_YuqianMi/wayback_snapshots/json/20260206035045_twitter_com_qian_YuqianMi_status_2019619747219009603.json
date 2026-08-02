@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2019619747219009603",
+    "created_at": "2026-02-06T03:50:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T04:50:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019619747219009603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779149099084009472",
+          "start": 3,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019619747219009603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019065484545589514",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MikuLoverr_: 我今天见过最抽象的语法是\n“女性抑郁症患者尝试自杀的次数比男性多，但男性也不堪示弱，因为他们自杀的成功率更高”\n一生要强了属于是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2019619747219009603",
+        "created_at": "2026-02-06T03:50:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T04:50:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019619747219009603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779149099084009472",
+              "start": 3,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019619747219009603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019065484545589514",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MikuLoverr_: 我今天见过最抽象的语法是\n“女性抑郁症患者尝试自杀的次数比男性多，但男性也不堪示弱，因为他们自杀的成功率更高”\n一生要强了属于是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779149099084009472",
+        "conversation_id": "2019065484545589514",
+        "created_at": "2026-02-04T15:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019065484545589514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019065484545589514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 33450,
+          "like_count": 560,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我今天见过最抽象的语法是\n“女性抑郁症患者尝试自杀的次数比男性多，但男性也不堪示弱，因为他们自杀的成功率更高”\n一生要强了属于是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 996,
+          "following_count": 734,
+          "like_count": 18397,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 3846
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "Miku单推人/抑郁疯癫二相体/SRS预备/音游痴迷（maimai，phi，arc，pjsk）/重庆09年17岁理科牲/mtf🏳️‍⚧️/里推 @HiddenEmmMiku 有照片，只过熟人/双相ADHD感统失调/恋人 @WikuWiku1911 /tips：本人玩梗不等同于自己实际立场",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 72,
+                "username": "HiddenEmmMiku"
+              },
+              {
+                "end": 123,
+                "start": 110,
+                "username": "WikuWiku1911"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl4FbT"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "劳资蜀道山",
+        "name": "emm❄️🥝",
+        "pinned_tweet_id": "1994783507596677183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007766586707648513/c_VucSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 1118,
+          "like_count": 27453,
+          "listed_count": 9,
+          "media_count": 893,
+          "tweet_count": 13748
+        },
+        "url": "https://t.co/rz5fLl4FbT",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

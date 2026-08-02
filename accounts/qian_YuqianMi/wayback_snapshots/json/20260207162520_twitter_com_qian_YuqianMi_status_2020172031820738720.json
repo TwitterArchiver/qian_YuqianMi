@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2020103025486917650",
+    "created_at": "2026-02-07T16:25:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T17:25:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020172031820738720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983831935958052865",
+          "start": 0,
+          "username": "xiaobei226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020172031820738720",
+    "in_reply_to_user_id": "1983831935958052865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020103025486917650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobei226 抱抱泥づ♡ど"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2020103025486917650",
+        "created_at": "2026-02-07T16:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020172031820738720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020172031820738720",
+        "in_reply_to_user_id": "1983831935958052865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020103025486917650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 抱抱泥づ♡ど"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983831935958052865",
+        "conversation_id": "2020103025486917650",
+        "created_at": "2026-02-07T11:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T12:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020103025486917650"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020103025486917650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 525,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来下午要看网课的，但是我一句也听不懂，就是我听不懂人讲话了，手一直抖但是也还能写字，休息一下就特别想哭，想走出去透透气，医院宿舍旁边有条河，一出来就走河边了，还没地方坐，越哭越想死，但是外面太冷了\n回来在楼道给妈妈打电话，我不愿意跟她说我想去看医生的事，我不知豆怎么跟她开口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 738,
+          "like_count": 18797,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 3908
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️ 少管我！不加wx（小女生互关除外咪！）/不看吊/不聊骚/不约炮/不喜欢很冒昧的私信/不要问我在哪。私信看到会回的，“你好”打招呼的这种话我不知豆回你什么，我再回一个“你好”感觉很无聊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2019730001713877448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983832388661583872/EevVdSV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 18,
+          "like_count": 2907,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 1238
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      }
+    ]
+  }
+}

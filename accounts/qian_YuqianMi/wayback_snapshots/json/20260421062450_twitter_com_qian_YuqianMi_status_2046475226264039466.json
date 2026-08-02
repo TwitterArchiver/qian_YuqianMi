@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2046258506882515206",
+    "created_at": "2026-04-21T06:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T07:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046475226264039466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007848117983670272",
+          "start": 0,
+          "username": "jingjing593432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046475226264039466",
+    "in_reply_to_user_id": "2007848117983670272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046258506882515206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjing593432 抱抱小困困"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2046258506882515206",
+        "created_at": "2026-04-21T06:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T07:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046475226264039466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007848117983670272",
+              "start": 0,
+              "username": "jingjing593432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046475226264039466",
+        "in_reply_to_user_id": "2007848117983670272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046258506882515206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjing593432 抱抱小困困"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007848117983670272",
+        "conversation_id": "2046258506882515206",
+        "created_at": "2026-04-20T16:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046258506882515206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046258506882515206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1375,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经变得无人在意了呀。谁可以一直陪着我呢。只有我自己吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1214,
+          "following_count": 813,
+          "like_count": 26807,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 5302
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T16:15:01.000Z",
+        "description": "不卖逼不线下发照片纯属个人癖好谢谢🙏私信发吊约炮的都死了并且替我挡灾\n⬇️匿名提问",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aqa.link/jiqng93055",
+                "end": 23,
+                "expanded_url": "https://aqa.link/jiqng93055",
+                "start": 0,
+                "url": "https://t.co/GOWrgyvoOi"
+              }
+            ]
+          }
+        },
+        "id": "2007848117983670272",
+        "location": "520米",
+        "name": "困困",
+        "pinned_tweet_id": "2038124286322389385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035617953173868544/EdbShbMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11766,
+          "following_count": 72,
+          "like_count": 1325,
+          "listed_count": 23,
+          "media_count": 86,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/GOWrgyvoOi",
+        "username": "jingjing593432",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2071822850588315696",
+    "created_at": "2026-06-30T05:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071822850588315696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ShouldHaveRabi…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ShouldHaveRabit/status/2071760631049420848",
+          "start": 18,
+          "url": "https://t.co/Igu6KSXGFC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071822850588315696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071760631049420848",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么这只兔看起来像在竖中指（x） https://t.co/Igu6KSXGFC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2071055634435629056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL3eIGibYAAuh2W.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2071822850588315696",
+        "created_at": "2026-06-30T05:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071822850588315696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShouldHaveRabi…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ShouldHaveRabit/status/2071760631049420848",
+              "start": 18,
+              "url": "https://t.co/Igu6KSXGFC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071822850588315696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071760631049420848",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么这只兔看起来像在竖中指（x） https://t.co/Igu6KSXGFC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071055634435629056"
+          ]
+        },
+        "author_id": "1418758026912174082",
+        "conversation_id": "2071760631049420848",
+        "created_at": "2026-06-30T01:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T02:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071760631049420848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2VGEjLrCm",
+              "end": 23,
+              "expanded_url": "https://x.com/ShouldHaveRabit/status/2071760631049420848/photo/1",
+              "media_key": "3_2071055634435629056",
+              "start": 0,
+              "url": "https://t.co/h2VGEjLrCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071760631049420848",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 12487,
+          "like_count": 593,
+          "quote_count": 17,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/h2VGEjLrCm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 875,
+          "like_count": 29846,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 6088
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-24T02:21:00.000Z",
+        "description": "Follow us daily bunny content.🐰❤️ DM for Credit/Remove.",
+        "id": "1418758026912174082",
+        "location": "Turn on notifs 🔔",
+        "name": "Why you should have a rabbit",
+        "pinned_tweet_id": "2026880114865361039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776546440682307584/CqVPSy6Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162415,
+          "following_count": 879,
+          "like_count": 18124,
+          "listed_count": 419,
+          "media_count": 18784,
+          "tweet_count": 22238
+        },
+        "url": "",
+        "username": "ShouldHaveRabit",
+        "verified": true
+      }
+    ]
+  }
+}

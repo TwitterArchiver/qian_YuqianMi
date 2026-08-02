@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2007104322757382412",
+    "created_at": "2026-01-02T15:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007104663896871187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412919406070362116",
+          "start": 0,
+          "username": "yujiu_offica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007104663896871187",
+    "in_reply_to_user_id": "1412919406070362116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007104322757382412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujiu_offica 222222\n（持续追更中）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2592,
+        "media_key": "3_2007104201210613760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qqowxaUAAln4A.jpg",
+        "width": 1458
+      },
+      {
+        "height": 2592,
+        "media_key": "3_2007104216045940738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qqpoCbcAIpCVX.jpg",
+        "width": 1458
+      },
+      {
+        "height": 1458,
+        "media_key": "3_2007104229434171392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qqqZ6boAAsfGo.jpg",
+        "width": 2592
+      },
+      {
+        "height": 1458,
+        "media_key": "3_2007104300301107200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9qquh6bQAAxes0.jpg",
+        "width": 2592
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2007104322757382412",
+        "created_at": "2026-01-02T15:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007104663896871187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412919406070362116",
+              "start": 0,
+              "username": "yujiu_offica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007104663896871187",
+        "in_reply_to_user_id": "1412919406070362116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007104322757382412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujiu_offica 222222\n（持续追更中）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007104201210613760",
+            "3_2007104216045940738",
+            "3_2007104229434171392",
+            "3_2007104300301107200"
+          ]
+        },
+        "author_id": "1412919406070362116",
+        "conversation_id": "2007104322757382412",
+        "created_at": "2026-01-02T14:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T15:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007104322757382412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P7sTqioI1N",
+              "end": 34,
+              "expanded_url": "https://x.com/yujiu_offica/status/2007104322757382412/photo/1",
+              "media_key": "3_2007104201210613760",
+              "start": 11,
+              "url": "https://t.co/P7sTqioI1N"
+            },
+            {
+              "display_url": "pic.x.com/P7sTqioI1N",
+              "end": 34,
+              "expanded_url": "https://x.com/yujiu_offica/status/2007104322757382412/photo/1",
+              "media_key": "3_2007104216045940738",
+              "start": 11,
+              "url": "https://t.co/P7sTqioI1N"
+            },
+            {
+              "display_url": "pic.x.com/P7sTqioI1N",
+              "end": 34,
+              "expanded_url": "https://x.com/yujiu_offica/status/2007104322757382412/photo/1",
+              "media_key": "3_2007104229434171392",
+              "start": 11,
+              "url": "https://t.co/P7sTqioI1N"
+            },
+            {
+              "display_url": "pic.x.com/P7sTqioI1N",
+              "end": 34,
+              "expanded_url": "https://x.com/yujiu_offica/status/2007104322757382412/photo/1",
+              "media_key": "3_2007104300301107200",
+              "start": 11,
+              "url": "https://t.co/P7sTqioI1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007104322757382412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "扣2看boss二阶段 https://t.co/P7sTqioI1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 484,
+          "like_count": 7599,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1845
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T23:40:20.000Z",
+        "description": "灵/九/aki 。选择一个你喜欢的称呼吧w\n互fo私！\n喜欢看h！但是不会强行和别人聊这些？反正就是，正常人的程度嘛，，作为人类的礼仪我还是十分充沛的！！！！\n想要认识你！！！！！\n性格很诡异啦但是出乎意料的是一个被很多人信任的倾听者？想要成为圣女拯救所有人——\n不见证，不是很懂敏感话题\n不开心就试着来找我嘛！",
+        "id": "1412919406070362116",
+        "location": "在“那”！",
+        "name": "九安心绪杂货店",
+        "pinned_tweet_id": "1996049006884257973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994375616414806016/y6Mzhya-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 191,
+          "like_count": 6343,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1380
+        },
+        "username": "yujiu_offica",
+        "verified": false
+      }
+    ]
+  }
+}

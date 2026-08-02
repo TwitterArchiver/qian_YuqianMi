@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1995158505226121348",
+    "created_at": "2025-11-30T16:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T17:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995163708784570400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1948395176831131648",
+          "start": 0,
+          "username": "zy89644"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995163708784570400",
+    "in_reply_to_user_id": "1948395176831131648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 26,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995163481818190243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zy89644 哦不不行喵 明天早八quiz有默写，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1995158505226121348",
+        "created_at": "2025-11-30T16:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995163708784570400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1948395176831131648",
+              "start": 0,
+              "username": "zy89644"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995163708784570400",
+        "in_reply_to_user_id": "1948395176831131648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995163481818190243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zy89644 哦不不行喵 明天早八quiz有默写，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1948395176831131648",
+        "conversation_id": "1995158505226121348",
+        "created_at": "2025-11-30T16:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T17:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995163481818190243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995163481818190243",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995158505226121348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 明天背🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 307,
+          "like_count": 2875,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 698
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-24T14:50:02.000Z",
+        "description": "可以对我说很多话\n\n心情好可以和我分享\n\n心情不好可以对我讲述\n\n总之有困难可以找我的说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zy89644",
+                "end": 23,
+                "expanded_url": "http://ngl.link/zy89644",
+                "start": 0,
+                "url": "https://t.co/tLgc8L3Uoh"
+              }
+            ]
+          }
+        },
+        "id": "1948395176831131648",
+        "location": "名叫 “人生” 的列车上",
+        "name": "卖冰淇淋的이이이先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993278355576438793/0plnXNep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 141,
+          "like_count": 14293,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2839
+        },
+        "url": "https://t.co/tLgc8L3Uoh",
+        "username": "zy89644",
+        "verified": true
+      }
+    ]
+  }
+}

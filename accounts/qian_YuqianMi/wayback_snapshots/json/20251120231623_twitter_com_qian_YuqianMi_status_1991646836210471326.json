@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1991646836210471326",
+    "created_at": "2025-11-20T23:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T00:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991646836210471326"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds520/status…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/hgds520/status/1991459720419496106",
+          "start": 35,
+          "url": "https://t.co/QqMwLdVAHS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991646836210471326",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991459720419496106",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比如说我专门给一个人设了屏蔽朋友圈消息然后我还是手贱专门点进去看，， https://t.co/QqMwLdVAHS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1991646836210471326",
+        "created_at": "2025-11-20T23:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T00:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991646836210471326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds520/status…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/hgds520/status/1991459720419496106",
+              "start": 35,
+              "url": "https://t.co/QqMwLdVAHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991646836210471326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991459720419496106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比如说我专门给一个人设了屏蔽朋友圈消息然后我还是手贱专门点进去看，， https://t.co/QqMwLdVAHS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826321786834944000",
+        "conversation_id": "1991459720419496106",
+        "created_at": "2025-11-20T10:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T11:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991459720419496106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991459720419496106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6910,
+          "like_count": 220,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得世界上最恐怖的事情是 手贱去看影响情绪的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 138,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 205
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T18:13:55.000Z",
+        "description": "感谢关注和支持/文案来源于网络 祝大家天天开心/接训练饮食计划 /接回收账号 价格美丽",
+        "id": "1826321786834944000",
+        "location": "苏州",
+        "name": "我掉了一个粉丝.",
+        "pinned_tweet_id": "1987056835313213480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928056822075904002/fV5sMBFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4025,
+          "following_count": 691,
+          "like_count": 9477,
+          "listed_count": 11,
+          "media_count": 127,
+          "tweet_count": 815
+        },
+        "username": "hgds520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2001305474809892974",
+    "created_at": "2025-12-17T14:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T15:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001305474809892974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/2001305244320358898",
+          "start": 69,
+          "url": "https://t.co/uYYfvigb52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001305474809892974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001305244320358898",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我听到他的声音就犯恶心。我不知道是不是有点应激了？但是这种嘈杂的环境真的让我很心慌。我呼吸不上来。好恶心这种人。赶紧去死好不好。纯粹恶。 https://t.co/uYYfvigb52"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2001305474809892974",
+        "created_at": "2025-12-17T14:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001305474809892974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2001305244320358898",
+              "start": 69,
+              "url": "https://t.co/uYYfvigb52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001305474809892974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001305244320358898",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我听到他的声音就犯恶心。我不知道是不是有点应激了？但是这种嘈杂的环境真的让我很心慌。我呼吸不上来。好恶心这种人。赶紧去死好不好。纯粹恶。 https://t.co/uYYfvigb52"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2001305244320358898",
+        "created_at": "2025-12-17T14:55:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:55:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001305244320358898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001305244320358898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在寝室里超大声打游戏的舍敌你好。\n旁边三个人在写作业然后你大声打游戏。\n我知道他是刚从图书馆回来。现在要玩了。但是这种刻意大声讲话的行为就是在故意“不让他人好”，在作恶啊。\n这种人赶紧去死吧。短视，小肚鸡肠，挑起纷争与矛盾。从不为他人考虑。踩在别人尸体上向上爬的人。没素质的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 414,
+          "like_count": 5678,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1426
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057816870481498112"
+      ],
+      "media_source_tweet_id": [
+        "2057816910482604268"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2058114263361921157",
+    "created_at": "2026-05-23T09:14:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T10:14:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058114263361921157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2015262397678993408",
+          "start": 3,
+          "username": "wishtcday"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZAZz8FgTPr",
+          "end": 44,
+          "expanded_url": "https://x.com/wishtcday/status/2057816910482604268/photo/1",
+          "media_key": "3_2057816870481498112",
+          "start": 21,
+          "url": "https://t.co/ZAZz8FgTPr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058114263361921157",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 805
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057816910482604268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wishtcday: 站台四象限 https://t.co/ZAZz8FgTPr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1175,
+        "media_key": "3_2057816870481498112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7VinnbEAAEMh0.jpg",
+        "width": 621
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057816870481498112"
+          ],
+          "media_source_tweet_id": [
+            "2057816910482604268"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2058114263361921157",
+        "created_at": "2026-05-23T09:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T10:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058114263361921157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2015262397678993408",
+              "start": 3,
+              "username": "wishtcday"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAZz8FgTPr",
+              "end": 44,
+              "expanded_url": "https://x.com/wishtcday/status/2057816910482604268/photo/1",
+              "media_key": "3_2057816870481498112",
+              "start": 21,
+              "url": "https://t.co/ZAZz8FgTPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058114263361921157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 805
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057816910482604268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wishtcday: 站台四象限 https://t.co/ZAZz8FgTPr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057816870481498112"
+          ]
+        },
+        "author_id": "2015262397678993408",
+        "conversation_id": "2057816910482604268",
+        "created_at": "2026-05-22T13:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057816910482604268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZAZz8FgTPr",
+              "end": 29,
+              "expanded_url": "https://x.com/wishtcday/status/2057816910482604268/photo/1",
+              "media_key": "3_2057816870481498112",
+              "start": 6,
+              "url": "https://t.co/ZAZz8FgTPr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057816910482604268",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 115949,
+          "like_count": 10641,
+          "quote_count": 13,
+          "reply_count": 151,
+          "retweet_count": 805
+        },
+        "reply_settings": "everyone",
+        "text": "站台四象限 https://t.co/ZAZz8FgTPr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1359,
+          "following_count": 863,
+          "like_count": 28391,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 5694
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T03:16:29.000Z",
+        "description": "西楚人氏，家父马斯克，\n咸鱼梦想家，记录过程，狂吹结果\n推特冷启动教主，单日曝光1500w",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zhongwentwitter",
+                "end": 23,
+                "expanded_url": "http://t.me/zhongwentwitter",
+                "start": 0,
+                "url": "https://t.co/Acn9qoIpSU"
+              }
+            ]
+          }
+        },
+        "id": "2015262397678993408",
+        "location": "Mars",
+        "name": "Cboy",
+        "pinned_tweet_id": "2038922618020192469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019344705507737600/dA70UEw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6953,
+          "following_count": 883,
+          "like_count": 10400,
+          "listed_count": 20,
+          "media_count": 651,
+          "tweet_count": 9120
+        },
+        "url": "https://t.co/Acn9qoIpSU",
+        "username": "wishtcday",
+        "verified": true
+      }
+    ]
+  }
+}

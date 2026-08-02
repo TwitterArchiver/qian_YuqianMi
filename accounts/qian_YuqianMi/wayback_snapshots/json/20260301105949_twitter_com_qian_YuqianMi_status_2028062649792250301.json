@@ -1,0 +1,629 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027989663575904259"
+      ],
+      "media_source_tweet_id": [
+        "2027989672908231028"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2028062649792250301",
+    "created_at": "2026-03-01T10:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T11:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028062649792250301"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 16,
+          "normalized_text": "睦祥",
+          "probability": 0.9634,
+          "start": 15,
+          "type": "Person"
+        },
+        {
+          "end": 20,
+          "normalized_text": "若葉睦",
+          "probability": 0.871,
+          "start": 18,
+          "type": "Person"
+        },
+        {
+          "end": 29,
+          "normalized_text": "豊川祥子",
+          "probability": 0.9667,
+          "start": 26,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 41,
+          "tag": "AveMujica"
+        },
+        {
+          "end": 59,
+          "start": 52,
+          "tag": "アークナイツ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1943507042930688000",
+          "start": 3,
+          "username": "poppy_yuu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o6It5FeWVt",
+          "end": 83,
+          "expanded_url": "https://x.com/poppy_yuu/status/2027989672908231028/photo/1",
+          "media_key": "3_2027989663575904259",
+          "start": 60,
+          "url": "https://t.co/o6It5FeWVt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028062649792250301",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 279
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027989672908231028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @poppy_yuu: 睦祥|若葉睦&amp;豊川祥子#Arknights #AveMujica #アークナイツ https://t.co/o6It5FeWVt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2027989663575904259",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTd2rGbEAMpFxN.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027989663575904259"
+          ],
+          "media_source_tweet_id": [
+            "2027989672908231028"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2028062649792250301",
+        "created_at": "2026-03-01T10:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T11:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028062649792250301"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "睦祥",
+              "probability": 0.9634,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 20,
+              "normalized_text": "若葉睦",
+              "probability": 0.871,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 29,
+              "normalized_text": "豊川祥子",
+              "probability": 0.9667,
+              "start": 26,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 41,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "アークナイツ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1943507042930688000",
+              "start": 3,
+              "username": "poppy_yuu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6It5FeWVt",
+              "end": 83,
+              "expanded_url": "https://x.com/poppy_yuu/status/2027989672908231028/photo/1",
+              "media_key": "3_2027989663575904259",
+              "start": 60,
+              "url": "https://t.co/o6It5FeWVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028062649792250301",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027989672908231028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @poppy_yuu: 睦祥|若葉睦&amp;豊川祥子#Arknights #AveMujica #アークナイツ https://t.co/o6It5FeWVt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027989663575904259"
+          ]
+        },
+        "author_id": "1943507042930688000",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2027989672908231028",
+        "created_at": "2026-03-01T06:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T07:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027989672908231028"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "睦祥",
+              "probability": 0.9744,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 5,
+              "normalized_text": "若葉睦",
+              "probability": 0.8802,
+              "start": 3,
+              "type": "Person"
+            },
+            {
+              "end": 14,
+              "normalized_text": "豊川祥子",
+              "probability": 0.9668,
+              "start": 11,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "AveMujica"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "アークナイツ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6It5FeWVt",
+              "end": 68,
+              "expanded_url": "https://x.com/poppy_yuu/status/2027989672908231028/photo/1",
+              "media_key": "3_2027989663575904259",
+              "start": 45,
+              "url": "https://t.co/o6It5FeWVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027989672908231028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 15381,
+          "like_count": 1797,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "睦祥|若葉睦&amp;豊川祥子#Arknights #AveMujica #アークナイツ https://t.co/o6It5FeWVt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 806,
+          "like_count": 23768,
+          "listed_count": 0,
+          "media_count": 333,
+          "tweet_count": 4670
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-11T03:06:19.000Z",
+        "description": "illustrator,\npixivID:https://t.co/VZP66xqiDy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/poppy_yuu",
+                "end": 44,
+                "expanded_url": "http://pixiv.me/poppy_yuu",
+                "start": 21,
+                "url": "https://t.co/VZP66xqiDy"
+              }
+            ]
+          }
+        },
+        "id": "1943507042930688000",
+        "name": "虞花",
+        "pinned_tweet_id": "1943516661274800414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943543723746295808/4OMVHZne_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 16,
+          "like_count": 13,
+          "listed_count": 10,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "username": "poppy_yuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026944634954612736"
+      ],
+      "media_source_tweet_id": [
+        "2026945801751347537"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2026976505511948551",
+    "created_at": "2026-02-26T11:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026976505511948551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1393605032466010115",
+          "start": 3,
+          "username": "CPAMG1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VxVwESuMwW",
+          "end": 50,
+          "expanded_url": "https://x.com/CPAMG1/status/2026945801751347537/photo/1",
+          "media_key": "3_2026944634954612736",
+          "start": 27,
+          "url": "https://t.co/VxVwESuMwW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026976505511948551",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 520
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026945801751347537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CPAMG1: There there... https://t.co/VxVwESuMwW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_2026944634954612736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEnaAHagAAuIZA.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026944634954612736"
+          ],
+          "media_source_tweet_id": [
+            "2026945801751347537"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2026976505511948551",
+        "created_at": "2026-02-26T11:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026976505511948551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1393605032466010115",
+              "start": 3,
+              "username": "CPAMG1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VxVwESuMwW",
+              "end": 50,
+              "expanded_url": "https://x.com/CPAMG1/status/2026945801751347537/photo/1",
+              "media_key": "3_2026944634954612736",
+              "start": 27,
+              "url": "https://t.co/VxVwESuMwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026976505511948551",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 520
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026945801751347537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CPAMG1: There there... https://t.co/VxVwESuMwW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026944634954612736"
+          ]
+        },
+        "author_id": "1393605032466010115",
+        "conversation_id": "2026945801751347537",
+        "created_at": "2026-02-26T09:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T10:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026945801751347537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VxVwESuMwW",
+              "end": 38,
+              "expanded_url": "https://x.com/CPAMG1/status/2026945801751347537/photo/1",
+              "media_key": "3_2026944634954612736",
+              "start": 15,
+              "url": "https://t.co/VxVwESuMwW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026945801751347537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 472,
+          "impression_count": 25502,
+          "like_count": 4887,
+          "quote_count": 13,
+          "reply_count": 2,
+          "retweet_count": 520
+        },
+        "reply_settings": "everyone",
+        "text": "There there... https://t.co/VxVwESuMwW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1144,
+          "following_count": 784,
+          "like_count": 22988,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 4506
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-15T16:31:52.000Z",
+        "description": "【PIXIV】：https://t.co/PCBRPc5AiM\n【FANBOX】：https://t.co/tIaUyPVba2\n【YouTube】：https://t.co/egk7MvLEwF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19440186",
+                "end": 31,
+                "expanded_url": "http://pixiv.net/users/19440186",
+                "start": 8,
+                "url": "https://t.co/PCBRPc5AiM"
+              },
+              {
+                "display_url": "leriav.fanbox.cc",
+                "end": 64,
+                "expanded_url": "https://leriav.fanbox.cc/",
+                "start": 41,
+                "url": "https://t.co/tIaUyPVba2"
+              },
+              {
+                "display_url": "youtube.com/@Leria_V",
+                "end": 98,
+                "expanded_url": "http://youtube.com/@Leria_V",
+                "start": 75,
+                "url": "https://t.co/egk7MvLEwF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/19440186",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/19440186",
+                "start": 0,
+                "url": "https://t.co/PCBRPc5AiM"
+              }
+            ]
+          }
+        },
+        "id": "1393605032466010115",
+        "name": "Leria_V",
+        "pinned_tweet_id": "1842871910948131148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430741791817363456/aT2oxK0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104391,
+          "following_count": 550,
+          "like_count": 21,
+          "listed_count": 721,
+          "media_count": 258,
+          "tweet_count": 422
+        },
+        "url": "https://t.co/PCBRPc5AiM",
+        "username": "CPAMG1",
+        "verified": false
+      }
+    ]
+  }
+}

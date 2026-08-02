@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998648309691592705",
+        "3_1998648310895357958"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1998648321163014221",
+    "created_at": "2025-12-10T06:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T07:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998648321163014221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D3HVPE4CsP",
+          "end": 57,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1998648321163014221/photo/1",
+          "media_key": "3_1998648309691592705",
+          "start": 34,
+          "url": "https://t.co/D3HVPE4CsP"
+        },
+        {
+          "display_url": "pic.x.com/D3HVPE4CsP",
+          "end": 57,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1998648321163014221/photo/1",
+          "media_key": "3_1998648310895357958",
+          "start": 34,
+          "url": "https://t.co/D3HVPE4CsP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998648321163014221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三滴血一穿三以及满血一穿三（这是真恐怖）\n恐怖老太的续航和输出，， https://t.co/D3HVPE4CsP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 907,
+        "media_key": "3_1998648309691592705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ygDGIaMAEOwRc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 907,
+        "media_key": "3_1998648310895357958",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7ygDKnaMAYU2oP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998648309691592705",
+            "3_1998648310895357958"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998648321163014221",
+        "created_at": "2025-12-10T06:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T07:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998648321163014221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D3HVPE4CsP",
+              "end": 57,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1998648321163014221/photo/1",
+              "media_key": "3_1998648309691592705",
+              "start": 34,
+              "url": "https://t.co/D3HVPE4CsP"
+            },
+            {
+              "display_url": "pic.x.com/D3HVPE4CsP",
+              "end": 57,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1998648321163014221/photo/1",
+              "media_key": "3_1998648310895357958",
+              "start": 34,
+              "url": "https://t.co/D3HVPE4CsP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998648321163014221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三滴血一穿三以及满血一穿三（这是真恐怖）\n恐怖老太的续航和输出，， https://t.co/D3HVPE4CsP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 369,
+          "like_count": 4491,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1121
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

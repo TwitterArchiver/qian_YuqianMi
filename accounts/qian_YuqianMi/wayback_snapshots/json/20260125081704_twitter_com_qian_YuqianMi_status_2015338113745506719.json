@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015338111375728640"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015338113745506719",
+    "created_at": "2026-01-25T08:17:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T09:17:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015338113745506719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GD6ArM3Q4y",
+          "end": 30,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2015338113745506719/photo/1",
+          "media_key": "3_2015338111375728640",
+          "start": 7,
+          "url": "https://t.co/GD6ArM3Q4y"
+        },
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/2014919549511204920",
+          "start": 31,
+          "url": "https://t.co/c1i11Vo3ZI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015338113745506719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014919549511204920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有后续？？ https://t.co/GD6ArM3Q4y https://t.co/c1i11Vo3ZI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2015338111375728640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_frVabbYAAWxMG.jpg",
+        "width": 907
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014919544020545538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ZuplhWMAIdsWe.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015338111375728640"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015338113745506719",
+        "created_at": "2026-01-25T08:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T09:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015338113745506719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GD6ArM3Q4y",
+              "end": 30,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2015338113745506719/photo/1",
+              "media_key": "3_2015338111375728640",
+              "start": 7,
+              "url": "https://t.co/GD6ArM3Q4y"
+            },
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2014919549511204920",
+              "start": 31,
+              "url": "https://t.co/c1i11Vo3ZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015338113745506719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014919549511204920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有后续？？ https://t.co/GD6ArM3Q4y https://t.co/c1i11Vo3ZI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014919544020545538"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014919549511204920",
+        "created_at": "2026-01-24T04:33:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T05:33:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014919549511204920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b4IsVjhFGX",
+              "end": 36,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2014919549511204920/photo/1",
+              "media_key": "3_2014919544020545538",
+              "start": 13,
+              "url": "https://t.co/b4IsVjhFGX"
+            },
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2014919148166697455",
+              "start": 37,
+              "url": "https://t.co/ep5RurTEuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014919549511204920",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 433,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014919148166697455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⚡️⚡️⚡️⚡️⚡️⚡️ https://t.co/b4IsVjhFGX https://t.co/ep5RurTEuo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 694,
+          "like_count": 15816,
+          "listed_count": 1,
+          "media_count": 265,
+          "tweet_count": 3393
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

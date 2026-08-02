@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997822277099061275",
+    "created_at": "2025-12-08T00:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T01:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997823704970264938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1886810489717690368",
+          "start": 0,
+          "username": "QuQkuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997823704970264938",
+    "in_reply_to_user_id": "1886810489717690368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997822277099061275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuQkuu 恭喜恭喜呀₍ᐢ..ᐢ₎♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_1997822271524909056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7mwxWKbMAAQH0V.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997822277099061275",
+        "created_at": "2025-12-08T00:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T01:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997823704970264938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1886810489717690368",
+              "start": 0,
+              "username": "QuQkuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997823704970264938",
+        "in_reply_to_user_id": "1886810489717690368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997822277099061275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuQkuu 恭喜恭喜呀₍ᐢ..ᐢ₎♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997822271524909056"
+          ]
+        },
+        "author_id": "1886810489717690368",
+        "conversation_id": "1997822277099061275",
+        "created_at": "2025-12-08T00:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T01:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997822277099061275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/apduyntp27",
+              "end": 30,
+              "expanded_url": "https://x.com/QuQkuu/status/1997822277099061275/photo/1",
+              "media_key": "3_1997822271524909056",
+              "start": 7,
+              "url": "https://t.co/apduyntp27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997822277099061275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嘿嘿。撒花！ https://t.co/apduyntp27"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 357,
+          "like_count": 4047,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1020
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T16:14:21.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2837967340",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2837967340",
+                "start": 0,
+                "url": "https://t.co/uBcTvJQpQ4"
+              }
+            ]
+          }
+        },
+        "id": "1886810489717690368",
+        "name": "我想喵喵觉",
+        "pinned_tweet_id": "1995725240425464222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995828978775719936/BP1-SZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1000,
+          "following_count": 113,
+          "like_count": 1616,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1007
+        },
+        "url": "https://t.co/uBcTvJQpQ4",
+        "username": "QuQkuu",
+        "verified": false
+      }
+    ]
+  }
+}

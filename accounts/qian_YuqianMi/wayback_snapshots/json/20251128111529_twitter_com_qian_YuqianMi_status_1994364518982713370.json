@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994364518982713370",
+    "created_at": "2025-11-28T11:15:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T12:15:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994364518982713370"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994364518982713370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的想快点逃离这个家。\n\n我妈又问我“你为什么要留这么长头发？一点精神都没有，你就这么想跟妈妈作对吗？”\n，。。\n有的时候很多话真的是我不想伤他们心所以没讲。\n\n有没有可能我没精神和发型没关系呢。\n以及你在我心里并没有那么大的位置，我的行动和“你怎么想的”完全没关系。我就是喜欢长头发啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994364518982713370",
+        "created_at": "2025-11-28T11:15:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:15:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994364518982713370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994364518982713370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的想快点逃离这个家。\n\n我妈又问我“你为什么要留这么长头发？一点精神都没有，你就这么想跟妈妈作对吗？”\n，。。\n有的时候很多话真的是我不想伤他们心所以没讲。\n\n有没有可能我没精神和发型没关系呢。\n以及你在我心里并没有那么大的位置，我的行动和“你怎么想的”完全没关系。我就是喜欢长头发啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 285,
+          "like_count": 2289,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 554
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2031418468264980634",
+    "created_at": "2026-03-10T23:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T00:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031518507847004495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1906024483431047168",
+          "start": 0,
+          "username": "Chudokusho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031518507847004495",
+    "in_reply_to_user_id": "1906024483431047168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031418468264980634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chudokusho 卧槽。。好恐怖"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1398,
+        "media_key": "3_2031418461671534594",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDEMU_YaMAIzG-V.jpg",
+        "width": 1398
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2031418468264980634",
+        "created_at": "2026-03-10T23:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T00:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031518507847004495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1906024483431047168",
+              "start": 0,
+              "username": "Chudokusho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031518507847004495",
+        "in_reply_to_user_id": "1906024483431047168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031418468264980634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chudokusho 卧槽。。好恐怖"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031418461671534594"
+          ]
+        },
+        "author_id": "1906024483431047168",
+        "conversation_id": "2031418468264980634",
+        "created_at": "2026-03-10T17:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T18:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031418468264980634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OKjfI15dzv",
+              "end": 114,
+              "expanded_url": "https://x.com/Chudokusho/status/2031418468264980634/photo/1",
+              "media_key": "3_2031418461671534594",
+              "start": 91,
+              "url": "https://t.co/OKjfI15dzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031418468264980634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7610,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在在寝室看片要检查一亿次蓝牙耳机 看之前甚至要先刷两分钟抖音测试铺垫一下 看的时候过一会就把耳机拿下来确认一下 因为之前蓝牙耳机突然抽风外放 接二连三的娇喘响彻凌晨三点的寝室… https://t.co/OKjfI15dzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 824,
+          "like_count": 25654,
+          "listed_count": 0,
+          "media_count": 355,
+          "tweet_count": 5012
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T16:43:54.000Z",
+        "description": "你又逃避 那我买好蛋糕等你",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Chudokushowo",
+                "end": 23,
+                "expanded_url": "https://x.com/Chudokushowo",
+                "start": 0,
+                "url": "https://t.co/9QS2ZLrzWv"
+              }
+            ]
+          }
+        },
+        "id": "1906024483431047168",
+        "location": "防走丢",
+        "name": "叙春日",
+        "pinned_tweet_id": "2012377584156447185",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021836144829509635/rWlwX03t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 70,
+          "like_count": 4681,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 2711
+        },
+        "url": "https://t.co/9QS2ZLrzWv",
+        "username": "Chudokusho",
+        "verified": false
+      }
+    ]
+  }
+}

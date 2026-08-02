@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993362958727233875",
+    "created_at": "2025-11-26T08:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T09:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993601988320243743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896604741821726720",
+          "start": 0,
+          "username": "_yonayonaka_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993601988320243743",
+    "in_reply_to_user_id": "1896604741821726720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993362958727233875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yonayonaka_ 宝宝我也黑眼圈，，但是黑眼圈有种自然烟熏妆的感觉我还蛮喜欢的！\nつ♡⊂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1993362948270833666",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6nZCkgbwAI3BTR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993362958727233875",
+        "created_at": "2025-11-26T08:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993601988320243743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896604741821726720",
+              "start": 0,
+              "username": "_yonayonaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993601988320243743",
+        "in_reply_to_user_id": "1896604741821726720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993362958727233875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yonayonaka_ 宝宝我也黑眼圈，，但是黑眼圈有种自然烟熏妆的感觉我还蛮喜欢的！\nつ♡⊂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993362948270833666"
+          ]
+        },
+        "author_id": "1896604741821726720",
+        "conversation_id": "1993362958727233875",
+        "created_at": "2025-11-25T16:55:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T17:55:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993362958727233875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifHlfXWtKk",
+              "end": 46,
+              "expanded_url": "https://x.com/_yonayonaka_/status/1993362958727233875/photo/1",
+              "media_key": "3_1993362948270833666",
+              "start": 23,
+              "url": "https://t.co/ifHlfXWtKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993362958727233875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 812,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我到底应该去做医美还是等一个喜欢黑眼圈的人。 https://t.co/ifHlfXWtKk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 265,
+          "like_count": 1819,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 451
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T16:53:18.000Z",
+        "description": "或許我實在無法逃離時間的束縛",
+        "id": "1896604741821726720",
+        "location": "絕對絕望深淵",
+        "name": "✞薬箱✞",
+        "pinned_tweet_id": "1979348494109544826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934199642042097664/ny-1qwXS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 197,
+          "like_count": 596,
+          "listed_count": 2,
+          "media_count": 92,
+          "tweet_count": 452
+        },
+        "username": "_yonayonaka_",
+        "verified": false
+      }
+    ]
+  }
+}

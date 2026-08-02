@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2022698944854397280",
+    "created_at": "2026-02-14T15:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T16:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022698946901217303"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022698946901217303",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022698944854397280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我买不起鲜花吗？不可能。但是我觉得我自己做的东西就是很有意义。我不知道我这样的想法是否算是“老古董”，或者被网上的人群嘲成什么没钱傻逼郭楠之类的。但是我就是觉得花心思进去的礼物才有份量。给钱到底有什么意义呢？这样算什么谈恋爱。我去包养个女人不是一样的吗。\n真心到底被践踏成什么了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2022698944854397280",
+        "created_at": "2026-02-14T15:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022698946901217303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022698946901217303",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022698944854397280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我买不起鲜花吗？不可能。但是我觉得我自己做的东西就是很有意义。我不知道我这样的想法是否算是“老古董”，或者被网上的人群嘲成什么没钱傻逼郭楠之类的。但是我就是觉得花心思进去的礼物才有份量。给钱到底有什么意义呢？这样算什么谈恋爱。我去包养个女人不是一样的吗。\n真心到底被践踏成什么了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2022698944854397280",
+        "created_at": "2026-02-14T15:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T16:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022698944854397280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022698944854397280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不喜欢物质的世界。很多的付出都不如直接打钱来的有效让人很伤心。\n我动手能力还挺强的吧，很会折纸。我之前还在和前任谈的时候，每次遇到什么节日或者什么重要的日子，我都是折点小东西给她，或者画画给她。但是现在互联网混久了我只觉得我做的东西会被人转眼当成垃圾丢掉。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 744,
+          "like_count": 20249,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 4118
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

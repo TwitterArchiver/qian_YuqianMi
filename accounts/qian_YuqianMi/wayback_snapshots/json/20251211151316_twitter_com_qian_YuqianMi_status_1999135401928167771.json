@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999135396756897792"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1999135401928167771",
+    "created_at": "2025-12-11T15:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T16:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999135401928167771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wDX7aE6ldD",
+          "end": 157,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1999135401928167771/photo/1",
+          "media_key": "3_1999135396756897792",
+          "start": 134,
+          "url": "https://t.co/wDX7aE6ldD"
+        },
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 181,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/1998716486840696972",
+          "start": 158,
+          "url": "https://t.co/1HCPUSouMh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999135401928167771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998716486840696972",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绘画进度分享\n今日绘图进度upup\n\n（这个史诗级绝色震撼无敌黄暴的衣下皮带捆绑idea是我在做工图作业的时候突然冒出来的，，我果然是天才。（作业做到一半小头发力了说是，，）\n（以及我增加了一些瑟琴后门小玩具（诶嘿（100%听从xp）\n\n画累了！刷会手机美美睡觉觉嗷 https://t.co/wDX7aE6ldD https://t.co/1HCPUSouMh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1999135396756897792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75bDS2awAADkqu.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1431,
+        "media_key": "3_1998716483636178945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zeDV3aMAE4mYP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999135396756897792"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1999135401928167771",
+        "created_at": "2025-12-11T15:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T16:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999135401928167771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wDX7aE6ldD",
+              "end": 157,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1999135401928167771/photo/1",
+              "media_key": "3_1999135396756897792",
+              "start": 134,
+              "url": "https://t.co/wDX7aE6ldD"
+            },
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/1998716486840696972",
+              "start": 158,
+              "url": "https://t.co/1HCPUSouMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999135401928167771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998716486840696972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绘画进度分享\n今日绘图进度upup\n\n（这个史诗级绝色震撼无敌黄暴的衣下皮带捆绑idea是我在做工图作业的时候突然冒出来的，，我果然是天才。（作业做到一半小头发力了说是，，）\n（以及我增加了一些瑟琴后门小玩具（诶嘿（100%听从xp）\n\n画累了！刷会手机美美睡觉觉嗷 https://t.co/wDX7aE6ldD https://t.co/1HCPUSouMh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998716483636178945"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1998716486840696972",
+        "created_at": "2025-12-10T11:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998716486840696972"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaQJMaXKrw",
+              "end": 48,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1998716486840696972/photo/1",
+              "media_key": "3_1998716483636178945",
+              "start": 25,
+              "url": "https://t.co/DaQJMaXKrw"
+            },
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/1998571646127673826",
+              "start": 49,
+              "url": "https://t.co/NpVlJ39Yeu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998716486840696972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998571646127673826",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绘画进度分享\n被迫去上一堂晚课先，，\n回来继续！ https://t.co/DaQJMaXKrw https://t.co/NpVlJ39Yeu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 371,
+          "like_count": 4691,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 1175
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

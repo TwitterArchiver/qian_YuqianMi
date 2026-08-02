@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994670216094302255",
+    "created_at": "2025-11-29T07:34:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:34:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994671406047711304"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1994671406047711304",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994670216094302255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好生气啊要不我删了重发吧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120017,
+        "height": 720,
+        "media_key": "7_1994669754666422274",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994669754666422274/pu/img/EBvM9CwiQ5azhd3a.jpg",
+        "public_metrics": {
+          "view_count": 2
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994669754666422274/pu/vid/avc1/480x270/jfWhaEanoxtT5YUC.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994669754666422274/pu/vid/avc1/640x360/ya6gpXnvZy_xwvVK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994669754666422274/pu/vid/avc1/1280x720/-MVpN2ywCgHe_stk.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994669754666422274/pu/pl/niNJjf22ul5WMI1x.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 120017,
+        "height": 720,
+        "media_key": "7_1994669802997387264",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994669802997387264/pu/img/mHuJ56ezr5gu2CSb.jpg",
+        "public_metrics": {
+          "view_count": 1
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994669802997387264/pu/vid/avc1/480x270/Fs76qYuJcgBus4yO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994669802997387264/pu/vid/avc1/640x360/26KSyeR6C0KZhHmN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994669802997387264/pu/vid/avc1/1280x720/cFA5cTDxsvIkvqB2.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994669802997387264/pu/pl/FZMzJPrXn9LD5mw-.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 120100,
+        "height": 720,
+        "media_key": "7_1994669877349814272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994669877349814272/pu/img/19bq0oOUfgASJiua.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994669877349814272/pu/vid/avc1/480x270/K4JQmOu7pAZ8Ukgk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994669877349814272/pu/vid/avc1/640x360/Z6nzrnBQSgvZUsfQ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994669877349814272/pu/vid/avc1/1280x720/Ys6QtwsOHl0Ljaz4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994669877349814272/pu/pl/Z1zrS4XTWzB1afYZ.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 64000,
+        "height": 720,
+        "media_key": "7_1994670121923874816",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1994670121923874816/pu/img/fT5-SDt5OHKSPcp0.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994670121923874816/pu/vid/avc1/480x270/TdRhLJvzQ4qExzXE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994670121923874816/pu/vid/avc1/640x360/bPw8Ky4aLIScnVtx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1994670121923874816/pu/vid/avc1/1280x720/jcqi0GiAxV3ivTs1.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1994670121923874816/pu/pl/nfQNUxRzSfAdpouy.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994670216094302255",
+        "created_at": "2025-11-29T07:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994671406047711304"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994671406047711304",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994670216094302255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好生气啊要不我删了重发吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1994669754666422274",
+            "7_1994669802997387264",
+            "7_1994669877349814272",
+            "7_1994670121923874816"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994670216094302255",
+        "created_at": "2025-11-29T07:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994670216094302255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlYK0k4Go9",
+              "end": 31,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1994670216094302255/video/1",
+              "media_key": "7_1994669754666422274",
+              "start": 8,
+              "url": "https://t.co/mlYK0k4Go9"
+            },
+            {
+              "display_url": "pic.x.com/mlYK0k4Go9",
+              "end": 31,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1994670216094302255/video/1",
+              "media_key": "7_1994669802997387264",
+              "start": 8,
+              "url": "https://t.co/mlYK0k4Go9"
+            },
+            {
+              "display_url": "pic.x.com/mlYK0k4Go9",
+              "end": 31,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1994670216094302255/video/1",
+              "media_key": "7_1994669877349814272",
+              "start": 8,
+              "url": "https://t.co/mlYK0k4Go9"
+            },
+            {
+              "display_url": "pic.x.com/mlYK0k4Go9",
+              "end": 31,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1994670216094302255/video/1",
+              "media_key": "7_1994670121923874816",
+              "start": 8,
+              "url": "https://t.co/mlYK0k4Go9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994670216094302255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "春逝。\n完整的 https://t.co/mlYK0k4Go9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 297,
+          "like_count": 2439,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 601
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

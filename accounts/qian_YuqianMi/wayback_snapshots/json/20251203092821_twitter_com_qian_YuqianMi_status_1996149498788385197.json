@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1996149187730379218",
+    "created_at": "2025-12-03T09:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996149498788385197"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1996149498788385197",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 40,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996149187730379218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（以及突然想起来我的英文名就是参照ReoNa起的₍ᐢ..ᐢ₎♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1996149187730379218",
+        "created_at": "2025-12-03T09:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996149498788385197"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996149498788385197",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996149187730379218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（以及突然想起来我的英文名就是参照ReoNa起的₍ᐢ..ᐢ₎♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese musician and cosplayer",
+              "id": "1070731926430900224",
+              "name": "ReoNa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1337091419786203137",
+              "name": "Aimer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Japanese musician and cosplayer",
+              "id": "1070731926430900224",
+              "name": "ReoNa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1337091419786203137",
+              "name": "Aimer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese musician and cosplayer",
+              "id": "1070731926430900224",
+              "name": "ReoNa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337091419786203137",
+              "name": "Aimer"
+            }
+          }
+        ],
+        "conversation_id": "1996149187730379218",
+        "created_at": "2025-12-03T09:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996149187730379218"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《生きてるだけでえらいよ》，别名《光是活着就很了不起了》，由 ReoNa 演唱，收录于《ないない (Special Edition)》专辑中，《生きてるだけでえらいよ》下载，《生きてるだけでえらいよ》在线试听，更多生きてるだけでえらいよ相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/WaKcrgR",
+              "end": 109,
+              "expanded_url": "https://163cn.tv/WaKcrgR",
+              "images": [
+                {
+                  "height": 1400,
+                  "url": "https://pbs.twimg.com/news_img/1996149230487121920/vhNr27XO?format=jpg&name=orig",
+                  "width": 1400
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1996149230487121920/vhNr27XO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 86,
+              "status": 200,
+              "title": "生きてるだけでえらいよ（光是活着就很了不起了） - ReoNa - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=1840218133&uct2=4CWH2WKDIU%2F5efQg%2B5a2zQ%3D%3D&fx-wechatnew=t1&fx-wxqd=&fx-wordtest=t2&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.4.20&sc=wm&tn=",
+              "url": "https://t.co/G1c94M4p91"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996149187730379218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次听到这首歌必定心脏慢半拍。\nReoNa在我心里是和別野加奈，Aimer同等级的神中神。。\n\n分享ReoNa的单曲《生きてるだけでえらいよ (光是活着就很了不起了)》: https://t.co/G1c94M4p91 (来自@网易云音乐)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 327,
+          "like_count": 3412,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 844
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

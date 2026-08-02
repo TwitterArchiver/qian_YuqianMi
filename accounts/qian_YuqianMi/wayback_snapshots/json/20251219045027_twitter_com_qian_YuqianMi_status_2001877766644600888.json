@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001877684180385793",
+        "3_2001877684213944321",
+        "3_2001877684188786688",
+        "3_2001877684251709440"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001877766644600888",
+    "created_at": "2025-12-19T04:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T05:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001877766644600888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2B3Z311xoK",
+          "end": 66,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2001877766644600888/photo/1",
+          "media_key": "3_2001877684180385793",
+          "start": 43,
+          "url": "https://t.co/2B3Z311xoK"
+        },
+        {
+          "display_url": "pic.x.com/2B3Z311xoK",
+          "end": 66,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2001877766644600888/photo/1",
+          "media_key": "3_2001877684213944321",
+          "start": 43,
+          "url": "https://t.co/2B3Z311xoK"
+        },
+        {
+          "display_url": "pic.x.com/2B3Z311xoK",
+          "end": 66,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2001877766644600888/photo/1",
+          "media_key": "3_2001877684188786688",
+          "start": 43,
+          "url": "https://t.co/2B3Z311xoK"
+        },
+        {
+          "display_url": "pic.x.com/2B3Z311xoK",
+          "end": 66,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2001877766644600888/photo/1",
+          "media_key": "3_2001877684251709440",
+          "start": 43,
+          "url": "https://t.co/2B3Z311xoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001877766644600888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "40000min喜力啤酒！什么实力！\n超级狼心糖来的，，\n（以及MeUmy天下第一） https://t.co/2B3Z311xoK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2237,
+        "media_key": "3_2001877684180385793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gZJblagAEXom3.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2237,
+        "media_key": "3_2001877684213944321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gZJbtakAEkWut.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2237,
+        "media_key": "3_2001877684188786688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gZJbnasAAJZ8s.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2238,
+        "media_key": "3_2001877684251709440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gZJb2a0AAlTfU.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001877684180385793",
+            "3_2001877684213944321",
+            "3_2001877684188786688",
+            "3_2001877684251709440"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001877766644600888",
+        "created_at": "2025-12-19T04:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001877766644600888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2B3Z311xoK",
+              "end": 66,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2001877766644600888/photo/1",
+              "media_key": "3_2001877684180385793",
+              "start": 43,
+              "url": "https://t.co/2B3Z311xoK"
+            },
+            {
+              "display_url": "pic.x.com/2B3Z311xoK",
+              "end": 66,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2001877766644600888/photo/1",
+              "media_key": "3_2001877684213944321",
+              "start": 43,
+              "url": "https://t.co/2B3Z311xoK"
+            },
+            {
+              "display_url": "pic.x.com/2B3Z311xoK",
+              "end": 66,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2001877766644600888/photo/1",
+              "media_key": "3_2001877684188786688",
+              "start": 43,
+              "url": "https://t.co/2B3Z311xoK"
+            },
+            {
+              "display_url": "pic.x.com/2B3Z311xoK",
+              "end": 66,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2001877766644600888/photo/1",
+              "media_key": "3_2001877684251709440",
+              "start": 43,
+              "url": "https://t.co/2B3Z311xoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001877766644600888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "40000min喜力啤酒！什么实力！\n超级狼心糖来的，，\n（以及MeUmy天下第一） https://t.co/2B3Z311xoK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 425,
+          "like_count": 5916,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1506
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

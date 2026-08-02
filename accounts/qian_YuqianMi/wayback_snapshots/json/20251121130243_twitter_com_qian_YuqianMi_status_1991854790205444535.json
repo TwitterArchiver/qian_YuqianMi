@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991854787080650752"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1991854790205444535",
+    "created_at": "2025-11-21T13:02:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T14:02:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991854790205444535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eDFRLBiaab",
+          "end": 87,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1991854790205444535/photo/1",
+          "media_key": "3_1991854787080650752",
+          "start": 64,
+          "url": "https://t.co/eDFRLBiaab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991854790205444535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我趣！40fo了！今天是不是涨了要20fo了，，直接翻倍了（粉丝基数小的快乐hhhh\n\n谢谢大家₍ᐢ..ᐢ₎♡\n千喜欢大家🥰🥰 https://t.co/eDFRLBiaab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_1991854787080650752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6R9YCQagAA9qj5.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991854787080650752"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1991854790205444535",
+        "created_at": "2025-11-21T13:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T14:02:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991854790205444535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eDFRLBiaab",
+              "end": 87,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1991854790205444535/photo/1",
+              "media_key": "3_1991854787080650752",
+              "start": 64,
+              "url": "https://t.co/eDFRLBiaab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991854790205444535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我趣！40fo了！今天是不是涨了要20fo了，，直接翻倍了（粉丝基数小的快乐hhhh\n\n谢谢大家₍ᐢ..ᐢ₎♡\n千喜欢大家🥰🥰 https://t.co/eDFRLBiaab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 153,
+          "like_count": 1013,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 234
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

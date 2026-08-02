@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2057246726298456556",
+    "created_at": "2026-05-21T06:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T07:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057353321774735442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2007848117983670272",
+          "start": 0,
+          "username": "jingjing593432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057353321774735442",
+    "in_reply_to_user_id": "2007848117983670272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057246726298456556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjing593432 我搓搓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11800,
+        "height": 1008,
+        "media_key": "13_2057246651392339968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057246651392339968/img/UfWo7lNLFwSU6g3r.jpg",
+        "public_metrics": {
+          "view_count": 700
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057246651392339968/vid/avc1/320x448/gmnOWI1BCP2a7E-J.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057246651392339968/vid/avc1/480x672/GGY0XCIgMjIYnwDI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057246651392339968/vid/avc1/720x1008/DxNkxBSLi1ChWnS7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057246651392339968/pl/4FR-oa3ZLoP8LMqU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2057246726298456556",
+        "created_at": "2026-05-21T06:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057353321774735442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2007848117983670272",
+              "start": 0,
+              "username": "jingjing593432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057353321774735442",
+        "in_reply_to_user_id": "2007848117983670272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057246726298456556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjing593432 我搓搓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057246651392339968"
+          ]
+        },
+        "author_id": "2007848117983670272",
+        "conversation_id": "2057246726298456556",
+        "created_at": "2026-05-20T23:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T00:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057246726298456556"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 7,
+              "tag": "小狗"
+            },
+            {
+              "end": 14,
+              "start": 11,
+              "tag": "女高"
+            },
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "女高中生"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "女m"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "反差"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xftakmLX7X",
+              "end": 52,
+              "expanded_url": "https://x.com/jingjing593432/status/2057246726298456556/video/1",
+              "media_key": "13_2057246651392339968",
+              "start": 29,
+              "url": "https://t.co/xftakmLX7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057246726298456556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3064,
+          "like_count": 114,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "早安奶（重发\n#小狗 #女高 #女高中生 #女m #反差 https://t.co/xftakmLX7X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1361,
+          "following_count": 861,
+          "like_count": 28427,
+          "listed_count": 0,
+          "media_count": 383,
+          "tweet_count": 5687
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-04T16:15:01.000Z",
+        "description": "问地址拉黑，不约不买纯馋人\n过门不退",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aqa.link/jiqng93055",
+                "end": 23,
+                "expanded_url": "https://aqa.link/jiqng93055",
+                "start": 0,
+                "url": "https://t.co/GOWrgyvoOi"
+              }
+            ]
+          }
+        },
+        "id": "2007848117983670272",
+        "location": "520米",
+        "name": "困困",
+        "pinned_tweet_id": "2038124286322389385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035617953173868544/EdbShbMh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14906,
+          "following_count": 77,
+          "like_count": 1681,
+          "listed_count": 29,
+          "media_count": 126,
+          "tweet_count": 572
+        },
+        "url": "https://t.co/GOWrgyvoOi",
+        "username": "jingjing593432",
+        "verified": false
+      }
+    ]
+  }
+}

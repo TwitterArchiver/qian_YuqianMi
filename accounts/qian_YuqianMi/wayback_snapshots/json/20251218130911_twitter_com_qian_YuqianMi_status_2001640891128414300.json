@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001640888783769600"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2001640891128414300",
+    "created_at": "2025-12-18T13:09:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T14:09:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001640891128414300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/COYVwhBFxZ",
+          "end": 142,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2001640891128414300/photo/1",
+          "media_key": "3_2001640888783769600",
+          "start": 119,
+          "url": "https://t.co/COYVwhBFxZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001640891128414300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽沟槽的马斯克私信是真一点不提示啊，，右下角的小信封完全没红点的，而且我上次更新了x之后左边拉出来的那个“chat（beta）”直接被移除了，导致我完全意识不到有私信，，\n\n这些宝宝我完全都现在才看见！我滑跪了！对不起对不起对不起，， https://t.co/COYVwhBFxZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001640888783769600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8dByH_akAAgQrt.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001640888783769600"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001640891128414300",
+        "created_at": "2025-12-18T13:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T14:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001640891128414300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/COYVwhBFxZ",
+              "end": 142,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2001640891128414300/photo/1",
+              "media_key": "3_2001640888783769600",
+              "start": 119,
+              "url": "https://t.co/COYVwhBFxZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001640891128414300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽沟槽的马斯克私信是真一点不提示啊，，右下角的小信封完全没红点的，而且我上次更新了x之后左边拉出来的那个“chat（beta）”直接被移除了，导致我完全意识不到有私信，，\n\n这些宝宝我完全都现在才看见！我滑跪了！对不起对不起对不起，， https://t.co/COYVwhBFxZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 421,
+          "like_count": 5821,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1483
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

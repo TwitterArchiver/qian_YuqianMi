@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004995035725791232"
+      ],
+      "media_source_tweet_id": [
+        "2004995050326118786"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2005436565749919919",
+    "created_at": "2025-12-29T00:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T01:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005436565749919919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1878446123649773569",
+          "start": 3,
+          "username": "gohan_yosouyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/b1wkYd6XyZ",
+          "end": 42,
+          "expanded_url": "https://x.com/gohan_yosouyo/status/2004995050326118786/photo/1",
+          "media_key": "3_2004995035725791232",
+          "start": 19,
+          "url": "https://t.co/b1wkYd6XyZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005436565749919919",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 600
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004995050326118786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gohan_yosouyo: https://t.co/b1wkYd6XyZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2004995035725791232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9MsXLDbgAA2vJe.jpg",
+        "width": 2577
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004995035725791232"
+          ],
+          "media_source_tweet_id": [
+            "2004995050326118786"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2005436565749919919",
+        "created_at": "2025-12-29T00:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T01:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005436565749919919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1878446123649773569",
+              "start": 3,
+              "username": "gohan_yosouyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1wkYd6XyZ",
+              "end": 42,
+              "expanded_url": "https://x.com/gohan_yosouyo/status/2004995050326118786/photo/1",
+              "media_key": "3_2004995035725791232",
+              "start": 19,
+              "url": "https://t.co/b1wkYd6XyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005436565749919919",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 600
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004995050326118786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gohan_yosouyo: https://t.co/b1wkYd6XyZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004995035725791232"
+          ]
+        },
+        "author_id": "1878446123649773569",
+        "conversation_id": "2004995050326118786",
+        "created_at": "2025-12-27T19:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T20:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004995050326118786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b1wkYd6XyZ",
+              "end": 23,
+              "expanded_url": "https://x.com/gohan_yosouyo/status/2004995050326118786/photo/1",
+              "media_key": "3_2004995035725791232",
+              "start": 0,
+              "url": "https://t.co/b1wkYd6XyZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004995050326118786",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1148,
+          "impression_count": 81366,
+          "like_count": 11511,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 600
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/b1wkYd6XyZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 461,
+          "like_count": 6910,
+          "listed_count": 0,
+          "media_count": 169,
+          "tweet_count": 1699
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-12T14:18:12.000Z",
+        "description": "20↑ 🔞🔞🔞腐 好きなものを描く 現在のメイン垢→@haetataki_8484",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 26,
+                "username": "haetataki_8484"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/91097295",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/91097295",
+                "start": 0,
+                "url": "https://t.co/FeX0ejid9Z"
+              }
+            ]
+          }
+        },
+        "id": "1878446123649773569",
+        "location": "最後の審判",
+        "name": "しゃもじブンブン🔞",
+        "pinned_tweet_id": "1996507605741797809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891105714720174080/bF0-EmtL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50403,
+          "following_count": 81,
+          "like_count": 7657,
+          "listed_count": 89,
+          "media_count": 136,
+          "tweet_count": 3810
+        },
+        "url": "https://t.co/FeX0ejid9Z",
+        "username": "gohan_yosouyo",
+        "verified": false
+      }
+    ]
+  }
+}

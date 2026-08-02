@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014374049871495592",
+    "created_at": "2026-01-22T16:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T17:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014374049871495592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/2014180722068857110",
+          "start": 18,
+          "url": "https://t.co/oJ0F6Jj6x1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014374049871495592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014180722068857110",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每过一段时间就会突然火一条.jpg https://t.co/oJ0F6Jj6x1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014374049871495592",
+        "created_at": "2026-01-22T16:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T17:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014374049871495592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2014180722068857110",
+              "start": 18,
+              "url": "https://t.co/oJ0F6Jj6x1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014374049871495592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014180722068857110",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每过一段时间就会突然火一条.jpg https://t.co/oJ0F6Jj6x1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014180722068857110",
+        "created_at": "2026-01-22T03:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T04:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014180722068857110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014180722068857110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11369,
+          "like_count": 285,
+          "quote_count": 5,
+          "reply_count": 37,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "我一直很想谈恋爱，但是我想跳过暧昧期直接开始稳定的恋爱关系。。我想要安定的能和我贴贴蹭蹭抱抱亲亲的人。非常非常缺乏安定感 暧昧期对我来讲是最折磨的时间\n每次把这些东西讲给墙内亲友听都会挨骂 他们觉得暧昧才是爱情中最“好玩”的东西\n但是还好这个黑叉有能和我共鸣的人吧 还是有和我一样的人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 681,
+          "like_count": 15048,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 3271
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

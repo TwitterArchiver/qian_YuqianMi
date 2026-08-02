@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994796881650880608",
+    "created_at": "2025-11-29T15:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T16:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994797272841031712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1569279849126297602",
+          "start": 0,
+          "username": "shkuiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994797272841031712",
+    "in_reply_to_user_id": "1569279849126297602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994796881650880608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shkuiiiiii 揉搓一下宝宝呀づ♡ど"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994796881650880608",
+        "created_at": "2025-11-29T15:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994797272841031712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994797272841031712",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994796881650880608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 揉搓一下宝宝呀づ♡ど"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "1994796881650880608",
+        "created_at": "2025-11-29T15:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T16:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994796881650880608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994796881650880608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "現在我躺在床上看電視吃著鴨舌，重要的是在和我寶寶打電話，嘿嘿嘿好幸福，但是好難過好傷心好那啥啊不知道為什麼莫名其妙的好難受好難受好難受啊，好想哭好想歐弟好想割但是我寶寶説歐弟不能解決問題，唉我也不知道怎麼辦了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 302,
+          "like_count": 2610,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 642
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "1994360240175771669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994300924265914368/HW_9esMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 609,
+          "following_count": 58,
+          "like_count": 5239,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 1066
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

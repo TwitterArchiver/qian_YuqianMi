@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011451263624630272"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2011451266216726974",
+    "created_at": "2026-01-14T14:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T15:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2011451266216726974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4sCcH1vaWH",
+          "end": 132,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2011451266216726974/photo/1",
+          "media_key": "3_2011451263624630272",
+          "start": 109,
+          "url": "https://t.co/4sCcH1vaWH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011451266216726974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好想打冰棒球哦！（这个千千已经要一个月没打球了！！）说实在的我闻这个胶皮的胶味会很爽（我闻极黑的墨水味也会爽（这是否是一种恋物癖（？）其实是一种望梅止渴！\n（我画的小YuMi可爱不₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛ ） https://t.co/4sCcH1vaWH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011451263624630272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-ocRGNbUAAXwJK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011451263624630272"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2011451266216726974",
+        "created_at": "2026-01-14T14:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T15:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011451266216726974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sCcH1vaWH",
+              "end": 132,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2011451266216726974/photo/1",
+              "media_key": "3_2011451263624630272",
+              "start": 109,
+              "url": "https://t.co/4sCcH1vaWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011451266216726974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想打冰棒球哦！（这个千千已经要一个月没打球了！！）说实在的我闻这个胶皮的胶味会很爽（我闻极黑的墨水味也会爽（这是否是一种恋物癖（？）其实是一种望梅止渴！\n（我画的小YuMi可爱不₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛ ） https://t.co/4sCcH1vaWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 652,
+          "like_count": 12651,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 2834
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

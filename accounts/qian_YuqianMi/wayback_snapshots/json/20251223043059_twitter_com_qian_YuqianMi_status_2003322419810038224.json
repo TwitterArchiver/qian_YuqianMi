@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2003322419810038224",
+    "created_at": "2025-12-23T04:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T05:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003322419810038224"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kirayoumiya/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/Kirayoumiya/status/2003318461129482521",
+          "start": 39,
+          "url": "https://t.co/BZgboIstPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003322419810038224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003318461129482521",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "摸高压电线是不是比较无痛的紫砂方式🤔吧唧一下就焦了\n我以前甚至没想过这种死法 https://t.co/BZgboIstPa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2003318451041890304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G803hGZWcAAT7W0.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2003322419810038224",
+        "created_at": "2025-12-23T04:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T05:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003322419810038224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kirayoumiya/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/Kirayoumiya/status/2003318461129482521",
+              "start": 39,
+              "url": "https://t.co/BZgboIstPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003322419810038224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003318461129482521",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "摸高压电线是不是比较无痛的紫砂方式🤔吧唧一下就焦了\n我以前甚至没想过这种死法 https://t.co/BZgboIstPa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003318451041890304"
+          ]
+        },
+        "author_id": "1681716872415440896",
+        "conversation_id": "2003318461129482521",
+        "created_at": "2025-12-23T04:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T05:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003318461129482521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9KbJYwwI5q",
+              "end": 27,
+              "expanded_url": "https://x.com/Kirayoumiya/status/2003318461129482521/photo/1",
+              "media_key": "3_2003318451041890304",
+              "start": 4,
+              "url": "https://t.co/9KbJYwwI5q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003318461129482521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "望周知 https://t.co/9KbJYwwI5q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 436,
+          "like_count": 6332,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1588
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-19T17:25:30.000Z",
+        "description": "无意义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kirayoumiya1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kirayoumiya1",
+                "start": 0,
+                "url": "https://t.co/M01koGyPVJ"
+              }
+            ]
+          }
+        },
+        "id": "1681716872415440896",
+        "name": "Kirayoumiya",
+        "pinned_tweet_id": "1954735690111185342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986630336080650240/V8mqkC1i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 1047,
+          "like_count": 22119,
+          "listed_count": 3,
+          "media_count": 733,
+          "tweet_count": 15638
+        },
+        "url": "https://t.co/M01koGyPVJ",
+        "username": "Kirayoumiya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990586441639014422",
+    "created_at": "2025-11-18T01:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T02:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990586441639014422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/HARURI52/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/HARURI52/status/1990313884096614441",
+          "start": 7,
+          "url": "https://t.co/0rcd80f0WU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990586441639014422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990313884096614441",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个好有创意 https://t.co/0rcd80f0WU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1990313876060254208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58D7NYaMAAU668.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990586441639014422",
+        "created_at": "2025-11-18T01:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990586441639014422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HARURI52/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/HARURI52/status/1990313884096614441",
+              "start": 7,
+              "url": "https://t.co/0rcd80f0WU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990586441639014422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990313884096614441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个好有创意 https://t.co/0rcd80f0WU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990313876060254208"
+          ]
+        },
+        "author_id": "1161591362124304384",
+        "conversation_id": "1990313884096614441",
+        "created_at": "2025-11-17T06:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990313884096614441"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lyvXCCghre",
+              "end": 27,
+              "expanded_url": "https://x.com/HARURI52/status/1990313884096614441/photo/1",
+              "media_key": "3_1990313876060254208",
+              "start": 4,
+              "url": "https://t.co/lyvXCCghre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990313884096614441",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1420,
+          "impression_count": 84019,
+          "like_count": 9911,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 685
+        },
+        "reply_settings": "everyone",
+        "text": "oc🔹 https://t.co/lyvXCCghre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 116,
+          "like_count": 722,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 155
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-14T10:52:16.000Z",
+        "description": "Illustrator・イラストレーター / CM closed / 2026年WORK:mullpull0502@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ko/haruri52",
+                "end": 23,
+                "expanded_url": "https://lit.link/ko/haruri52",
+                "start": 0,
+                "url": "https://t.co/EqGSIRvJBz"
+              }
+            ]
+          }
+        },
+        "id": "1161591362124304384",
+        "name": "HARURI",
+        "pinned_tweet_id": "1976634985101857067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752482736798146560/keRW-BE__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50020,
+          "following_count": 98,
+          "like_count": 1510,
+          "listed_count": 444,
+          "media_count": 74,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/EqGSIRvJBz",
+        "username": "HARURI52",
+        "verified": true
+      }
+    ]
+  }
+}

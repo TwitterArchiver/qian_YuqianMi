@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2012856269774668069",
+    "created_at": "2026-01-18T14:05:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T15:05:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012889151734239472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1997701474705645568",
+          "start": 0,
+          "username": "S1J1AN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012889151734239472",
+    "in_reply_to_user_id": "1997701474705645568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012856269774668069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@S1J1AN 宝宝我那里硬硬的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29966,
+        "height": 960,
+        "media_key": "13_2012856182801633280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012856182801633280/img/XAKf2q5qjrl7MqbI.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012856182801633280/vid/avc1/320x426/dYhJ3DX0fIodrYh-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012856182801633280/vid/avc1/480x640/dF9s0V2q5S7loW2L.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012856182801633280/vid/avc1/720x960/xpDdxDTCNdIu1VLz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012856182801633280/pl/ox41itf18j3d_50J.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012856269774668069",
+        "created_at": "2026-01-18T14:05:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T15:05:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012889151734239472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1997701474705645568",
+              "start": 0,
+              "username": "S1J1AN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012889151734239472",
+        "in_reply_to_user_id": "1997701474705645568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012856269774668069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@S1J1AN 宝宝我那里硬硬的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012856182801633280"
+          ]
+        },
+        "author_id": "1997701474705645568",
+        "conversation_id": "2012856269774668069",
+        "created_at": "2026-01-18T11:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T12:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012856269774668069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "女喘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXDIwoFSq3",
+              "end": 27,
+              "expanded_url": "https://x.com/S1J1AN/status/2012856269774668069/video/1",
+              "media_key": "13_2012856182801633280",
+              "start": 4,
+              "url": "https://t.co/qXDIwoFSq3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012856269774668069",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 210,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#女喘 https://t.co/qXDIwoFSq3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 665,
+          "like_count": 13809,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 3059
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T16:15:31.000Z",
+        "description": "叫我鸭鸭我会很开心🥳｜有点反差的06大二在读｜不线下 ｜入🚪私信｜困了就睡觉 醒了就冲浪｜请记住现实里的我就是下水道的🐭｜老公@Jingtingovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "Jingtingovo"
+              }
+            ]
+          }
+        },
+        "id": "1997701474705645568",
+        "location": "🚪66🛰️好友位｜绿｜仅支持口令码入🚪",
+        "name": "Veyra",
+        "pinned_tweet_id": "2012494492117712911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011744463408771072/puaDLd9I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 766,
+          "following_count": 57,
+          "like_count": 373,
+          "listed_count": 4,
+          "media_count": 55,
+          "tweet_count": 488
+        },
+        "username": "S1J1AN",
+        "verified": false
+      }
+    ]
+  }
+}

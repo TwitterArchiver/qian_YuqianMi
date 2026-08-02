@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022950932951236609",
+        "3_2022950935396519936",
+        "3_2022950932770869248",
+        "3_2022950934066925570"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2022950938596753523",
+    "created_at": "2026-02-15T08:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T09:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022950938596753523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VFBz0X13aC",
+          "end": 81,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2022950938596753523/photo/1",
+          "media_key": "3_2022950932951236609",
+          "start": 58,
+          "url": "https://t.co/VFBz0X13aC"
+        },
+        {
+          "display_url": "pic.x.com/VFBz0X13aC",
+          "end": 81,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2022950938596753523/photo/1",
+          "media_key": "3_2022950935396519936",
+          "start": 58,
+          "url": "https://t.co/VFBz0X13aC"
+        },
+        {
+          "display_url": "pic.x.com/VFBz0X13aC",
+          "end": 81,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2022950938596753523/photo/1",
+          "media_key": "3_2022950932770869248",
+          "start": 58,
+          "url": "https://t.co/VFBz0X13aC"
+        },
+        {
+          "display_url": "pic.x.com/VFBz0X13aC",
+          "end": 81,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2022950938596753523/photo/1",
+          "media_key": "3_2022950934066925570",
+          "start": 58,
+          "url": "https://t.co/VFBz0X13aC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022950938596753523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "消费主义陷阱+2\n你知道吗我第一次抽到心愿款，，而且是我最最喜欢的那个！我从来没抽到过心愿款我没招了。。打破魔咒！ https://t.co/VFBz0X13aC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022950932951236609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL3J8yagAE93o7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2022950935396519936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL3KF5akAAksRb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2022950932770869248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL3J8HaUAAA1Yj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2022950934066925570",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBL3KA8akAIVDLL.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022950932951236609",
+            "3_2022950935396519936",
+            "3_2022950932770869248",
+            "3_2022950934066925570"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2022950938596753523",
+        "created_at": "2026-02-15T08:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022950938596753523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VFBz0X13aC",
+              "end": 81,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2022950938596753523/photo/1",
+              "media_key": "3_2022950932951236609",
+              "start": 58,
+              "url": "https://t.co/VFBz0X13aC"
+            },
+            {
+              "display_url": "pic.x.com/VFBz0X13aC",
+              "end": 81,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2022950938596753523/photo/1",
+              "media_key": "3_2022950935396519936",
+              "start": 58,
+              "url": "https://t.co/VFBz0X13aC"
+            },
+            {
+              "display_url": "pic.x.com/VFBz0X13aC",
+              "end": 81,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2022950938596753523/photo/1",
+              "media_key": "3_2022950932770869248",
+              "start": 58,
+              "url": "https://t.co/VFBz0X13aC"
+            },
+            {
+              "display_url": "pic.x.com/VFBz0X13aC",
+              "end": 81,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2022950938596753523/photo/1",
+              "media_key": "3_2022950934066925570",
+              "start": 58,
+              "url": "https://t.co/VFBz0X13aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022950938596753523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "消费主义陷阱+2\n你知道吗我第一次抽到心愿款，，而且是我最最喜欢的那个！我从来没抽到过心愿款我没招了。。打破魔咒！ https://t.co/VFBz0X13aC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 745,
+          "like_count": 20387,
+          "listed_count": 0,
+          "media_count": 305,
+          "tweet_count": 4134
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

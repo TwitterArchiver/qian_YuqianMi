@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997262323560644723",
+    "created_at": "2025-12-06T11:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T12:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997265696041107730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1741196237150232576",
+          "start": 0,
+          "username": "Liangcha0115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997265696041107730",
+    "in_reply_to_user_id": "1741196237150232576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997263420392186161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liangcha0115 因为我跟我妈说了我要留长啦，，她针对的是我留到很长之后的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997262323560644723",
+        "created_at": "2025-12-06T11:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T12:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997265696041107730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1741196237150232576",
+              "start": 0,
+              "username": "Liangcha0115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997265696041107730",
+        "in_reply_to_user_id": "1741196237150232576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997263420392186161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liangcha0115 因为我跟我妈说了我要留长啦，，她针对的是我留到很长之后的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741196237150232576",
+        "conversation_id": "1997262323560644723",
+        "created_at": "2025-12-06T11:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T12:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997263420392186161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997263420392186161",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997262323560644723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 我觉得你的头发都不算长的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 352,
+          "like_count": 3835,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 969
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T20:35:24.000Z",
+        "description": "不喜欢吵架。",
+        "id": "1741196237150232576",
+        "location": "2025.11.6",
+        "name": "涼茶うみ",
+        "pinned_tweet_id": "1992150038559269139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994670727208079363/HzNT9ouW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 555,
+          "like_count": 8433,
+          "listed_count": 2,
+          "media_count": 436,
+          "tweet_count": 4782
+        },
+        "username": "Liangcha0115",
+        "verified": false
+      }
+    ]
+  }
+}

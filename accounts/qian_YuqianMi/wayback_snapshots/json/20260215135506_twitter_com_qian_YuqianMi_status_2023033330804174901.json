@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2022965917601448065",
+    "created_at": "2026-02-15T13:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T14:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023033330804174901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1896464779151323136",
+          "start": 0,
+          "username": "shang_444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023033330804174901",
+    "in_reply_to_user_id": "1896464779151323136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022965917601448065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shang_444 好耶！好棒！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2022965909800013824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBMExt5a0AAN8FM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2022965917601448065",
+        "created_at": "2026-02-15T13:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T14:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023033330804174901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1896464779151323136",
+              "start": 0,
+              "username": "shang_444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023033330804174901",
+        "in_reply_to_user_id": "1896464779151323136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022965917601448065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shang_444 好耶！好棒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022965909800013824"
+          ]
+        },
+        "author_id": "1896464779151323136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2022965917601448065",
+        "created_at": "2026-02-15T09:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T10:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022965917601448065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rsz57T7FEU",
+              "end": 139,
+              "expanded_url": "https://x.com/shang_444/status/2022965917601448065/photo/1",
+              "media_key": "3_2022965909800013824",
+              "start": 116,
+              "url": "https://t.co/rsz57T7FEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022965917601448065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 346,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就這樣維持了將近3個月 沒有新傷口 順便跟寶寶們報告一下 我這段時間有去工作了（短期工讀已期滿）中間也有很崩潰想放棄甚至趁午休時間去買刀子的時候 但我都撐過來了 希望大家都能順利地過個好年🥺🫶（雖然感覺今年很沒有過年的氣氛（？） https://t.co/rsz57T7FEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1046,
+          "following_count": 746,
+          "like_count": 20461,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 4144
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-03T07:37:25.000Z",
+        "description": "✞女大✞地雷系✞刀刀重度依賴✞病み垢✞",
+        "id": "1896464779151323136",
+        "name": "殤殤5.0",
+        "pinned_tweet_id": "1981417028109160932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969605962165297152/0N96NIiz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 39,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 57
+        },
+        "username": "shang_444",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2025030796080537773",
+    "created_at": "2026-02-21T03:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T04:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025052381202055441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025052381202055441",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025030796080537773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn 噢噢噢噢好萌哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11820,
+        "height": 1280,
+        "media_key": "7_2025030753445445634",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2025030753445445634/pu/img/c2fvaBCk38r0yGek.jpg",
+        "public_metrics": {
+          "view_count": 12
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025030753445445634/pu/vid/avc1/320x568/Ay1qedEJ859OGtFn.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025030753445445634/pu/vid/avc1/480x852/OegHVaVhGp177UZq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2025030753445445634/pu/vid/avc1/720x1280/KUgQFDM8Twm28tXr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2025030753445445634/pu/pl/DmbfWv9Rk7DMAbnY.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025030796080537773",
+        "created_at": "2026-02-21T03:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025052381202055441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025052381202055441",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025030796080537773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn 噢噢噢噢好萌哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2025030753445445634"
+          ]
+        },
+        "author_id": "2014723682548224000",
+        "conversation_id": "2025030796080537773",
+        "created_at": "2026-02-21T02:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T03:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025030796080537773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7M21Ssp76F",
+              "end": 35,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2025030796080537773/video/1",
+              "media_key": "7_2025030753445445634",
+              "start": 12,
+              "url": "https://t.co/7M21Ssp76F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025030796080537773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這裏的釘子沒被發現喔！ https://t.co/7M21Ssp76F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 766,
+          "like_count": 21649,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 4319
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "男的請先過門！喜歡我請給我打錢~ \n\n姐姐：@OoOooo0518",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "OoOooo0518"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "香港",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2014724900284764642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014724390207029251/gp55jTni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 118,
+          "like_count": 1784,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 342
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": false
+      }
+    ]
+  }
+}

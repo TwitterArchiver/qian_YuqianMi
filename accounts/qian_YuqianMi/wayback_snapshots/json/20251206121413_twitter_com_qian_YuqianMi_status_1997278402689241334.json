@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997278402689241334",
+    "created_at": "2025-12-06T12:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T13:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997278402689241334"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997278402689241334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对啊我就是被说了就会不开心啊！你说我丑我就是会难过啊！你说我胖我能开心吗！？我是什么受击回复吗？你问我为什么难过，然后问完立马接一句“你真的好肥，真的要少吃点了。”你傻逼吗！！？真的不知道我为什么难过吗？\n丢下一句“我真的搞不懂你”然后走了，好像你才是应该难过的那个。傻逼吗？？！！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997278402689241334",
+        "created_at": "2025-12-06T12:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T13:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997278402689241334"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997278402689241334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对啊我就是被说了就会不开心啊！你说我丑我就是会难过啊！你说我胖我能开心吗！？我是什么受击回复吗？你问我为什么难过，然后问完立马接一句“你真的好肥，真的要少吃点了。”你傻逼吗！！？真的不知道我为什么难过吗？\n丢下一句“我真的搞不懂你”然后走了，好像你才是应该难过的那个。傻逼吗？？！！？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 352,
+          "like_count": 3845,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 974
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009298901665501339",
+    "created_at": "2026-01-09T10:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T11:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009569149161521384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1547291209105715200",
+          "start": 0,
+          "username": "obj_0xEB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009569149161521384",
+    "in_reply_to_user_id": "1547291209105715200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009558012969787902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obj_0xEB 还好！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009298901665501339",
+        "created_at": "2026-01-09T10:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T11:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009569149161521384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1547291209105715200",
+              "start": 0,
+              "username": "obj_0xEB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009569149161521384",
+        "in_reply_to_user_id": "1547291209105715200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009558012969787902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obj_0xEB 还好！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547291209105715200",
+        "conversation_id": "2009298901665501339",
+        "created_at": "2026-01-09T09:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T10:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009558012969787902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009558012969787902",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009298901665501339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 😗这样搞房间里没味吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 620,
+          "like_count": 10241,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 2411
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T18:45:54.000Z",
+        "description": "//追寻人类的自由与解放;\nreturn nan;\nlog failed;",
+        "id": "1547291209105715200",
+        "location": "null；",
+        "name": "0xEB",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732678952328785920/3ZhnBe6r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 90,
+          "like_count": 17922,
+          "listed_count": 10,
+          "media_count": 350,
+          "tweet_count": 9784
+        },
+        "username": "obj_0xEB",
+        "verified": false
+      }
+    ]
+  }
+}

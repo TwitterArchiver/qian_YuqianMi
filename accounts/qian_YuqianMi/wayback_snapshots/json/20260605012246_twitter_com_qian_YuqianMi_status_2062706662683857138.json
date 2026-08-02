@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2062565947488280630",
+    "created_at": "2026-06-05T01:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T02:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062706662683857138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1529957855335690240",
+          "start": 0,
+          "username": "a_babea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062706662683857138",
+    "in_reply_to_user_id": "1529957855335690240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062565947488280630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_babea 超好看🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062565935945596928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-0ynHbwAAP6xX.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2062565947488280630",
+        "created_at": "2026-06-05T01:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T02:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062706662683857138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1529957855335690240",
+              "start": 0,
+              "username": "a_babea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062706662683857138",
+        "in_reply_to_user_id": "1529957855335690240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062565947488280630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_babea 超好看🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062565935945596928"
+          ]
+        },
+        "author_id": "1529957855335690240",
+        "conversation_id": "2062565947488280630",
+        "created_at": "2026-06-04T16:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062565947488280630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1EPJWeD400",
+              "end": 38,
+              "expanded_url": "https://x.com/a_babea/status/2062565947488280630/photo/1",
+              "media_key": "3_2062565935945596928",
+              "start": 15,
+              "url": "https://t.co/1EPJWeD400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062565947488280630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 314,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁能懂这一根薄荷巧克力发色。 https://t.co/1EPJWeD400"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 874,
+          "like_count": 28943,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5803
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T22:49:41.000Z",
+        "description": "",
+        "id": "1529957855335690240",
+        "name": "11",
+        "pinned_tweet_id": "1981043143022956802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025046506496274432/JtsmWU8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4434,
+          "following_count": 315,
+          "like_count": 3832,
+          "listed_count": 5,
+          "media_count": 630,
+          "tweet_count": 2013
+        },
+        "username": "a_babea",
+        "verified": false
+      }
+    ]
+  }
+}

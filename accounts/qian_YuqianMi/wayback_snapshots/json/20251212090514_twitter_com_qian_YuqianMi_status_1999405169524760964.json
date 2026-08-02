@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1999393821952737731",
+    "created_at": "2025-12-12T09:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999405169524760964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431691236436418564",
+          "start": 0,
+          "username": "FLCLSSSS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999405169524760964",
+    "in_reply_to_user_id": "1431691236436418564",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999393821952737731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FLCLSSSS 上海八百年没下雪了˃̣̣̥᷄⌓˂̣̣̥᷅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5481,
+        "height": 720,
+        "media_key": "7_1999393744622374912",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1999393744622374912/pu/img/iaLZCRnedp13tOwF.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999393744622374912/pu/vid/avc1/480x270/u4nZ9vGTJeT7V7LW.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999393744622374912/pu/vid/avc1/640x360/7e_jalmmcjBQVzCT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1999393744622374912/pu/vid/avc1/1280x720/EJ3xWjWF4ziaHbpH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1999393744622374912/pu/pl/8YQUSFml8ZF_UgON.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1999393821952737731",
+        "created_at": "2025-12-12T09:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999405169524760964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431691236436418564",
+              "start": 0,
+              "username": "FLCLSSSS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999405169524760964",
+        "in_reply_to_user_id": "1431691236436418564",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999393821952737731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FLCLSSSS 上海八百年没下雪了˃̣̣̥᷄⌓˂̣̣̥᷅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1999393744622374912"
+          ]
+        },
+        "author_id": "1431691236436418564",
+        "conversation_id": "1999393821952737731",
+        "created_at": "2025-12-12T08:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T09:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999393821952737731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mj1150jAae",
+              "end": 39,
+              "expanded_url": "https://x.com/FLCLSSSS/status/1999393821952737731/video/1",
+              "media_key": "7_1999393744622374912",
+              "start": 16,
+              "url": "https://t.co/mj1150jAae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999393821952737731",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下雪啦下雪啦初雪(σ≧∀≦)σ https://t.co/mj1150jAae"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 372,
+          "like_count": 4805,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1196
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-28T18:53:12.000Z",
+        "description": "死去的躯壳/\n精神污染中/\n亚空间幽灵/\nINFP 4w5 or 9w1/\n虚无主义/\n事生理男/\n人格缺陷/\n请对井水玉藻温柔点，四折是哥哥/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "love4z.cn",
+                "end": 23,
+                "expanded_url": "https://love4z.cn",
+                "start": 0,
+                "url": "https://t.co/PhhvCFbQij"
+              }
+            ]
+          }
+        },
+        "id": "1431691236436418564",
+        "location": "地狱",
+        "name": "四折光曲",
+        "pinned_tweet_id": "1999053659750187450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999059479212785664/Tgds2j7F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 39,
+          "like_count": 8792,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/PhhvCFbQij",
+        "username": "FLCLSSSS",
+        "verified": false
+      }
+    ]
+  }
+}

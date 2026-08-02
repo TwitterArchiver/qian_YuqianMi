@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990309242168090624"
+      ],
+      "media_source_tweet_id": [
+        "1990309264238530749"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990424810816762153",
+    "created_at": "2025-11-17T14:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990424810816762153"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 15,
+          "tag": "frieren"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1433367425358041091",
+          "start": 3,
+          "username": "Citruz_29"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YqMtYP4o39",
+          "end": 47,
+          "expanded_url": "https://x.com/Citruz_29/status/1990309264238530749/photo/1",
+          "media_key": "3_1990309242168090624",
+          "start": 24,
+          "url": "https://t.co/YqMtYP4o39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990424810816762153",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 157
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990309264238530749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Citruz_29: #frieren https://t.co/YqMtYP4o39"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1990309242168090624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57_teybIAATFmI.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990309242168090624"
+          ],
+          "media_source_tweet_id": [
+            "1990309264238530749"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990424810816762153",
+        "created_at": "2025-11-17T14:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990424810816762153"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "frieren"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1433367425358041091",
+              "start": 3,
+              "username": "Citruz_29"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqMtYP4o39",
+              "end": 47,
+              "expanded_url": "https://x.com/Citruz_29/status/1990309264238530749/photo/1",
+              "media_key": "3_1990309242168090624",
+              "start": 24,
+              "url": "https://t.co/YqMtYP4o39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990424810816762153",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990309264238530749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Citruz_29: #frieren https://t.co/YqMtYP4o39"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990309242168090624"
+          ]
+        },
+        "author_id": "1433367425358041091",
+        "conversation_id": "1990309264238530749",
+        "created_at": "2025-11-17T06:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T07:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990309264238530749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "frieren"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqMtYP4o39",
+              "end": 32,
+              "expanded_url": "https://x.com/Citruz_29/status/1990309264238530749/photo/1",
+              "media_key": "3_1990309242168090624",
+              "start": 9,
+              "url": "https://t.co/YqMtYP4o39"
+            },
+            {
+              "display_url": "x.com/nocontextmemes…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/nocontextmemes/status/1989337783660319198",
+              "start": 33,
+              "url": "https://t.co/hedeA0Lvyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990309264238530749",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 16636,
+          "like_count": 2017,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 157
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989337783660319198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#frieren https://t.co/YqMtYP4o39 https://t.co/hedeA0Lvyz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 113,
+          "like_count": 697,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 144
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-02T09:53:45.000Z",
+        "description": "喜女同和兽娘，会发一些oc和ansy\n⚠偶尔出现nsfw\n委托开放|Commission open！\nPaypal/Vgen\nVgen:https://t.co/3yzHYCIf3t",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/ju29",
+                "end": 91,
+                "expanded_url": "https://vgen.co/ju29",
+                "start": 68,
+                "url": "https://t.co/3yzHYCIf3t"
+              }
+            ]
+          }
+        },
+        "id": "1433367425358041091",
+        "name": "橘汽車",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849503891614019584/bUn7zAo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3481,
+          "following_count": 633,
+          "like_count": 231,
+          "listed_count": 22,
+          "media_count": 27,
+          "tweet_count": 405
+        },
+        "username": "Citruz_29",
+        "verified": false
+      }
+    ]
+  }
+}

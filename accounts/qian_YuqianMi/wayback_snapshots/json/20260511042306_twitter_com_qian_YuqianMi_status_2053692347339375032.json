@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053499190739660805"
+      ],
+      "media_source_tweet_id": [
+        "2053499799681339816"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10045383005",
+          "name": "Resident Evil"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      }
+    ],
+    "conversation_id": "2053692347339375032",
+    "created_at": "2026-05-11T04:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T05:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053692347339375032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1085991744326504448",
+          "start": 3,
+          "username": "TheChalkeaters"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/khrmv6VgHX",
+          "end": 135,
+          "expanded_url": "https://x.com/TheChalkeaters/status/2053499799681339816/video/1",
+          "media_key": "13_2053499190739660805",
+          "start": 112,
+          "url": "https://t.co/khrmv6VgHX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053692347339375032",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7804
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053499799681339816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheChalkeaters: We love Resident Evil Requiem especially the part where the evil residents play the requiem https://t.co/khrmv6VgHX"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27458,
+        "height": 1920,
+        "media_key": "13_2053499190739660805",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053499190739660805/img/DTVNw8L8cY3wMIgr.jpg",
+        "public_metrics": {
+          "view_count": 548220
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053499190739660805/vid/avc1/1080x1920/2PNP8IJQTKXSBbkE.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053499190739660805/vid/avc1/480x852/PvBFx_GCJdURWSIS.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053499190739660805/vid/avc1/320x568/4AAhNVICVdgTOOHZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053499190739660805/vid/avc1/720x1280/6TjUp3bbizAyuf77.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053499190739660805/pl/lvfP37eiZua2tfce.m3u8?v=07e"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053499190739660805"
+          ],
+          "media_source_tweet_id": [
+            "2053499799681339816"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2053692347339375032",
+        "created_at": "2026-05-11T04:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T05:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053692347339375032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1085991744326504448",
+              "start": 3,
+              "username": "TheChalkeaters"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/khrmv6VgHX",
+              "end": 135,
+              "expanded_url": "https://x.com/TheChalkeaters/status/2053499799681339816/video/1",
+              "media_key": "13_2053499190739660805",
+              "start": 112,
+              "url": "https://t.co/khrmv6VgHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053692347339375032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7804
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053499799681339816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheChalkeaters: We love Resident Evil Requiem especially the part where the evil residents play the requiem https://t.co/khrmv6VgHX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053499190739660805"
+          ]
+        },
+        "author_id": "1085991744326504448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10045383005",
+              "name": "Resident Evil"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2053499799681339816",
+        "created_at": "2026-05-10T15:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T16:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053499799681339816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khrmv6VgHX",
+              "end": 115,
+              "expanded_url": "https://x.com/TheChalkeaters/status/2053499799681339816/video/1",
+              "media_key": "13_2053499190739660805",
+              "start": 92,
+              "url": "https://t.co/khrmv6VgHX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053499799681339816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10238,
+          "impression_count": 1179268,
+          "like_count": 52023,
+          "quote_count": 157,
+          "reply_count": 92,
+          "retweet_count": 7804
+        },
+        "reply_settings": "everyone",
+        "text": "We love Resident Evil Requiem especially the part where the evil residents play the requiem https://t.co/khrmv6VgHX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 861,
+          "like_count": 28409,
+          "listed_count": 0,
+          "media_count": 380,
+          "tweet_count": 5641
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-17T20:06:23.000Z",
+        "description": "■ We are a video game-themed music & animation team!\n■ Made “Doom Crossing”, “Bowsette”, “Count to Three”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "YouTube.com/thechalkeaters",
+                "end": 23,
+                "expanded_url": "http://YouTube.com/thechalkeaters",
+                "start": 0,
+                "url": "https://t.co/uuqRJpHPnE"
+              }
+            ]
+          }
+        },
+        "id": "1085991744326504448",
+        "location": "The Chalkiverse ✨",
+        "name": "■ The Chalkeaters",
+        "pinned_tweet_id": "1376564817331318787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595625370581090304/h4I8hFdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13810,
+          "following_count": 662,
+          "like_count": 1729,
+          "listed_count": 27,
+          "media_count": 553,
+          "tweet_count": 1580
+        },
+        "url": "https://t.co/uuqRJpHPnE",
+        "username": "TheChalkeaters",
+        "verified": true
+      }
+    ]
+  }
+}

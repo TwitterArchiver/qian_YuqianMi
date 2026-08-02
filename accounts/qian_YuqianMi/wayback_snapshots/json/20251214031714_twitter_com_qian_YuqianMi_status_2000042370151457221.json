@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2000042370151457221",
+    "created_at": "2025-12-14T03:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000042370151457221"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000042370151457221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我今天突发奇想去一个最近才找到的AV网站上找了一个片，然后真的给我找到了，感激涕零了我要。\n\n专门找是因为那是我大概初一还是初二的时候看的一个片，感觉拍的真的爆色，但是当时看的网站没了之后就再也找不到了，时隔五年再次看到，真的好感动，，这是真童年女神啊。\n（相泽南）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2000042370151457221",
+        "created_at": "2025-12-14T03:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000042370151457221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000042370151457221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天突发奇想去一个最近才找到的AV网站上找了一个片，然后真的给我找到了，感激涕零了我要。\n\n专门找是因为那是我大概初一还是初二的时候看的一个片，感觉拍的真的爆色，但是当时看的网站没了之后就再也找不到了，时隔五年再次看到，真的好感动，，这是真童年女神啊。\n（相泽南）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 372,
+          "like_count": 4916,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1223
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

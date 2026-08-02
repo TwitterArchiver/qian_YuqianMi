@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997181258762539009",
+        "3_1997181258426994690",
+        "3_1997181258754150400",
+        "3_1997181259194454016"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997181286562353327",
+    "created_at": "2025-12-06T05:48:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T06:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997181286562353327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oe4aFlXgfL",
+          "end": 97,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1997181286562353327/photo/1",
+          "media_key": "3_1997181258762539009",
+          "start": 74,
+          "url": "https://t.co/oe4aFlXgfL"
+        },
+        {
+          "display_url": "pic.x.com/oe4aFlXgfL",
+          "end": 97,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1997181286562353327/photo/1",
+          "media_key": "3_1997181258426994690",
+          "start": 74,
+          "url": "https://t.co/oe4aFlXgfL"
+        },
+        {
+          "display_url": "pic.x.com/oe4aFlXgfL",
+          "end": 97,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1997181286562353327/photo/1",
+          "media_key": "3_1997181258754150400",
+          "start": 74,
+          "url": "https://t.co/oe4aFlXgfL"
+        },
+        {
+          "display_url": "pic.x.com/oe4aFlXgfL",
+          "end": 97,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1997181286562353327/photo/1",
+          "media_key": "3_1997181259194454016",
+          "start": 74,
+          "url": "https://t.co/oe4aFlXgfL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997181286562353327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "摄影模式千千\n（为什么推特只能四张啊我选的好纠结，，\n这边真的超美丽，，（世博文化公园）\n\n千千可爱吗可爱吗可爱吗可爱吗可爱吗可爱吗₍ᐢ..ᐢ₎♡ https://t.co/oe4aFlXgfL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1997181258762539009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dpxfib0AE9Sn1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997181258426994690",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dpxeSb0AIIFzy.jpg",
+        "width": 1472
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1997181258754150400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dpxfgb0AAbXwl.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1997181259194454016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7dpxhJaUAA2zwj.jpg",
+        "width": 1395
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997181258762539009",
+            "3_1997181258426994690",
+            "3_1997181258754150400",
+            "3_1997181259194454016"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997181286562353327",
+        "created_at": "2025-12-06T05:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T06:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997181286562353327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oe4aFlXgfL",
+              "end": 97,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1997181286562353327/photo/1",
+              "media_key": "3_1997181258762539009",
+              "start": 74,
+              "url": "https://t.co/oe4aFlXgfL"
+            },
+            {
+              "display_url": "pic.x.com/oe4aFlXgfL",
+              "end": 97,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1997181286562353327/photo/1",
+              "media_key": "3_1997181258426994690",
+              "start": 74,
+              "url": "https://t.co/oe4aFlXgfL"
+            },
+            {
+              "display_url": "pic.x.com/oe4aFlXgfL",
+              "end": 97,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1997181286562353327/photo/1",
+              "media_key": "3_1997181258754150400",
+              "start": 74,
+              "url": "https://t.co/oe4aFlXgfL"
+            },
+            {
+              "display_url": "pic.x.com/oe4aFlXgfL",
+              "end": 97,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1997181286562353327/photo/1",
+              "media_key": "3_1997181259194454016",
+              "start": 74,
+              "url": "https://t.co/oe4aFlXgfL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997181286562353327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "摄影模式千千\n（为什么推特只能四张啊我选的好纠结，，\n这边真的超美丽，，（世博文化公园）\n\n千千可爱吗可爱吗可爱吗可爱吗可爱吗可爱吗₍ᐢ..ᐢ₎♡ https://t.co/oe4aFlXgfL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 345,
+          "like_count": 3769,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 948
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

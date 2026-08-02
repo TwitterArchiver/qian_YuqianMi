@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023330785928073216",
+        "3_2023330785919741952"
+      ],
+      "media_source_tweet_id": [
+        "2023330792135610593",
+        "2023330792135610593"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2023670508923813991",
+    "created_at": "2026-02-17T08:07:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023670508923813991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1930291691573129216",
+          "start": 3,
+          "username": "kasahara_iji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LwIDqIGFvE",
+          "end": 58,
+          "expanded_url": "https://x.com/kasahara_iji/status/2023330792135610593/photo/1",
+          "media_key": "3_2023330785928073216",
+          "start": 35,
+          "url": "https://t.co/LwIDqIGFvE"
+        },
+        {
+          "display_url": "pic.x.com/LwIDqIGFvE",
+          "end": 58,
+          "expanded_url": "https://x.com/kasahara_iji/status/2023330792135610593/photo/1",
+          "media_key": "3_2023330785919741952",
+          "start": 35,
+          "url": "https://t.co/LwIDqIGFvE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023670508923813991",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023330792135610593",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kasahara_iji: 最近まつ毛がホント絶好調で……🫴 https://t.co/LwIDqIGFvE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023330785928073216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRQoTZa0AAx0i7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2023330785919741952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRQoTXbsAAHxaa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023330785928073216",
+            "3_2023330785919741952"
+          ],
+          "media_source_tweet_id": [
+            "2023330792135610593",
+            "2023330792135610593"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2023670508923813991",
+        "created_at": "2026-02-17T08:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023670508923813991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1930291691573129216",
+              "start": 3,
+              "username": "kasahara_iji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LwIDqIGFvE",
+              "end": 58,
+              "expanded_url": "https://x.com/kasahara_iji/status/2023330792135610593/photo/1",
+              "media_key": "3_2023330785928073216",
+              "start": 35,
+              "url": "https://t.co/LwIDqIGFvE"
+            },
+            {
+              "display_url": "pic.x.com/LwIDqIGFvE",
+              "end": 58,
+              "expanded_url": "https://x.com/kasahara_iji/status/2023330792135610593/photo/1",
+              "media_key": "3_2023330785919741952",
+              "start": 35,
+              "url": "https://t.co/LwIDqIGFvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023670508923813991",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023330792135610593",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kasahara_iji: 最近まつ毛がホント絶好調で……🫴 https://t.co/LwIDqIGFvE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023330785928073216",
+            "3_2023330785919741952"
+          ]
+        },
+        "author_id": "1930291691573129216",
+        "conversation_id": "2023330792135610593",
+        "created_at": "2026-02-16T09:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023330792135610593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LwIDqIGFvE",
+              "end": 40,
+              "expanded_url": "https://x.com/kasahara_iji/status/2023330792135610593/photo/1",
+              "media_key": "3_2023330785928073216",
+              "start": 17,
+              "url": "https://t.co/LwIDqIGFvE"
+            },
+            {
+              "display_url": "pic.x.com/LwIDqIGFvE",
+              "end": 40,
+              "expanded_url": "https://x.com/kasahara_iji/status/2023330792135610593/photo/1",
+              "media_key": "3_2023330785919741952",
+              "start": 17,
+              "url": "https://t.co/LwIDqIGFvE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023330792135610593",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 654,
+          "impression_count": 65635,
+          "like_count": 6239,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 297
+        },
+        "reply_settings": "everyone",
+        "text": "最近まつ毛がホント絶好調で……🫴 https://t.co/LwIDqIGFvE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 759,
+          "like_count": 20951,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 4228
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T15:53:09.000Z",
+        "description": "@koytols16s ←乗っ取られました(˙Ⱉ˙)｜KASAHARA IJI🇯🇵｜Illust｜ご依頼詳細,suzuri等lit lnk｜skeb : https://t.co/93KJ9jVYHe ｜sub @wlvuul",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "koytols16s"
+              },
+              {
+                "end": 113,
+                "start": 106,
+                "username": "wlvuul"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kasahara_iji",
+                "end": 100,
+                "expanded_url": "https://skeb.jp/@kasahara_iji",
+                "start": 77,
+                "url": "https://t.co/93KJ9jVYHe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kasaharaIJI",
+                "end": 23,
+                "expanded_url": "https://lit.link/kasaharaIJI",
+                "start": 0,
+                "url": "https://t.co/wwRbffJMDi"
+              }
+            ]
+          }
+        },
+        "id": "1930291691573129216",
+        "location": "灰になる",
+        "name": "傘原イジ",
+        "pinned_tweet_id": "2020059231249133824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014514752479752192/3JWSRqyJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16480,
+          "following_count": 33,
+          "like_count": 4642,
+          "listed_count": 51,
+          "media_count": 72,
+          "tweet_count": 509
+        },
+        "url": "https://t.co/wwRbffJMDi",
+        "username": "kasahara_iji",
+        "verified": false
+      }
+    ]
+  }
+}

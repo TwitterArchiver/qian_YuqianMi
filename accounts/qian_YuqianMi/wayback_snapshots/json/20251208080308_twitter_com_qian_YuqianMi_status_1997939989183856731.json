@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997830199967465810",
+    "created_at": "2025-12-08T08:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T09:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997939989183856731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679982917806882816",
+          "start": 0,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997939989183856731",
+    "in_reply_to_user_id": "1679982917806882816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997830199967465810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limao382525 好可爱！づ♡ど"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997830186348503041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7m3-DLa4AErBqC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997830199967465810",
+        "created_at": "2025-12-08T08:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T09:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997939989183856731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679982917806882816",
+              "start": 0,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997939989183856731",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997830199967465810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limao382525 好可爱！づ♡ど"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997830186348503041"
+          ]
+        },
+        "author_id": "1679982917806882816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "1997830199967465810",
+        "created_at": "2025-12-08T00:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T01:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997830199967465810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FBRDI0H8Mi",
+              "end": 51,
+              "expanded_url": "https://x.com/limao382525/status/1997830199967465810/photo/1",
+              "media_key": "3_1997830186348503041",
+              "start": 28,
+              "url": "https://t.co/FBRDI0H8Mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997830199967465810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "姜姜~新年穿新衣~\n(有…有点太大了啦(*≧m≦*)) https://t.co/FBRDI0H8Mi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 357,
+          "like_count": 4165,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1052
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "这里是曼波喵~想叫什么都可以啦~ ٩(´Д` ;)۶:.* 嘴巴笨笨的…如果说了什么话让大家不舒服请一定要说哦！！！(不要讨厌我˃̣̣̥᷄⌓˂̣̣̥᷅ )曼波会努力让大家喜欢上我的！！！ 之后会在推上分享一下傻傻的日常~~如果大家愿意的话，私信随意骚扰曼波也没问题的！！☆～（ゝ。∂",
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1994807166642131455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995521044510019584/cTIw1cJ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 170,
+          "like_count": 2640,
+          "listed_count": 0,
+          "media_count": 216,
+          "tweet_count": 1085
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

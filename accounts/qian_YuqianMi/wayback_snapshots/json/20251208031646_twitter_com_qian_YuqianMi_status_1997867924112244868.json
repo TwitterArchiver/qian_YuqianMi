@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997867920576434177",
+        "3_1997867571547348992"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997867924112244868",
+    "created_at": "2025-12-08T03:16:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T04:16:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997867924112244868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GFu5XbwYeh",
+          "end": 72,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1997867924112244868/photo/1",
+          "media_key": "3_1997867920576434177",
+          "start": 49,
+          "url": "https://t.co/GFu5XbwYeh"
+        },
+        {
+          "display_url": "pic.x.com/GFu5XbwYeh",
+          "end": 72,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1997867924112244868/photo/1",
+          "media_key": "3_1997867571547348992",
+          "start": 49,
+          "url": "https://t.co/GFu5XbwYeh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997867924112244868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "千千自己做出来了一道题感觉自己很厉害。虽然是很简单的一道题吧！但是感觉自己很厉害（好乖好乖）嘻嘻 https://t.co/GFu5XbwYeh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1417,
+        "media_key": "3_1997867920576434177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7naSeIbUAEchx5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1159,
+        "media_key": "3_1997867571547348992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nZ-J5aIAAk3O3.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997867920576434177",
+            "3_1997867571547348992"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997867924112244868",
+        "created_at": "2025-12-08T03:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T04:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997867924112244868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFu5XbwYeh",
+              "end": 72,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1997867924112244868/photo/1",
+              "media_key": "3_1997867920576434177",
+              "start": 49,
+              "url": "https://t.co/GFu5XbwYeh"
+            },
+            {
+              "display_url": "pic.x.com/GFu5XbwYeh",
+              "end": 72,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1997867924112244868/photo/1",
+              "media_key": "3_1997867571547348992",
+              "start": 49,
+              "url": "https://t.co/GFu5XbwYeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997867924112244868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "千千自己做出来了一道题感觉自己很厉害。虽然是很简单的一道题吧！但是感觉自己很厉害（好乖好乖）嘻嘻 https://t.co/GFu5XbwYeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 357,
+          "like_count": 4105,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1034
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

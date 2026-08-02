@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2067814318545174694",
+    "created_at": "2026-06-19T05:41:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:41:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067845247640670373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028430373458456576",
+          "start": 0,
+          "username": "o65518kuguagua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067845247640670373",
+    "in_reply_to_user_id": "2028430373458456576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067814318545174694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@o65518kuguagua 这太色了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 132493,
+        "height": 720,
+        "media_key": "7_1929886338477895684",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929886338477895684/pu/img/AT1tym8f9354FWWd.jpg",
+        "public_metrics": {
+          "view_count": 1855377
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929886338477895684/pu/vid/avc1/480x270/PGj6wv94MDSFNqYx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929886338477895684/pu/vid/avc1/640x360/SzMAfjbyF6N6f5eb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929886338477895684/pu/vid/avc1/1280x720/mNqlCw_gPM5XT-_S.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929886338477895684/pu/pl/jBQK8vC-ywK1JBBg.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2067814318545174694",
+        "created_at": "2026-06-19T05:41:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:41:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067845247640670373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028430373458456576",
+              "start": 0,
+              "username": "o65518kuguagua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067845247640670373",
+        "in_reply_to_user_id": "2028430373458456576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067814318545174694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@o65518kuguagua 这太色了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929886338477895684"
+          ],
+          "media_source_tweet_id": [
+            "1929886405729366158"
+          ]
+        },
+        "author_id": "2028430373458456576",
+        "conversation_id": "2067814318545174694",
+        "created_at": "2026-06-19T03:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067814318545174694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kefZVZC3Yk",
+              "end": 42,
+              "expanded_url": "https://x.com/liafd1121/status/1929886405729366158/video/1",
+              "media_key": "7_1929886338477895684",
+              "start": 19,
+              "url": "https://t.co/kefZVZC3Yk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067814318545174694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 146,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被捂嘴的时候眼睛瞪的好大好可爱呃呃呃 https://t.co/kefZVZC3Yk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 889,
+          "like_count": 29545,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 5981
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T11:21:20.000Z",
+        "description": "只是想好好睡觉｜我的名字是瓜瓜｜心肝@imcutefate 最爱的闺闺@Lake_Verion",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "imcutefate"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Lake_Verion"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%8B%A6%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%8B%A6%E7%93%9C%E5%A4%A7%E7%8E%8B",
+                "start": 0,
+                "url": "https://t.co/CdcVmYa8EY"
+              }
+            ]
+          }
+        },
+        "id": "2028430373458456576",
+        "location": "加载中……   匿名→",
+        "name": "虎牙钉",
+        "pinned_tweet_id": "2063001104858648649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060344470910926856/fk6R2qB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 599,
+          "like_count": 9082,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 2724
+        },
+        "url": "https://t.co/CdcVmYa8EY",
+        "username": "o65518kuguagua",
+        "verified": false
+      }
+    ]
+  }
+}

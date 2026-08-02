@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997258124072468481",
+        "3_1997258124064088064"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1997258127075660188",
+    "created_at": "2025-12-06T10:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T11:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997258127075660188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Hv1ezJOZHJ",
+          "end": 49,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1997258127075660188/photo/1",
+          "media_key": "3_1997258124072468481",
+          "start": 26,
+          "url": "https://t.co/Hv1ezJOZHJ"
+        },
+        {
+          "display_url": "pic.x.com/Hv1ezJOZHJ",
+          "end": 49,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1997258127075660188/photo/1",
+          "media_key": "3_1997258124064088064",
+          "start": 26,
+          "url": "https://t.co/Hv1ezJOZHJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997258127075660188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "只要纯爱其实我都行。\n（粘人怎么了粘人不是优点吗😋 https://t.co/Hv1ezJOZHJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1997258124072468481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7evrpIaQAEKbeS.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1620,
+        "media_key": "3_1997258124064088064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7evrpGaYAA_LYH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997258124072468481",
+            "3_1997258124064088064"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1997258127075660188",
+        "created_at": "2025-12-06T10:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T11:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997258127075660188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hv1ezJOZHJ",
+              "end": 49,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1997258127075660188/photo/1",
+              "media_key": "3_1997258124072468481",
+              "start": 26,
+              "url": "https://t.co/Hv1ezJOZHJ"
+            },
+            {
+              "display_url": "pic.x.com/Hv1ezJOZHJ",
+              "end": 49,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1997258127075660188/photo/1",
+              "media_key": "3_1997258124064088064",
+              "start": 26,
+              "url": "https://t.co/Hv1ezJOZHJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997258127075660188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只要纯爱其实我都行。\n（粘人怎么了粘人不是优点吗😋 https://t.co/Hv1ezJOZHJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 351,
+          "like_count": 3824,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 966
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

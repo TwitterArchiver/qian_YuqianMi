@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2023279995091894591",
+    "created_at": "2026-02-16T06:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T07:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023285032157385203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885765075996393472",
+          "start": 0,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023285032157385203",
+    "in_reply_to_user_id": "1885765075996393472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023279995091894591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maitakoo 超萌啊！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023279982886473729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBQibLUbUAEblDT.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2023279995091894591",
+        "created_at": "2026-02-16T06:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023285032157385203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885765075996393472",
+              "start": 0,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023285032157385203",
+        "in_reply_to_user_id": "1885765075996393472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023279995091894591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maitakoo 超萌啊！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023279982886473729"
+          ]
+        },
+        "author_id": "1885765075996393472",
+        "conversation_id": "2023279995091894591",
+        "created_at": "2026-02-16T06:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023279995091894591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LwRmO9gecc",
+              "end": 35,
+              "expanded_url": "https://x.com/maitakoo/status/2023279995091894591/photo/1",
+              "media_key": "3_2023279982886473729",
+              "start": 12,
+              "url": "https://t.co/LwRmO9gecc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023279995091894591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本人居家恶心穿搭如此。 https://t.co/LwRmO9gecc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 749,
+          "like_count": 20595,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 4168
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od自伤｜同类互fo",
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 60,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 544
+        },
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

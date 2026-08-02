@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014507623085674496"
+      ],
+      "media_source_tweet_id": [
+        "2014507784726040971"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014935962502193617",
+    "created_at": "2026-01-24T05:39:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T06:39:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014935962502193617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993221649265836034",
+          "start": 3,
+          "username": "sunny_77x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O3XcLvFhXl",
+          "end": 38,
+          "expanded_url": "https://x.com/sunny_77x/status/2014507784726040971/video/1",
+          "media_key": "13_2014507623085674496",
+          "start": 15,
+          "url": "https://t.co/O3XcLvFhXl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014935962502193617",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7602
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014507784726040971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sunny_77x: https://t.co/O3XcLvFhXl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11466,
+        "height": 1080,
+        "media_key": "13_2014507623085674496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014507623085674496/img/vyR0TtovqTCdHfRE.jpg",
+        "public_metrics": {
+          "view_count": 1479707
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014507623085674496/vid/avc1/480x270/wNb80nWWcP9-UpLv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014507623085674496/vid/avc1/640x360/xzX0Hmlnxa3XvY4r.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014507623085674496/vid/avc1/1280x720/19oerbBRSy71aCf3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014507623085674496/pl/Xq9UsW_qRFl5kjBX.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014507623085674496"
+          ],
+          "media_source_tweet_id": [
+            "2014507784726040971"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014935962502193617",
+        "created_at": "2026-01-24T05:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T06:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014935962502193617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993221649265836034",
+              "start": 3,
+              "username": "sunny_77x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3XcLvFhXl",
+              "end": 38,
+              "expanded_url": "https://x.com/sunny_77x/status/2014507784726040971/video/1",
+              "media_key": "13_2014507623085674496",
+              "start": 15,
+              "url": "https://t.co/O3XcLvFhXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014935962502193617",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7603
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014507784726040971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sunny_77x: https://t.co/O3XcLvFhXl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014507623085674496"
+          ]
+        },
+        "author_id": "1993221649265836034",
+        "conversation_id": "2014507784726040971",
+        "created_at": "2026-01-23T01:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T02:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014507784726040971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3XcLvFhXl",
+              "end": 23,
+              "expanded_url": "https://x.com/sunny_77x/status/2014507784726040971/video/1",
+              "media_key": "13_2014507623085674496",
+              "start": 0,
+              "url": "https://t.co/O3XcLvFhXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014507784726040971",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12101,
+          "impression_count": 3498611,
+          "like_count": 122170,
+          "quote_count": 1297,
+          "reply_count": 536,
+          "retweet_count": 7603
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O3XcLvFhXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 690,
+          "like_count": 15590,
+          "listed_count": 1,
+          "media_count": 261,
+          "tweet_count": 3364
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T07:34:15.000Z",
+        "description": "仅此一个X账号 165/47 日常ootd  #感觉至上",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "感觉至上"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/sunny77x",
+                "end": 23,
+                "expanded_url": "http://patreon.com/sunny77x",
+                "start": 0,
+                "url": "https://t.co/IECT4FGZiW"
+              }
+            ]
+          }
+        },
+        "id": "1993221649265836034",
+        "location": "反差",
+        "name": "Sunny77",
+        "pinned_tweet_id": "2009437538533122497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993224584347475968/FwevKik__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9354,
+          "following_count": 2,
+          "like_count": 66,
+          "listed_count": 13,
+          "media_count": 41,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/IECT4FGZiW",
+        "username": "sunny_77x",
+        "verified": false
+      }
+    ]
+  }
+}

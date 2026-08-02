@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2019450802692321452",
+    "created_at": "2026-02-05T17:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T18:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019462386806149631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1569279849126297602",
+          "start": 0,
+          "username": "shkuiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019462386806149631",
+    "in_reply_to_user_id": "1569279849126297602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019450802692321452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shkuiiiiii 小苟不要死oo抱抱泥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2019450802692321452",
+        "created_at": "2026-02-05T17:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T18:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019462386806149631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569279849126297602",
+              "start": 0,
+              "username": "shkuiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019462386806149631",
+        "in_reply_to_user_id": "1569279849126297602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019450802692321452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shkuiiiiii 小苟不要死oo抱抱泥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569279849126297602",
+        "conversation_id": "2019450802692321452",
+        "created_at": "2026-02-05T16:39:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T17:39:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019450802692321452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019450802692321452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但是磕葯這件事情我也沒辦法我一崩潰就會想磕，我當時真是太懵逼了我就吃了點葯，就11tpr吧或許不吃會更好但是我受不了你的冷漠和無語我真的不行了我除了嗑藥和去死別無他法了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 734,
+          "like_count": 18358,
+          "listed_count": 1,
+          "media_count": 282,
+          "tweet_count": 3842
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T11:01:11.000Z",
+        "description": "你好 我是小苟 有男朋友了 我喜歡看碎碎念，喜歡的會回fo…❤️",
+        "id": "1569279849126297602",
+        "name": "ヒガンバナ",
+        "pinned_tweet_id": "2019456404327686611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004491651449008128/9oecFiUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 71,
+          "like_count": 10598,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 1883
+        },
+        "username": "shkuiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}

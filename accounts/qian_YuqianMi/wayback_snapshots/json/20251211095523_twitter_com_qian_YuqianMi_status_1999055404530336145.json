@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1998743435856196095",
+    "created_at": "2025-12-11T09:55:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T10:55:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999055404530336145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1854926783369691139",
+          "start": 0,
+          "username": "yu120160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999055404530336145",
+    "in_reply_to_user_id": "1854926783369691139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999046877732585970",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu120160 喜欢你呀づ♡ど"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1998743435856196095",
+        "created_at": "2025-12-11T09:55:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:55:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999055404530336145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1854926783369691139",
+              "start": 0,
+              "username": "yu120160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999055404530336145",
+        "in_reply_to_user_id": "1854926783369691139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999046877732585970",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu120160 喜欢你呀づ♡ど"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854926783369691139",
+        "conversation_id": "1998743435856196095",
+        "created_at": "2025-12-11T09:21:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T10:21:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999046877732585970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999046877732585970",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998743435856196095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 80🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 370,
+          "like_count": 4660,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1161
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-08T16:40:16.000Z",
+        "description": "𐙚 ‧₊˚ ⋅ ✝︎少女祈祷中✝︎ ‧₊˚ ⋅  𐙚                                                                              OD💊需要互fo可以戳戳w        收到打赏会很开心^_^",
+        "id": "1854926783369691139",
+        "location": "空无一人之地",
+        "name": "xx酱",
+        "pinned_tweet_id": "1993375595292770434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988313851788775424/X395DJHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 98,
+          "like_count": 145,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 291
+        },
+        "username": "yu120160",
+        "verified": false
+      }
+    ]
+  }
+}

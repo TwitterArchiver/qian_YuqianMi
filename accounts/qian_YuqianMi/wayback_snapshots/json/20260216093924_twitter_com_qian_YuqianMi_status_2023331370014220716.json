@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2023327128276664597",
+    "created_at": "2026-02-16T09:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023331370014220716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971142015548260357",
+          "start": 0,
+          "username": "buenukatri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023331370014220716",
+    "in_reply_to_user_id": "1971142015548260357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023327128276664597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buenukatri 可爱爱可爱爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2023327119246254082",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRNS38WYAIrq2X.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2023327128276664597",
+        "created_at": "2026-02-16T09:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023331370014220716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971142015548260357",
+              "start": 0,
+              "username": "buenukatri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023331370014220716",
+        "in_reply_to_user_id": "1971142015548260357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023327128276664597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buenukatri 可爱爱可爱爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023327119246254082"
+          ]
+        },
+        "author_id": "1971142015548260357",
+        "conversation_id": "2023327128276664597",
+        "created_at": "2026-02-16T09:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023327128276664597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qB5oC7CqZW",
+              "end": 31,
+              "expanded_url": "https://x.com/buenukatri/status/2023327128276664597/photo/1",
+              "media_key": "3_2023327119246254082",
+              "start": 8,
+              "url": "https://t.co/qB5oC7CqZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023327128276664597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毛绒绒毛绒绒！ https://t.co/qB5oC7CqZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 751,
+          "like_count": 20649,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 4178
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T09:17:44.000Z",
+        "description": "重生归来，誓死守护最后一片社交净土",
+        "id": "1971142015548260357",
+        "name": "buenukatri",
+        "pinned_tweet_id": "2012903376082686015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971142354770984961/tRH6JOjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 36,
+          "like_count": 1413,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 299
+        },
+        "username": "buenukatri",
+        "verified": false
+      }
+    ]
+  }
+}

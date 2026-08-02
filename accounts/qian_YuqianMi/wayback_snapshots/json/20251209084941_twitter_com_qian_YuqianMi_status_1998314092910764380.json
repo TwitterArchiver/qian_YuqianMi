@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998283158660517888"
+      ],
+      "media_source_tweet_id": [
+        "1998283183977361812"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1998314092910764380",
+    "created_at": "2025-12-09T08:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T09:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998314092910764380"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 43,
+          "start": 20,
+          "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1294549603207929856",
+          "start": 3,
+          "username": "Turi_sasu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FU7sT3ZRgt",
+          "end": 67,
+          "expanded_url": "https://x.com/Turi_sasu/status/1998283183977361812/photo/1",
+          "media_key": "3_1998283158660517888",
+          "start": 44,
+          "url": "https://t.co/FU7sT3ZRgt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998314092910764380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 326
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998283183977361812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Turi_sasu: これ。\n\n#今年も残りわずかなので今年一番伸びた絵を貼る https://t.co/FU7sT3ZRgt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998314092910764380].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998314092910764380",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998314092910764380"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_1998283158660517888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7tT8gibEAAiB_K.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998283158660517888"
+          ]
+        },
+        "author_id": "1294549603207929856",
+        "conversation_id": "1998283183977361812",
+        "created_at": "2025-12-09T06:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T07:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998283183977361812"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 5,
+              "tag": "今年も残りわずかなので今年一番伸びた絵を貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FU7sT3ZRgt",
+              "end": 52,
+              "expanded_url": "https://x.com/Turi_sasu/status/1998283183977361812/photo/1",
+              "media_key": "3_1998283158660517888",
+              "start": 29,
+              "url": "https://t.co/FU7sT3ZRgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998283183977361812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 558,
+          "impression_count": 27458,
+          "like_count": 2933,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "これ。\n\n#今年も残りわずかなので今年一番伸びた絵を貼る https://t.co/FU7sT3ZRgt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 364,
+          "like_count": 4339,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1099
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-15T08:21:04.000Z",
+        "description": "サークル「おでんオーガン」\nhttps://t.co/5CgVq2NEd4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.me/turisasu",
+                "end": 37,
+                "expanded_url": "http://pixiv.me/turisasu",
+                "start": 14,
+                "url": "https://t.co/5CgVq2NEd4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "turisasu.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://turisasu.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/cIT7vEeDvw"
+              }
+            ]
+          }
+        },
+        "id": "1294549603207929856",
+        "name": "ツリサス＠C107二日目東4ヒ-30b",
+        "pinned_tweet_id": "1966385106890952949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1295041449470246913/QxgGdYBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226657,
+          "following_count": 60,
+          "like_count": 272,
+          "listed_count": 1607,
+          "media_count": 190,
+          "tweet_count": 500
+        },
+        "url": "https://t.co/cIT7vEeDvw",
+        "username": "Turi_sasu",
+        "verified": false
+      }
+    ]
+  }
+}

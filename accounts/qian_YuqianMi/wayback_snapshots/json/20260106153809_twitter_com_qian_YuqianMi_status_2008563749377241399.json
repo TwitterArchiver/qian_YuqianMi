@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "2008561395839959332",
+    "created_at": "2026-01-06T15:38:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:38:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008563749377241399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988874388972924930",
+          "start": 0,
+          "username": "kumokokono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008563749377241399",
+    "in_reply_to_user_id": "1988874388972924930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008561395839959332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumokokono 我也是。。想学小提琴但是上了大学却无力兑现以前对自己的承诺。高考结束之后就感觉没有眼前的目标了什么都不想做。。教育体系把我们都毁了！生涯教育是作秀的，人生理念是不涉及的。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "2008561395839959332",
+        "created_at": "2026-01-06T15:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008563749377241399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988874388972924930",
+              "start": 0,
+              "username": "kumokokono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008563749377241399",
+        "in_reply_to_user_id": "1988874388972924930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008561395839959332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumokokono 我也是。。想学小提琴但是上了大学却无力兑现以前对自己的承诺。高考结束之后就感觉没有眼前的目标了什么都不想做。。教育体系把我们都毁了！生涯教育是作秀的，人生理念是不涉及的。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988874388972924930",
+        "conversation_id": "2008561395839959332",
+        "created_at": "2026-01-06T15:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008561395839959332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008561395839959332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有很多想做的小事，比如玩石塑黏土，比如做点穿戴甲，但是我都现在都没做这些事情。一开始我以为是自己太穷了，但是上大学之后即是有钱也没法下定决心去做，老铁这是咋回事呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 552,
+          "like_count": 9089,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 2159
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T07:39:53.000Z",
+        "description": "关于一些记录和监测\n\n我是水，实在需要一些刻板印象的话→精神疾病｜无立场｜intp｜acgn｜农学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumokokono",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumokokono",
+                "start": 0,
+                "url": "https://t.co/uQkz24mryS"
+              }
+            ]
+          }
+        },
+        "id": "1988874388972924930",
+        "location": "死亦如歌",
+        "name": "x@!nilj_tv",
+        "pinned_tweet_id": "1990812732950786444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988875885970354176/zvRIn1FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 119,
+          "like_count": 763,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 519
+        },
+        "url": "https://t.co/uQkz24mryS",
+        "username": "kumokokono",
+        "verified": false
+      }
+    ]
+  }
+}

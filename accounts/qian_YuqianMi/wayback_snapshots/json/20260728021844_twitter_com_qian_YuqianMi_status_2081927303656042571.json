@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2081801094452371602",
+    "created_at": "2026-07-28T02:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T03:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081927303656042571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1792199857199071235",
+          "start": 0,
+          "username": "Sex_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081927303656042571",
+    "in_reply_to_user_id": "1792199857199071235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081801094452371602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sex_QAQ 主人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081801086143467520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQLDtiakAAiiZ2.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2081801094452371602",
+        "created_at": "2026-07-28T02:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081927303656042571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1792199857199071235",
+              "start": 0,
+              "username": "Sex_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081927303656042571",
+        "in_reply_to_user_id": "1792199857199071235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081801094452371602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sex_QAQ 主人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081801086143467520"
+          ]
+        },
+        "author_id": "1792199857199071235",
+        "conversation_id": "2081801094452371602",
+        "created_at": "2026-07-27T17:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T18:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081801094452371602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9wkCMr04f",
+              "end": 127,
+              "expanded_url": "https://x.com/Sex_QAQ/status/2081801094452371602/photo/1",
+              "media_key": "3_2081801086143467520",
+              "start": 104,
+              "url": "https://t.co/K9wkCMr04f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081801094452371602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ㅎㄹ...真的疯了 完全是  legend  啊ㅋㅋ这种程度真的不是天才吗 ㅅㅂ…做到这种程度的话就完全是神吧ㅠㅠ…以后也请一直幸福地生活下去吧♡  今天完全展现出帅气的角度呢 是路过的蚂蚁都会惊叹的程度啊 https://t.co/K9wkCMr04f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1431,
+          "following_count": 873,
+          "like_count": 30010,
+          "listed_count": 0,
+          "media_count": 398,
+          "tweet_count": 6170
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T14:25:43.000Z",
+        "description": ".",
+        "id": "1792199857199071235",
+        "location": "1km",
+        "name": "装1骗0被4i男举报pc来的警察是老公",
+        "pinned_tweet_id": "2049282207202881563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033451248176013312/5InuONoS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 235,
+          "like_count": 3280,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 49
+        },
+        "url": "",
+        "username": "Sex_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2018242970395578722",
+    "created_at": "2026-02-02T08:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T09:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018244011048534431"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2018244011048534431",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018242970395578722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯呢我看完了只有三个还是四个真人😇习惯了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 577,
+        "media_key": "3_2018242967719514112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAI9STlaEAAVyh1.jpg",
+        "width": 1260
+      },
+      {
+        "height": 739,
+        "media_key": "3_2018242967698591745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAI9STga0AEaq9b.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2018242970395578722",
+        "created_at": "2026-02-02T08:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018244011048534431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018244011048534431",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018242970395578722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯呢我看完了只有三个还是四个真人😇习惯了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018242967719514112",
+            "3_2018242967698591745"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018242970395578722",
+        "created_at": "2026-02-02T08:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018242970395578722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cuWpxgjWgx",
+              "end": 68,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2018242970395578722/photo/1",
+              "media_key": "3_2018242967719514112",
+              "start": 45,
+              "url": "https://t.co/cuWpxgjWgx"
+            },
+            {
+              "display_url": "pic.x.com/cuWpxgjWgx",
+              "end": 68,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2018242970395578722/photo/1",
+              "media_key": "3_2018242967698591745",
+              "start": 45,
+              "url": "https://t.co/cuWpxgjWgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018242970395578722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 92,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个千千一觉醒来八百fo了，，\n你们知豆吗我下午两个小时涨了40fo。发生什么事了。。。 https://t.co/cuWpxgjWgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 709,
+          "like_count": 17271,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 3650
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

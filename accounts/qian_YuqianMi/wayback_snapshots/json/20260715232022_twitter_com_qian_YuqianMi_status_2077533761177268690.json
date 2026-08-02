@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2077263606014693444",
+    "created_at": "2026-07-15T23:20:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T00:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077533761177268690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1860364507236757504",
+          "start": 0,
+          "username": "w2014ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077533761177268690",
+    "in_reply_to_user_id": "1860364507236757504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077263606014693444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w2014ai 哇塞好萌呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077263589715697664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPsOqHbYAAZnmM.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077263589719838720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPsOqIakAAr5xh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2077263606014693444",
+        "created_at": "2026-07-15T23:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T00:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077533761177268690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1860364507236757504",
+              "start": 0,
+              "username": "w2014ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077533761177268690",
+        "in_reply_to_user_id": "1860364507236757504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077263606014693444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w2014ai 哇塞好萌呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077263589715697664",
+            "3_2077263589719838720"
+          ]
+        },
+        "author_id": "1860364507236757504",
+        "conversation_id": "2077263606014693444",
+        "created_at": "2026-07-15T05:26:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077263606014693444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z2hgX9Sd8N",
+              "end": 23,
+              "expanded_url": "https://x.com/w2014ai/status/2077263606014693444/photo/1",
+              "media_key": "3_2077263589715697664",
+              "start": 0,
+              "url": "https://t.co/z2hgX9Sd8N"
+            },
+            {
+              "display_url": "pic.x.com/z2hgX9Sd8N",
+              "end": 23,
+              "expanded_url": "https://x.com/w2014ai/status/2077263606014693444/photo/1",
+              "media_key": "3_2077263589719838720",
+              "start": 0,
+              "url": "https://t.co/z2hgX9Sd8N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077263606014693444",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/z2hgX9Sd8N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1432,
+          "following_count": 872,
+          "like_count": 29956,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 6145
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T16:47:29.000Z",
+        "description": "🫧☁️只想静静地过完一生\n画｜碎碎念｜bdsm\n前世@w2013ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "w2013ai"
+              }
+            ]
+          }
+        },
+        "id": "1860364507236757504",
+        "location": "月球",
+        "name": "落月",
+        "pinned_tweet_id": "2064990833518973122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063200569745915904/cPffrdy0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 202,
+          "like_count": 9769,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 217
+        },
+        "url": "",
+        "username": "w2014ai",
+        "verified": false
+      }
+    ]
+  }
+}

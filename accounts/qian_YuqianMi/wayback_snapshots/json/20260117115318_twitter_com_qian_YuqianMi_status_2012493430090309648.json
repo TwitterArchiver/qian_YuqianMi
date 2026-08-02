@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2012493430090309648",
+    "created_at": "2026-01-17T11:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T12:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012493430090309648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/krs____rip/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/krs____rip/status/2012402077683876088",
+          "start": 6,
+          "url": "https://t.co/zFjkvpGT09"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012493430090309648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012402077683876088",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这个 https://t.co/zFjkvpGT09"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012402071375618049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-19BZGaoAEWNi9.jpg",
+        "width": 1985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2012493430090309648",
+        "created_at": "2026-01-17T11:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T12:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012493430090309648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/krs____rip/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/krs____rip/status/2012402077683876088",
+              "start": 6,
+              "url": "https://t.co/zFjkvpGT09"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012493430090309648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012402077683876088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个 https://t.co/zFjkvpGT09"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012402071375618049"
+          ]
+        },
+        "author_id": "1529598692071993344",
+        "conversation_id": "2012402077683876088",
+        "created_at": "2026-01-17T05:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T06:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012402077683876088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVxRPMCR2Q",
+              "end": 23,
+              "expanded_url": "https://x.com/krs____rip/status/2012402077683876088/photo/1",
+              "media_key": "3_2012402071375618049",
+              "start": 0,
+              "url": "https://t.co/kVxRPMCR2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012402077683876088",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 493,
+          "impression_count": 69167,
+          "like_count": 9408,
+          "quote_count": 37,
+          "reply_count": 5,
+          "retweet_count": 800
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kVxRPMCR2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 661,
+          "like_count": 13411,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 3005
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-25T23:02:12.000Z",
+        "description": "メンクリ院長兼イラストレーター￤ご依頼方法▶︎ https://t.co/fA2LBB0Nyr ￤応援するところ▶︎ https://t.co/yKsFBsVKpO￤shop▶︎ https://t.co/bjOl1FLneA￤skeb▶︎ https://t.co/lvjZgKTWGc￤",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/krs518rip",
+                "end": 47,
+                "expanded_url": "https://lit.link/krs518rip",
+                "start": 24,
+                "url": "https://t.co/fA2LBB0Nyr"
+              },
+              {
+                "display_url": "x.gd/bbnpQ",
+                "end": 82,
+                "expanded_url": "https://x.gd/bbnpQ",
+                "start": 59,
+                "url": "https://t.co/yKsFBsVKpO"
+              },
+              {
+                "display_url": "krs518rip.booth.pm",
+                "end": 113,
+                "expanded_url": "https://krs518rip.booth.pm",
+                "start": 90,
+                "url": "https://t.co/bjOl1FLneA"
+              },
+              {
+                "display_url": "skeb.jp/@krs____rip",
+                "end": 144,
+                "expanded_url": "https://skeb.jp/@krs____rip",
+                "start": 121,
+                "url": "https://t.co/lvjZgKTWGc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@krs____rip",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@krs____rip",
+                "start": 0,
+                "url": "https://t.co/NAUeSMwS4Q"
+              }
+            ]
+          }
+        },
+        "id": "1529598692071993344",
+        "location": "黒瀬メンタルクリニック🏥",
+        "name": "黒瀬黑/Kurose Kuro",
+        "pinned_tweet_id": "1907018289567474164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906979089984212992/Wq6T8dAh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2672,
+          "following_count": 191,
+          "like_count": 36698,
+          "listed_count": 24,
+          "media_count": 1120,
+          "tweet_count": 11649
+        },
+        "url": "https://t.co/NAUeSMwS4Q",
+        "username": "krs____rip",
+        "verified": false
+      }
+    ]
+  }
+}

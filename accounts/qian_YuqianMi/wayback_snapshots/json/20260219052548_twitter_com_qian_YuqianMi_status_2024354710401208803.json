@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024327269892681728"
+      ],
+      "media_source_tweet_id": [
+        "2024327276037345617"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2024354710401208803",
+    "created_at": "2026-02-19T05:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024354710401208803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1643697187334008832",
+          "start": 3,
+          "username": "nagamemameko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a8IqfKPMPv",
+          "end": 44,
+          "expanded_url": "https://x.com/nagamemameko/status/2024327276037345617/photo/1",
+          "media_key": "3_2024327269892681728",
+          "start": 21,
+          "url": "https://t.co/a8IqfKPMPv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024354710401208803",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024327276037345617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagamemameko: 加筆 https://t.co/a8IqfKPMPv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2024327269892681728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBfa7TcW8AAfkD7.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024327269892681728"
+          ],
+          "media_source_tweet_id": [
+            "2024327276037345617"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2024354710401208803",
+        "created_at": "2026-02-19T05:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024354710401208803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1643697187334008832",
+              "start": 3,
+              "username": "nagamemameko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8IqfKPMPv",
+              "end": 44,
+              "expanded_url": "https://x.com/nagamemameko/status/2024327276037345617/photo/1",
+              "media_key": "3_2024327269892681728",
+              "start": 21,
+              "url": "https://t.co/a8IqfKPMPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024354710401208803",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024327276037345617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagamemameko: 加筆 https://t.co/a8IqfKPMPv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024327269892681728"
+          ]
+        },
+        "author_id": "1643697187334008832",
+        "conversation_id": "2024327276037345617",
+        "created_at": "2026-02-19T03:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T04:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024327276037345617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a8IqfKPMPv",
+              "end": 26,
+              "expanded_url": "https://x.com/nagamemameko/status/2024327276037345617/photo/1",
+              "media_key": "3_2024327269892681728",
+              "start": 3,
+              "url": "https://t.co/a8IqfKPMPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024327276037345617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2643,
+          "like_count": 324,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "加筆 https://t.co/a8IqfKPMPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 765,
+          "like_count": 21298,
+          "listed_count": 0,
+          "media_count": 311,
+          "tweet_count": 4266
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T19:28:52.000Z",
+        "description": "=豆子/まめ｜中文/日本語/EN ｜🚫AI/repost without permission",
+        "id": "1643697187334008832",
+        "location": "United Kingdom",
+        "name": "豆コ｡",
+        "pinned_tweet_id": "1646925517541744641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023043492570906624/P1fEzdbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7492,
+          "following_count": 29,
+          "like_count": 1940,
+          "listed_count": 17,
+          "media_count": 22,
+          "tweet_count": 58
+        },
+        "username": "nagamemameko",
+        "verified": false
+      }
+    ]
+  }
+}

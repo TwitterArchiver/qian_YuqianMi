@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990439585365770265",
+    "created_at": "2025-11-17T15:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T16:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990439585365770265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lavanyaanasra/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/lavanyaanasra/status/1967753998305513594",
+          "start": 12,
+          "url": "https://t.co/FXPPxo6QTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990439585365770265",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967753998305513594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "半夜在床上笑得抽搐，， https://t.co/FXPPxo6QTA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66710,
+        "height": 1280,
+        "media_key": "7_1967753807892451335",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1967753807892451335/pu/img/IgrP8DYjj9hjcnWO.jpg",
+        "public_metrics": {
+          "view_count": 192917
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967753807892451335/pu/vid/avc1/320x568/uuhATSdsXgo_oGMA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967753807892451335/pu/vid/avc1/480x852/pvBETISNfWvixEBs.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1967753807892451335/pu/vid/avc1/720x1280/InzJZ2DA5OV1QfXH.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1967753807892451335/pu/pl/ikeS1DzKHu5nx54i.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990439585365770265",
+        "created_at": "2025-11-17T15:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990439585365770265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lavanyaanasra/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/lavanyaanasra/status/1967753998305513594",
+              "start": 12,
+              "url": "https://t.co/FXPPxo6QTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990439585365770265",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967753998305513594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "半夜在床上笑得抽搐，， https://t.co/FXPPxo6QTA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1967753807892451335"
+          ]
+        },
+        "author_id": "1479452349357703168",
+        "conversation_id": "1967753998305513594",
+        "created_at": "2025-09-16T00:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T01:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967753998305513594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3F8neehMd8",
+              "end": 51,
+              "expanded_url": "https://x.com/lavanyaanasra/status/1967753998305513594/video/1",
+              "media_key": "7_1967753807892451335",
+              "start": 28,
+              "url": "https://t.co/3F8neehMd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967753998305513594",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 862,
+          "impression_count": 161840,
+          "like_count": 5201,
+          "quote_count": 29,
+          "reply_count": 94,
+          "retweet_count": 466
+        },
+        "reply_settings": "everyone",
+        "text": "you guys should watch this😂 https://t.co/3F8neehMd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 113,
+          "like_count": 702,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 150
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T13:58:47.000Z",
+        "description": "just an entertainment account that posts random videos and complaints",
+        "id": "1479452349357703168",
+        "name": "lavanya anasera",
+        "pinned_tweet_id": "1990307108538228886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890652610404970497/S0TmiV5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9193,
+          "following_count": 2202,
+          "like_count": 38271,
+          "listed_count": 14,
+          "media_count": 288,
+          "tweet_count": 25406
+        },
+        "username": "lavanyaanasra",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1994643376059420901",
+    "created_at": "2025-11-29T05:43:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T06:43:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994643376059420901"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/IomayaAF/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/IomayaAF/status/1994479451414172158",
+          "start": 7,
+          "url": "https://t.co/PROeD2EULI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994643376059420901",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994479451414172158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "艺术级的，， https://t.co/PROeD2EULI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_1994479414336217088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G63QdctW4AA8gKW.jpg",
+        "width": 999
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1994643376059420901",
+        "created_at": "2025-11-29T05:43:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T06:43:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994643376059420901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IomayaAF/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/IomayaAF/status/1994479451414172158",
+              "start": 7,
+              "url": "https://t.co/PROeD2EULI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994643376059420901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994479451414172158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "艺术级的，， https://t.co/PROeD2EULI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994479414336217088"
+          ]
+        },
+        "author_id": "1189216700182548480",
+        "conversation_id": "1994479451414172158",
+        "created_at": "2025-11-28T18:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T19:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994479451414172158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k34ZtJNB4Y",
+              "end": 31,
+              "expanded_url": "https://x.com/IomayaAF/status/1994479451414172158/photo/1",
+              "media_key": "3_1994479414336217088",
+              "start": 8,
+              "url": "https://t.co/k34ZtJNB4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994479451414172158",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 872,
+          "impression_count": 87248,
+          "like_count": 12341,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 1014
+        },
+        "reply_settings": "everyone",
+        "text": "Frieren https://t.co/k34ZtJNB4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 296,
+          "like_count": 2433,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 589
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-29T16:25:55.000Z",
+        "description": "Kraken Vtuber~ #iomayart \n🌸 alter acc @ioshimaya \n🌸http://t.co/zGtO912rzz \n🔞http://t.co/xtgFu72qJ8 \n🔞http://t.co/2Qb0EHrAXS\n🌸Cosplay support: http://t.co/w5FUALtlTr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 15,
+                "tag": "iomayart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "ioshimaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/iomaya",
+                "end": 73,
+                "expanded_url": "http://twitch.tv/iomaya",
+                "start": 51,
+                "url": "http://t.co/zGtO912rzz"
+              },
+              {
+                "display_url": "patreon.com/iomaya",
+                "end": 98,
+                "expanded_url": "http://patreon.com/iomaya",
+                "start": 76,
+                "url": "http://t.co/xtgFu72qJ8"
+              },
+              {
+                "display_url": "fansly.com/ioshimaya",
+                "end": 123,
+                "expanded_url": "http://fansly.com/ioshimaya",
+                "start": 101,
+                "url": "http://t.co/2Qb0EHrAXS"
+              },
+              {
+                "display_url": "throne.com/iomaya",
+                "end": 164,
+                "expanded_url": "http://throne.com/iomaya",
+                "start": 142,
+                "url": "http://t.co/w5FUALtlTr"
+              }
+            ]
+          }
+        },
+        "id": "1189216700182548480",
+        "name": "Iomaya 🐟🌸",
+        "pinned_tweet_id": "1994479451414172158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994022739619844096/0DZZJWRt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255432,
+          "following_count": 440,
+          "like_count": 5523,
+          "listed_count": 1325,
+          "media_count": 859,
+          "tweet_count": 3189
+        },
+        "username": "IomayaAF",
+        "verified": true
+      }
+    ]
+  }
+}

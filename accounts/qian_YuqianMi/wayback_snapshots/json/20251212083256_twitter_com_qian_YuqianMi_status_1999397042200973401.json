@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999287108138057738"
+      ],
+      "media_source_tweet_id": [
+        "1999287112504606836"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1999397042200973401",
+    "created_at": "2025-12-12T08:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T09:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999397042200973401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1919090854033051648",
+          "start": 3,
+          "username": "Hot_F_B"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vy4KPxg7d6",
+          "end": 42,
+          "expanded_url": "https://x.com/Hot_F_B/status/1999287112504606836/photo/1",
+          "media_key": "3_1999287108138057738",
+          "start": 19,
+          "url": "https://t.co/vy4KPxg7d6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999397042200973401",
+    "lang": "hi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999287112504606836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hot_F_B: Wataa https://t.co/vy4KPxg7d6"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1999397042200973401].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1999397042200973401",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1999397042200973401"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1561,
+        "media_key": "3_1999287108138057738",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G77lCDyWQAony_x.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999287108138057738"
+          ]
+        },
+        "author_id": "1919090854033051648",
+        "conversation_id": "1999287112504606836",
+        "created_at": "2025-12-12T01:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T02:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999287112504606836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vy4KPxg7d6",
+              "end": 29,
+              "expanded_url": "https://x.com/Hot_F_B/status/1999287112504606836/photo/1",
+              "media_key": "3_1999287108138057738",
+              "start": 6,
+              "url": "https://t.co/vy4KPxg7d6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999287112504606836",
+        "lang": "hi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 647,
+          "impression_count": 13028,
+          "like_count": 2395,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "Wataa https://t.co/vy4KPxg7d6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 371,
+          "like_count": 4789,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1195
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T18:07:37.000Z",
+        "description": "just like hot things🤤.(🔞art not mine) I learn 3D. you can support me to make my own art 🎨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/T_he_player_3D…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/T_he_player_3D?utm_source=linktree_admin_share",
+                "start": 0,
+                "url": "https://t.co/JP0P7gs88t"
+              }
+            ]
+          }
+        },
+        "id": "1919090854033051648",
+        "name": "H_F_B",
+        "pinned_tweet_id": "1988026161008410700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919171962925985793/gKD6klkx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57630,
+          "following_count": 28,
+          "like_count": 12,
+          "listed_count": 140,
+          "media_count": 364,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/JP0P7gs88t",
+        "username": "Hot_F_B",
+        "verified": false
+      }
+    ]
+  }
+}

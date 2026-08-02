@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988184863153737728"
+      ],
+      "media_source_tweet_id": [
+        "1988184931001135574"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1988503307082674338",
+    "created_at": "2025-11-12T07:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T08:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988503307082674338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1334787883664859139",
+          "start": 3,
+          "username": "ArtorOtherThing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/shAHjMgdFe",
+          "end": 44,
+          "expanded_url": "https://x.com/ArtorOtherThing/status/1988184931001135574/photo/1",
+          "media_key": "3_1988184863153737728",
+          "start": 21,
+          "url": "https://t.co/shAHjMgdFe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988503307082674338",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 563
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988184931001135574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArtorOtherThing: https://t.co/shAHjMgdFe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1988184863153737728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5dzmWQWUAAut1e.jpg",
+        "width": 675
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988184863153737728"
+          ],
+          "media_source_tweet_id": [
+            "1988184931001135574"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988503307082674338",
+        "created_at": "2025-11-12T07:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T08:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988503307082674338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1334787883664859139",
+              "start": 3,
+              "username": "ArtorOtherThing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/shAHjMgdFe",
+              "end": 44,
+              "expanded_url": "https://x.com/ArtorOtherThing/status/1988184931001135574/photo/1",
+              "media_key": "3_1988184863153737728",
+              "start": 21,
+              "url": "https://t.co/shAHjMgdFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988503307082674338",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 563
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988184931001135574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArtorOtherThing: https://t.co/shAHjMgdFe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988184863153737728"
+          ]
+        },
+        "author_id": "1334787883664859139",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1988184931001135574",
+        "created_at": "2025-11-11T10:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T11:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988184931001135574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/shAHjMgdFe",
+              "end": 23,
+              "expanded_url": "https://x.com/ArtorOtherThing/status/1988184931001135574/photo/1",
+              "media_key": "3_1988184863153737728",
+              "start": 0,
+              "url": "https://t.co/shAHjMgdFe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988184931001135574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 443,
+          "impression_count": 69764,
+          "like_count": 10406,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 563
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/shAHjMgdFe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱精神失常阿宅 | 多意识体 | 双相玉米 | 非常喜欢画画 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 103,
+          "like_count": 550,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 100
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-04T09:13:33.000Z",
+        "description": "don't found by searching but those who can find it are those who seek",
+        "id": "1334787883664859139",
+        "name": "Art or Other Things",
+        "pinned_tweet_id": "1887878987793273077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1334797708436058112/plYV74k-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87863,
+          "following_count": 4551,
+          "like_count": 778,
+          "listed_count": 611,
+          "media_count": 7290,
+          "tweet_count": 7487
+        },
+        "username": "ArtorOtherThing",
+        "verified": true
+      }
+    ]
+  }
+}

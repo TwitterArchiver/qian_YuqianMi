@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009279251019624699",
+    "created_at": "2026-01-08T15:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T16:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009279251019624699"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/7_i_i_/status/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/7_i_i_/status/2009247425874284834",
+          "start": 10,
+          "url": "https://t.co/6MIJJfFPkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009279251019624699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009247425874284834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽。。色。。。。 https://t.co/6MIJJfFPkN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1851,
+        "media_key": "3_2009247418894979072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-JH4c0bEAANxyG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009279251019624699",
+        "created_at": "2026-01-08T15:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T16:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009279251019624699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/7_i_i_/status/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/7_i_i_/status/2009247425874284834",
+              "start": 10,
+              "url": "https://t.co/6MIJJfFPkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009279251019624699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009247425874284834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽。。色。。。。 https://t.co/6MIJJfFPkN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009247418894979072"
+          ]
+        },
+        "author_id": "1627339184196431873",
+        "conversation_id": "2009247425874284834",
+        "created_at": "2026-01-08T12:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T13:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009247425874284834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O0nJZF9VPB",
+              "end": 28,
+              "expanded_url": "https://x.com/7_i_i_/status/2009247425874284834/photo/1",
+              "media_key": "3_2009247418894979072",
+              "start": 5,
+              "url": "https://t.co/O0nJZF9VPB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009247425874284834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 3908,
+          "like_count": 517,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "とちゅう https://t.co/O0nJZF9VPB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 606,
+          "like_count": 10017,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 2347
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-19T16:08:07.000Z",
+        "description": "⚠︎当作は自傷、暴力等を肯定、助長するものではありません。自衛ﾌﾞﾛ推奨｜Fa: #胃薬飲めたね｜skeb➡https://t.co/WvxcWg8Dz9",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 41,
+                "tag": "胃薬飲めたね"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@7_i_i_",
+                "end": 77,
+                "expanded_url": "https://skeb.jp/@7_i_i_",
+                "start": 54,
+                "url": "https://t.co/WvxcWg8Dz9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/7ii1",
+                "end": 23,
+                "expanded_url": "https://lit.link/7ii1",
+                "start": 0,
+                "url": "https://t.co/q0P2QoNg4L"
+              }
+            ]
+          }
+        },
+        "id": "1627339184196431873",
+        "location": "🔇/F外🔕",
+        "name": "胃",
+        "pinned_tweet_id": "1875541103581319592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004507582309015552/ErF_3hDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10125,
+          "following_count": 19,
+          "like_count": 5270,
+          "listed_count": 15,
+          "media_count": 225,
+          "tweet_count": 2718
+        },
+        "url": "https://t.co/q0P2QoNg4L",
+        "username": "7_i_i_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2008735695649800292",
+    "created_at": "2026-01-07T04:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T05:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008750538306056400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2003990629135929345",
+          "start": 0,
+          "username": "zzethldOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008750538306056400",
+    "in_reply_to_user_id": "2003990629135929345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008749292752957664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzethldOfficial 你可以是₍ᐢ..ᐢ₎♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2008735695649800292",
+        "created_at": "2026-01-07T04:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008750538306056400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2003990629135929345",
+              "start": 0,
+              "username": "zzethldOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008750538306056400",
+        "in_reply_to_user_id": "2003990629135929345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008749292752957664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzethldOfficial 你可以是₍ᐢ..ᐢ₎♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2003990629135929345",
+        "conversation_id": "2008735695649800292",
+        "created_at": "2026-01-07T03:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T04:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008749292752957664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008749292752957664",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008735695649800292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 我是。可爱小女孩吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 567,
+          "like_count": 9292,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2206
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-25T00:46:36.000Z",
+        "description": "泽托德伯爵 | 别名义：Cosmospïka. | Zzz Zzz",
+        "id": "2003990629135929345",
+        "location": "Hethereau, NTE",
+        "name": "Comte Zzethld de Hethereau",
+        "pinned_tweet_id": "2008510147765944557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003997640024117254/LDWKEYCk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 274,
+          "like_count": 1092,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 384
+        },
+        "username": "zzethldOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

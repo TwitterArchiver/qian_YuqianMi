@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998280399215292416"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1998280402377781401",
+    "created_at": "2025-12-09T06:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T07:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998280402377781401"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PAH9mVSG1P",
+          "end": 75,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1998280402377781401/photo/1",
+          "media_key": "3_1998280399215292416",
+          "start": 52,
+          "url": "https://t.co/PAH9mVSG1P"
+        },
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/1998250250600088044",
+          "start": 76,
+          "url": "https://t.co/xgcP5OwzBP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998280402377781401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998250250600088044",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纠结完了。爱jk爱的深沉\n（以及我要尝试画裤袜。我说裤袜是仙品！（但是我真的画不来裤袜，，挑战一下。） https://t.co/PAH9mVSG1P https://t.co/xgcP5OwzBP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998280402377781401].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998280402377781401",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998280402377781401"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1998280399215292416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7tRb4zacAASrfy.jpg",
+        "width": 1546
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1998250247982862336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7s2A2ta0AAmqLW.jpg",
+        "width": 1546
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998250247982862336"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1998250250600088044",
+        "created_at": "2025-12-09T04:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T05:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998250250600088044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LLG3rms29d",
+              "end": 107,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1998250250600088044/photo/1",
+              "media_key": "3_1998250247982862336",
+              "start": 84,
+              "url": "https://t.co/LLG3rms29d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998250250600088044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又到了经典的画完酮体不知道怎么加衣服环节，，\n到底是睡衣呢还是内衣呢还是jk呢还是礼服呢还是婚纱呢还是什么什么\n（纠结死了！选不出来啊！）\n\n（虽然但是贫乳是对的。） https://t.co/LLG3rms29d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 363,
+          "like_count": 4316,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1093
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

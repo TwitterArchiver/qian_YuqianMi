@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993893878995587373",
+    "created_at": "2025-11-27T04:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T05:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993893878995587373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1904543758974390272",
+          "start": 3,
+          "username": "77_shuibuxing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993893878995587373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993673876308693198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @77_shuibuxing: 到底哪个傻逼神赋予了我深度思考的能力 现在既没有成为苏格拉底也没法继续当幸福的猪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993893878995587373",
+        "created_at": "2025-11-27T04:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993893878995587373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1904543758974390272",
+              "start": 3,
+              "username": "77_shuibuxing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993893878995587373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993673876308693198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @77_shuibuxing: 到底哪个傻逼神赋予了我深度思考的能力 现在既没有成为苏格拉底也没法继续当幸福的猪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904543758974390272",
+        "conversation_id": "1993673876308693198",
+        "created_at": "2025-11-26T13:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993673876308693198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993673876308693198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 8666,
+          "like_count": 190,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "到底哪个傻逼神赋予了我深度思考的能力 现在既没有成为苏格拉底也没法继续当幸福的猪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 269,
+          "like_count": 1980,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 491
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-25T14:40:05.000Z",
+        "description": "ENFJ｜可以叫我77｜待我如初。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whisper31501",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whisper31501",
+                "start": 0,
+                "url": "https://t.co/4Uer3ZURkB"
+              }
+            ]
+          }
+        },
+        "id": "1904543758974390272",
+        "location": "0.52km",
+        "name": "Whisper",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935967354443198464/5PzDjRal_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1025,
+          "following_count": 84,
+          "like_count": 19464,
+          "listed_count": 3,
+          "media_count": 183,
+          "tweet_count": 2426
+        },
+        "url": "https://t.co/4Uer3ZURkB",
+        "username": "77_shuibuxing",
+        "verified": false
+      }
+    ]
+  }
+}

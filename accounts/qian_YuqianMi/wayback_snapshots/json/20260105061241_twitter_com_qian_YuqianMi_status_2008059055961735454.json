@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2008058528381198455",
+    "created_at": "2026-01-05T06:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T07:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008059055961735454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000060779056492544",
+          "start": 0,
+          "username": "kakou0026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008059055961735454",
+    "in_reply_to_user_id": "2000060779056492544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008058528381198455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakou0026 我趣我这边也是，，之前笔直冲进女厕所我人都傻了。飞速逃离，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2008058528381198455",
+        "created_at": "2026-01-05T06:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T07:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008059055961735454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000060779056492544",
+              "start": 0,
+              "username": "kakou0026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008059055961735454",
+        "in_reply_to_user_id": "2000060779056492544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008058528381198455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakou0026 我趣我这边也是，，之前笔直冲进女厕所我人都傻了。飞速逃离，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000060779056492544",
+        "conversation_id": "2008058528381198455",
+        "created_at": "2026-01-05T06:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T07:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008058528381198455"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008058528381198455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操我真的想跟学校拼命！每层楼的厕所都不一样！\n我刚刚到值班的地方就直奔厕所去拯救我的小妹妹，正常厕所不都是男左女右吗，我就一个闪现冲进去！结果！我看到了一排站着尿尿的东西！我靠吓死我了我马上冲出来…还好当时没有男的在放水…能不能对我好一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 530,
+          "like_count": 8414,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 2002
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T04:30:32.000Z",
+        "description": "07｜女｜switch｜双｜单身｜ 我会回关所有的女孩^ ^｜防走丢1579218791",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakou36409",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kakou36409",
+                "start": 0,
+                "url": "https://t.co/HmMHXfI5vl"
+              }
+            ]
+          }
+        },
+        "id": "2000060779056492544",
+        "location": "这里是Kakou 喜欢你来＞_＜",
+        "name": "Kakou",
+        "pinned_tweet_id": "2008049528918671858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000061289511682048/wHjUAiK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 46,
+          "like_count": 246,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/HmMHXfI5vl",
+        "username": "kakou0026",
+        "verified": false
+      }
+    ]
+  }
+}

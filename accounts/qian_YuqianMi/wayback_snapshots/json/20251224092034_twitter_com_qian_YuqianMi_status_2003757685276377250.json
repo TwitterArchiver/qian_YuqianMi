@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2003757685276377250",
+    "created_at": "2025-12-24T09:20:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T10:20:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2003757685276377250"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meow_st0815/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/meow_st0815/status/1995631564194283657",
+          "start": 61,
+          "url": "https://t.co/seHP9Fcv7p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003757685276377250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995631564194283657",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个噪点真的用的神乎其神，我没想过这特效还能这样用😂😂\n以及鲨鱼牙啃出牙印好可爱（我并不知道这是哪里的角色总之很可爱！） https://t.co/seHP9Fcv7p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1995631558229901312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7HoVDLaQAAFk_d.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2003757685276377250",
+        "created_at": "2025-12-24T09:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T10:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003757685276377250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meow_st0815/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/meow_st0815/status/1995631564194283657",
+              "start": 61,
+              "url": "https://t.co/seHP9Fcv7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003757685276377250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995631564194283657",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个噪点真的用的神乎其神，我没想过这特效还能这样用😂😂\n以及鲨鱼牙啃出牙印好可爱（我并不知道这是哪里的角色总之很可爱！） https://t.co/seHP9Fcv7p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995631558229901312"
+          ]
+        },
+        "author_id": "1735501091612336128",
+        "conversation_id": "1995631564194283657",
+        "created_at": "2025-12-01T23:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T00:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995631564194283657"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "早川家",
+              "probability": 0.7041,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6pRL7oiyHG",
+              "end": 39,
+              "expanded_url": "https://x.com/meow_st0815/status/1995631564194283657/photo/1",
+              "media_key": "3_1995631558229901312",
+              "start": 16,
+              "url": "https://t.co/6pRL7oiyHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995631564194283657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5909,
+          "impression_count": 1129142,
+          "like_count": 100707,
+          "quote_count": 207,
+          "reply_count": 35,
+          "retweet_count": 9420
+        },
+        "reply_settings": "everyone",
+        "text": "早川家\n\nお兄ちゃんは大変🛏️ https://t.co/6pRL7oiyHG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 447,
+          "like_count": 6477,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1616
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T03:24:45.000Z",
+        "description": "💕→GoodOmens👿×😇/HarryPotter/Ghibli/mlsb",
+        "id": "1735501091612336128",
+        "name": "Balon",
+        "pinned_tweet_id": "1882759667182633080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964565132945870849/cN8Fv1LO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9095,
+          "following_count": 22,
+          "like_count": 5135,
+          "listed_count": 20,
+          "media_count": 190,
+          "tweet_count": 2563
+        },
+        "username": "meow_st0815",
+        "verified": false
+      }
+    ]
+  }
+}

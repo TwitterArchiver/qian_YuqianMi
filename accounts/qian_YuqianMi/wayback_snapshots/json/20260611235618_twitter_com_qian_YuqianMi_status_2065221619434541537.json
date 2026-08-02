@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2065221619434541537",
+    "created_at": "2026-06-11T23:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T00:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065221619434541537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065221619434541537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065093371925033061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 喜欢温柔的人是因为小时候经常被吼吗\n喜欢强制爱是因为没有被坚定选择过吗\n喜欢无所谓的是因为不想再被伤害吗\n喜欢忍气吞声是因为没人接住情绪吗\n喜欢嘴硬是因为没有人懂你吗\n喜欢冷战是因为每次主动都没被珍惜过吗\n喜欢别人陪是因为一个人撑了太久吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2065221619434541537",
+        "created_at": "2026-06-11T23:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T00:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065221619434541537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065221619434541537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065093371925033061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 喜欢温柔的人是因为小时候经常被吼吗\n喜欢强制爱是因为没有被坚定选择过吗\n喜欢无所谓的是因为不想再被伤害吗\n喜欢忍气吞声是因为没人接住情绪吗\n喜欢嘴硬是因为没有人懂你吗\n喜欢冷战是因为每次主动都没被珍惜过吗\n喜欢别人陪是因为一个人撑了太久吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2065093371925033061",
+        "created_at": "2026-06-11T15:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065093371925033061"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065093371925033061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 12575,
+          "like_count": 600,
+          "quote_count": 18,
+          "reply_count": 22,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢温柔的人是因为小时候经常被吼吗\n喜欢强制爱是因为没有被坚定选择过吗\n喜欢无所谓的是因为不想再被伤害吗\n喜欢忍气吞声是因为没人接住情绪吗\n喜欢嘴硬是因为没有人懂你吗\n喜欢冷战是因为每次主动都没被珍惜过吗\n喜欢别人陪是因为一个人撑了太久吗\n喜欢推开别人是因为怕靠近后又被抛弃吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 878,
+          "like_count": 29068,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 5858
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8900,
+          "following_count": 72,
+          "like_count": 8276,
+          "listed_count": 7,
+          "media_count": 176,
+          "tweet_count": 1923
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

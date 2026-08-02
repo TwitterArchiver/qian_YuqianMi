@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2008514389511741652",
+    "created_at": "2026-01-06T12:22:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T13:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008514389511741652"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008514389511741652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 16,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看虚拟主播，得知虾鸡面的上海话是哈基米。。。。\n我真不行了。\n不过我其实一直没搞懂上海话的虾和蟹有什么区别（）我感觉都是哈。。\n\n其实我爷爷说出来虾比较像“hu（第四声”这个发音，到是蟹比较像“ha”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2008514389511741652",
+        "created_at": "2026-01-06T12:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T13:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008514389511741652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008514389511741652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看虚拟主播，得知虾鸡面的上海话是哈基米。。。。\n我真不行了。\n不过我其实一直没搞懂上海话的虾和蟹有什么区别（）我感觉都是哈。。\n\n其实我爷爷说出来虾比较像“hu（第四声”这个发音，到是蟹比较像“ha”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 547,
+          "like_count": 8992,
+          "listed_count": 0,
+          "media_count": 196,
+          "tweet_count": 2148
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

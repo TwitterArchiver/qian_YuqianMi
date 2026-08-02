@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014650789562917365",
+    "created_at": "2026-01-23T10:45:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T11:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014650789562917365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1945894406244208640",
+          "start": 3,
+          "username": "daimengniu8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014650789562917365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014606692017963396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @daimengniu8964: 本以为多喝水可以得到：光滑的皮肤，减轻体重，缓解头痛，缓解焦虑，感觉充满能量，更好的记忆力\n实际得到的：尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014650789562917365",
+        "created_at": "2026-01-23T10:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T11:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014650789562917365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1945894406244208640",
+              "start": 3,
+              "username": "daimengniu8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014650789562917365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014606692017963396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @daimengniu8964: 本以为多喝水可以得到：光滑的皮肤，减轻体重，缓解头痛，缓解焦虑，感觉充满能量，更好的记忆力\n实际得到的：尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945894406244208640",
+        "conversation_id": "2014606692017963396",
+        "created_at": "2026-01-23T07:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014606692017963396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2014606692017963396",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6451,
+          "like_count": 257,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "本以为多喝水可以得到：光滑的皮肤，减轻体重，缓解头痛，缓解焦虑，感觉充满能量，更好的记忆力\n实际得到的：尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿，尿尿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 688,
+          "like_count": 15332,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 3324
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T17:12:45.000Z",
+        "description": "感觉自己好呆萌呀……门槛费涨钱是因为牛牛最近炒股赔钱了 好想哭 皮下女孩 接广请自行分辨❕牛牛在赚饲料钱 牛牛上网就是为了逗你们开心滴",
+        "id": "1945894406244208640",
+        "location": "🚪52💚",
+        "name": "呆萌小牛牛",
+        "pinned_tweet_id": "2008478920052748459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003809315216613376/T96k8TkP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9467,
+          "following_count": 50,
+          "like_count": 4196,
+          "listed_count": 8,
+          "media_count": 128,
+          "tweet_count": 3183
+        },
+        "username": "daimengniu8964",
+        "verified": false
+      }
+    ]
+  }
+}

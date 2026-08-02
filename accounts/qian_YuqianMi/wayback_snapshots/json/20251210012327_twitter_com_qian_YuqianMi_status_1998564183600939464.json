@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998342200179257344",
+        "3_1998342200183468032"
+      ],
+      "media_source_tweet_id": [
+        "1998342205183004987",
+        "1998342205183004987"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1998564183600939464",
+    "created_at": "2025-12-10T01:23:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T02:23:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998564183600939464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1604504501657825280",
+          "start": 3,
+          "username": "harahara1101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gQxqsMm5iu",
+          "end": 61,
+          "expanded_url": "https://x.com/harahara1101/status/1998342205183004987/photo/1",
+          "media_key": "3_1998342200179257344",
+          "start": 38,
+          "url": "https://t.co/gQxqsMm5iu"
+        },
+        {
+          "display_url": "pic.x.com/gQxqsMm5iu",
+          "end": 61,
+          "expanded_url": "https://x.com/harahara1101/status/1998342205183004987/photo/1",
+          "media_key": "3_1998342200183468032",
+          "start": 38,
+          "url": "https://t.co/gQxqsMm5iu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998564183600939464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998342205183004987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @harahara1101: これがこうなるから厚塗りはやめられない https://t.co/gQxqsMm5iu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 995,
+        "media_key": "3_1998342200179257344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uJpLVbcAAaAJd.jpg",
+        "width": 717
+      },
+      {
+        "height": 974,
+        "media_key": "3_1998342200183468032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uJpLWbsAAXbuz.jpg",
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998342200179257344",
+            "3_1998342200183468032"
+          ],
+          "media_source_tweet_id": [
+            "1998342205183004987",
+            "1998342205183004987"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1998564183600939464",
+        "created_at": "2025-12-10T01:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T02:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998564183600939464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604504501657825280",
+              "start": 3,
+              "username": "harahara1101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQxqsMm5iu",
+              "end": 61,
+              "expanded_url": "https://x.com/harahara1101/status/1998342205183004987/photo/1",
+              "media_key": "3_1998342200179257344",
+              "start": 38,
+              "url": "https://t.co/gQxqsMm5iu"
+            },
+            {
+              "display_url": "pic.x.com/gQxqsMm5iu",
+              "end": 61,
+              "expanded_url": "https://x.com/harahara1101/status/1998342205183004987/photo/1",
+              "media_key": "3_1998342200183468032",
+              "start": 38,
+              "url": "https://t.co/gQxqsMm5iu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998564183600939464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998342205183004987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @harahara1101: これがこうなるから厚塗りはやめられない https://t.co/gQxqsMm5iu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998342200179257344",
+            "3_1998342200183468032"
+          ]
+        },
+        "author_id": "1604504501657825280",
+        "conversation_id": "1998342205183004987",
+        "created_at": "2025-12-09T10:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998342205183004987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gQxqsMm5iu",
+              "end": 43,
+              "expanded_url": "https://x.com/harahara1101/status/1998342205183004987/photo/1",
+              "media_key": "3_1998342200179257344",
+              "start": 20,
+              "url": "https://t.co/gQxqsMm5iu"
+            },
+            {
+              "display_url": "pic.x.com/gQxqsMm5iu",
+              "end": 43,
+              "expanded_url": "https://x.com/harahara1101/status/1998342205183004987/photo/1",
+              "media_key": "3_1998342200183468032",
+              "start": 20,
+              "url": "https://t.co/gQxqsMm5iu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998342205183004987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 243,
+          "impression_count": 44636,
+          "like_count": 5240,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "これがこうなるから厚塗りはやめられない https://t.co/gQxqsMm5iu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 369,
+          "like_count": 4456,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 1113
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T15:51:38.000Z",
+        "description": "illustration￤塗り方模索中￤skeb▶︎ https://t.co/Qwlgt9XQ08",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Harahara",
+                "end": 50,
+                "expanded_url": "https://skeb.jp/@Harahara",
+                "start": 27,
+                "url": "https://t.co/Qwlgt9XQ08"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/4a7mgrzbjosiu0…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/4a7mgrzbjosiu0i?t=tetEyO&utm_medium=twitter&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/Bd8eIursIk"
+              }
+            ]
+          }
+        },
+        "id": "1604504501657825280",
+        "name": "はらはら🔌",
+        "pinned_tweet_id": "1964282191573373003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920800218590965761/1IJtkC4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4480,
+          "following_count": 461,
+          "like_count": 17352,
+          "listed_count": 18,
+          "media_count": 149,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/Bd8eIursIk",
+        "username": "harahara1101",
+        "verified": true
+      }
+    ]
+  }
+}

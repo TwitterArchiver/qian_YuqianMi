@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073803910301859840"
+      ],
+      "media_source_tweet_id": [
+        "2073803918119997890"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407374567027314690",
+          "name": "Ado"
+        }
+      }
+    ],
+    "conversation_id": "2074371991805821083",
+    "created_at": "2026-07-07T05:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074371991805821083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2929136138",
+          "start": 3,
+          "username": "ado1024imokenp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3NrjqgUEew",
+          "end": 48,
+          "expanded_url": "https://x.com/ado1024imokenp/status/2073803918119997890/photo/1",
+          "media_key": "3_2073803910301859840",
+          "start": 25,
+          "url": "https://t.co/3NrjqgUEew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074371991805821083",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13063
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073803918119997890",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ado1024imokenp: 寝ようぜ https://t.co/3NrjqgUEew"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2073803910301859840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMehqz9bwAA5zlV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073803910301859840"
+          ],
+          "media_source_tweet_id": [
+            "2073803918119997890"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "2074371991805821083",
+        "created_at": "2026-07-07T05:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074371991805821083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2929136138",
+              "start": 3,
+              "username": "ado1024imokenp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NrjqgUEew",
+              "end": 48,
+              "expanded_url": "https://x.com/ado1024imokenp/status/2073803918119997890/photo/1",
+              "media_key": "3_2073803910301859840",
+              "start": 25,
+              "url": "https://t.co/3NrjqgUEew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074371991805821083",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13063
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073803918119997890",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ado1024imokenp: 寝ようぜ https://t.co/3NrjqgUEew"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073803910301859840"
+          ]
+        },
+        "author_id": "2929136138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "2073803918119997890",
+        "created_at": "2026-07-05T16:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073803918119997890"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NrjqgUEew",
+              "end": 28,
+              "expanded_url": "https://x.com/ado1024imokenp/status/2073803918119997890/photo/1",
+              "media_key": "3_2073803910301859840",
+              "start": 5,
+              "url": "https://t.co/3NrjqgUEew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073803918119997890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8261,
+          "impression_count": 3747631,
+          "like_count": 163995,
+          "quote_count": 611,
+          "reply_count": 2236,
+          "retweet_count": 13063
+        },
+        "reply_settings": "everyone",
+        "text": "寝ようぜ https://t.co/3NrjqgUEew"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 868,
+          "like_count": 29885,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 6102
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-14T02:19:30.000Z",
+        "description": "アドです。niconico：https://t.co/Bdx26K2k2K YouTube : https://t.co/A2EbwbLv1w イラストは「#Adoart」DMは事務所が管理しています。contact→ https://t.co/3GPesFPBFr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "Adoart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/58569901",
+                "end": 37,
+                "expanded_url": "http://nicovideo.jp/mylist/58569901",
+                "start": 14,
+                "url": "https://t.co/Bdx26K2k2K"
+              },
+              {
+                "display_url": "youtube.com/c/Ado1024",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/Ado1024",
+                "start": 48,
+                "url": "https://t.co/A2EbwbLv1w"
+              },
+              {
+                "display_url": "cloud9pro.co.jp/contact/",
+                "end": 133,
+                "expanded_url": "https://cloud9pro.co.jp/contact/",
+                "start": 110,
+                "url": "https://t.co/3GPesFPBFr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…o-dokidokihimitsukichi-daigakuimo.com",
+                "end": 23,
+                "expanded_url": "https://ado-dokidokihimitsukichi-daigakuimo.com/",
+                "start": 0,
+                "url": "https://t.co/VdcVooBwaG"
+              }
+            ]
+          }
+        },
+        "id": "2929136138",
+        "location": "i：ORIHARAさん h：トゥルさん     ↓秘密基地",
+        "name": "Ado",
+        "pinned_tweet_id": "2009642174506529231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039283475816267776/hlTPvQXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3016805,
+          "following_count": 694,
+          "like_count": 53045,
+          "listed_count": 4057,
+          "media_count": 1071,
+          "tweet_count": 32257
+        },
+        "url": "https://t.co/VdcVooBwaG",
+        "username": "ado1024imokenp",
+        "verified": true
+      }
+    ]
+  }
+}

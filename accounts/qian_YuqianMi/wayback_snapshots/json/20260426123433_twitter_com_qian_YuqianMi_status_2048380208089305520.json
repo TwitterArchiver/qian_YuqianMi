@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2047176691798138994",
+    "created_at": "2026-04-26T12:34:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T13:34:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048380208089305520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1252387221849747456",
+          "start": 0,
+          "username": "akane3203"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048380208089305520",
+    "in_reply_to_user_id": "1252387221849747456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047176691798138994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akane3203 怎么这么漂亮呀。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047176681241071616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkIWF3WUAAqNgb.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2047176691798138994",
+        "created_at": "2026-04-26T12:34:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T13:34:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048380208089305520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1252387221849747456",
+              "start": 0,
+              "username": "akane3203"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048380208089305520",
+        "in_reply_to_user_id": "1252387221849747456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047176691798138994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akane3203 怎么这么漂亮呀。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047176681241071616"
+          ]
+        },
+        "author_id": "1252387221849747456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2047176691798138994",
+        "created_at": "2026-04-23T04:52:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047176691798138994"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 12,
+              "tag": "缘分的天空"
+            },
+            {
+              "end": 23,
+              "start": 19,
+              "tag": "缘之空"
+            },
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "春日野穹"
+            },
+            {
+              "end": 32,
+              "start": 30,
+              "tag": "穹"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "穹妹"
+            },
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "cosplay"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "cos"
+            },
+            {
+              "end": 57,
+              "start": 51,
+              "tag": "自撮り界隈"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JJe68VfM6H",
+              "end": 81,
+              "expanded_url": "https://x.com/akane3203/status/2047176691798138994/photo/1",
+              "media_key": "3_2047176681241071616",
+              "start": 58,
+              "url": "https://t.co/JJe68VfM6H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047176691798138994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5312,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "只有你和我两个人就好了\n#缘分的天空 #缘之空 #春日野穹 #穹 #穹妹 #cosplay #cos #自撮り界隈 https://t.co/JJe68VfM6H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1233,
+          "following_count": 820,
+          "like_count": 26936,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 5333
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T00:02:48.000Z",
+        "description": "如果你觉得欺负一个很笨拙 很心酸 很用力 很崩溃的活着的小茜 会让你觉得特别有成就感的话 那么 请排便",
+        "id": "1252387221849747456",
+        "location": "🚪88/188/288/520/1314/3344",
+        "name": "茜",
+        "pinned_tweet_id": "2047440087923744914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999091299325018112/N2KsIt8-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 40,
+          "like_count": 358,
+          "listed_count": 4,
+          "media_count": 200,
+          "tweet_count": 1646
+        },
+        "username": "akane3203",
+        "verified": false
+      }
+    ]
+  }
+}

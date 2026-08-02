@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2064245517945864213",
+    "created_at": "2026-06-09T07:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T08:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064245517945864213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2063226577694187520",
+          "start": 3,
+          "username": "yiuuuu0315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064245517945864213",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063979833043067154",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yiuuuu0315: 其实我觉得4i跟1i能来回切换才是最爽的...今天不累我操你 今天很累你操我\n你们懂我的意思吗。我也不知道自己在说什么 但是操来操去的 想想就很爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2064245517945864213",
+        "created_at": "2026-06-09T07:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T08:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064245517945864213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2063226577694187520",
+              "start": 3,
+              "username": "yiuuuu0315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064245517945864213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063979833043067154",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yiuuuu0315: 其实我觉得4i跟1i能来回切换才是最爽的...今天不累我操你 今天很累你操我\n你们懂我的意思吗。我也不知道自己在说什么 但是操来操去的 想想就很爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063226577694187520",
+        "conversation_id": "2063979833043067154",
+        "created_at": "2026-06-08T13:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T14:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063979833043067154"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063979833043067154",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 143348,
+          "like_count": 1994,
+          "quote_count": 22,
+          "reply_count": 302,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "其实我觉得4i跟1i能来回切换才是最爽的...今天不累我操你 今天很累你操我\n你们懂我的意思吗。我也不知道自己在说什么 但是操来操去的 想想就很爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 874,
+          "like_count": 28964,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 5828
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-06T11:50:38.000Z",
+        "description": "纯变态",
+        "id": "2063226577694187520",
+        "name": "yiu",
+        "pinned_tweet_id": "2063650914196754488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063227303098978304/7ZspWdbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 80,
+          "like_count": 308,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 252
+        },
+        "username": "yiuuuu0315",
+        "verified": false
+      }
+    ]
+  }
+}

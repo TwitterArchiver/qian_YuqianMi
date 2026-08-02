@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2008752263221907540",
+    "created_at": "2026-01-07T04:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T05:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008763167711916265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981563709102477312",
+          "start": 0,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008763167711916265",
+    "in_reply_to_user_id": "1981563709102477312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008752263221907540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui804275429451 好美丽。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008752255579942919",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-CFiJubcAc4Czc.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2008752255403782150",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-CFiJEbcAYbopu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2008752263221907540",
+        "created_at": "2026-01-07T04:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008763167711916265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981563709102477312",
+              "start": 0,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008763167711916265",
+        "in_reply_to_user_id": "1981563709102477312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008752263221907540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui804275429451 好美丽。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008752255579942919",
+            "3_2008752255403782150"
+          ]
+        },
+        "author_id": "1981563709102477312",
+        "conversation_id": "2008752263221907540",
+        "created_at": "2026-01-07T04:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008752263221907540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxi4sLq1mG",
+              "end": 27,
+              "expanded_url": "https://x.com/yui804275429451/status/2008752263221907540/photo/1",
+              "media_key": "3_2008752255579942919",
+              "start": 4,
+              "url": "https://t.co/cxi4sLq1mG"
+            },
+            {
+              "display_url": "pic.x.com/cxi4sLq1mG",
+              "end": 27,
+              "expanded_url": "https://x.com/yui804275429451/status/2008752263221907540/photo/1",
+              "media_key": "3_2008752255403782150",
+              "start": 4,
+              "url": "https://t.co/cxi4sLq1mG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008752263221907540",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "痛痛的 https://t.co/cxi4sLq1mG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 569,
+          "like_count": 9313,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2207
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "pinned_tweet_id": "1986500531519701099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984910597394505728/ts_obaKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2636,
+          "following_count": 595,
+          "like_count": 1940,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 839
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

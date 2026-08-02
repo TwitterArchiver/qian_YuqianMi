@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1992895637067821056"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1992895752570347976",
+    "created_at": "2025-11-24T09:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T10:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992895752570347976"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/86Nfav59np",
+          "end": 82,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1992895752570347976/video/1",
+          "media_key": "7_1992895637067821056",
+          "start": 59,
+          "url": "https://t.co/86Nfav59np"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992895752570347976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点过于帅了，录了一下。\n（超级小男娘啊这就是，，我真的喜欢这个。（请务必这样踩我（绝对会死的吧！）\n（转生七王子） https://t.co/86Nfav59np"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 103701,
+        "height": 720,
+        "media_key": "7_1992895637067821056",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1992895637067821056/pu/img/1w9ezHFHcixwlYQw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992895637067821056/pu/vid/avc1/432x270/UKJR88Z3EwzxlUqL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992895637067821056/pu/vid/avc1/576x360/O1XBkLkCO_Zto8Hu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1992895637067821056/pu/vid/avc1/1152x720/Y6bfo0QIYqOQHWqf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1992895637067821056/pu/pl/mSnXNLbNRERsCw0j.m3u8?tag=12"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1992895637067821056"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1992895752570347976",
+        "created_at": "2025-11-24T09:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992895752570347976"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/86Nfav59np",
+              "end": 82,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1992895752570347976/video/1",
+              "media_key": "7_1992895637067821056",
+              "start": 59,
+              "url": "https://t.co/86Nfav59np"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992895752570347976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点过于帅了，录了一下。\n（超级小男娘啊这就是，，我真的喜欢这个。（请务必这样踩我（绝对会死的吧！）\n（转生七王子） https://t.co/86Nfav59np"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 230,
+          "like_count": 1396,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 350
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

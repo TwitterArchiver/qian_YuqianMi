@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2019115840474587319",
+    "created_at": "2026-02-05T01:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T02:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019215091372290391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761821960978460672",
+          "start": 0,
+          "username": "oct424242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019215091372290391",
+    "in_reply_to_user_id": "1761821960978460672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019115840474587319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oct424242 哎呀我喜欢你呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2019115831955947520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAVXJsQaAAAs4QP.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2019115840474587319",
+        "created_at": "2026-02-05T01:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T02:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019215091372290391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761821960978460672",
+              "start": 0,
+              "username": "oct424242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019215091372290391",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019115840474587319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oct424242 哎呀我喜欢你呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019115831955947520"
+          ]
+        },
+        "author_id": "1761821960978460672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2019115840474587319",
+        "created_at": "2026-02-04T18:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019115840474587319"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Ever wondered who lingers on your Twitter profile in the shadows? Prepare to discover your silent admirers or curious stalkers!",
+              "display_url": "infinitetweet.me/secret-stalker…",
+              "end": 47,
+              "expanded_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "start": 24,
+              "status": 200,
+              "title": "Secret Stalkers • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/secret-stalker?lang=zh",
+              "url": "https://t.co/PjCnfAUIBg"
+            },
+            {
+              "display_url": "pic.x.com/ZJSOqyOBUJ",
+              "end": 71,
+              "expanded_url": "https://x.com/oct424242/status/2019115840474587319/photo/1",
+              "media_key": "3_2019115831955947520",
+              "start": 48,
+              "url": "https://t.co/ZJSOqyOBUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019115840474587319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚刚发现谁访问了我的推特个人资料！\n\n⠀➡️ https://t.co/PjCnfAUIBg https://t.co/ZJSOqyOBUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 728,
+          "like_count": 18172,
+          "listed_count": 1,
+          "media_count": 281,
+          "tweet_count": 3809
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 171,
+          "like_count": 1676,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1045
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

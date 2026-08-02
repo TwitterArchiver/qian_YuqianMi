@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2003121285627511037",
+    "created_at": "2025-12-22T15:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T16:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003123324554207323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1795516236698472449",
+          "start": 0,
+          "username": "Violet01698113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003123324554207323",
+    "in_reply_to_user_id": "1795516236698472449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003122825260122423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Violet01698113 我不知道。他和我上同一节早八但是他就是晚睡晚起。他不修边幅吧我只能说。不是每个男的都要跟我一样花这么多时间打理自己。他可能早八七点四十起床就够了。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2003122825260122423].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2003122825260122423",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2003122825260122423"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2003121285627511037",
+        "created_at": "2025-12-22T15:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T16:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003123324554207323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1795516236698472449",
+              "start": 0,
+              "username": "Violet01698113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003123324554207323",
+        "in_reply_to_user_id": "1795516236698472449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003122825260122423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Violet01698113 我不知道。他和我上同一节早八但是他就是晚睡晚起。他不修边幅吧我只能说。不是每个男的都要跟我一样花这么多时间打理自己。他可能早八七点四十起床就够了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 436,
+          "like_count": 6308,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1580
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-28T18:03:48.000Z",
+        "description": "最大愿望是有一个自己的小窝和可爱的猫猫！！！！\n夜猫子属性MAX\n记录一下碎碎念发癫自言自语什么的\n有点抽象\n有时候会很恶心\n如果让你感到不适拉黑就好了别骂我",
+        "id": "1795516236698472449",
+        "location": "0.00001mm",
+        "name": "Violet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985620242194960384/Xa_Y255M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 232,
+          "like_count": 8142,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2705
+        },
+        "username": "Violet01698113",
+        "verified": false
+      }
+    ]
+  }
+}

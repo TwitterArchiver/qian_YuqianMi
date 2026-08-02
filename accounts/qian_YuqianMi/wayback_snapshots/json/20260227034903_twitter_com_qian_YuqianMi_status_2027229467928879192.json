@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2027194525928821217",
+    "created_at": "2026-02-27T03:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T04:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027229467928879192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1739126336248287232",
+          "start": 0,
+          "username": "UesugiKou07B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027229467928879192",
+    "in_reply_to_user_id": "1739126336248287232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027221963014627333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UesugiKou07B 哦哦哦哦哦对的对的就是这个🥰🥰超可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2027194525928821217",
+        "created_at": "2026-02-27T03:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027229467928879192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1739126336248287232",
+              "start": 0,
+              "username": "UesugiKou07B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027229467928879192",
+        "in_reply_to_user_id": "1739126336248287232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027221963014627333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UesugiKou07B 哦哦哦哦哦对的对的就是这个🥰🥰超可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739126336248287232",
+        "conversation_id": "2027194525928821217",
+        "created_at": "2026-02-27T03:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027221963014627333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "打首獄門同好会「布団の中から出たくない」 MusicVideo絵：るるてあ（ https://twitter.com/k_r_r_l_l_ ）アニメ：ナガサカシゲル2018年1月24日リリースニューシングル「冬盤」［収録曲］1. スマホの画面が割れた日2. 忘れらんねえですよ3. 布団の中から出たくない4. フロ...",
+              "display_url": "youtu.be/s4DxPeLNVuw?si…",
+              "end": 38,
+              "expanded_url": "https://youtu.be/s4DxPeLNVuw?si=PVdQ1KBWVPrs06E4",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2026656815803674628/lXUyQrng?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026656815803674628/lXUyQrng?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 15,
+              "status": 200,
+              "title": "打首獄門同好会「布団の中から出たくない」",
+              "unwound_url": "https://www.youtube.com/watch?si=PVdQ1KBWVPrs06E4&v=s4DxPeLNVuw&feature=youtu.be",
+              "url": "https://t.co/te2fgbEr84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027221963014627333",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027194525928821217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi https://t.co/te2fgbEr84\n应该是这个，回忆一下(๑¯◡¯๑)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1145,
+          "following_count": 794,
+          "like_count": 23119,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 4553
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T03:30:21.000Z",
+        "description": "Kou",
+        "id": "1739126336248287232",
+        "name": "上杉紅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739126406163083264/DGz_p0Y9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 44,
+          "like_count": 583,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 31
+        },
+        "username": "UesugiKou07B",
+        "verified": false
+      }
+    ]
+  }
+}

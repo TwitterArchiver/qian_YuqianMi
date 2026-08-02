@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993978863903240327",
+    "created_at": "2025-11-27T10:04:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T11:04:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993984375164428527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1679982917806882816",
+          "start": 0,
+          "username": "limao382525"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993984375164428527",
+    "in_reply_to_user_id": "1679982917806882816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993982094221984113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@limao382525 （立即使用不死图腾复活一只曼波"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 501,
+        "media_key": "3_1993982086575972352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wMJKbaYAA25_8.jpg",
+        "width": 594
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993978863903240327",
+        "created_at": "2025-11-27T10:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T11:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993984375164428527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1679982917806882816",
+              "start": 0,
+              "username": "limao382525"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993984375164428527",
+        "in_reply_to_user_id": "1679982917806882816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993982094221984113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@limao382525 （立即使用不死图腾复活一只曼波"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993982086575972352"
+          ]
+        },
+        "author_id": "1679982917806882816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993978863903240327",
+        "created_at": "2025-11-27T09:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993982094221984113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hZBODB0w2e",
+              "end": 69,
+              "expanded_url": "https://x.com/limao382525/status/1993982094221984113/photo/1",
+              "media_key": "3_1993982086575972352",
+              "start": 46,
+              "url": "https://t.co/hZBODB0w2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993982094221984113",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993980665495257223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 曼波被千千击败了\n(你失去了一只好曼波！！！(*≧m≦*)) https://t.co/hZBODB0w2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 275,
+          "like_count": 2079,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 508
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-14T22:35:55.000Z",
+        "description": "什么都可以~~虽然不太会聊天但一定会认真回复的！！请闯入曼波的生活吧！！！(灌注窝的话都会fo的喵！！！如果没有一定是没看到喵！！请在私信踢一下曼波！！) 匿名信箱喵~https://t.co/A6bxIwanUx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%9B%BC%E6%B…",
+                "end": 107,
+                "expanded_url": "https://ngl.link/%E6%9B%BC%E6%B3%A2%E4%B8%8D%E4%BC%9A%E5%94%B1%E6%AD%8C",
+                "start": 84,
+                "url": "https://t.co/A6bxIwanUx"
+              }
+            ]
+          }
+        },
+        "id": "1679982917806882816",
+        "location": "亚洲(可以住在你心里嘛)",
+        "name": "曼波不会唱歌",
+        "pinned_tweet_id": "1991725329522782454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990812189339549696/JjUKDmIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 133,
+          "like_count": 1136,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 543
+        },
+        "username": "limao382525",
+        "verified": false
+      }
+    ]
+  }
+}

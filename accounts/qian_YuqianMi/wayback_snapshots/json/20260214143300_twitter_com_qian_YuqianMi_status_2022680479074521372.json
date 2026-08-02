@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022680475685523459"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2022680479074521372",
+    "created_at": "2026-02-14T14:33:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T15:33:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022680479074521372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ESnU1nNBBm",
+          "end": 93,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2022680479074521372/photo/1",
+          "media_key": "3_2022680475685523459",
+          "start": 70,
+          "url": "https://t.co/ESnU1nNBBm"
+        },
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/2022315192173183471",
+          "start": 94,
+          "url": "https://t.co/phRLU8xxVN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022680479074521372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022315192173183471",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于我之前说这幅不想画厚涂这档事（）\n只是在铺底色然后莫名其妙就变成厚涂了（晕）\n希望后面能揪回来！！\n\n即将更新：\n· 尝试配色（痛苦） https://t.co/ESnU1nNBBm https://t.co/phRLU8xxVN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2022680479074521372].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2022680479074521372",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2022680479074521372"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1203,
+        "media_key": "3_2022680475685523459",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBIBLQ9akAMRsV6.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2022315189853630464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBC081MaMAAAQ1Y.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022315189853630464"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2022315192173183471",
+        "created_at": "2026-02-13T14:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022315192173183471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Eo3KviFhoP",
+              "end": 86,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2022315192173183471/photo/1",
+              "media_key": "3_2022315189853630464",
+              "start": 63,
+              "url": "https://t.co/Eo3KviFhoP"
+            },
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2020863442043768855",
+              "start": 87,
+              "url": "https://t.co/3yKuym8KUw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022315192173183471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020863442043768855",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "蓝色小软件关闭！\n\n版本1.0.3\n修复已知问题，提升用户体验。\n· 勾线并绘制细节\n即将更新：\n· 细化翅膀\n· 完善细节 https://t.co/Eo3KviFhoP https://t.co/3yKuym8KUw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1050,
+          "following_count": 745,
+          "like_count": 20213,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 4110
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009038331762335744"
+      ],
+      "media_source_tweet_id": [
+        "2009038340289372245"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2009625777709687197",
+    "created_at": "2026-01-09T13:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T14:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009625777709687197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1966276982846443520",
+          "start": 3,
+          "username": "omniez"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/20ozZh3X80",
+          "end": 80,
+          "expanded_url": "https://x.com/omniez/status/2009038340289372245/photo/1",
+          "media_key": "3_2009038331762335744",
+          "start": 57,
+          "url": "https://t.co/20ozZh3X80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009625777709687197",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 240
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009038340289372245",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @omniez: “why do you never show me your phone?”\n\nehm… https://t.co/20ozZh3X80"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009625777709687197].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009625777709687197",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009625777709687197"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009038331762335744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-GJt-jWYAAC3pt.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009038331762335744"
+          ]
+        },
+        "author_id": "1966276982846443520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2009038340289372245",
+        "created_at": "2026-01-07T23:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009038340289372245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/20ozZh3X80",
+              "end": 68,
+              "expanded_url": "https://x.com/omniez/status/2009038340289372245/photo/1",
+              "media_key": "3_2009038331762335744",
+              "start": 45,
+              "url": "https://t.co/20ozZh3X80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009038340289372245",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 6764,
+          "like_count": 1030,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 240
+        },
+        "reply_settings": "everyone",
+        "text": "“why do you never show me your phone?”\n\nehm… https://t.co/20ozZh3X80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 624,
+          "like_count": 10372,
+          "listed_count": 1,
+          "media_count": 212,
+          "tweet_count": 2430
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-11T23:05:51.000Z",
+        "description": "16 || #shtwt #shedtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 6,
+                "tag": "shtwt"
+              },
+              {
+                "end": 21,
+                "start": 13,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1966276982846443520",
+        "name": "ཐི omnie ཋྀ",
+        "pinned_tweet_id": "2000239030190162130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994826284304650240/BZmdALIB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 532,
+          "like_count": 1418,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 171
+        },
+        "username": "omniez",
+        "verified": false
+      }
+    ]
+  }
+}

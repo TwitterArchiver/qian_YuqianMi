@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990424618474090610",
+    "created_at": "2025-11-17T14:32:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:32:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990427948856578341"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1990427948856578341",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990425665506615619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是真的很想呆在房间里（寝室，，勉强也算吧）我真的很不想出门。但是我真的没办法了我真的要疯了\n我一直跟自己说没有遇到霸凌我的室友而且现在大家都没有撕破脸已经很好了。但是我逐渐发现只是我要求太低了。在寝室里就应该尽量安静 因为这是五个人的空间而他一个人的说话声侵犯了我们所有人的耳朵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990424618474090610",
+        "created_at": "2025-11-17T14:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990427948856578341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990427948856578341",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990425665506615619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是真的很想呆在房间里（寝室，，勉强也算吧）我真的很不想出门。但是我真的没办法了我真的要疯了\n我一直跟自己说没有遇到霸凌我的室友而且现在大家都没有撕破脸已经很好了。但是我逐渐发现只是我要求太低了。在寝室里就应该尽量安静 因为这是五个人的空间而他一个人的说话声侵犯了我们所有人的耳朵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990424618474090610",
+        "created_at": "2025-11-17T14:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990425665506615619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990425665506615619",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990424618474090610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "摊上这种室友我也是服了。以后我要去图书馆呆着了。但是我不知道该怎么预约，，这种东西之类的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 113,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 147
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

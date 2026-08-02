@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2067538904413253910",
+    "created_at": "2026-06-18T09:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067539081173889250"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067539081173889250",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067538904413253910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "散步的时候唱的 主播没有专门学过唱歌不是很好听 纯爱好₍ᐢ..ᐢ₎♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 97283,
+        "height": 1280,
+        "media_key": "13_2067537698722832385",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067537698722832385/img/ZnP6AMc4QeKczpq1.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067537698722832385/vid/avc1/320x722/ZKVBVXLqEypiDC93.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067537698722832385/vid/avc1/480x1084/9mufT5JO9HpodsRj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067537698722832385/vid/avc1/566x1280/CHRUw98VlHiJuOrV.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067537698722832385/pl/A33zn27wWfbJiv-m.m3u8?tag=14"
+          }
+        ],
+        "width": 566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2067538904413253910",
+        "created_at": "2026-06-18T09:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067539081173889250"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067539081173889250",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067538904413253910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "散步的时候唱的 主播没有专门学过唱歌不是很好听 纯爱好₍ᐢ..ᐢ₎♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2067537698722832385"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2067538904413253910",
+        "created_at": "2026-06-18T09:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067538904413253910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0p6idDzkng",
+              "end": 34,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2067538904413253910/video/1",
+              "media_key": "13_2067537698722832385",
+              "start": 11,
+              "url": "https://t.co/0p6idDzkng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067538904413253910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【想自由】\n我唱了歌 https://t.co/0p6idDzkng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 889,
+          "like_count": 29461,
+          "listed_count": 0,
+          "media_count": 390,
+          "tweet_count": 5970
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014256977120301453",
+    "created_at": "2026-01-22T08:41:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T09:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014256977120301453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1786808816832589825",
+          "start": 3,
+          "username": "ZuJian40966"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/RmZ",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/RmZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014256977120301453",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014216330426409178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZuJian40966: 这里是もや(moya）/亦憭  怎么称呼都可以请随意 萌妹子互fo大欢迎 互fo请私信\nip：长沙   住在德思勤附近 我有小电驴可以载你去其他地方欢迎找我挂壁\n注意我⚠️：od    割手        易怒 https://t.co/RmZ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1692,
+        "media_key": "3_2014216286671110144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PvCnvWgAASY4H.jpg",
+        "width": 1692
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014216286968991745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PvCo2X0AEuiVZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014216286625206272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PvCnkaEAAWP85.jpg",
+        "width": 1618
+      },
+      {
+        "height": 1915,
+        "media_key": "3_2014216286843371521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_PvCoYbAAEXSPc.jpg",
+        "width": 1599
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014256977120301453",
+        "created_at": "2026-01-22T08:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T09:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014256977120301453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1786808816832589825",
+              "start": 3,
+              "username": "ZuJian40966"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/RmZ",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/RmZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014256977120301453",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014216330426409178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZuJian40966: 这里是もや(moya）/亦憭  怎么称呼都可以请随意 萌妹子互fo大欢迎 互fo请私信\nip：长沙   住在德思勤附近 我有小电驴可以载你去其他地方欢迎找我挂壁\n注意我⚠️：od    割手        易怒 https://t.co/RmZ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014216286671110144",
+            "3_2014216286968991745",
+            "3_2014216286625206272",
+            "3_2014216286843371521"
+          ]
+        },
+        "author_id": "1786808816832589825",
+        "conversation_id": "2014216330426409178",
+        "created_at": "2026-01-22T05:59:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T06:59:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014216330426409178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RmZeOoYGL1",
+              "end": 129,
+              "expanded_url": "https://x.com/ZuJian40966/status/2014216330426409178/photo/1",
+              "media_key": "3_2014216286671110144",
+              "start": 106,
+              "url": "https://t.co/RmZeOoYGL1"
+            },
+            {
+              "display_url": "pic.x.com/RmZeOoYGL1",
+              "end": 129,
+              "expanded_url": "https://x.com/ZuJian40966/status/2014216330426409178/photo/1",
+              "media_key": "3_2014216286968991745",
+              "start": 106,
+              "url": "https://t.co/RmZeOoYGL1"
+            },
+            {
+              "display_url": "pic.x.com/RmZeOoYGL1",
+              "end": 129,
+              "expanded_url": "https://x.com/ZuJian40966/status/2014216330426409178/photo/1",
+              "media_key": "3_2014216286625206272",
+              "start": 106,
+              "url": "https://t.co/RmZeOoYGL1"
+            },
+            {
+              "display_url": "pic.x.com/RmZeOoYGL1",
+              "end": 129,
+              "expanded_url": "https://x.com/ZuJian40966/status/2014216330426409178/photo/1",
+              "media_key": "3_2014216286843371521",
+              "start": 106,
+              "url": "https://t.co/RmZeOoYGL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014216330426409178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这里是もや(moya）/亦憭  怎么称呼都可以请随意 萌妹子互fo大欢迎 互fo请私信\nip：长沙   住在德思勤附近 我有小电驴可以载你去其他地方欢迎找我挂壁\n注意我⚠️：od    割手        易怒 https://t.co/RmZeOoYGL1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 718,
+          "following_count": 682,
+          "like_count": 14959,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 3262
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T17:23:25.000Z",
+        "description": "あなたの夢をみるの。",
+        "id": "1786808816832589825",
+        "location": "长沙",
+        "name": "もや",
+        "pinned_tweet_id": "2014216330426409178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005745497886404608/OC7SmHyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 86,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 131
+        },
+        "username": "ZuJian40966",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2008675148761542657",
+        "3_2008675149113962496"
+      ],
+      "media_source_tweet_id": [
+        "2008675199773012463",
+        "2008675199773012463"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2009463456458788901",
+    "created_at": "2026-01-09T03:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T04:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009463456458788901"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2005173387870830595",
+          "start": 3,
+          "username": "666goree"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zuacxGNJhP",
+          "end": 37,
+          "expanded_url": "https://x.com/Sakurafresas/status/2008675199773012463/video/1",
+          "media_key": "7_2008675148761542657",
+          "start": 14,
+          "url": "https://t.co/zuacxGNJhP"
+        },
+        {
+          "display_url": "pic.x.com/zuacxGNJhP",
+          "end": 37,
+          "expanded_url": "https://x.com/Sakurafresas/status/2008675199773012463/video/1",
+          "media_key": "3_2008675149113962496",
+          "start": 14,
+          "url": "https://t.co/zuacxGNJhP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009463456458788901",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 325
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008754446503985412",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666goree: https://t.co/zuacxGNJhP"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009463456458788901].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009463456458788901",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009463456458788901"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13461,
+        "height": 818,
+        "media_key": "7_2008675148761542657",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2008675148761542657/pu/img/B8levQ4ahFbZnqGn.jpg",
+        "public_metrics": {
+          "view_count": 4156
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008675148761542657/pu/vid/avc1/320x362/AqQLHwkTu0d02X2T.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008675148761542657/pu/vid/avc1/480x544/0hORcuHFj0gfVBkA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2008675148761542657/pu/vid/avc1/720x818/LmtKsxq8msx_hcPv.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2008675148761542657/pu/pl/X5lzvs_u9PJsoMr4.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1112,
+        "media_key": "3_2008675149113962496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-A_Z9wXsAAvxCE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2008675148761542657",
+            "3_2008675149113962496"
+          ],
+          "media_source_tweet_id": [
+            "2008675199773012463",
+            "2008675199773012463"
+          ]
+        },
+        "author_id": "2005173387870830595",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2008754446503985412",
+        "created_at": "2026-01-07T04:15:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T05:15:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008754446503985412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuacxGNJhP",
+              "end": 23,
+              "expanded_url": "https://x.com/Sakurafresas/status/2008675199773012463/video/1",
+              "media_key": "7_2008675148761542657",
+              "start": 0,
+              "url": "https://t.co/zuacxGNJhP"
+            },
+            {
+              "display_url": "pic.x.com/zuacxGNJhP",
+              "end": 23,
+              "expanded_url": "https://x.com/Sakurafresas/status/2008675199773012463/video/1",
+              "media_key": "3_2008675149113962496",
+              "start": 0,
+              "url": "https://t.co/zuacxGNJhP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008754446503985412",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 8938,
+          "like_count": 1635,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 325
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zuacxGNJhP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 614,
+          "like_count": 10163,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2390
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-28T07:06:45.000Z",
+        "description": "(⁠｡⁠•́⁠︿⁠•̀⁠｡⁠) me banearon la otra cuenta @gore_3330 tiktok: virtuallovegore_666 mi otra cuenta @suicidi0_6660",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "gore_3330"
+              },
+              {
+                "end": 111,
+                "start": 97,
+                "username": "suicidi0_6660"
+              }
+            ]
+          }
+        },
+        "id": "2005173387870830595",
+        "name": "(⁠╥⁠﹏⁠╥⁠)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005176925212344320/zcsXyShV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 10,
+          "like_count": 82,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 47
+        },
+        "username": "666goree",
+        "verified": false
+      }
+    ]
+  }
+}

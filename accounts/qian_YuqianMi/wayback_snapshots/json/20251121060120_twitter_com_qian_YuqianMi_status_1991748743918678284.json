@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1991748743918678284",
+    "created_at": "2025-11-21T06:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T07:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991748743918678284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usamintears/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/usamintears/status/1991475871203705161",
+          "start": 8,
+          "url": "https://t.co/qnFJlixiOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991748743918678284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991475871203705161",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不行了（爆笑 https://t.co/qnFJlixiOM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1991748743918678284",
+        "created_at": "2025-11-21T06:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T07:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991748743918678284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usamintears/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/usamintears/status/1991475871203705161",
+              "start": 8,
+              "url": "https://t.co/qnFJlixiOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991748743918678284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991475871203705161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不行了（爆笑 https://t.co/qnFJlixiOM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "975770906",
+        "conversation_id": "1991475871203705161",
+        "created_at": "2025-11-20T11:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T12:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991475871203705161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991475871203705161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 19653,
+          "like_count": 849,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 95
+        },
+        "reply_settings": "everyone",
+        "text": "接近凍齡的芙莉蓮應該沒想過自己會有那麼多抬頭文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 144,
+          "like_count": 984,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 221
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-28T09:47:19.000Z",
+        "description": "頭像by @ITSME_ZUO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "ITSME_ZUO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/N4jWLaRpeFI?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/N4jWLaRpeFI?si=ZXjexHTNsqXRGqnk",
+                "start": 0,
+                "url": "https://t.co/4pfkeJMDJg"
+              }
+            ]
+          }
+        },
+        "id": "975770906",
+        "name": "新細敏體",
+        "pinned_tweet_id": "1804080916333236597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927521100973408256/fao6EZmd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15905,
+          "following_count": 334,
+          "like_count": 57230,
+          "listed_count": 22,
+          "media_count": 1762,
+          "tweet_count": 20579
+        },
+        "url": "https://t.co/4pfkeJMDJg",
+        "username": "usamintears",
+        "verified": true
+      }
+    ]
+  }
+}

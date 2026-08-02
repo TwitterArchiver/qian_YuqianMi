@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2017954029679394997",
+    "created_at": "2026-02-01T15:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T16:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017979700828914051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2000126709375623168",
+          "start": 0,
+          "username": "Miaooo_47"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017979700828914051",
+    "in_reply_to_user_id": "2000126709375623168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017954029679394997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miaooo_47 卧槽这太恐怖了。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2166,
+        "media_key": "3_2017954021517262848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAE2fbGbgAAuhTb.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2017954021504585728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAE2fbDaEAAokHg.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2017954029679394997",
+        "created_at": "2026-02-01T15:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017979700828914051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2000126709375623168",
+              "start": 0,
+              "username": "Miaooo_47"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017979700828914051",
+        "in_reply_to_user_id": "2000126709375623168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017954029679394997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miaooo_47 卧槽这太恐怖了。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017954021517262848",
+            "3_2017954021504585728"
+          ]
+        },
+        "author_id": "2000126709375623168",
+        "conversation_id": "2017954029679394997",
+        "created_at": "2026-02-01T13:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T14:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017954029679394997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UEOTbU8X3I",
+              "end": 95,
+              "expanded_url": "https://x.com/Miaooo_47/status/2017954029679394997/photo/1",
+              "media_key": "3_2017954021517262848",
+              "start": 72,
+              "url": "https://t.co/UEOTbU8X3I"
+            },
+            {
+              "display_url": "pic.x.com/UEOTbU8X3I",
+              "end": 95,
+              "expanded_url": "https://x.com/Miaooo_47/status/2017954029679394997/photo/1",
+              "media_key": "3_2017954021504585728",
+              "start": 72,
+              "url": "https://t.co/UEOTbU8X3I"
+            },
+            {
+              "display_url": "x.com/miaooo_47/stat…",
+              "end": 119,
+              "expanded_url": "https://twitter.com/miaooo_47/status/2013687507880157533",
+              "start": 96,
+              "url": "https://t.co/QizZvvVLtI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017954029679394997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9687,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013687507880157533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "到底哪个死了妈的傻屌给我把推文截图不打码传到墙内去了你妈死了是不是？我好几个朋友同学都在不同的群看见了来问我。我真谢你全家。现在还有人找过来😅 https://t.co/UEOTbU8X3I https://t.co/QizZvvVLtI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 774,
+          "following_count": 706,
+          "like_count": 17110,
+          "listed_count": 1,
+          "media_count": 274,
+          "tweet_count": 3629
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T08:52:36.000Z",
+        "description": "心的距离是遥不可及。",
+        "id": "2000126709375623168",
+        "name": "米遥",
+        "pinned_tweet_id": "2015080151571399069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015483655137918976/sU1eoINa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1417,
+          "following_count": 142,
+          "like_count": 3584,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 969
+        },
+        "username": "Miaooo_47",
+        "verified": false
+      }
+    ]
+  }
+}

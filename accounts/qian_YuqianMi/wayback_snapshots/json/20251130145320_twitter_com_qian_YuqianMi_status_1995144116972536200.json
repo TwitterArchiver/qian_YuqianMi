@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1995144116972536200",
+    "created_at": "2025-11-30T14:53:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T15:53:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995144116972536200"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995144116972536200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 61,
+      "like_count": 4,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个月花太多钱了，，买了个戒指（真的好看耶（死了）\n其实我不知道自己干嘛要存钱，感觉余额宝里面要稳定3000+才安心，，（有一种数值的美（？）（总伤love来的，，粥批的丑态。）\n我又不会有什么突发事件要我花钱的我干嘛要每个月存钱啊直接花了好像也没什么问题（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1995144116972536200",
+        "created_at": "2025-11-30T14:53:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T15:53:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995144116972536200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995144116972536200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个月花太多钱了，，买了个戒指（真的好看耶（死了）\n其实我不知道自己干嘛要存钱，感觉余额宝里面要稳定3000+才安心，，（有一种数值的美（？）（总伤love来的，，粥批的丑态。）\n我又不会有什么突发事件要我花钱的我干嘛要每个月存钱啊直接花了好像也没什么问题（？）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 307,
+          "like_count": 2869,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 696
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

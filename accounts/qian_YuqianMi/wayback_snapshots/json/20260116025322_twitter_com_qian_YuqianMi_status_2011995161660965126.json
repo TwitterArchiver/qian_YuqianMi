@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2011995158297166265",
+    "created_at": "2026-01-16T02:53:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T03:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011995161660965126"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2011995161660965126",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011995158297166265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在就有种在边缘走钢丝的感觉。我的精神疾病是因为我“太乖”，他们觉得我不可能有病而得不到及时治疗。我的请求与盼望也因为“我应该乖”而得不到回应。\n到底什么是乖？我到底为什么要把自己塑造成这样的人设？到底是什么在阴影中掐住我的喉咙？我不知道。我不敢说。我不敢问。我不敢面对我自己。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2011995158297166265",
+        "created_at": "2026-01-16T02:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T03:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011995161660965126"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011995161660965126",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011995158297166265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在就有种在边缘走钢丝的感觉。我的精神疾病是因为我“太乖”，他们觉得我不可能有病而得不到及时治疗。我的请求与盼望也因为“我应该乖”而得不到回应。\n到底什么是乖？我到底为什么要把自己塑造成这样的人设？到底是什么在阴影中掐住我的喉咙？我不知道。我不敢说。我不敢问。我不敢面对我自己。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2011995158297166265",
+        "created_at": "2026-01-16T02:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T03:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011995158297166265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whitecloud_ybw…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/whitecloud_ybw/status/2011794807442850196",
+              "start": 97,
+              "url": "https://t.co/amxPouekvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011995158297166265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011794807442850196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也是这样。但是我并不像评论区一样抱有正向认知。。\n我觉得这是我压抑十八年以来自己对自己造成的pua。\n到底什么是乖？是不惹麻烦吗？还是说这是通过“看别人脸色”，“委屈求全”得来的虚假的和谐。 https://t.co/amxPouekvn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 658,
+          "like_count": 12974,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 2898
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2014236949247393792"
+      ],
+      "media_source_tweet_id": [
+        "2014236951684194660"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2014239911264891223",
+    "created_at": "2026-01-22T07:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T08:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014239911264891223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1684269091849404416",
+          "start": 3,
+          "username": "hg3551019177402"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/s43crDMT2B",
+          "end": 56,
+          "expanded_url": "https://x.com/hg3551019177402/status/2014236951684194660/photo/1",
+          "media_key": "3_2014236949247393792",
+          "start": 33,
+          "url": "https://t.co/s43crDMT2B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014239911264891223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014236951684194660",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hg3551019177402: 不是玩终末地吗你们人呢 https://t.co/s43crDMT2B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "3_2014236949247393792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_QB1V1bgAAGaNz.jpg",
+        "width": 300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014236949247393792"
+          ],
+          "media_source_tweet_id": [
+            "2014236951684194660"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014239911264891223",
+        "created_at": "2026-01-22T07:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014239911264891223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1684269091849404416",
+              "start": 3,
+              "username": "hg3551019177402"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/s43crDMT2B",
+              "end": 56,
+              "expanded_url": "https://x.com/hg3551019177402/status/2014236951684194660/photo/1",
+              "media_key": "3_2014236949247393792",
+              "start": 33,
+              "url": "https://t.co/s43crDMT2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014239911264891223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014236951684194660",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hg3551019177402: 不是玩终末地吗你们人呢 https://t.co/s43crDMT2B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014236949247393792"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014236951684194660",
+        "created_at": "2026-01-22T07:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T08:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014236951684194660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s43crDMT2B",
+              "end": 35,
+              "expanded_url": "https://x.com/hg3551019177402/status/2014236951684194660/photo/1",
+              "media_key": "3_2014236949247393792",
+              "start": 12,
+              "url": "https://t.co/s43crDMT2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014236951684194660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不是玩终末地吗你们人呢 https://t.co/s43crDMT2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 681,
+          "like_count": 14935,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 3259
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "贯穿不是都是，也不是都不是，是一种无差别，一切差异都会在它这里得到溶解。我是橘猫。",
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2014027088391438626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013874387389423617/VNXISMmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 55,
+          "like_count": 3244,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 1117
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

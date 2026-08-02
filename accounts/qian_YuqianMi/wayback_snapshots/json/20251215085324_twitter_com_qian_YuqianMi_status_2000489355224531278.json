@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000489352816939008"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2000489355224531278",
+    "created_at": "2025-12-15T08:53:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T09:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000489355224531278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LuhiEc58E1",
+          "end": 39,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2000489355224531278/photo/1",
+          "media_key": "3_2000489352816939008",
+          "start": 16,
+          "url": "https://t.co/LuhiEc58E1"
+        },
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/2000361986572603888",
+          "start": 40,
+          "url": "https://t.co/6ODIXy5yDr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000489355224531278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000361986572603888",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啥情况啊我这条怎么突然火了，， https://t.co/LuhiEc58E1 https://t.co/6ODIXy5yDr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1461,
+        "media_key": "3_2000489352816939008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8Mqd6Oa0AAkgsL.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000489352816939008"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2000489355224531278",
+        "created_at": "2025-12-15T08:53:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T09:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000489355224531278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LuhiEc58E1",
+              "end": 39,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2000489355224531278/photo/1",
+              "media_key": "3_2000489352816939008",
+              "start": 16,
+              "url": "https://t.co/LuhiEc58E1"
+            },
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2000361986572603888",
+              "start": 40,
+              "url": "https://t.co/6ODIXy5yDr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000489355224531278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000361986572603888",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啥情况啊我这条怎么突然火了，， https://t.co/LuhiEc58E1 https://t.co/6ODIXy5yDr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2000361986572603888",
+        "created_at": "2025-12-15T00:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T01:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000361986572603888"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000361986572603888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1775,
+          "like_count": 64,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友真好，，墙内的社交平台已经全是讽刺压抑攀比炫耀了。这边好舒服。就是发美美日常的也是正常语气。喜欢大家૮ต•̤ ༝ •̤ตა"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 380,
+          "like_count": 5109,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1275
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

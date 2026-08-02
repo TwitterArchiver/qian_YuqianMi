@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2027756817397518339",
+    "created_at": "2026-02-28T15:45:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:45:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027772216600105143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2014799643159494658",
+          "start": 0,
+          "username": "qiqin239298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027772216600105143",
+    "in_reply_to_user_id": "2014799643159494658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027769775838138525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqin239298 好玩的！感觉像简化版的星露谷物语，星露谷上手有点难我没玩下去（）这个简单多了，而且画风很可爱（b站上切片挺多的！（轻轻松松小岛时光）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2027756817397518339",
+        "created_at": "2026-02-28T15:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027772216600105143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2014799643159494658",
+              "start": 0,
+              "username": "qiqin239298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027772216600105143",
+        "in_reply_to_user_id": "2014799643159494658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027769775838138525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqin239298 好玩的！感觉像简化版的星露谷物语，星露谷上手有点难我没玩下去（）这个简单多了，而且画风很可爱（b站上切片挺多的！（轻轻松松小岛时光）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014799643159494658",
+        "conversation_id": "2027756817397518339",
+        "created_at": "2026-02-28T15:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027769775838138525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027769775838138525",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027756817397518339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 画风好可爱，这个好玩吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 803,
+          "like_count": 23619,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 4633
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T20:37:34.000Z",
+        "description": "08| Ftx 精神病 hsp 单机life od|sh|ed ht160 cw38 gw36 自毁倾向 社交障碍 休学 除非被吞了看不到基本都会回",
+        "id": "2014799643159494658",
+        "location": "可口美味的小衍",
+        "name": "反流性食管炎",
+        "pinned_tweet_id": "2022691963842236879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017542698757197824/Y9J32OS-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 191,
+          "like_count": 5614,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 515
+        },
+        "username": "qiqin239298",
+        "verified": false
+      }
+    ]
+  }
+}

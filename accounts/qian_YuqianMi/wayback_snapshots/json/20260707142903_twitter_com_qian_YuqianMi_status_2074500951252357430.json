@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2074500951252357430",
+    "created_at": "2026-07-07T14:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074500951252357430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Miiharukawa/st…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/Miiharukawa/status/2074427324095979555",
+          "start": 51,
+          "url": "https://t.co/G7W8hlNsFx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074500951252357430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074427324095979555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好懵逼啊上周还是啥时候麦当当出了个薯条主题套餐。汉堡是什么薯泥汉堡，套餐里面还强制选两个土豆制品来的 https://t.co/G7W8hlNsFx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1571,
+        "media_key": "3_2074427316965617665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMnYp2waMAECv00.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2074500951252357430",
+        "created_at": "2026-07-07T14:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074500951252357430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miiharukawa/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/Miiharukawa/status/2074427324095979555",
+              "start": 51,
+              "url": "https://t.co/G7W8hlNsFx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074500951252357430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074427324095979555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好懵逼啊上周还是啥时候麦当当出了个薯条主题套餐。汉堡是什么薯泥汉堡，套餐里面还强制选两个土豆制品来的 https://t.co/G7W8hlNsFx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074427316965617665"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074427324095979555",
+        "created_at": "2026-07-07T09:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074427324095979555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOSgIYdDMp",
+              "end": 38,
+              "expanded_url": "https://x.com/Miiharukawa/status/2074427324095979555/photo/1",
+              "media_key": "3_2074427316965617665",
+              "start": 15,
+              "url": "https://t.co/GOSgIYdDMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074427324095979555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 369,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "疯了吗薯条滞销了吗怎么都在卖 https://t.co/GOSgIYdDMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1419,
+          "following_count": 868,
+          "like_count": 29912,
+          "listed_count": 0,
+          "media_count": 396,
+          "tweet_count": 6112
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及\n痛苦也是一种幸福。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2109,
+          "following_count": 250,
+          "like_count": 10225,
+          "listed_count": 10,
+          "media_count": 464,
+          "tweet_count": 3901
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

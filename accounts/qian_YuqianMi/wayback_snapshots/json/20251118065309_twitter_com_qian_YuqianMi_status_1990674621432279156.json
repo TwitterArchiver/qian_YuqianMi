@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990674621432279156",
+    "created_at": "2025-11-18T06:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T07:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990674621432279156"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NKStellaEleano…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/NKStellaEleanor/status/1990070175090049347",
+          "start": 55,
+          "url": "https://t.co/v0AHENfPyf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990674621432279156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990070175090049347",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我当时看到这段的时候有着一模一样的感触，实在是感同身受\n只可惜从当初到现在都没有人来夸夸我\n（YuMi：你好 https://t.co/v0AHENfPyf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "16_1990070166982713344",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G54mReUbYAACEzW.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G54mReUbYAACEzW.mp4"
+          }
+        ],
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990674621432279156",
+        "created_at": "2025-11-18T06:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T07:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990674621432279156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NKStellaEleano…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/NKStellaEleanor/status/1990070175090049347",
+              "start": 55,
+              "url": "https://t.co/v0AHENfPyf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990674621432279156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990070175090049347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时看到这段的时候有着一模一样的感触，实在是感同身受\n只可惜从当初到现在都没有人来夸夸我\n（YuMi：你好 https://t.co/v0AHENfPyf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1990070166982713344"
+          ]
+        },
+        "author_id": "1525797038339698688",
+        "conversation_id": "1990070175090049347",
+        "created_at": "2025-11-16T14:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990070175090049347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dZvIJrFiZs",
+              "end": 165,
+              "expanded_url": "https://x.com/NKStellaEleanor/status/1990070175090049347/photo/1",
+              "media_key": "16_1990070166982713344",
+              "start": 142,
+              "url": "https://t.co/dZvIJrFiZs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990070175090049347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 22341,
+          "like_count": 378,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️這是篇負面文 不喜請滑走🙏\n\n葬送的芙莉蓮裡有段說著\n海塔「自己只是在假裝成理想的大人，給身邊像是費倫這樣的孩子支持」\n芙莉蓮問「那到死都裝扮成大人的你，又要誰來稱讚呢」\n海塔回「所以我才要信女神，因為死後女神會稱讚他這一生做的很棒」\n\n這段劇情 黛菈非常有感觸🥹\n\n(1/2) https://t.co/dZvIJrFiZs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 119,
+          "like_count": 754,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 169
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-15T11:15:59.000Z",
+        "description": "心靈保養系(?)Vtuber / 最愛唱歌的女武神 / 養了兩隻狗勾小巨嬰\n＠Limnos1101 所屬一期生\nママ @Pillo_0000 パパ @nonon_yuno Logo @Tanz0908 \n粉絲名 #黛菈之翼 FanArt #StellaSteArt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 111,
+                "start": 106,
+                "tag": "黛菈之翼"
+              },
+              {
+                "end": 132,
+                "start": 119,
+                "tag": "StellaSteArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 38,
+                "username": "Limnos1101"
+              },
+              {
+                "end": 70,
+                "start": 59,
+                "username": "Pillo_0000"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "nonon_yuno"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Tanz0908"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/limnosstella",
+                "end": 23,
+                "expanded_url": "https://lit.link/limnosstella",
+                "start": 0,
+                "url": "https://t.co/q9KpD15NAJ"
+              }
+            ]
+          }
+        },
+        "id": "1525797038339698688",
+        "location": "帕爾托斯王國",
+        "name": "史黛菈 埃蕾諾亞 / Stella Eleanor🐶🌟🐶〖Limnos所属〗",
+        "pinned_tweet_id": "1989983004069142627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868546815110565888/H-IsJ9qA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6631,
+          "following_count": 796,
+          "like_count": 47201,
+          "listed_count": 26,
+          "media_count": 2326,
+          "tweet_count": 14059
+        },
+        "url": "https://t.co/q9KpD15NAJ",
+        "username": "NKStellaEleanor",
+        "verified": false
+      }
+    ]
+  }
+}

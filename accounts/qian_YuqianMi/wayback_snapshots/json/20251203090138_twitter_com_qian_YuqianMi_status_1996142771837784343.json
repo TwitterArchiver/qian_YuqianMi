@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1996112414212026811",
+    "created_at": "2025-12-03T09:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T10:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996142771837784343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1833086574579654656",
+          "start": 0,
+          "username": "henry4226z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996142771837784343",
+    "in_reply_to_user_id": "1833086574579654656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996131075660415357",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@henry4226z 对的！我当时看到也笑得要死，，然后立即加入了我的词库。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1996112414212026811",
+        "created_at": "2025-12-03T09:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996142771837784343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1833086574579654656",
+              "start": 0,
+              "username": "henry4226z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996142771837784343",
+        "in_reply_to_user_id": "1833086574579654656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996131075660415357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@henry4226z 对的！我当时看到也笑得要死，，然后立即加入了我的词库。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833086574579654656",
+        "conversation_id": "1996112414212026811",
+        "created_at": "2025-12-03T08:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996131075660415357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996131075660415357",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996112414212026811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 舍敌是谁发明的，要笑死我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 322,
+          "like_count": 3336,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 815
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-09T10:14:42.000Z",
+        "description": "大四学生|infp|喜欢历史|阅读|听歌|fps游戏|可互fo|喜欢到处评论|欢迎找我聊天",
+        "id": "1833086574579654656",
+        "name": "henry",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995400498527305728/bSmpxdm4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 18,
+          "like_count": 253,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 219
+        },
+        "username": "henry4226z",
+        "verified": false
+      }
+    ]
+  }
+}

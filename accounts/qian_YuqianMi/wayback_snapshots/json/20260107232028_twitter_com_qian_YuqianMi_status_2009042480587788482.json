@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009042480587788482",
+    "created_at": "2026-01-07T23:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T00:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009042480587788482"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/2008935746871451846",
+          "start": 32,
+          "url": "https://t.co/xwyYJ1rOFu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009042480587788482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008935746871451846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经过一分钟的纠结之后我准备翘了。\n我要和我的宝被进行一个约会。 https://t.co/xwyYJ1rOFu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009042480587788482",
+        "created_at": "2026-01-07T23:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009042480587788482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2008935746871451846",
+              "start": 32,
+              "url": "https://t.co/xwyYJ1rOFu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009042480587788482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008935746871451846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经过一分钟的纠结之后我准备翘了。\n我要和我的宝被进行一个约会。 https://t.co/xwyYJ1rOFu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2008935746871451846",
+        "created_at": "2026-01-07T16:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008935746871451846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008935746871451846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 802,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天早八是那个上台分享的课，我们组已经结束了下节课我完全没有参与的必要。但是我想了下还是准备去了我并没有什么高尚的道德感我只是害怕老师突然来个位置签到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 585,
+          "like_count": 9680,
+          "listed_count": 0,
+          "media_count": 203,
+          "tweet_count": 2276
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

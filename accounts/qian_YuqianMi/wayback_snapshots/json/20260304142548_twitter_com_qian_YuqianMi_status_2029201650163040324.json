@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2029175652235264408",
+    "created_at": "2026-03-04T14:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T15:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029201650163040324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975973442186051584",
+          "start": 0,
+          "username": "Riddler_WAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029201650163040324",
+    "in_reply_to_user_id": "1975973442186051584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029201155738546333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Riddler_WAI 我会尝试！！我按照罗马音念粤语总是感觉怪怪的🤣慢慢学吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2029175652235264408",
+        "created_at": "2026-03-04T14:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029201650163040324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975973442186051584",
+              "start": 0,
+              "username": "Riddler_WAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029201650163040324",
+        "in_reply_to_user_id": "1975973442186051584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029201155738546333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Riddler_WAI 我会尝试！！我按照罗马音念粤语总是感觉怪怪的🤣慢慢学吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975973442186051584",
+        "conversation_id": "2029175652235264408",
+        "created_at": "2026-03-04T14:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T15:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029201155738546333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029201155738546333",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029199980003770603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 我教你！！我会富士山下明年今日单车什么的！陈奕迅我会好几首呢🥰🥰千千你学粤语歌不要纠结这个字怎么发音 就像学日语和韩语那样 就学一下这个音怎么发就可以 这样比较简单呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 807,
+          "like_count": 24395,
+          "listed_count": 0,
+          "media_count": 339,
+          "tweet_count": 4786
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-08T17:16:07.000Z",
+        "description": "我就来发泄发泄...\n纯碎碎念...没人看也念...\n有人看最好...找我私信聊聊天好不好🥺https://t.co/Ipzi66SmMK 不想私信这个也可以😭😭😭我只想聊天说说话😭😭😭😭",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ednygma1",
+                "end": 69,
+                "expanded_url": "https://ngl.link/ednygma1",
+                "start": 46,
+                "url": "https://t.co/Ipzi66SmMK"
+              }
+            ]
+          }
+        },
+        "id": "1975973442186051584",
+        "location": "南京",
+        "name": "Ed Nygma",
+        "pinned_tweet_id": "2000847634848977340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000848890896244737/pOnlYoiD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 161,
+          "like_count": 417,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 286
+        },
+        "username": "Riddler_WAI",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2048416067845070966",
+    "created_at": "2026-04-26T14:57:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:57:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048416067845070966"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048416067845070966",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很多互关知道我不是女孩子之后依旧很友善地跟我互动。我真的非常非常感动非常开心。我一直为自己的生理性别感到遗憾。但是很神奇吧我又不是mtf。这个千完全顺直男。（我觉得男娘不算跨吧！所以我姑且算是顺直男（？（是这样吗。）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2048416067845070966",
+        "created_at": "2026-04-26T14:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048416067845070966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048416067845070966",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多互关知道我不是女孩子之后依旧很友善地跟我互动。我真的非常非常感动非常开心。我一直为自己的生理性别感到遗憾。但是很神奇吧我又不是mtf。这个千完全顺直男。（我觉得男娘不算跨吧！所以我姑且算是顺直男（？（是这样吗。）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 825,
+          "like_count": 27064,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 5345
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

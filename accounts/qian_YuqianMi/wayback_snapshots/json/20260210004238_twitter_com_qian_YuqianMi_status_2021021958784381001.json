@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2020907266916950222",
+    "created_at": "2026-02-10T00:42:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T01:42:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021021958784381001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828780381107298304",
+          "start": 0,
+          "username": "wasabits013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021021958784381001",
+    "in_reply_to_user_id": "1828780381107298304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020907266916950222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabits013 好看😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2020907258016874497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAu0caYawAEsbct.jpg",
+        "width": 506
+      },
+      {
+        "height": 664,
+        "media_key": "3_2020907258025238529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAu0caaaYAElRoO.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2020907266916950222",
+        "created_at": "2026-02-10T00:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T01:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021021958784381001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1828780381107298304",
+              "start": 0,
+              "username": "wasabits013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021021958784381001",
+        "in_reply_to_user_id": "1828780381107298304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020907266916950222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabits013 好看😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020907258016874497",
+            "3_2020907258025238529"
+          ]
+        },
+        "author_id": "1828780381107298304",
+        "conversation_id": "2020907266916950222",
+        "created_at": "2026-02-09T17:06:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T18:06:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020907266916950222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x4RsiHZvBo",
+              "end": 110,
+              "expanded_url": "https://x.com/wasabits013/status/2020907266916950222/photo/1",
+              "media_key": "3_2020907258016874497",
+              "start": 87,
+              "url": "https://t.co/x4RsiHZvBo"
+            },
+            {
+              "display_url": "pic.x.com/x4RsiHZvBo",
+              "end": 110,
+              "expanded_url": "https://x.com/wasabits013/status/2020907266916950222/photo/1",
+              "media_key": "3_2020907258025238529",
+              "start": 87,
+              "url": "https://t.co/x4RsiHZvBo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020907266916950222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 338,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "All alone～\n为什么我只会画半截眼线😿\n什么时候化妆技术能再精进一下呢 \n每次都是这样化：半截眼线+化化眉毛+戴个美瞳+化个卧蚕 胜在十分钟就完事了😿\n先睡觉再说💤 https://t.co/x4RsiHZvBo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1008,
+          "following_count": 744,
+          "like_count": 19423,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 4002
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T13:03:23.000Z",
+        "description": "05/日常推/在活/勉强正常/不太主动 等你来找我/ 找我玩｜别发几把照/骂我先转钱 不骂我就回😶 call me if u can （欢迎找我玩）^ ^",
+        "id": "1828780381107298304",
+        "location": "in ur eyes",
+        "name": "芥末糖蒜",
+        "pinned_tweet_id": "2020138942096388368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016765406867038208/LQ_zaQzv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 201,
+          "like_count": 10160,
+          "listed_count": 1,
+          "media_count": 345,
+          "tweet_count": 3989
+        },
+        "username": "wasabits013",
+        "verified": false
+      }
+    ]
+  }
+}

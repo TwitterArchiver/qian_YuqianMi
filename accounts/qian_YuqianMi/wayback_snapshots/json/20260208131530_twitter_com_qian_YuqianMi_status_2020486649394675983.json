@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2020480327245091103",
+    "created_at": "2026-02-08T13:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T14:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020486649394675983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983831935958052865",
+          "start": 0,
+          "username": "xiaobei226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020486649394675983",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020486516867473743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobei226 哎呀眼睛也好看的呀的呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2020480327245091103",
+        "created_at": "2026-02-08T13:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020486649394675983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020486649394675983",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020486516867473743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 哎呀眼睛也好看的呀的呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2020480327245091103",
+        "created_at": "2026-02-08T13:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T14:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020486516867473743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020486516867473743",
+        "in_reply_to_user_id": "1983831935958052865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020480327245091103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 这下睫毛也太好看了我滴妈🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 741,
+          "like_count": 19030,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 3939
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️ 少管我！/不加wx（小女生互关除外咪！）/不看吊/不聊骚/不约炮/不喜欢很冒昧的私信/不要问我在哪/05。私信看到会回的，“你好”打招呼的这种话我不知豆回你什么，我再回一个“你好”感觉很无聊/俺的提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2019730001713877448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983832388661583872/EevVdSV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 22,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      }
+    ]
+  }
+}

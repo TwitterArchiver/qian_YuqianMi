@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "2025916101276934518",
+    "created_at": "2026-02-23T12:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T13:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025916101276934518"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qian_YuqianMi/…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/qian_YuqianMi/status/2025910526199681485",
+          "start": 82,
+          "url": "https://t.co/OkOAoKVM7C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025916101276934518",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025910526199681485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽我没招了我妈突然冲进来看电视剧了我下面还在震呢我又停不下来。。最感谢外面在放烟花的一集。（很不好意思的给她赶出去了希望她不要伤心。。（被她听到我真完犊子了。） https://t.co/OkOAoKVM7C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2080,
+        "media_key": "3_2025910522517082112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB164vFbUAA3mpb.jpg",
+        "width": 1560
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025910522206658560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB164t7aoAAV4a2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2025916101276934518",
+        "created_at": "2026-02-23T12:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025916101276934518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/2025910526199681485",
+              "start": 82,
+              "url": "https://t.co/OkOAoKVM7C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025916101276934518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025910526199681485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽我没招了我妈突然冲进来看电视剧了我下面还在震呢我又停不下来。。最感谢外面在放烟花的一集。（很不好意思的给她赶出去了希望她不要伤心。。（被她听到我真完犊子了。） https://t.co/OkOAoKVM7C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025910522517082112",
+            "3_2025910522206658560"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025910526199681485",
+        "created_at": "2026-02-23T12:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025910526199681485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxZMCTFTf5",
+              "end": 99,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2025910526199681485/photo/1",
+              "media_key": "3_2025910522517082112",
+              "start": 76,
+              "url": "https://t.co/hxZMCTFTf5"
+            },
+            {
+              "display_url": "pic.x.com/hxZMCTFTf5",
+              "end": 99,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2025910526199681485/photo/1",
+              "media_key": "3_2025910522206658560",
+              "start": 76,
+              "url": "https://t.co/hxZMCTFTf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025910526199681485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天头不痛诶，，所以立即开始玩色色了我真敬业吧（？）\n发现了一种新的拘束方式。这样的话完全不可能脱下胖次用前面自慰，只能被塞在屁穴的玩具扣到高潮了。。 https://t.co/hxZMCTFTf5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 770,
+          "like_count": 22251,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 4414
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

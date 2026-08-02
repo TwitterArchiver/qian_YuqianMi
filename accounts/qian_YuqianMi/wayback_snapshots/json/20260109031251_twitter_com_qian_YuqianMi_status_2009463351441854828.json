@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009220454993821696"
+      ],
+      "media_source_tweet_id": [
+        "2009220943143690468"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009463351441854828",
+    "created_at": "2026-01-09T03:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T04:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009463351441854828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1167764653776093184",
+          "start": 3,
+          "username": "tiksca2299"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fBKjXSYl2y",
+          "end": 52,
+          "expanded_url": "https://x.com/tiksca2299/status/2009220943143690468/photo/1",
+          "media_key": "3_2009220454993821696",
+          "start": 29,
+          "url": "https://t.co/fBKjXSYl2y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009463351441854828",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009220943143690468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiksca2299: 原動は残っても虚ろなまま https://t.co/fBKjXSYl2y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1232,
+        "media_key": "3_2009220454993821696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-IvW8dbAAA6FH0.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009220454993821696"
+          ],
+          "media_source_tweet_id": [
+            "2009220943143690468"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009463351441854828",
+        "created_at": "2026-01-09T03:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T04:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009463351441854828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1167764653776093184",
+              "start": 3,
+              "username": "tiksca2299"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBKjXSYl2y",
+              "end": 52,
+              "expanded_url": "https://x.com/tiksca2299/status/2009220943143690468/photo/1",
+              "media_key": "3_2009220454993821696",
+              "start": 29,
+              "url": "https://t.co/fBKjXSYl2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009463351441854828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009220943143690468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiksca2299: 原動は残っても虚ろなまま https://t.co/fBKjXSYl2y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009220454993821696"
+          ]
+        },
+        "author_id": "1167764653776093184",
+        "conversation_id": "2009220943143690468",
+        "created_at": "2026-01-08T11:09:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009220943143690468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fBKjXSYl2y",
+              "end": 36,
+              "expanded_url": "https://x.com/tiksca2299/status/2009220943143690468/photo/1",
+              "media_key": "3_2009220454993821696",
+              "start": 13,
+              "url": "https://t.co/fBKjXSYl2y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009220943143690468",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 16756,
+          "like_count": 1788,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "原動は残っても虚ろなまま https://t.co/fBKjXSYl2y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 614,
+          "like_count": 10162,
+          "listed_count": 1,
+          "media_count": 209,
+          "tweet_count": 2389
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-31T11:43:00.000Z",
+        "description": "Post : AI illustrations ＊「イラストレーション」を「コトバ」で「アート」する ＊ studio bise専属AIイラストレーター ＊ Niji, Mid, NAI ＊ お仕事用(キャラとか背景とか)：@Hassaku_ai_Vst ＊ 弟子 : みぃ (@mii_mi410)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 112,
+                "username": "Hassaku_ai_Vst"
+              },
+              {
+                "end": 149,
+                "start": 139,
+                "username": "mii_mi410"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hassaku839genai",
+                "end": 23,
+                "expanded_url": "https://lit.link/hassaku839genai",
+                "start": 0,
+                "url": "https://t.co/cxC6a7hGuj"
+              }
+            ]
+          }
+        },
+        "id": "1167764653776093184",
+        "location": "ご依頼、お仕事関連はDMまたはLitlinkまで→",
+        "name": "八朔-HassaKu-",
+        "pinned_tweet_id": "2008416295289790833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908448809551826944/NYUE-VhG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31504,
+          "following_count": 827,
+          "like_count": 47641,
+          "listed_count": 138,
+          "media_count": 3832,
+          "tweet_count": 16728
+        },
+        "url": "https://t.co/cxC6a7hGuj",
+        "username": "tiksca2299",
+        "verified": true
+      }
+    ]
+  }
+}

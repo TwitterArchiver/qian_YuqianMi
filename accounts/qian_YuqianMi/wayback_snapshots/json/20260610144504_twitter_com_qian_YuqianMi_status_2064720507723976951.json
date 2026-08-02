@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2064720507723976951",
+    "created_at": "2026-06-10T14:45:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:45:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064720507723976951"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064720507723976951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "x让我很治愈的是有可爱的互关。还有很多可爱的兔兔猫猫视频。不知道为什么在x看这些内容就很治愈很放松，在国内的任何平台都没有这种感觉。是偷偷摸摸和自由导致的吗？但是真的自由吗？。我不敢说。我甚至不敢给一些特定内容点赞。我到底在说什么。好累。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2064720507723976951",
+        "created_at": "2026-06-10T14:45:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:45:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064720507723976951"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064720507723976951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "x让我很治愈的是有可爱的互关。还有很多可爱的兔兔猫猫视频。不知道为什么在x看这些内容就很治愈很放松，在国内的任何平台都没有这种感觉。是偷偷摸摸和自由导致的吗？但是真的自由吗？。我不敢说。我甚至不敢给一些特定内容点赞。我到底在说什么。好累。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 876,
+          "like_count": 29008,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 5835
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

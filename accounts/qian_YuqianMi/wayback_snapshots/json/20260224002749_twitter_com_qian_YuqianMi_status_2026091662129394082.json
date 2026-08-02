@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2026091662129394082",
+    "created_at": "2026-02-24T00:27:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T01:27:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026091662129394082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/M_rui_/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/M_rui_/status/2020456868997423539",
+          "start": 8,
+          "url": "https://t.co/a7ccqaXJGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026091662129394082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020456868997423539",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个我是真喜欢 https://t.co/a7ccqaXJGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2672,
+        "media_key": "3_2020456623303729153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoamBQaoAE4rau.jpg",
+        "width": 2310
+      },
+      {
+        "height": 2638,
+        "media_key": "3_2020456643688108033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoanNMbkAEeLks.jpg",
+        "width": 2072
+      },
+      {
+        "height": 2450,
+        "media_key": "3_2020456662579249152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAoaoTkbgAAWL3K.jpg",
+        "width": 2138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2026091662129394082",
+        "created_at": "2026-02-24T00:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T01:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026091662129394082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/M_rui_/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/M_rui_/status/2020456868997423539",
+              "start": 8,
+              "url": "https://t.co/a7ccqaXJGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026091662129394082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020456868997423539",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个我是真喜欢 https://t.co/a7ccqaXJGp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020456623303729153",
+            "3_2020456643688108033",
+            "3_2020456662579249152"
+          ]
+        },
+        "author_id": "277534838",
+        "conversation_id": "2020456868997423539",
+        "created_at": "2026-02-08T11:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T12:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020456868997423539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j1ArA8OVn7",
+              "end": 104,
+              "expanded_url": "https://x.com/M_rui_/status/2020456868997423539/photo/1",
+              "media_key": "3_2020456623303729153",
+              "start": 81,
+              "url": "https://t.co/j1ArA8OVn7"
+            },
+            {
+              "display_url": "pic.x.com/j1ArA8OVn7",
+              "end": 104,
+              "expanded_url": "https://x.com/M_rui_/status/2020456868997423539/photo/1",
+              "media_key": "3_2020456643688108033",
+              "start": 81,
+              "url": "https://t.co/j1ArA8OVn7"
+            },
+            {
+              "display_url": "pic.x.com/j1ArA8OVn7",
+              "end": 104,
+              "expanded_url": "https://x.com/M_rui_/status/2020456868997423539/photo/1",
+              "media_key": "3_2020456662579249152",
+              "start": 81,
+              "url": "https://t.co/j1ArA8OVn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020456868997423539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 479,
+          "impression_count": 134639,
+          "like_count": 3121,
+          "quote_count": 16,
+          "reply_count": 17,
+          "retweet_count": 377
+        },
+        "reply_settings": "everyone",
+        "text": "鳴　潮　性　別　転　換　残　星　組　織　 \n\n 頑張って全員描ききったので並べてみました！ \n皆さんはどのキャラが一番好みかコメントで教えて頂けると嬉しいです✨ https://t.co/j1ArA8OVn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 774,
+          "like_count": 22360,
+          "listed_count": 0,
+          "media_count": 326,
+          "tweet_count": 4430
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-05T15:24:28.000Z",
+        "description": "（ ´る`）＜絵を描きます。崩壊スターレイルHoYoLAB認定クリエイター（ゼレブロの星神）、ZZZ、原神、崩壊3rd、鳴潮 ◆ご依頼⇒メールまで◆mail→ mirui0568@gmail.com◆skeb受付中→https://t.co/n2ovYhssmk◆落書き日常垢→（@M_rui_2）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 140,
+                "username": "M_rui_2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@M_rui_",
+                "end": 131,
+                "expanded_url": "https://skeb.jp/@M_rui_",
+                "start": 108,
+                "url": "https://t.co/n2ovYhssmk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/17WMX7VZWNA7M?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/73ESaX4xAJ"
+              }
+            ]
+          }
+        },
+        "id": "277534838",
+        "location": "ベロブルグ下層部",
+        "name": "みるい",
+        "pinned_tweet_id": "2025535956783452640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944005145806962688/PAkwGGwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66676,
+          "following_count": 423,
+          "like_count": 9653,
+          "listed_count": 379,
+          "media_count": 8196,
+          "tweet_count": 158809
+        },
+        "url": "https://t.co/73ESaX4xAJ",
+        "username": "M_rui_",
+        "verified": true
+      }
+    ]
+  }
+}

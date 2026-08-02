@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2000540415720837380",
+    "created_at": "2025-12-15T12:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T13:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000540415720837380"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 131,
+          "tag": "日常弥"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000540415720837380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打完球，感觉那个妹妹其实想和我一起回去的来着，，但是我很快的就溜走了（千千是笨蛋！）\n\n哎其实很怕和别人走起太近吧，不敢相信别人，不敢相信感情。嘴上天天说着想谈恋爱但是自己一点勇气都没有。（跟我在一起就好了不要去找别的女人。（不行我还是需要一个实体的（坏（缠）\n#日常弥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2000540415720837380",
+        "created_at": "2025-12-15T12:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T13:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000540415720837380"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "日常弥"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000540415720837380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打完球，感觉那个妹妹其实想和我一起回去的来着，，但是我很快的就溜走了（千千是笨蛋！）\n\n哎其实很怕和别人走起太近吧，不敢相信别人，不敢相信感情。嘴上天天说着想谈恋爱但是自己一点勇气都没有。（跟我在一起就好了不要去找别的女人。（不行我还是需要一个实体的（坏（缠）\n#日常弥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 385,
+          "like_count": 5143,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 1284
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

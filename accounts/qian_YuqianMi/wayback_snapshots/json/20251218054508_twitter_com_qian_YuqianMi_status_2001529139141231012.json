@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2001522702348357958",
+    "created_at": "2025-12-18T05:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T06:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001529139141231012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1412919406070362116",
+          "start": 0,
+          "username": "yujiu_offica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001529139141231012",
+    "in_reply_to_user_id": "1412919406070362116",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001522702348357958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yujiu_offica 宝宝好可爱づ♡ど"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2001522690138742784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bWSDuaoAACxTU.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2001522690159767552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bWSDzbcAA7x9h.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2001522690155524096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8bWSDyasAAvFxg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2001522702348357958",
+        "created_at": "2025-12-18T05:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T06:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001529139141231012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1412919406070362116",
+              "start": 0,
+              "username": "yujiu_offica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001529139141231012",
+        "in_reply_to_user_id": "1412919406070362116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001522702348357958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yujiu_offica 宝宝好可爱づ♡ど"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001522690138742784",
+            "3_2001522690159767552",
+            "3_2001522690155524096"
+          ]
+        },
+        "author_id": "1412919406070362116",
+        "conversation_id": "2001522702348357958",
+        "created_at": "2025-12-18T05:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T06:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001522702348357958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Clw4xojVnY",
+              "end": 44,
+              "expanded_url": "https://x.com/yujiu_offica/status/2001522702348357958/photo/1",
+              "media_key": "3_2001522690138742784",
+              "start": 21,
+              "url": "https://t.co/Clw4xojVnY"
+            },
+            {
+              "display_url": "pic.x.com/Clw4xojVnY",
+              "end": 44,
+              "expanded_url": "https://x.com/yujiu_offica/status/2001522702348357958/photo/1",
+              "media_key": "3_2001522690159767552",
+              "start": 21,
+              "url": "https://t.co/Clw4xojVnY"
+            },
+            {
+              "display_url": "pic.x.com/Clw4xojVnY",
+              "end": 44,
+              "expanded_url": "https://x.com/yujiu_offica/status/2001522702348357958/photo/1",
+              "media_key": "3_2001522690155524096",
+              "start": 21,
+              "url": "https://t.co/Clw4xojVnY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001522702348357958",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每次洗完澡就这样选择最可爱的特效卖萌臭美 https://t.co/Clw4xojVnY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 420,
+          "like_count": 5767,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1457
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T23:40:20.000Z",
+        "description": "灵/九/aki 。选择一个你喜欢的称呼吧w\n互fo私！\n喜欢看h！但是不会强行和别人聊这些？反正就是，正常人的程度嘛，，作为人类的礼仪我还是十分充沛的！！！！\n想要认识你！！！！！\n性格很诡异啦但是出乎意料的是一个被很多人信任的倾听者？想要成为圣女拯救所有人——\n不见证，不是很懂敏感话题\n不开心就试着来找我嘛！",
+        "id": "1412919406070362116",
+        "location": "在“那”！",
+        "name": "九安心绪杂货店",
+        "pinned_tweet_id": "1996049006884257973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994375616414806016/y6Mzhya-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 166,
+          "like_count": 5525,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 902
+        },
+        "username": "yujiu_offica",
+        "verified": false
+      }
+    ]
+  }
+}

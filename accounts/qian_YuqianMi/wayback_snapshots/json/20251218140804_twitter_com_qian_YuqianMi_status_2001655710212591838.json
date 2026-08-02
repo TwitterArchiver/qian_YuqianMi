@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2001653318192632146",
+    "created_at": "2025-12-18T14:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T15:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001655710212591838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1989191439339933696",
+          "start": 0,
+          "username": "KnowsRudol89374"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001655710212591838",
+    "in_reply_to_user_id": "1989191439339933696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001654517755170829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KnowsRudol89374 哦不，没有😭😭只能挨着了。真的没办法。寝室里负责买水的真的一点都不负责，还是今天我提醒他他才知道要买水，不然到后天我们都得渴着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2001653318192632146",
+        "created_at": "2025-12-18T14:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001655710212591838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1989191439339933696",
+              "start": 0,
+              "username": "KnowsRudol89374"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001655710212591838",
+        "in_reply_to_user_id": "1989191439339933696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001654517755170829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KnowsRudol89374 哦不，没有😭😭只能挨着了。真的没办法。寝室里负责买水的真的一点都不负责，还是今天我提醒他他才知道要买水，不然到后天我们都得渴着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989191439339933696",
+        "conversation_id": "2001653318192632146",
+        "created_at": "2025-12-18T14:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001654517755170829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001654517755170829",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001653318192632146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 摸摸，寝室有自动贩卖机吗去买点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 423,
+          "like_count": 5858,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1489
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T04:39:32.000Z",
+        "description": "神秘转生女 拉狗邦狗双坑 2005.1.15/2025.11.6 主页会转血图、r18g反感请mute",
+        "id": "1989191439339933696",
+        "name": "Hiecha🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999035835128422400/184ZxRw9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 47,
+          "like_count": 203,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 98
+        },
+        "username": "KnowsRudol89374",
+        "verified": false
+      }
+    ]
+  }
+}

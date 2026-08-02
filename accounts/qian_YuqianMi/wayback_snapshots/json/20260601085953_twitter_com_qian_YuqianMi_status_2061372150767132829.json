@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2061286028879478885",
+    "created_at": "2026-06-01T08:59:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T09:59:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061372150767132829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061372150767132829",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061286028879478885",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 宝宝你很棒 摸摸泥 不要难过啦"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16166,
+        "height": 1280,
+        "media_key": "13_2061285919970185217",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061285919970185217/img/5KeSai4D6YKC4wLd.jpg",
+        "public_metrics": {
+          "view_count": 171
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061285919970185217/vid/avc1/320x568/UbFQdMVaZ3gtqIIL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061285919970185217/vid/avc1/480x852/y65JXLBdM6DT2W-B.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061285919970185217/vid/avc1/720x1280/tHG9vGG9X8h0s-SM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061285919970185217/pl/X6ad2IR0VzwxfSU8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2061286028879478885",
+        "created_at": "2026-06-01T08:59:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T09:59:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061372150767132829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061372150767132829",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061286028879478885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 宝宝你很棒 摸摸泥 不要难过啦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061285919970185217"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2061286028879478885",
+        "created_at": "2026-06-01T03:17:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:17:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061286028879478885"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 119,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 143,
+              "start": 134,
+              "tag": "おすすめ乗らせて"
+            },
+            {
+              "end": 148,
+              "start": 144,
+              "tag": "病み垢"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aGyaS5sylM",
+              "end": 172,
+              "expanded_url": "https://x.com/DrankghostU/status/2061286028879478885/video/1",
+              "media_key": "13_2061285919970185217",
+              "start": 149,
+              "url": "https://t.co/aGyaS5sylM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061286028879478885",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 622,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "死目莉刚刚被ptsd重击创伤大哭了一场自我否定感爆炸了于是骚扰了好多列表寻求认可——感谢接我电话听到死目莉的死亡痛哭声还没有嫌弃死目莉的好朋朋们！😿\n不知道该说什么好，看到这条视频的人可以来夸夸死目莉吗😿\n………我需要你们的肯定和认可\n\n#自撮り界隈 #承認欲求の塊 #おすすめ乗らせて #病み垢 https://t.co/aGyaS5sylM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 868,
+          "like_count": 28673,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5753
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 179,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 258
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

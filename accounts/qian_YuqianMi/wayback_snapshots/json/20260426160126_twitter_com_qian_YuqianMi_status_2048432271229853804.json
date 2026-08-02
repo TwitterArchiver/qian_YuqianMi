@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2048431849102627185",
+    "created_at": "2026-04-26T16:01:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:01:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048432271229853804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874030938104991744",
+          "start": 0,
+          "username": "pp2494812296"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048432271229853804",
+    "in_reply_to_user_id": "1874030938104991744",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048431849102627185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pp2494812296 wtf 🆘🆘🆘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2048431849102627185",
+        "created_at": "2026-04-26T16:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048432271229853804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874030938104991744",
+              "start": 0,
+              "username": "pp2494812296"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048432271229853804",
+        "in_reply_to_user_id": "1874030938104991744",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048431849102627185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pp2494812296 wtf 🆘🆘🆘"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874030938104991744",
+        "conversation_id": "2048431849102627185",
+        "created_at": "2026-04-26T15:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048431849102627185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048431849102627185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么现充室友最近老蹦出“杂鱼杂鱼欧泥酱”的话…WTF…别搞了啊…！🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘🆘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 828,
+          "like_count": 27105,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 5353
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-31T09:53:02.000Z",
+        "description": "低精力直女【完全恶俗负能量版】副人格💛日记本 回复NGL 另个号太多人了我喜欢私密的发疯 偶尔转片+收集片\n水声、舔舔亲亲抱抱的女性向 纯爱+狠doi\n钱性恋  手控 Switch 1i＞4i 身高159/体重84斤 尾戒美码2号 呆萌主人格：@O3OoneoneTvT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "O3OoneoneTvT"
+              }
+            ]
+          }
+        },
+        "id": "1874030938104991744",
+        "name": "苦巧日记本",
+        "pinned_tweet_id": "2047053901997002955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047336099283132417/UIyhZkUa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 601,
+          "following_count": 200,
+          "like_count": 5182,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 1687
+        },
+        "username": "pp2494812296",
+        "verified": false
+      }
+    ]
+  }
+}

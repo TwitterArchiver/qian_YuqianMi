@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1998062649335243198",
+    "created_at": "2025-12-09T05:16:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T06:16:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998260548086231211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964181025019637760",
+          "start": 0,
+          "username": "akirazero12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998260548086231211",
+    "in_reply_to_user_id": "1964181025019637760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998062649335243198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akirazero12 好看！这个头发质感绝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1318,
+        "media_key": "3_1998062615483092993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7qLXNLbkAELFQZ.png",
+        "width": 1103
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1998062649335243198",
+        "created_at": "2025-12-09T05:16:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:16:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998260548086231211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964181025019637760",
+              "start": 0,
+              "username": "akirazero12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998260548086231211",
+        "in_reply_to_user_id": "1964181025019637760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998062649335243198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akirazero12 好看！这个头发质感绝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998062615483092993"
+          ]
+        },
+        "author_id": "1964181025019637760",
+        "conversation_id": "1998062649335243198",
+        "created_at": "2025-12-08T16:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T17:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998062649335243198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HumVTWizEh",
+              "end": 90,
+              "expanded_url": "https://x.com/akirazero12/status/1998062649335243198/photo/1",
+              "media_key": "3_1998062615483092993",
+              "start": 67,
+              "url": "https://t.co/HumVTWizEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998062649335243198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爽死了爽死了爽死了爽死了！！！\n亢奋！！！\n但是电脑没电了，晚安！！！\n啊啊啊啊啊啊啊啊画的好爽啊啊啊啊啊啊\n画画就是精神毒品》》》 https://t.co/HumVTWizEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 362,
+          "like_count": 4309,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 1092
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-06T04:17:18.000Z",
+        "description": "互联网小天使的分身！！一起让世界变得更美妙吧——！\n不政/不约/无🚪\n来和我玩吧！\n大号：@yujiu_offica",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 45,
+                "username": "yujiu_offica"
+              }
+            ]
+          }
+        },
+        "id": "1964181025019637760",
+        "location": "在“这”！",
+        "name": "九安蛊董杂货店",
+        "pinned_tweet_id": "1998062649335243198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996791449892147201/yOIjMvDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 15,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 16
+        },
+        "username": "akirazero12",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "1999062446624170284",
+    "created_at": "2025-12-11T10:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T11:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999062446624170284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zureeal/status…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/zureeal/status/1998943402432618645",
+          "start": 14,
+          "url": "https://t.co/DuDRywrQZT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999062446624170284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998943402432618645",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "帅晕了我天，，这也太好看了 https://t.co/DuDRywrQZT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5864,
+        "height": 1280,
+        "media_key": "7_1998943383465738241",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1998943383465738241/pu/img/5YZa1H0EwZr3M-53.jpg",
+        "public_metrics": {
+          "view_count": 52825
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998943383465738241/pu/vid/avc1/320x568/71Sw1JaJri6ntHZz.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998943383465738241/pu/vid/avc1/480x852/H3JG0QQlVSxba193.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1998943383465738241/pu/vid/avc1/720x1280/wjiLy5Zem9-f0Ige.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1998943383465738241/pu/pl/2RC-3evC8aLBkSlG.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1999062446624170284",
+        "created_at": "2025-12-11T10:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999062446624170284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zureeal/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/zureeal/status/1998943402432618645",
+              "start": 14,
+              "url": "https://t.co/DuDRywrQZT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999062446624170284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998943402432618645",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帅晕了我天，，这也太好看了 https://t.co/DuDRywrQZT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1998943383465738241"
+          ]
+        },
+        "author_id": "927151084212068353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "1998943402432618645",
+        "created_at": "2025-12-11T02:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T03:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998943402432618645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vv7bO6CVnl",
+              "end": 67,
+              "expanded_url": "https://x.com/zureeal/status/1998943402432618645/video/1",
+              "media_key": "7_1998943383465738241",
+              "start": 44,
+              "url": "https://t.co/vv7bO6CVnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998943402432618645",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1505,
+          "impression_count": 111110,
+          "like_count": 12845,
+          "quote_count": 55,
+          "reply_count": 67,
+          "retweet_count": 811
+        },
+        "reply_settings": "everyone",
+        "text": "Late night doodling on hand tattoo concepts https://t.co/vv7bO6CVnl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 371,
+          "like_count": 4681,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1168
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-05T12:30:18.000Z",
+        "description": "♡silly on the interwebs. . .🧚‍♀️faery-gamer-cosplay-art🇭🇰🇬🇧🏳️‍🌈wasian混血兒☆\n 🆓️💙🤍mild spice🌶I DO NOT do explicit content!🙅‍♀️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.ai/zureeal/",
+                "end": 23,
+                "expanded_url": "https://beacons.ai/zureeal/",
+                "start": 0,
+                "url": "https://t.co/HspL4ELhiR"
+              }
+            ]
+          }
+        },
+        "id": "927151084212068353",
+        "location": "Skyrim, Riften ",
+        "name": "°𐐪♡Z𝖚𝖗𝖊𝖊𝖆𝖑/ 琇然♡𐑂°",
+        "pinned_tweet_id": "1836757983285358785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834365447304515584/lQuC_o02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44768,
+          "following_count": 577,
+          "like_count": 29051,
+          "listed_count": 63,
+          "media_count": 2701,
+          "tweet_count": 8278
+        },
+        "url": "https://t.co/HspL4ELhiR",
+        "username": "zureeal",
+        "verified": false
+      }
+    ]
+  }
+}

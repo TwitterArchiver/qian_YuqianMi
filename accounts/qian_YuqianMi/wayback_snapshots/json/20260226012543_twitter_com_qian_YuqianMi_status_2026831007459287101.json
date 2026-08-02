@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026748050203668480"
+      ],
+      "media_source_tweet_id": [
+        "2026748056709091461"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2026831007459287101",
+    "created_at": "2026-02-26T01:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026831007459287101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1908047801348665344",
+          "start": 3,
+          "username": "pippi_c1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/A4sGDRGf2d",
+          "end": 37,
+          "expanded_url": "https://x.com/pippi_c1/status/2026748056709091461/photo/1",
+          "media_key": "3_2026748050203668480",
+          "start": 14,
+          "url": "https://t.co/A4sGDRGf2d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026831007459287101",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 347
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026748056709091461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @pippi_c1: https://t.co/A4sGDRGf2d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1273,
+        "media_key": "3_2026748050203668480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCB0nQ2a8AAvI1z.jpg",
+        "width": 1285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026748050203668480"
+          ],
+          "media_source_tweet_id": [
+            "2026748056709091461"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2026831007459287101",
+        "created_at": "2026-02-26T01:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T02:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026831007459287101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1908047801348665344",
+              "start": 3,
+              "username": "pippi_c1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4sGDRGf2d",
+              "end": 37,
+              "expanded_url": "https://x.com/pippi_c1/status/2026748056709091461/photo/1",
+              "media_key": "3_2026748050203668480",
+              "start": 14,
+              "url": "https://t.co/A4sGDRGf2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026831007459287101",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026748056709091461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @pippi_c1: https://t.co/A4sGDRGf2d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026748050203668480"
+          ]
+        },
+        "author_id": "1908047801348665344",
+        "conversation_id": "2026748056709091461",
+        "created_at": "2026-02-25T19:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T20:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026748056709091461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A4sGDRGf2d",
+              "end": 23,
+              "expanded_url": "https://x.com/pippi_c1/status/2026748056709091461/photo/1",
+              "media_key": "3_2026748050203668480",
+              "start": 0,
+              "url": "https://t.co/A4sGDRGf2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026748056709091461",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 23915,
+          "like_count": 3937,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 347
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/A4sGDRGf2d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 783,
+          "like_count": 22846,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 4482
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-04T06:43:49.000Z",
+        "description": "ﾓ https://t.co/BWVkET60C8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/BOLGk7ldylaQ2g…",
+                "end": 25,
+                "expanded_url": "https://lit.link/BOLGk7ldylaQ2gAci2SZVjLK9CE2",
+                "start": 2,
+                "url": "https://t.co/BWVkET60C8"
+              }
+            ]
+          }
+        },
+        "id": "1908047801348665344",
+        "location": "無断転載、AI学習禁止",
+        "name": "またあした",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913905952325353472/GiOjQty3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14509,
+          "following_count": 0,
+          "like_count": 544,
+          "listed_count": 51,
+          "media_count": 47,
+          "tweet_count": 60
+        },
+        "username": "pippi_c1",
+        "verified": false
+      }
+    ]
+  }
+}

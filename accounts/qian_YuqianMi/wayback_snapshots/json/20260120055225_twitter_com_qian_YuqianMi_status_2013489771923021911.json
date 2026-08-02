@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2013472519429464469",
+    "created_at": "2026-01-20T05:52:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T06:52:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013489771923021911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1933730779571638272",
+          "start": 0,
+          "username": "1onelypuppy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013489771923021911",
+    "in_reply_to_user_id": "1933730779571638272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013472519429464469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1onelypuppy 我也是。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2013472519429464469",
+        "created_at": "2026-01-20T05:52:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T06:52:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013489771923021911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1933730779571638272",
+              "start": 0,
+              "username": "1onelypuppy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013489771923021911",
+        "in_reply_to_user_id": "1933730779571638272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013472519429464469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1onelypuppy 我也是。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933730779571638272",
+        "conversation_id": "2013472519429464469",
+        "created_at": "2026-01-20T04:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T05:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013472519429464469"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013472519429464469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1333,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身边人做爱对我的刺激真的很大，我会嫉妒到发狂，做爱对我来说是一个遥不可及的梦想因为它有一个很困难的前提就是我需要有一个可以信任的对象但我是如此缺乏安全感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 669,
+          "like_count": 14386,
+          "listed_count": 1,
+          "media_count": 251,
+          "tweet_count": 3154
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-14T03:38:46.000Z",
+        "description": "",
+        "id": "1933730779571638272",
+        "location": "庇护所",
+        "name": "在自慰",
+        "pinned_tweet_id": "1993406029229703659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013478546316922880/iTCdk-nI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11871,
+          "following_count": 91,
+          "like_count": 1535,
+          "listed_count": 11,
+          "media_count": 12,
+          "tweet_count": 639
+        },
+        "username": "1onelypuppy",
+        "verified": false
+      }
+    ]
+  }
+}

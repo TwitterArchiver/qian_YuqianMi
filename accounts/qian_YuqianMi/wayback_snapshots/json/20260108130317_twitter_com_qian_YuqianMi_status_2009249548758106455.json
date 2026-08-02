@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009229393454092438",
+    "created_at": "2026-01-08T13:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T14:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009249548758106455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988874388972924930",
+          "start": 0,
+          "username": "kumokokono"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009249548758106455",
+    "in_reply_to_user_id": "1988874388972924930",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009229393454092438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kumokokono 我也是。。焦虑的要死但是又减不下来。好绝望！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009229393454092438",
+        "created_at": "2026-01-08T13:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009249548758106455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988874388972924930",
+              "start": 0,
+              "username": "kumokokono"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009249548758106455",
+        "in_reply_to_user_id": "1988874388972924930",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009229393454092438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kumokokono 我也是。。焦虑的要死但是又减不下来。好绝望！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988874388972924930",
+        "conversation_id": "2009229393454092438",
+        "created_at": "2026-01-08T11:43:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T12:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009229393454092438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009229393454092438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是每次想减肥我都会半途而废因为太压抑太不幸福，最后的结果就是开始神经性暴食代偿一直进食到那种嗓子眼都感觉堵堵的塞不进去一点的程度，我真的很崩溃了我不想这样，现在就是不管我有没有在进食有没有饥饿感只要一想到进食和食物我就开始习惯性反胃，老铁我该怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 600,
+          "like_count": 9902,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2318
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T07:39:53.000Z",
+        "description": "关于一些记录和监测\n\n我是水，实在需要一些刻板印象的话→精神疾病｜无立场｜intp｜acgn｜农学生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kumokokono",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kumokokono",
+                "start": 0,
+                "url": "https://t.co/uQkz24mryS"
+              }
+            ]
+          }
+        },
+        "id": "1988874388972924930",
+        "location": "死亦如歌",
+        "name": "x@!nilj_tv",
+        "pinned_tweet_id": "1990812732950786444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988875885970354176/zvRIn1FC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 147,
+          "like_count": 821,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/uQkz24mryS",
+        "username": "kumokokono",
+        "verified": false
+      }
+    ]
+  }
+}

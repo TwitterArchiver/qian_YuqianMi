@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2001262246111109191",
+    "created_at": "2025-12-17T12:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T13:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001264363236442483"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001264363236442483",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001262246111109191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哦对了学生证上那张图是之前尝试平涂的时候画的，这次正好拿来用了哈哈哈哈，那张图好像没在这边发过来着"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001262242986364929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XpaCeakAE_Y4U.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2001262232517464064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8XpZbeb0AA3WTf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2001262246111109191",
+        "created_at": "2025-12-17T12:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001264363236442483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001264363236442483",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001262246111109191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哦对了学生证上那张图是之前尝试平涂的时候画的，这次正好拿来用了哈哈哈哈，那张图好像没在这边发过来着"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001262242986364929",
+            "3_2001262232517464064"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2001262246111109191",
+        "created_at": "2025-12-17T12:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T13:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001262246111109191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/idmyYODBu3",
+              "end": 144,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2001262246111109191/photo/1",
+              "media_key": "3_2001262242986364929",
+              "start": 121,
+              "url": "https://t.co/idmyYODBu3"
+            },
+            {
+              "display_url": "pic.x.com/idmyYODBu3",
+              "end": 144,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2001262246111109191/photo/1",
+              "media_key": "3_2001262232517464064",
+              "start": 121,
+              "url": "https://t.co/idmyYODBu3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001262246111109191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【殷羽婳弥：放课后】。\n（附赠一个打码版本（xswl\n\n​厚涂就是一种细化不完的东西，，不折磨自己了就这样吧！\n​\n​虽然这张是黄图但是是我最高水准的画作了，尝试了很多特效，并且活用了形变，感觉自己变强了！\n₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛ https://t.co/idmyYODBu3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 414,
+          "like_count": 5630,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 1410
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

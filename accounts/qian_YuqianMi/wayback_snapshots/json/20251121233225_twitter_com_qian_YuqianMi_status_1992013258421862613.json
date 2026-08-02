@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991885584659595264"
+      ],
+      "media_source_tweet_id": [
+        "1991885589885653271"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1992013258421862613",
+    "created_at": "2025-11-21T23:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T00:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992013258421862613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426753435806756866",
+          "start": 3,
+          "username": "hosikage4040"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ccXmlco7Qw",
+          "end": 41,
+          "expanded_url": "https://x.com/hosikage4040/status/1991885589885653271/photo/1",
+          "media_key": "3_1991885584659595264",
+          "start": 18,
+          "url": "https://t.co/ccXmlco7Qw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992013258421862613",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991885589885653271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hosikage4040: https://t.co/ccXmlco7Qw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1800,
+        "media_key": "3_1991885584659595264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6SZYsLbQAAeQiN.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991885584659595264"
+          ],
+          "media_source_tweet_id": [
+            "1991885589885653271"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1992013258421862613",
+        "created_at": "2025-11-21T23:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T00:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992013258421862613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426753435806756866",
+              "start": 3,
+              "username": "hosikage4040"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccXmlco7Qw",
+              "end": 41,
+              "expanded_url": "https://x.com/hosikage4040/status/1991885589885653271/photo/1",
+              "media_key": "3_1991885584659595264",
+              "start": 18,
+              "url": "https://t.co/ccXmlco7Qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992013258421862613",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991885589885653271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hosikage4040: https://t.co/ccXmlco7Qw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991885584659595264"
+          ]
+        },
+        "author_id": "1426753435806756866",
+        "conversation_id": "1991885589885653271",
+        "created_at": "2025-11-21T15:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T16:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991885589885653271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccXmlco7Qw",
+              "end": 23,
+              "expanded_url": "https://x.com/hosikage4040/status/1991885589885653271/photo/1",
+              "media_key": "3_1991885584659595264",
+              "start": 0,
+              "url": "https://t.co/ccXmlco7Qw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991885589885653271",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 7318,
+          "like_count": 1309,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ccXmlco7Qw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 169,
+          "like_count": 1052,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 254
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T03:52:08.000Z",
+        "description": "illustration◈創作ﾒｲﾝ◈｜FA▶#星ぽすと｜🐈‍⬛依頼募集中🩸依頼(必読)⇒『 https://t.co/1rwrtUOCO2 』｜sub▶ @da_211k｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 23,
+                "tag": "星ぽすと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 86,
+                "start": 78,
+                "username": "da_211k"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/4hosi",
+                "end": 70,
+                "expanded_url": "https://lit.link/4hosi",
+                "start": 47,
+                "url": "https://t.co/1rwrtUOCO2"
+              }
+            ]
+          }
+        },
+        "id": "1426753435806756866",
+        "location": "お別れ:B: 絵柄参考AI学習･無断転載･トレス禁止",
+        "name": "星影",
+        "pinned_tweet_id": "1884526923042509235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945768339269181440/lsOZHqpS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29027,
+          "following_count": 291,
+          "like_count": 38491,
+          "listed_count": 93,
+          "media_count": 943,
+          "tweet_count": 21857
+        },
+        "username": "hosikage4040",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2051833225576960134",
+    "created_at": "2026-05-06T01:21:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T02:21:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051834611102355726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1751595389562822657",
+          "start": 0,
+          "username": "ijia522218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051834611102355726",
+    "in_reply_to_user_id": "1751595389562822657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051833225576960134",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ijia522218 内圈贴贴₍ᐢ..ᐢ₎♡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2051833220371804160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHmTcV6bcAAQDIY.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2051833225576960134",
+        "created_at": "2026-05-06T01:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051834611102355726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1751595389562822657",
+              "start": 0,
+              "username": "ijia522218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051834611102355726",
+        "in_reply_to_user_id": "1751595389562822657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051833225576960134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ijia522218 内圈贴贴₍ᐢ..ᐢ₎♡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051833220371804160"
+          ]
+        },
+        "author_id": "1751595389562822657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2051833225576960134",
+        "created_at": "2026-05-06T01:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T02:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051833225576960134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2051123147123146752/BlNGzaWd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/dwoK1EtG4y"
+            },
+            {
+              "display_url": "pic.x.com/HBB7wcMHcH",
+              "end": 64,
+              "expanded_url": "https://x.com/ijia522218/status/2051833225576960134/photo/1",
+              "media_key": "3_2051833220371804160",
+              "start": 41,
+              "url": "https://t.co/HBB7wcMHcH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051833225576960134",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/dwoK1EtG4y https://t.co/HBB7wcMHcH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 868,
+          "like_count": 28205,
+          "listed_count": 0,
+          "media_count": 377,
+          "tweet_count": 5586
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T13:17:46.000Z",
+        "description": "于世赠大家一场雨🌸\n我是里奈/小女孩 跨性别 可爱的小男孩请与我互fo吧🥺（h男跟我说话暴毙）/日本語がとても下手です/点赞就是想和你互动/非常好脾气~/药物安全非专业人士全是亲身体验，想戒断麻烦可以一直翻我的帖子和评论会看到很多戒断建议/不要学我的用药剂量我是炼丹炉体质学我会出事",
+        "id": "1751595389562822657",
+        "name": "里奈🌸",
+        "pinned_tweet_id": "2049625244994830441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049316824324677632/QpNGCt_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 199,
+          "like_count": 1248,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 590
+        },
+        "username": "ijia522218",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2009259006234382637",
+    "created_at": "2026-01-08T13:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T14:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009259006234382637"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009259006234382637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎我草这男娘当的真烦啊。想拿假唧唧爽一下还得提前不知道几个小时拉干净然后洗澡的时候非常认真的洗。哎我草怎么那么麻烦啊能不能给我长个福！\n这个唧唧又是羸弱的不行啊为什么有cd！！嗯！？为什么！老天爷怎么设计的！回答我！太可恶了卧槽。。我想长个福！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2009259006234382637",
+        "created_at": "2026-01-08T13:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T14:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009259006234382637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009259006234382637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎我草这男娘当的真烦啊。想拿假唧唧爽一下还得提前不知道几个小时拉干净然后洗澡的时候非常认真的洗。哎我草怎么那么麻烦啊能不能给我长个福！\n这个唧唧又是羸弱的不行啊为什么有cd！！嗯！？为什么！老天爷怎么设计的！回答我！太可恶了卧槽。。我想长个福！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 602,
+          "like_count": 9944,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 2329
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

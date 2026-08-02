@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2049768461770068161",
+    "created_at": "2026-04-30T08:30:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:30:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049768461770068161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2028814965965312001",
+          "start": 3,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049768461770068161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049474601768628379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Miiharukawa: 不要再任由想象力再给某个形象或者某个人赋权了。将重心挪回自己或者身边具体的鲜活的人。缺席的人既然缺席那就是退出，对于退出的人没什么好遗憾的。而还没有进入的人也不要让想象力撺掇他人样态，这种期待会破坏人际关系。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2049768461770068161",
+        "created_at": "2026-04-30T08:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049768461770068161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2028814965965312001",
+              "start": 3,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049768461770068161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049474601768628379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Miiharukawa: 不要再任由想象力再给某个形象或者某个人赋权了。将重心挪回自己或者身边具体的鲜活的人。缺席的人既然缺席那就是退出，对于退出的人没什么好遗憾的。而还没有进入的人也不要让想象力撺掇他人样态，这种期待会破坏人际关系。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2049474601768628379",
+        "created_at": "2026-04-29T13:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049474601768628379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049474601768628379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4757,
+          "like_count": 143,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "不要再任由想象力再给某个形象或者某个人赋权了。将重心挪回自己或者身边具体的鲜活的人。缺席的人既然缺席那就是退出，对于退出的人没什么好遗憾的。而还没有进入的人也不要让想象力撺掇他人样态，这种期待会破坏人际关系。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 858,
+          "like_count": 27600,
+          "listed_count": 0,
+          "media_count": 372,
+          "tweet_count": 5469
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "希望天使带我逃离地狱。\n世另我：@Harukayo96",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "Harukayo96"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2039138354856665156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 206,
+          "like_count": 6278,
+          "listed_count": 5,
+          "media_count": 248,
+          "tweet_count": 2390
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2030311520098451472",
+    "created_at": "2026-03-07T16:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030327513508192517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998992756774182913",
+          "start": 0,
+          "username": "Ab55419Mcdowell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030327513508192517",
+    "in_reply_to_user_id": "1998992756774182913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030326802439344457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ab55419Mcdowell 哎感觉会是很不好的回忆，，我第一次一定会慎重的（吧大概）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2030311520098451472",
+        "created_at": "2026-03-07T16:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030327513508192517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998992756774182913",
+              "start": 0,
+              "username": "Ab55419Mcdowell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030327513508192517",
+        "in_reply_to_user_id": "1998992756774182913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030326802439344457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ab55419Mcdowell 哎感觉会是很不好的回忆，，我第一次一定会慎重的（吧大概）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998992756774182913",
+        "conversation_id": "2030311520098451472",
+        "created_at": "2026-03-07T16:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030326802439344457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030326802439344457",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030326578681667816",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 哦莫，谢谢，我现在已经麻了哈哈哈我倒是无所谓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 819,
+          "like_count": 25006,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 4906
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T05:47:34.000Z",
+        "description": "其实我真的很想做小狗/isfp/03/身高162/爱闲聊不找对象纯聊不聊感情不聊专业不聊未来不约不聊体重/问就是头像是本人/高p纯假，窝是死肥宅/没有🚪≠什么人都聊，喜欢我可以背景图投喂喵喵喵我会很谢谢你👉🏻👈🏻and匿名问答↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ab55419mcdowell",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ab55419mcdowell",
+                "start": 0,
+                "url": "https://t.co/8ZCn0I0TS4"
+              }
+            ]
+          }
+        },
+        "id": "1998992756774182913",
+        "name": "我草莓招了",
+        "pinned_tweet_id": "2002655505664352466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010060405268459521/6EH1b8vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 199,
+          "like_count": 9831,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 6982
+        },
+        "url": "https://t.co/8ZCn0I0TS4",
+        "username": "Ab55419Mcdowell",
+        "verified": false
+      }
+    ]
+  }
+}

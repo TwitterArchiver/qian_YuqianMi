@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2026492865321513452",
+    "created_at": "2026-02-25T03:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T04:12:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026495391068467477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682778677912965121",
+          "start": 0,
+          "username": "may7lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026495391068467477",
+    "in_reply_to_user_id": "1682778677912965121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026492865321513452",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@may7lucky 可爱蛋蛋（*/∇＼*）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 1725,
+        "height": 960,
+        "media_key": "7_2026492844782006273",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2026492844782006273/pu/img/EJTwGpX-qS1XaUus.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026492844782006273/pu/vid/avc1/320x426/o8aRSMMagC9MCLFO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026492844782006273/pu/vid/avc1/480x640/uucWcbiRizgYqI8m.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2026492844782006273/pu/vid/avc1/720x960/K49YhvXomm2z2qki.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2026492844782006273/pu/pl/XGYUOTHHQ28Hd3Qx.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2026492865321513452",
+        "created_at": "2026-02-25T03:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:12:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026495391068467477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682778677912965121",
+              "start": 0,
+              "username": "may7lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026495391068467477",
+        "in_reply_to_user_id": "1682778677912965121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026492865321513452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@may7lucky 可爱蛋蛋（*/∇＼*）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2026492844782006273"
+          ]
+        },
+        "author_id": "1682778677912965121",
+        "conversation_id": "2026492865321513452",
+        "created_at": "2026-02-25T03:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T04:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026492865321513452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KhOzlxDbte",
+              "end": 32,
+              "expanded_url": "https://x.com/may7lucky/status/2026492865321513452/video/1",
+              "media_key": "7_2026492844782006273",
+              "start": 9,
+              "url": "https://t.co/KhOzlxDbte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026492865321513452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我今天粗门玩了哟 https://t.co/KhOzlxDbte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 778,
+          "like_count": 22606,
+          "listed_count": 0,
+          "media_count": 319,
+          "tweet_count": 4447
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T15:44:45.000Z",
+        "description": "我想发什么就发什么呀\n只过互关@chicken527ovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 15,
+                "username": "chicken527ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chicken666ovo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chicken666ovo",
+                "start": 0,
+                "url": "https://t.co/prO8MJLbHn"
+              }
+            ]
+          }
+        },
+        "id": "1682778677912965121",
+        "location": "俺是纯绿",
+        "name": "萌混过关",
+        "pinned_tweet_id": "2022912818782351537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019462898054221824/ZY99OOrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 125,
+          "like_count": 23061,
+          "listed_count": 2,
+          "media_count": 453,
+          "tweet_count": 8632
+        },
+        "url": "https://t.co/prO8MJLbHn",
+        "username": "may7lucky",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2025820314178122117",
+    "created_at": "2026-02-23T11:24:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T12:24:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025894493946544452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981563709102477312",
+          "start": 0,
+          "username": "yui804275429451"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025894493946544452",
+    "in_reply_to_user_id": "1981563709102477312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025820314178122117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yui804275429451 太萌了宝宝🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025820305797869568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0o1bna8AArQlE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025820314178122117",
+        "created_at": "2026-02-23T11:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025894493946544452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981563709102477312",
+              "start": 0,
+              "username": "yui804275429451"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025894493946544452",
+        "in_reply_to_user_id": "1981563709102477312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025820314178122117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yui804275429451 太萌了宝宝🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025820305797869568"
+          ]
+        },
+        "author_id": "1981563709102477312",
+        "conversation_id": "2025820314178122117",
+        "created_at": "2026-02-23T06:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T07:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025820314178122117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9UM3X7TxE",
+              "end": 23,
+              "expanded_url": "https://x.com/yui804275429451/status/2025820314178122117/photo/1",
+              "media_key": "3_2025820305797869568",
+              "start": 0,
+              "url": "https://t.co/K9UM3X7TxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025820314178122117",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2432,
+          "like_count": 242,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/K9UM3X7TxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 769,
+          "like_count": 22262,
+          "listed_count": 0,
+          "media_count": 324,
+          "tweet_count": 4408
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T03:29:48.000Z",
+        "description": "希望天使降临在我身边",
+        "id": "1981563709102477312",
+        "location": "北校C栋",
+        "name": "rain",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015769888288067585/0C-Vs_Qv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5574,
+          "following_count": 478,
+          "like_count": 2881,
+          "listed_count": 7,
+          "media_count": 124,
+          "tweet_count": 1004
+        },
+        "username": "yui804275429451",
+        "verified": false
+      }
+    ]
+  }
+}

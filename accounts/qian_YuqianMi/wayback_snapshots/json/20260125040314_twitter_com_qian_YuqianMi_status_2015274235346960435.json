@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015021291062108160",
+        "7_2015021299630788608"
+      ],
+      "media_source_tweet_id": [
+        "2015021330329219381",
+        "2015021330329219381"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2015274235346960435",
+    "created_at": "2026-01-25T04:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T05:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015274235346960435"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 24,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 37,
+          "start": 34,
+          "tag": "白丝"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "菲比"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "724874514283245568",
+          "start": 3,
+          "username": "bbqvsbbch300"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HGRnhdaG8E",
+          "end": 65,
+          "expanded_url": "https://x.com/bbqvsbbch300/status/2015021330329219381/video/1",
+          "media_key": "3_2015021291062108160",
+          "start": 42,
+          "url": "https://t.co/HGRnhdaG8E"
+        },
+        {
+          "display_url": "pic.x.com/HGRnhdaG8E",
+          "end": 65,
+          "expanded_url": "https://x.com/bbqvsbbch300/status/2015021330329219381/video/1",
+          "media_key": "7_2015021299630788608",
+          "start": 42,
+          "url": "https://t.co/HGRnhdaG8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015274235346960435",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015021330329219381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbqvsbbch300: 被电了啊啊\n#kigurumi #白丝 #菲比 https://t.co/HGRnhdaG8E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2015021291062108160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_bLMCybIAAB7zl.jpg",
+        "width": 1280
+      },
+      {
+        "duration_ms": 11795,
+        "height": 1280,
+        "media_key": "7_2015021299630788608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015021299630788608/pu/img/fQ_Pm4SKHhraamZq.jpg",
+        "public_metrics": {
+          "view_count": 27177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015021299630788608/pu/vid/avc1/320x568/jPiT8gWfMHfPAbgE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015021299630788608/pu/vid/avc1/480x852/MmD4vIDKg3UIbfsD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015021299630788608/pu/vid/avc1/720x1280/y6aJ1nSpZM6SrJo8.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015021299630788608/pu/pl/QtaiMkcbCD_jzqij.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015021291062108160",
+            "7_2015021299630788608"
+          ],
+          "media_source_tweet_id": [
+            "2015021330329219381",
+            "2015021330329219381"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2015274235346960435",
+        "created_at": "2026-01-25T04:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T05:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015274235346960435"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 24,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "白丝"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "菲比"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "724874514283245568",
+              "start": 3,
+              "username": "bbqvsbbch300"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HGRnhdaG8E",
+              "end": 65,
+              "expanded_url": "https://x.com/bbqvsbbch300/status/2015021330329219381/video/1",
+              "media_key": "3_2015021291062108160",
+              "start": 42,
+              "url": "https://t.co/HGRnhdaG8E"
+            },
+            {
+              "display_url": "pic.x.com/HGRnhdaG8E",
+              "end": 65,
+              "expanded_url": "https://x.com/bbqvsbbch300/status/2015021330329219381/video/1",
+              "media_key": "7_2015021299630788608",
+              "start": 42,
+              "url": "https://t.co/HGRnhdaG8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015274235346960435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015021330329219381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbqvsbbch300: 被电了啊啊\n#kigurumi #白丝 #菲比 https://t.co/HGRnhdaG8E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015021291062108160",
+            "7_2015021299630788608"
+          ]
+        },
+        "author_id": "724874514283245568",
+        "conversation_id": "2015021330329219381",
+        "created_at": "2026-01-24T11:18:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T12:18:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015021330329219381"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 6,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "白丝"
+            },
+            {
+              "end": 23,
+              "start": 20,
+              "tag": "菲比"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HGRnhdaG8E",
+              "end": 47,
+              "expanded_url": "https://x.com/bbqvsbbch300/status/2015021330329219381/video/1",
+              "media_key": "3_2015021291062108160",
+              "start": 24,
+              "url": "https://t.co/HGRnhdaG8E"
+            },
+            {
+              "display_url": "pic.x.com/HGRnhdaG8E",
+              "end": 47,
+              "expanded_url": "https://x.com/bbqvsbbch300/status/2015021330329219381/video/1",
+              "media_key": "7_2015021299630788608",
+              "start": 24,
+              "url": "https://t.co/HGRnhdaG8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015021330329219381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 292,
+          "impression_count": 65961,
+          "like_count": 1226,
+          "quote_count": 0,
+          "reply_count": 38,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "被电了啊啊\n#kigurumi #白丝 #菲比 https://t.co/HGRnhdaG8E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 693,
+          "like_count": 15763,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 3385
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-26T08:15:26.000Z",
+        "description": "清水推，日更推主🥺转载随意，但请标明出处\n不接线下，啥都不卖，不接诈骗推广😡😡\n主要更新在X上~ 看心情回私信（当然娃除外~\n请不要偷主包的图说是自己哦",
+        "id": "724874514283245568",
+        "location": "在你心里",
+        "name": "千本桜",
+        "pinned_tweet_id": "2015021330329219381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958831256709603330/6HrzcLV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36011,
+          "following_count": 1414,
+          "like_count": 6464,
+          "listed_count": 105,
+          "media_count": 315,
+          "tweet_count": 3861
+        },
+        "username": "bbqvsbbch300",
+        "verified": false
+      }
+    ]
+  }
+}

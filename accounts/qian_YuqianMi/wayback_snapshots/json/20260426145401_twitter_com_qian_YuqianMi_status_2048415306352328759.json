@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048082374286864384"
+      ],
+      "media_source_tweet_id": [
+        "2048082377524773277"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2048415306352328759",
+    "created_at": "2026-04-26T14:54:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T15:54:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048415306352328759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807540659504721920",
+          "start": 3,
+          "username": "FailedArtist786"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NIhzPm2w4",
+          "end": 50,
+          "expanded_url": "https://x.com/FailedArtist786/status/2048082377524773277/photo/1",
+          "media_key": "3_2048082374286864384",
+          "start": 27,
+          "url": "https://t.co/8NIhzPm2w4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048415306352328759",
+    "lang": "lt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048082377524773277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FailedArtist786: Rukia https://t.co/8NIhzPm2w4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048082374286864384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxAEXYbcAAo92y.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048082374286864384"
+          ],
+          "media_source_tweet_id": [
+            "2048082377524773277"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2048415306352328759",
+        "created_at": "2026-04-26T14:54:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T15:54:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048415306352328759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807540659504721920",
+              "start": 3,
+              "username": "FailedArtist786"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NIhzPm2w4",
+              "end": 50,
+              "expanded_url": "https://x.com/FailedArtist786/status/2048082377524773277/photo/1",
+              "media_key": "3_2048082374286864384",
+              "start": 27,
+              "url": "https://t.co/8NIhzPm2w4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048415306352328759",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048082377524773277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FailedArtist786: Rukia https://t.co/8NIhzPm2w4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048082374286864384"
+          ]
+        },
+        "author_id": "1807540659504721920",
+        "conversation_id": "2048082377524773277",
+        "created_at": "2026-04-25T16:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048082377524773277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NIhzPm2w4",
+              "end": 29,
+              "expanded_url": "https://x.com/FailedArtist786/status/2048082377524773277/photo/1",
+              "media_key": "3_2048082374286864384",
+              "start": 6,
+              "url": "https://t.co/8NIhzPm2w4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048082377524773277",
+        "lang": "lt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8276,
+          "impression_count": 489225,
+          "like_count": 62569,
+          "quote_count": 59,
+          "reply_count": 98,
+          "retweet_count": 4322
+        },
+        "reply_settings": "everyone",
+        "text": "Rukia https://t.co/8NIhzPm2w4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 824,
+          "like_count": 27057,
+          "listed_count": 0,
+          "media_count": 368,
+          "tweet_count": 5344
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-30T22:24:20.000Z",
+        "description": "Support: https://t.co/vpqyUBiMaI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/prixmal",
+                "end": 32,
+                "expanded_url": "https://linktr.ee/prixmal",
+                "start": 9,
+                "url": "https://t.co/vpqyUBiMaI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/81896…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/81896885",
+                "start": 0,
+                "url": "https://t.co/pADVqNURjT"
+              }
+            ]
+          }
+        },
+        "id": "1807540659504721920",
+        "name": "PRIX 🎨",
+        "pinned_tweet_id": "2048082377524773277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024177646859669504/PSDD7loH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26854,
+          "following_count": 81,
+          "like_count": 2219,
+          "listed_count": 92,
+          "media_count": 69,
+          "tweet_count": 620
+        },
+        "url": "https://t.co/pADVqNURjT",
+        "username": "FailedArtist786",
+        "verified": false
+      }
+    ]
+  }
+}

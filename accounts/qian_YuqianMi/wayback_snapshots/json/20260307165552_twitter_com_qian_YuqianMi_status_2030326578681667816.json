@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2030311520098451472",
+    "created_at": "2026-03-07T16:55:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T17:55:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030326578681667816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998992756774182913",
+          "start": 0,
+          "username": "Ab55419Mcdowell"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030326578681667816",
+    "in_reply_to_user_id": "1998992756774182913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030311520098451472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ab55419Mcdowell www咋这样。抱抱你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1933,
+        "media_key": "3_2030311505657483264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0djq4aUAAUKAy.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2030311520098451472",
+        "created_at": "2026-03-07T16:55:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T17:55:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030326578681667816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998992756774182913",
+              "start": 0,
+              "username": "Ab55419Mcdowell"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030326578681667816",
+        "in_reply_to_user_id": "1998992756774182913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030311520098451472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ab55419Mcdowell www咋这样。抱抱你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030311505657483264"
+          ]
+        },
+        "author_id": "1998992756774182913",
+        "conversation_id": "2030311520098451472",
+        "created_at": "2026-03-07T15:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030311520098451472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ugtZABxVpu",
+              "end": 168,
+              "expanded_url": "https://x.com/Ab55419Mcdowell/status/2030311520098451472/photo/1",
+              "media_key": "3_2030311505657483264",
+              "start": 145,
+              "url": "https://t.co/ugtZABxVpu"
+            },
+            {
+              "display_url": "x.com/Ab55419Mcdowel…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/Ab55419Mcdowell/status/2030272306665361598",
+              "start": 169,
+              "url": "https://t.co/Qo2YCwYFki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030311520098451472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030272306665361598",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次的经历完全不会想要回忆，现在回忆了一下…哎，我也不知道要怎么做，我也不知道改怎么说，嗯…说起来痛苦和悲伤的时刻好像会更多一点，当然了很明显我也没有感受过aftercare是什么样的，好像每一次经历都不是很愉快，嗯…比如在我身上的时候也会看着手机或者叹气，还说亲亲很麻烦……不想回忆了 https://t.co/ugtZABxVpu https://t.co/Qo2YCwYFki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1184,
+          "following_count": 819,
+          "like_count": 25003,
+          "listed_count": 0,
+          "media_count": 349,
+          "tweet_count": 4904
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T05:47:34.000Z",
+        "description": "其实我真的很想做小狗/isfp/03/身高162/爱闲聊不找对象纯聊不聊感情不聊专业不聊未来不约不聊体重/问就是头像是本人/高p纯假，窝是死肥宅/没有🚪≠什么人都聊，喜欢我可以背景图投喂喵喵喵我会很谢谢你👉🏻👈🏻and匿名问答↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ab55419mcdowell",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ab55419mcdowell",
+                "start": 0,
+                "url": "https://t.co/8ZCn0I0TS4"
+              }
+            ]
+          }
+        },
+        "id": "1998992756774182913",
+        "name": "我草莓招了",
+        "pinned_tweet_id": "2002655505664352466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010060405268459521/6EH1b8vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2936,
+          "following_count": 200,
+          "like_count": 9825,
+          "listed_count": 4,
+          "media_count": 257,
+          "tweet_count": 6980
+        },
+        "url": "https://t.co/8ZCn0I0TS4",
+        "username": "Ab55419Mcdowell",
+        "verified": false
+      }
+    ]
+  }
+}

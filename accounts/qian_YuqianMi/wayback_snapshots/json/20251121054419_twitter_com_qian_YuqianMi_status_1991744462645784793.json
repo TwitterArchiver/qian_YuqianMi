@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1991742473035805153",
+    "created_at": "2025-11-21T05:44:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T06:44:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991744462645784793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1821560692140544000",
+          "start": 0,
+          "username": "Numiouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991744462645784793",
+    "in_reply_to_user_id": "1821560692140544000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991743294741811611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouo 完全理解，，如出一辙的经历。我的家人关心我的一切除了我的精神问题。我也曾尝试依靠我的家人但是从未得到关怀与理解，慢慢我就放弃了与他们沟通。\n直到一个月之前开始发推才找到一个真正可以呆着的群体吧，以前在什么环境中我一直都是一个人呆着，终于得到了一点归属感，，大家都很温柔真是太好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1991742473035805153",
+        "created_at": "2025-11-21T05:44:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991744462645784793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821560692140544000",
+              "start": 0,
+              "username": "Numiouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991744462645784793",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991743294741811611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouo 完全理解，，如出一辙的经历。我的家人关心我的一切除了我的精神问题。我也曾尝试依靠我的家人但是从未得到关怀与理解，慢慢我就放弃了与他们沟通。\n直到一个月之前开始发推才找到一个真正可以呆着的群体吧，以前在什么环境中我一直都是一个人呆着，终于得到了一点归属感，，大家都很温柔真是太好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821560692140544000",
+        "conversation_id": "1991742473035805153",
+        "created_at": "2025-11-21T05:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T06:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991743294741811611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991743294741811611",
+        "in_reply_to_user_id": "1821560692140544000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991742473035805153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不被理解的痛苦，健全人很难想象。我曾经坐在外边疯狂尖叫哭泣，家人让我进来不要吹风，我疯狂大叫“我不想你们关心我的身体，我求求你们看一看我在哭的心”，他们还是在叫我回家，我当时崩溃到完全发错，打电话给我一起住过院的朋友才稳定下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 141,
+          "like_count": 974,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 215
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T14:55:11.000Z",
+        "description": "糯米守护与互关的大家庭👨‍👩‍👦疯狗狂犬病弱智神经病狂野精神病滥用自残啥都碰不可理喻无药可救精力旺盛躁郁圣体❤️绝赞病b小心染病❤️同类fo必回-漏fo请私-爱互关宝宝❤️点赞评论bot-讨厌不熟的人闲聊♡喜欢sex与drug♡不提供任何咨询♡non-binary友跨友全部🏳️‍🌈🏳️‍⚧️",
+        "id": "1821560692140544000",
+        "name": "ᨳ 糯米糖纸ઉ ᖭིᖫྀ",
+        "pinned_tweet_id": "1988581028534059496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984461180929523715/z3O7oiOS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 938,
+          "like_count": 3174,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 2317
+        },
+        "username": "Numiouo",
+        "verified": false
+      }
+    ]
+  }
+}

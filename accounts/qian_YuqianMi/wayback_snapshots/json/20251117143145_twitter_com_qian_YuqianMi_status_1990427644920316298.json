@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990085394931851264"
+      ],
+      "media_source_tweet_id": [
+        "1990085621042266403"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990427644920316298",
+    "created_at": "2025-11-17T14:31:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:31:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990427644920316298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "136639977",
+          "start": 3,
+          "username": "sattou0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ob365nZyEN",
+          "end": 36,
+          "expanded_url": "https://x.com/sattou0/status/1990085621042266403/photo/1",
+          "media_key": "3_1990085394931851264",
+          "start": 13,
+          "url": "https://t.co/ob365nZyEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990427644920316298",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3014
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990085621042266403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sattou0: https://t.co/ob365nZyEN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_1990085394931851264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G540H22bIAAlo05.jpg",
+        "width": 4093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990085394931851264"
+          ],
+          "media_source_tweet_id": [
+            "1990085621042266403"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990427644920316298",
+        "created_at": "2025-11-17T14:31:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990427644920316298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "136639977",
+              "start": 3,
+              "username": "sattou0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ob365nZyEN",
+              "end": 36,
+              "expanded_url": "https://x.com/sattou0/status/1990085621042266403/photo/1",
+              "media_key": "3_1990085394931851264",
+              "start": 13,
+              "url": "https://t.co/ob365nZyEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990427644920316298",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3014
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990085621042266403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sattou0: https://t.co/ob365nZyEN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990085394931851264"
+          ]
+        },
+        "author_id": "136639977",
+        "conversation_id": "1990085621042266403",
+        "created_at": "2025-11-16T15:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990085621042266403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ob365nZyEN",
+              "end": 23,
+              "expanded_url": "https://x.com/sattou0/status/1990085621042266403/photo/1",
+              "media_key": "3_1990085394931851264",
+              "start": 0,
+              "url": "https://t.co/ob365nZyEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990085621042266403",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1137,
+          "impression_count": 574212,
+          "like_count": 47615,
+          "quote_count": 77,
+          "reply_count": 72,
+          "retweet_count": 3014
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ob365nZyEN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 113,
+          "like_count": 698,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 146
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2010-04-24T13:57:39.000Z",
+        "description": "本：https://t.co/rWmS59u7Qh\nTシャツ：https://t.co/ShOMYewXar\nLINEスタンプ：https://t.co/Ig4OMeHgdO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amzn.asia/d/5nlWD53",
+                "end": 25,
+                "expanded_url": "https://amzn.asia/d/5nlWD53",
+                "start": 2,
+                "url": "https://t.co/rWmS59u7Qh"
+              },
+              {
+                "display_url": "ttrinity.jp/product/2532825",
+                "end": 54,
+                "expanded_url": "https://www.ttrinity.jp/product/2532825",
+                "start": 31,
+                "url": "https://t.co/ShOMYewXar"
+              },
+              {
+                "display_url": "line.me/S/shop/sticker…",
+                "end": 87,
+                "expanded_url": "https://line.me/S/shop/sticker/author/90329",
+                "start": 64,
+                "url": "https://t.co/Ig4OMeHgdO"
+              }
+            ]
+          }
+        },
+        "id": "136639977",
+        "name": "sattou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755261742211633152/I261hoo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290440,
+          "following_count": 364,
+          "like_count": 1988,
+          "listed_count": 1493,
+          "media_count": 2364,
+          "tweet_count": 10012
+        },
+        "username": "sattou0",
+        "verified": true
+      }
+    ]
+  }
+}

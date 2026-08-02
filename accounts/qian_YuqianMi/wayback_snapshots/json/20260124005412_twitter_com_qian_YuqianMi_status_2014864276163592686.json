@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2014806667360444630",
+    "created_at": "2026-01-24T00:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T01:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014864276163592686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1739591003559088128",
+          "start": 0,
+          "username": "ShiYou62377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014864276163592686",
+    "in_reply_to_user_id": "1739591003559088128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014806667360444630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiYou62377 不过这个小十沋竟然是男孩子omg我一直以为你是女孩子😭😭😭男孩子就更好了（艹\n喜欢这个小十沋₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2014806656048336897",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_YH-pDakAEXWzy.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2014806656115474432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_YH-pTbAAAUyn2.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2014806656194891776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_YH-pmW0AAM-Vy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2014806656069275648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_YH-pIaEAAXLEi.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2014806667360444630",
+        "created_at": "2026-01-24T00:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T01:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014864276163592686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1739591003559088128",
+              "start": 0,
+              "username": "ShiYou62377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014864276163592686",
+        "in_reply_to_user_id": "1739591003559088128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014806667360444630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiYou62377 不过这个小十沋竟然是男孩子omg我一直以为你是女孩子😭😭😭男孩子就更好了（艹\n喜欢这个小十沋₍˄·͈༝·͈˄₎◞︎ ̑̑ෆ⃛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014806656048336897",
+            "3_2014806656115474432",
+            "3_2014806656194891776",
+            "3_2014806656069275648"
+          ]
+        },
+        "author_id": "1739591003559088128",
+        "conversation_id": "2014806667360444630",
+        "created_at": "2026-01-23T21:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T22:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014806667360444630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pbqLOvpZtq",
+              "end": 170,
+              "expanded_url": "https://x.com/ShiYou62377/status/2014806667360444630/photo/1",
+              "media_key": "3_2014806656048336897",
+              "start": 147,
+              "url": "https://t.co/pbqLOvpZtq"
+            },
+            {
+              "display_url": "pic.x.com/pbqLOvpZtq",
+              "end": 170,
+              "expanded_url": "https://x.com/ShiYou62377/status/2014806667360444630/photo/1",
+              "media_key": "3_2014806656115474432",
+              "start": 147,
+              "url": "https://t.co/pbqLOvpZtq"
+            },
+            {
+              "display_url": "pic.x.com/pbqLOvpZtq",
+              "end": 170,
+              "expanded_url": "https://x.com/ShiYou62377/status/2014806667360444630/photo/1",
+              "media_key": "3_2014806656194891776",
+              "start": 147,
+              "url": "https://t.co/pbqLOvpZtq"
+            },
+            {
+              "display_url": "pic.x.com/pbqLOvpZtq",
+              "end": 170,
+              "expanded_url": "https://x.com/ShiYou62377/status/2014806667360444630/photo/1",
+              "media_key": "3_2014806656069275648",
+              "start": 147,
+              "url": "https://t.co/pbqLOvpZtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014806667360444630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 274,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "🧂🧂——\n=十沋 可以叫我小沋 ip广东\n性别男孩子｜🎂是6.23｜MBTI=ISFP\n07/iiii/多重人格/不完全健全/重度社恐｜\n我的成分特别复杂 偶尔会出cos \n我喜欢善良的人!我喜欢喜欢我的人!!\n我特别的希望所有人都能幸福..这是我的愿望。\n赞赏随意｜互关可以找我扩列^-^｜ https://t.co/pbqLOvpZtq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 689,
+          "like_count": 15442,
+          "listed_count": 1,
+          "media_count": 259,
+          "tweet_count": 3341
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T10:16:37.000Z",
+        "description": "我叫小沋｜谢谢你来看我｜⬇️是匿名提问箱｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%B2%8B",
+                "start": 0,
+                "url": "https://t.co/l2NtAahPgL"
+              }
+            ]
+          }
+        },
+        "id": "1739591003559088128",
+        "location": "天堂",
+        "name": "十沋",
+        "pinned_tweet_id": "2014806667360444630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004983552673271808/qy2-b8Sx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 109,
+          "like_count": 10400,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2145
+        },
+        "url": "https://t.co/l2NtAahPgL",
+        "username": "ShiYou62377",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996563711415537664"
+      ],
+      "media_source_tweet_id": [
+        "1996563716004024352"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1996789090696757273",
+    "created_at": "2025-12-05T03:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996789090696757273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1793093397043163136",
+          "start": 3,
+          "username": "YU_TAI2414"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7dPOYcyo5o",
+          "end": 51,
+          "expanded_url": "https://x.com/YU_TAI2414/status/1996563716004024352/photo/1",
+          "media_key": "3_1996563711415537664",
+          "start": 28,
+          "url": "https://t.co/7dPOYcyo5o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996789090696757273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996563716004024352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YU_TAI2414: ばーん！\nはい◯んだー https://t.co/7dPOYcyo5o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1996563711415537664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7U4HgZb0AAeiHM.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996563711415537664"
+          ],
+          "media_source_tweet_id": [
+            "1996563716004024352"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1996789090696757273",
+        "created_at": "2025-12-05T03:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996789090696757273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1793093397043163136",
+              "start": 3,
+              "username": "YU_TAI2414"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dPOYcyo5o",
+              "end": 51,
+              "expanded_url": "https://x.com/YU_TAI2414/status/1996563716004024352/photo/1",
+              "media_key": "3_1996563711415537664",
+              "start": 28,
+              "url": "https://t.co/7dPOYcyo5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996789090696757273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996563716004024352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YU_TAI2414: ばーん！\nはい◯んだー https://t.co/7dPOYcyo5o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996563711415537664"
+          ]
+        },
+        "author_id": "1793093397043163136",
+        "conversation_id": "1996563716004024352",
+        "created_at": "2025-12-04T12:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T13:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996563716004024352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7dPOYcyo5o",
+              "end": 35,
+              "expanded_url": "https://x.com/YU_TAI2414/status/1996563716004024352/photo/1",
+              "media_key": "3_1996563711415537664",
+              "start": 12,
+              "url": "https://t.co/7dPOYcyo5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996563716004024352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 20481,
+          "like_count": 2905,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "ばーん！\nはい◯んだー https://t.co/7dPOYcyo5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 335,
+          "like_count": 3621,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 897
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T01:36:47.000Z",
+        "description": "いろいろ使ってAIイラスト作ってます。一コマで何気ない日常のイラストを作るのが好きです♪イラストの無断使用はお控えくださいませ。",
+        "id": "1793093397043163136",
+        "name": "ゆたい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956947767697547264/YAbBVBhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72016,
+          "following_count": 499,
+          "like_count": 23565,
+          "listed_count": 396,
+          "media_count": 1554,
+          "tweet_count": 23235
+        },
+        "username": "YU_TAI2414",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993327610374549960",
+    "created_at": "2025-11-25T14:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T15:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993332690213650827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1802024392391802880",
+          "start": 0,
+          "username": "Determinat_37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993332690213650827",
+    "in_reply_to_user_id": "1802024392391802880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993327610374549960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Determinat_37 我去宝宝我们处于同样的空间中。，，我真的也要骂人了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993327610374549960",
+        "created_at": "2025-11-25T14:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993332690213650827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1802024392391802880",
+              "start": 0,
+              "username": "Determinat_37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993332690213650827",
+        "in_reply_to_user_id": "1802024392391802880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993327610374549960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Determinat_37 我去宝宝我们处于同样的空间中。，，我真的也要骂人了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802024392391802880",
+        "conversation_id": "1993327610374549960",
+        "created_at": "2025-11-25T14:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993327610374549960"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993327610374549960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打个游戏能够歇斯底里的骂人的这辈子有了，打两个小时叫两小时，你怎么不去死呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993310854339833856/x2q1SEuV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 258,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 413
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T17:04:47.000Z",
+        "description": "乱发乱写乱七八糟",
+        "id": "1802024392391802880",
+        "name": "樂( ◜‿◝ )♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906817971940728832/i4eSccJ0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 637,
+          "like_count": 5601,
+          "listed_count": 1,
+          "media_count": 166,
+          "tweet_count": 2015
+        },
+        "username": "Determinat_37",
+        "verified": false
+      }
+    ]
+  }
+}

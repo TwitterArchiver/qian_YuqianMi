@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049615361335779328"
+      ],
+      "media_source_tweet_id": [
+        "2049615458966659436"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2049821348827214304",
+    "created_at": "2026-04-30T12:01:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T13:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049821348827214304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1262587553162489856",
+          "start": 3,
+          "username": "caijingshujuku"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1w59tcsuPT",
+          "end": 54,
+          "expanded_url": "https://x.com/caijingshujuku/status/2049615458966659436/video/1",
+          "media_key": "13_2049615361335779328",
+          "start": 31,
+          "url": "https://t.co/1w59tcsuPT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049821348827214304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049615458966659436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caijingshujuku: 父母就是这样的存在。 https://t.co/1w59tcsuPT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40375,
+        "height": 1280,
+        "media_key": "13_2049615361335779328",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049615361335779328/img/gCacQvRSpVm-IagU.jpg",
+        "public_metrics": {
+          "view_count": 164229
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049615361335779328/vid/avc1/320x568/RpCE1G8muPxUhySZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049615361335779328/vid/avc1/480x852/tmqQQTGMk5lOGmAW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049615361335779328/vid/avc1/720x1280/4Z8Gnm6-BB0dBGVc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049615361335779328/pl/Vo-2NHRUzYADqFq_.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049615361335779328"
+          ],
+          "media_source_tweet_id": [
+            "2049615458966659436"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2049821348827214304",
+        "created_at": "2026-04-30T12:01:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049821348827214304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1262587553162489856",
+              "start": 3,
+              "username": "caijingshujuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1w59tcsuPT",
+              "end": 54,
+              "expanded_url": "https://x.com/caijingshujuku/status/2049615458966659436/video/1",
+              "media_key": "13_2049615361335779328",
+              "start": 31,
+              "url": "https://t.co/1w59tcsuPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049821348827214304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049615458966659436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caijingshujuku: 父母就是这样的存在。 https://t.co/1w59tcsuPT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049615361335779328"
+          ]
+        },
+        "author_id": "1262587553162489856",
+        "conversation_id": "2049615458966659436",
+        "created_at": "2026-04-29T22:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T23:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049615458966659436"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1w59tcsuPT",
+              "end": 34,
+              "expanded_url": "https://x.com/caijingshujuku/status/2049615458966659436/video/1",
+              "media_key": "13_2049615361335779328",
+              "start": 11,
+              "url": "https://t.co/1w59tcsuPT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049615458966659436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 242,
+          "impression_count": 364721,
+          "like_count": 1329,
+          "quote_count": 6,
+          "reply_count": 100,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "父母就是这样的存在。 https://t.co/1w59tcsuPT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 860,
+          "like_count": 27670,
+          "listed_count": 0,
+          "media_count": 373,
+          "tweet_count": 5487
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-19T03:35:14.000Z",
+        "description": "防止墙内封号，海内外财经数据和思想的保存和收集者！海内外最新财经观点碰撞的平台",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caijinglengya…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+                "start": 0,
+                "url": "https://t.co/Nlh6PxIuyO"
+              }
+            ]
+          }
+        },
+        "id": "1262587553162489856",
+        "name": "财经数据库",
+        "pinned_tweet_id": "2037974195980911011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645446590541463552/r6f6qEtK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365991,
+          "following_count": 68,
+          "like_count": 527,
+          "listed_count": 1686,
+          "media_count": 8332,
+          "tweet_count": 19128
+        },
+        "url": "https://t.co/Nlh6PxIuyO",
+        "username": "caijingshujuku",
+        "verified": true
+      }
+    ]
+  }
+}

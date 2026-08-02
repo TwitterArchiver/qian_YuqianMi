@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993611702974468096"
+      ],
+      "media_source_tweet_id": [
+        "1993611706350948717"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1993662398209896567",
+    "created_at": "2025-11-26T12:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T13:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993662398209896567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1555771732807811072",
+          "start": 3,
+          "username": "62s_f"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2vPfzvrHL6",
+          "end": 60,
+          "expanded_url": "https://x.com/62s_f/status/1993611706350948717/photo/1",
+          "media_key": "3_1993611702974468096",
+          "start": 37,
+          "url": "https://t.co/2vPfzvrHL6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993662398209896567",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993611706350948717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @62s_f: # リプした人の目を想像で描く\n\n特殊な瞳大好き侍 https://t.co/2vPfzvrHL6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1109,
+        "media_key": "3_1993611702974468096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6q7R__a0AAJQcO.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993611702974468096"
+          ],
+          "media_source_tweet_id": [
+            "1993611706350948717"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1993662398209896567",
+        "created_at": "2025-11-26T12:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T13:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993662398209896567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1555771732807811072",
+              "start": 3,
+              "username": "62s_f"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vPfzvrHL6",
+              "end": 60,
+              "expanded_url": "https://x.com/62s_f/status/1993611706350948717/photo/1",
+              "media_key": "3_1993611702974468096",
+              "start": 37,
+              "url": "https://t.co/2vPfzvrHL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993662398209896567",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993611706350948717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @62s_f: # リプした人の目を想像で描く\n\n特殊な瞳大好き侍 https://t.co/2vPfzvrHL6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993611702974468096"
+          ]
+        },
+        "author_id": "1555771732807811072",
+        "conversation_id": "1993611706350948717",
+        "created_at": "2025-11-26T09:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993611706350948717"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2vPfzvrHL6",
+              "end": 49,
+              "expanded_url": "https://x.com/62s_f/status/1993611706350948717/photo/1",
+              "media_key": "3_1993611702974468096",
+              "start": 26,
+              "url": "https://t.co/2vPfzvrHL6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993611706350948717",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 28417,
+          "like_count": 1788,
+          "quote_count": 2,
+          "reply_count": 80,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "# リプした人の目を想像で描く\n\n特殊な瞳大好き侍 https://t.co/2vPfzvrHL6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 267,
+          "like_count": 1864,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 468
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T04:24:30.000Z",
+        "description": "創作・FA┆かわいい絵が好きです┆自我(@662s_f)┆通常依頼×┆量産依頼年内×┆返信🐌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "662s_f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/62s_f",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/62s_f",
+                "start": 0,
+                "url": "https://t.co/cO1IviiDCl"
+              }
+            ]
+          }
+        },
+        "id": "1555771732807811072",
+        "location": "無断転載、AI、自作発言✖︎",
+        "name": "おもちむぎ",
+        "pinned_tweet_id": "1977233659938934972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959167601378304002/ug5mYkL5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8040,
+          "following_count": 129,
+          "like_count": 7228,
+          "listed_count": 71,
+          "media_count": 129,
+          "tweet_count": 4303
+        },
+        "url": "https://t.co/cO1IviiDCl",
+        "username": "62s_f",
+        "verified": false
+      }
+    ]
+  }
+}

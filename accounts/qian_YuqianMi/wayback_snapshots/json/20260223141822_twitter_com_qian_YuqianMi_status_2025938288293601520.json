@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2025829158828527823",
+    "created_at": "2026-02-23T14:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025938288293601520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022438221590990848",
+          "start": 0,
+          "username": "Miharuka_96"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025938288293601520",
+    "in_reply_to_user_id": "2022438221590990848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025829158828527823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miharuka_96 我b溃了学的纯理班上一个女的都没有😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2025829158828527823",
+        "created_at": "2026-02-23T14:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025938288293601520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022438221590990848",
+              "start": 0,
+              "username": "Miharuka_96"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025938288293601520",
+        "in_reply_to_user_id": "2022438221590990848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025829158828527823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miharuka_96 我b溃了学的纯理班上一个女的都没有😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022438221590990848",
+        "conversation_id": "2025829158828527823",
+        "created_at": "2026-02-23T07:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025829158828527823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025829158828527823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 38748,
+          "like_count": 436,
+          "quote_count": 1,
+          "reply_count": 40,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我才20岁，没有性生活不是很正常吗……你们一天天的。我说自己没摸过几次男人的手又要质疑我，为啥要觉得长的漂亮就一定有爱做一定有过很多前任呢。\n我说我没爱做一个个叫叫嚷嚷说不信，我说我有爱做就要开始荡妇羞辱我了😆\n我学的纯文科班上连男的都没，平时我也不社交不出门，就很正常啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 770,
+          "like_count": 22285,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 4416
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T22:30:27.000Z",
+        "description": "心的距离是遥不可及 | 我是小遥 之前的账号都鼠了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Note.ms/Miharuka",
+                "end": 23,
+                "expanded_url": "http://Note.ms/Miharuka",
+                "start": 0,
+                "url": "https://t.co/0vZb5MCwUM"
+              }
+            ]
+          }
+        },
+        "id": "2022438221590990848",
+        "location": "旁边的网址是留言板",
+        "name": "遥",
+        "pinned_tweet_id": "2023783513414406367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024494731917758464/aqquvn8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 93,
+          "like_count": 1314,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 408
+        },
+        "url": "https://t.co/0vZb5MCwUM",
+        "username": "Miharuka_96",
+        "verified": false
+      }
+    ]
+  }
+}

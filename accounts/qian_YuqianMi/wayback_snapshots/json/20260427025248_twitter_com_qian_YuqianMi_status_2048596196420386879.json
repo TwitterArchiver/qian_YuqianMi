@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048428415108427776"
+      ],
+      "media_source_tweet_id": [
+        "2048428417633149404"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2048596196420386879",
+    "created_at": "2026-04-27T02:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T03:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048596196420386879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1598609249743130625",
+          "start": 3,
+          "username": "X_ArtGallery"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7fXA4f7Wrr",
+          "end": 41,
+          "expanded_url": "https://x.com/X_ArtGallery/status/2048428417633149404/photo/1",
+          "media_key": "3_2048428415108427776",
+          "start": 18,
+          "url": "https://t.co/7fXA4f7Wrr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048596196420386879",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 663
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048428417633149404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X_ArtGallery: https://t.co/7fXA4f7Wrr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 877,
+        "media_key": "3_2048428415108427776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG16yl5asAA8STe.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048428415108427776"
+          ],
+          "media_source_tweet_id": [
+            "2048428417633149404"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2048596196420386879",
+        "created_at": "2026-04-27T02:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048596196420386879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1598609249743130625",
+              "start": 3,
+              "username": "X_ArtGallery"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fXA4f7Wrr",
+              "end": 41,
+              "expanded_url": "https://x.com/X_ArtGallery/status/2048428417633149404/photo/1",
+              "media_key": "3_2048428415108427776",
+              "start": 18,
+              "url": "https://t.co/7fXA4f7Wrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048596196420386879",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 663
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048428417633149404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X_ArtGallery: https://t.co/7fXA4f7Wrr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048428415108427776"
+          ]
+        },
+        "author_id": "1598609249743130625",
+        "conversation_id": "2048428417633149404",
+        "created_at": "2026-04-26T15:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048428417633149404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7fXA4f7Wrr",
+              "end": 23,
+              "expanded_url": "https://x.com/X_ArtGallery/status/2048428417633149404/photo/1",
+              "media_key": "3_2048428415108427776",
+              "start": 0,
+              "url": "https://t.co/7fXA4f7Wrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048428417633149404",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 358,
+          "impression_count": 88144,
+          "like_count": 5858,
+          "quote_count": 13,
+          "reply_count": 13,
+          "retweet_count": 663
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/7fXA4f7Wrr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 836,
+          "like_count": 27192,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 5369
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T09:25:40.000Z",
+        "description": "Art",
+        "id": "1598609249743130625",
+        "name": "Art Gallery",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1622910458851123202/u1EheOx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233040,
+          "following_count": 11497,
+          "like_count": 10660,
+          "listed_count": 1069,
+          "media_count": 2918,
+          "tweet_count": 3160
+        },
+        "username": "X_ArtGallery",
+        "verified": true
+      }
+    ]
+  }
+}

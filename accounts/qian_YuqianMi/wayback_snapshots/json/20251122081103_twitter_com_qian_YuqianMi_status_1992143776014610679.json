@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991832954348441600"
+      ],
+      "media_source_tweet_id": [
+        "1991832959004090506"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1992143776014610679",
+    "created_at": "2025-11-22T08:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T09:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992143776014610679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1414672456804040705",
+          "start": 3,
+          "username": "Bunch_1123"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2eoaAc94nI",
+          "end": 43,
+          "expanded_url": "https://x.com/Bunch_1123/status/1991832959004090506/photo/1",
+          "media_key": "3_1991832954348441600",
+          "start": 20,
+          "url": "https://t.co/2eoaAc94nI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992143776014610679",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 443
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991832959004090506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunch_1123: スケブ https://t.co/2eoaAc94nI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1991832954348441600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6RphM_bEAAcq3f.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991832954348441600"
+          ],
+          "media_source_tweet_id": [
+            "1991832959004090506"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1992143776014610679",
+        "created_at": "2025-11-22T08:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T09:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992143776014610679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1414672456804040705",
+              "start": 3,
+              "username": "Bunch_1123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2eoaAc94nI",
+              "end": 43,
+              "expanded_url": "https://x.com/Bunch_1123/status/1991832959004090506/photo/1",
+              "media_key": "3_1991832954348441600",
+              "start": 20,
+              "url": "https://t.co/2eoaAc94nI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992143776014610679",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 443
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991832959004090506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunch_1123: スケブ https://t.co/2eoaAc94nI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991832954348441600"
+          ]
+        },
+        "author_id": "1414672456804040705",
+        "conversation_id": "1991832959004090506",
+        "created_at": "2025-11-21T11:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T12:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991832959004090506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2eoaAc94nI",
+              "end": 27,
+              "expanded_url": "https://x.com/Bunch_1123/status/1991832959004090506/photo/1",
+              "media_key": "3_1991832954348441600",
+              "start": 4,
+              "url": "https://t.co/2eoaAc94nI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991832959004090506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1115,
+          "impression_count": 88431,
+          "like_count": 10692,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 443
+        },
+        "reply_settings": "everyone",
+        "text": "スケブ https://t.co/2eoaAc94nI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 180,
+          "like_count": 1097,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 273
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-12T19:46:22.000Z",
+        "description": "インターネットらくがきマン 【skebは非商用利用のみ🙇‍♀️ サムネは🙆‍♂️ 】FANBOX→https://t.co/uWdpGMfCeO 【お仕事はこちらから】buchi5433@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "otintinn.fanbox.cc",
+                "end": 72,
+                "expanded_url": "http://otintinn.fanbox.cc",
+                "start": 49,
+                "url": "https://t.co/uWdpGMfCeO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@___OTINTIN",
+                "end": 23,
+                "expanded_url": "http://skeb.jp/@___OTINTIN",
+                "start": 0,
+                "url": "https://t.co/UgBLIfcX79"
+              }
+            ]
+          }
+        },
+        "id": "1414672456804040705",
+        "location": "強めの幻覚 AI学習禁止    ",
+        "name": "ぶんち",
+        "pinned_tweet_id": "1987415436884091377",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652306716544106496/blLudldn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521007,
+          "following_count": 591,
+          "like_count": 21384,
+          "listed_count": 2800,
+          "media_count": 177,
+          "tweet_count": 1075
+        },
+        "url": "https://t.co/UgBLIfcX79",
+        "username": "Bunch_1123",
+        "verified": true
+      }
+    ]
+  }
+}

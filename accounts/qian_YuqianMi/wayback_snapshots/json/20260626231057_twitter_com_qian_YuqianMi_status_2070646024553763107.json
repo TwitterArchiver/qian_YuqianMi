@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2070646024553763107",
+    "created_at": "2026-06-26T23:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T00:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070646024553763107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1287994927406817281",
+          "start": 3,
+          "username": "Metabrouteur"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070646024553763107",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1325
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070472965431443498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Metabrouteur: Le saviez vous ?\n\nAujourd'hui, le 26/6/26 est un jour palindrome !\n\nEn effet, la date peut se lire dans les deux sens.\n\nC…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2070646024553763107",
+        "created_at": "2026-06-26T23:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T00:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070646024553763107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1287994927406817281",
+              "start": 3,
+              "username": "Metabrouteur"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070646024553763107",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1325
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070472965431443498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Metabrouteur: Le saviez vous ?\n\nAujourd'hui, le 26/6/26 est un jour palindrome !\n\nEn effet, la date peut se lire dans les deux sens.\n\nC…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287994927406817281",
+        "conversation_id": "2070472965431443498",
+        "created_at": "2026-06-26T11:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070472965431443498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070472965431443498",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 833,
+          "impression_count": 899388,
+          "like_count": 12740,
+          "quote_count": 190,
+          "reply_count": 473,
+          "retweet_count": 1325
+        },
+        "reply_settings": "everyone",
+        "text": "Le saviez vous ?\n\nAujourd'hui, le 26/6/26 est un jour palindrome !\n\nEn effet, la date peut se lire dans les deux sens.\n\nCe phénomène rare ne se reproduira pas avant 128 ans."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 874,
+          "like_count": 29699,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 6052
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-28T06:15:07.000Z",
+        "description": "Guignol qui invente des canulars pour plonger les brouteurs dans des histoires dans lesquelles ils sont les acteurs malgré eux.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/share/1cHiyUKP…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/share/1cHiyUKPKJ/",
+                "start": 0,
+                "url": "https://t.co/qTv4hYTmxo"
+              }
+            ]
+          }
+        },
+        "id": "1287994927406817281",
+        "location": "Ile-de-France",
+        "name": "Métabrouteur",
+        "pinned_tweet_id": "2049071742757245142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057860857082564608/MjdyI8nz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109899,
+          "following_count": 1368,
+          "like_count": 106843,
+          "listed_count": 126,
+          "media_count": 9610,
+          "tweet_count": 36061
+        },
+        "url": "https://t.co/qTv4hYTmxo",
+        "username": "Metabrouteur",
+        "verified": true
+      }
+    ]
+  }
+}

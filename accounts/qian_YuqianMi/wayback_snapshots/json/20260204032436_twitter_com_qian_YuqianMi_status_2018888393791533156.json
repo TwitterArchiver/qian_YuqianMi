@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2018887979436257524",
+    "created_at": "2026-02-04T03:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T04:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018888393791533156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1761821960978460672",
+          "start": 0,
+          "username": "oct424242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018888393791533156",
+    "in_reply_to_user_id": "1761821960978460672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018888154233864311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oct424242 给有的帖子点赞会有，不是每条都有。不知道怎么触发的，我看那几条点出来是火箭的也没涉及火箭的内容啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2018887979436257524",
+        "created_at": "2026-02-04T03:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018888393791533156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1761821960978460672",
+              "start": 0,
+              "username": "oct424242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018888393791533156",
+        "in_reply_to_user_id": "1761821960978460672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018888154233864311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oct424242 给有的帖子点赞会有，不是每条都有。不知道怎么触发的，我看那几条点出来是火箭的也没涉及火箭的内容啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761821960978460672",
+        "conversation_id": "2018887979436257524",
+        "created_at": "2026-02-04T03:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018888154233864311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018888154233864311",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018887979436257524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 诶我这边不是诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi&_ | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 958,
+          "following_count": 721,
+          "like_count": 17870,
+          "listed_count": 1,
+          "media_count": 279,
+          "tweet_count": 3756
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T18:34:37.000Z",
+        "description": "they/them🏳️‍🌈🏳️‍⚧️ 务虚｜提问箱https://t.co/bYJdqcI0be",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/margaret42",
+                "end": 48,
+                "expanded_url": "https://ngl.link/margaret42",
+                "start": 25,
+                "url": "https://t.co/bYJdqcI0be"
+              }
+            ]
+          }
+        },
+        "id": "1761821960978460672",
+        "location": "北美",
+        "name": "🐙🌌",
+        "pinned_tweet_id": "1898009233653973144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828782828555001857/4E7p9DfA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 167,
+          "like_count": 1647,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1021
+        },
+        "username": "oct424242",
+        "verified": false
+      }
+    ]
+  }
+}

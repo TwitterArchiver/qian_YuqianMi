@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990245405989498880",
+        "3_1990245407415578624",
+        "3_1990245407340011520",
+        "3_1990245407847555073"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1990245411324563963",
+    "created_at": "2025-11-17T02:27:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T03:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990245411324563963"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 62,
+          "tag": "割手"
+        },
+        {
+          "end": 71,
+          "start": 66,
+          "tag": "硬笔书法"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YXNUKFELMG",
+          "end": 95,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1990245411324563963/photo/1",
+          "media_key": "3_1990245405989498880",
+          "start": 72,
+          "url": "https://t.co/YXNUKFELMG"
+        },
+        {
+          "display_url": "pic.x.com/YXNUKFELMG",
+          "end": 95,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1990245411324563963/photo/1",
+          "media_key": "3_1990245407415578624",
+          "start": 72,
+          "url": "https://t.co/YXNUKFELMG"
+        },
+        {
+          "display_url": "pic.x.com/YXNUKFELMG",
+          "end": 95,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1990245411324563963/photo/1",
+          "media_key": "3_1990245407340011520",
+          "start": 72,
+          "url": "https://t.co/YXNUKFELMG"
+        },
+        {
+          "display_url": "pic.x.com/YXNUKFELMG",
+          "end": 95,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/1990245411324563963/photo/1",
+          "media_key": "3_1990245407847555073",
+          "start": 72,
+          "url": "https://t.co/YXNUKFELMG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990245411324563963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "割完手还想记笔记写出来的字就这样小学生。\n虽然全部割的左手但是右手莫名其妙也没力气了。很怪。\n（我平时写字是p234，，）\n#割手 #硬笔书法 https://t.co/YXNUKFELMG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1990245405989498880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57FpufbcAAy0Wj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1990245407415578624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57FpzzbsAAO4mk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1990245407340011520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57FpzhaoAA4zbe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1479,
+        "media_key": "3_1990245407847555073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G57Fp1abIAE3_kt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990245405989498880",
+            "3_1990245407415578624",
+            "3_1990245407340011520",
+            "3_1990245407847555073"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1990245411324563963",
+        "created_at": "2025-11-17T02:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T03:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990245411324563963"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 62,
+              "tag": "割手"
+            },
+            {
+              "end": 71,
+              "start": 66,
+              "tag": "硬笔书法"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YXNUKFELMG",
+              "end": 95,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1990245411324563963/photo/1",
+              "media_key": "3_1990245405989498880",
+              "start": 72,
+              "url": "https://t.co/YXNUKFELMG"
+            },
+            {
+              "display_url": "pic.x.com/YXNUKFELMG",
+              "end": 95,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1990245411324563963/photo/1",
+              "media_key": "3_1990245407415578624",
+              "start": 72,
+              "url": "https://t.co/YXNUKFELMG"
+            },
+            {
+              "display_url": "pic.x.com/YXNUKFELMG",
+              "end": 95,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1990245411324563963/photo/1",
+              "media_key": "3_1990245407340011520",
+              "start": 72,
+              "url": "https://t.co/YXNUKFELMG"
+            },
+            {
+              "display_url": "pic.x.com/YXNUKFELMG",
+              "end": 95,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/1990245411324563963/photo/1",
+              "media_key": "3_1990245407847555073",
+              "start": 72,
+              "url": "https://t.co/YXNUKFELMG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990245411324563963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "割完手还想记笔记写出来的字就这样小学生。\n虽然全部割的左手但是右手莫名其妙也没力气了。很怪。\n（我平时写字是p234，，）\n#割手 #硬笔书法 https://t.co/YXNUKFELMG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖\n\n推当低下限朋友圈发！闲话很多。\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988164272988581888/RvTHa1kQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 111,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 129
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

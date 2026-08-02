@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2000237135258100036",
+    "created_at": "2025-12-14T16:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T17:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000237606517551388"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000237606517551388",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000237135258100036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（细节91（我真的睡了）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_2000237132510851072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8JFEwXa8AAA_na.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1431,
+        "media_key": "3_2000237132473094145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8JFEwOa0AE700M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2000237135258100036",
+        "created_at": "2025-12-14T16:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000237606517551388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000237606517551388",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000237135258100036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（细节91（我真的睡了）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000237132510851072",
+            "3_2000237132473094145"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2000237135258100036",
+        "created_at": "2025-12-14T16:11:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T17:11:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000237135258100036"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 91,
+              "start": 87,
+              "tag": "日常弥"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXAcfwwTNT",
+              "end": 115,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2000237135258100036/photo/1",
+              "media_key": "3_2000237132510851072",
+              "start": 92,
+              "url": "https://t.co/RXAcfwwTNT"
+            },
+            {
+              "display_url": "pic.x.com/RXAcfwwTNT",
+              "end": 115,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2000237135258100036/photo/1",
+              "media_key": "3_2000237132473094145",
+              "start": 92,
+              "url": "https://t.co/RXAcfwwTNT"
+            },
+            {
+              "display_url": "x.com/qian_YuqianMi/…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/qian_YuqianMi/status/1999868373942038625",
+              "start": 116,
+              "url": "https://t.co/a27KoXxVBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000237135258100036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999868373942038625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绘画进度分享\n都来欣赏我家宝贝神颜！（大声（夸我我也不会奖励你的（亲）\n\n（明天有早八，，（什么叫明天有早八？，（就是说快睡觉。（快睡觉（我要篡夺身体控制权了快睡觉（睡觉。）#日常弥 https://t.co/RXAcfwwTNT https://t.co/a27KoXxVBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 374,
+          "like_count": 5003,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1250
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027729110257307649",
+        "3_2027729110496382979"
+      ],
+      "media_source_tweet_id": [
+        "2027729113197515043",
+        "2027729113197515043"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2027764889788490036",
+    "created_at": "2026-02-28T15:16:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027764889788490036"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 15,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1239405523805433856",
+          "start": 3,
+          "username": "hartanote"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wllePafITX",
+          "end": 58,
+          "expanded_url": "https://x.com/hartanote/status/2027729113197515043/photo/1",
+          "media_key": "3_2027729110257307649",
+          "start": 35,
+          "url": "https://t.co/wllePafITX"
+        },
+        {
+          "display_url": "pic.x.com/wllePafITX",
+          "end": 58,
+          "expanded_url": "https://x.com/hartanote/status/2027729113197515043/photo/1",
+          "media_key": "3_2027729110496382979",
+          "start": 35,
+          "url": "https://t.co/wllePafITX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027764889788490036",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027729113197515043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hartanote: #今月描いた絵を晒そう \n沢山顔描いた https://t.co/wllePafITX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2027729110257307649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPw4eWbEAEqaaM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2027729110496382979",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPw4fPbEAMGLyI.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027729110257307649",
+            "3_2027729110496382979"
+          ],
+          "media_source_tweet_id": [
+            "2027729113197515043",
+            "2027729113197515043"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027764889788490036",
+        "created_at": "2026-02-28T15:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027764889788490036"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 15,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1239405523805433856",
+              "start": 3,
+              "username": "hartanote"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wllePafITX",
+              "end": 58,
+              "expanded_url": "https://x.com/hartanote/status/2027729113197515043/photo/1",
+              "media_key": "3_2027729110257307649",
+              "start": 35,
+              "url": "https://t.co/wllePafITX"
+            },
+            {
+              "display_url": "pic.x.com/wllePafITX",
+              "end": 58,
+              "expanded_url": "https://x.com/hartanote/status/2027729113197515043/photo/1",
+              "media_key": "3_2027729110496382979",
+              "start": 35,
+              "url": "https://t.co/wllePafITX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027764889788490036",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027729113197515043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hartanote: #今月描いた絵を晒そう \n沢山顔描いた https://t.co/wllePafITX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027729110257307649",
+            "3_2027729110496382979"
+          ]
+        },
+        "author_id": "1239405523805433856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027729113197515043",
+        "created_at": "2026-02-28T12:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027729113197515043"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wllePafITX",
+              "end": 43,
+              "expanded_url": "https://x.com/hartanote/status/2027729113197515043/photo/1",
+              "media_key": "3_2027729110257307649",
+              "start": 20,
+              "url": "https://t.co/wllePafITX"
+            },
+            {
+              "display_url": "pic.x.com/wllePafITX",
+              "end": 43,
+              "expanded_url": "https://x.com/hartanote/status/2027729113197515043/photo/1",
+              "media_key": "3_2027729110496382979",
+              "start": 20,
+              "url": "https://t.co/wllePafITX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027729113197515043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 302,
+          "impression_count": 15028,
+          "like_count": 1442,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "#今月描いた絵を晒そう \n沢山顔描いた https://t.co/wllePafITX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | switch | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1149,
+          "following_count": 803,
+          "like_count": 23609,
+          "listed_count": 0,
+          "media_count": 329,
+          "tweet_count": 4632
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T04:18:16.000Z",
+        "description": "はねのはた🪽群馬在住のイラストレーター🪽かわいいマスコット多め🪽人絵まとめアカウント→@HanenoHata🪽実績：㈱タカギ様 球団マスコット「なみるん」／ガンホー様・サモンズボードイラストコンテスト最優秀賞3回など🪽代表作:ふんわり妖精🖌ご依頼はWebかDMにて   FA→#ふんわり妖精FA",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 138,
+                "tag": "ふんわり妖精FA"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "HanenoHata"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hartanote.com",
+                "end": 23,
+                "expanded_url": "https://hartanote.com",
+                "start": 0,
+                "url": "https://t.co/G3EkF9GhkR"
+              }
+            ]
+          }
+        },
+        "id": "1239405523805433856",
+        "location": "•⩊• ←こんな顔のキャラ好きな人は仲間",
+        "name": "羽野はた🪽🖌•⩊•",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018963900268777472/W3WCRYod_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7803,
+          "following_count": 2074,
+          "like_count": 19354,
+          "listed_count": 33,
+          "media_count": 1600,
+          "tweet_count": 4675
+        },
+        "url": "https://t.co/G3EkF9GhkR",
+        "username": "hartanote",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999767932436713472"
+      ],
+      "media_source_tweet_id": [
+        "1999767955933110739"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "1999814606920048838",
+    "created_at": "2025-12-13T12:12:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T13:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999814606920048838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1410276807551553546",
+          "start": 3,
+          "username": "x_cast_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mBBb2J3psU",
+          "end": 44,
+          "expanded_url": "https://x.com/x_cast_x/status/1999767955933110739/photo/1",
+          "media_key": "3_1999767932436713472",
+          "start": 21,
+          "url": "https://t.co/mBBb2J3psU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999814606920048838",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3751
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999767955933110739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_cast_x: モニタリング https://t.co/mBBb2J3psU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_1999767932436713472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8CaVt4bkAAi7oO.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999767932436713472"
+          ],
+          "media_source_tweet_id": [
+            "1999767955933110739"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "1999814606920048838",
+        "created_at": "2025-12-13T12:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T13:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999814606920048838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1410276807551553546",
+              "start": 3,
+              "username": "x_cast_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBBb2J3psU",
+              "end": 44,
+              "expanded_url": "https://x.com/x_cast_x/status/1999767955933110739/photo/1",
+              "media_key": "3_1999767932436713472",
+              "start": 21,
+              "url": "https://t.co/mBBb2J3psU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999814606920048838",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3751
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999767955933110739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_cast_x: モニタリング https://t.co/mBBb2J3psU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999767932436713472"
+          ]
+        },
+        "author_id": "1410276807551553546",
+        "conversation_id": "1999767955933110739",
+        "created_at": "2025-12-13T09:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T10:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999767955933110739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBBb2J3psU",
+              "end": 30,
+              "expanded_url": "https://x.com/x_cast_x/status/1999767955933110739/photo/1",
+              "media_key": "3_1999767932436713472",
+              "start": 7,
+              "url": "https://t.co/mBBb2J3psU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999767955933110739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2433,
+          "impression_count": 386472,
+          "like_count": 37130,
+          "quote_count": 55,
+          "reply_count": 79,
+          "retweet_count": 3751
+        },
+        "reply_settings": "everyone",
+        "text": "モニタリング https://t.co/mBBb2J3psU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997667252070674432/zF2f35_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 370,
+          "like_count": 4843,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1212
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-30T16:39:33.000Z",
+        "description": "ちゃかちゃか",
+        "id": "1410276807551553546",
+        "name": "CHANNEL",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986958130996297728/FPvLg4JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931178,
+          "following_count": 193,
+          "like_count": 8054,
+          "listed_count": 2596,
+          "media_count": 7,
+          "tweet_count": 930
+        },
+        "username": "x_cast_x",
+        "verified": false
+      }
+    ]
+  }
+}

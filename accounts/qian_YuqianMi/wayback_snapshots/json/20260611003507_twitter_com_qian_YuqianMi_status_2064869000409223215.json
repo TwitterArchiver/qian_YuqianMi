@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2064716599744139302",
+    "created_at": "2026-06-11T00:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T01:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064869000409223215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1120412556164653056",
+          "start": 0,
+          "username": "FjM22pmLHyAtuvk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064869000409223215",
+    "in_reply_to_user_id": "1120412556164653056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064807584616611934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FjM22pmLHyAtuvk ？这无疑有本质区别。如果你认为“古往今来，有几个女的不是在靠卖淫讨生活？”的话，你有必要反思你对卖淫的定义以及你对女性的理解。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2064716599744139302",
+        "created_at": "2026-06-11T00:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T01:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064869000409223215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1120412556164653056",
+              "start": 0,
+              "username": "FjM22pmLHyAtuvk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064869000409223215",
+        "in_reply_to_user_id": "1120412556164653056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064807584616611934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FjM22pmLHyAtuvk ？这无疑有本质区别。如果你认为“古往今来，有几个女的不是在靠卖淫讨生活？”的话，你有必要反思你对卖淫的定义以及你对女性的理解。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120412556164653056",
+        "conversation_id": "2064716599744139302",
+        "created_at": "2026-06-10T20:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T21:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064807584616611934"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064807584616611934",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064716599744139302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 啊？这古往今来，有几个女的不是在靠卖淫讨生活？\n而且，不卖淫，也得出卖体力尊严"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 876,
+          "like_count": 29011,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 5838
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-22T19:42:24.000Z",
+        "description": "在世只认一个理，人与人之间是相互的\n专注扭曲人性的孝道等级尊卑奴性文化\n我们不一样，但人性都一样\n男权女权都是典型满嘴主义全是利益\n平权派，提倡女性真正独立，以脱离寄生虫模式为前提，加强社会地位\nntr沉溺者，屈服于丛林法则优胜劣汰",
+        "id": "1120412556164653056",
+        "name": "我也看见了",
+        "pinned_tweet_id": "2057193776972743158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1420284341272203264/6ilHbdYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 8,
+          "like_count": 146,
+          "listed_count": 1,
+          "media_count": 297,
+          "tweet_count": 4316
+        },
+        "username": "FjM22pmLHyAtuvk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "1995340903876366345",
+    "created_at": "2025-12-01T03:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T04:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995340903876366345"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cutecorestar/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/cutecorestar/status/1995127675669909741",
+          "start": 6,
+          "url": "https://t.co/cBPuXzB2M4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995340903876366345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995127675669909741",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "莫奈的茂密 https://t.co/cBPuXzB2M4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 509,
+        "media_key": "3_1995054749817643008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6_buYZWIAASBeW.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "1995340903876366345",
+        "created_at": "2025-12-01T03:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T04:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995340903876366345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cutecorestar/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/cutecorestar/status/1995127675669909741",
+              "start": 6,
+              "url": "https://t.co/cBPuXzB2M4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995340903876366345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995127675669909741",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "莫奈的茂密 https://t.co/cBPuXzB2M4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995054749817643008"
+          ]
+        },
+        "author_id": "1067676495504658432",
+        "conversation_id": "1995127675669909741",
+        "created_at": "2025-11-30T13:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T14:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995127675669909741"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XATfUHf5By",
+              "end": 29,
+              "expanded_url": "https://x.com/cutecorestar/status/1995127675669909741/photo/1",
+              "media_key": "3_1995054749817643008",
+              "start": 6,
+              "url": "https://t.co/XATfUHf5By"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995127675669909741",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 271,
+          "impression_count": 53461,
+          "like_count": 6213,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 758
+        },
+        "reply_settings": "everyone",
+        "text": "&lt;3 https://t.co/XATfUHf5By"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | 多意识体 | 双相 | 喜欢画画 | 喜欢音乐 | **重度依赖 | 千&YuMi | \n\n推当低下限朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "name": "千与千弥",
+        "pinned_tweet_id": "1986805046403793139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993504416654389248/IFqz8itG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 309,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 712
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-28T07:08:07.000Z",
+        "description": "🎀 cute things 🎀 kawaii & sanrio  🎀turn on notifications",
+        "id": "1067676495504658432",
+        "location": "♡ DM for credit / submissions ",
+        "name": "Cute",
+        "pinned_tweet_id": "1929170548619104660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550457031986929665/R0YiNtsL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98556,
+          "following_count": 5734,
+          "like_count": 7993,
+          "listed_count": 183,
+          "media_count": 1951,
+          "tweet_count": 2246
+        },
+        "username": "cutecorestar",
+        "verified": true
+      }
+    ]
+  }
+}

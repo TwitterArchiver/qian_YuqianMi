@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2061235776570921229",
+    "created_at": "2026-06-01T09:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061378523718394022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1409516495571501066",
+          "start": 0,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061378523718394022",
+    "in_reply_to_user_id": "1409516495571501066",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061235776570921229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrankghostU 好宝宝好宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11766,
+        "height": 1280,
+        "media_key": "13_2061235694509408261",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2061235694509408261/img/ZfeGzv1o2zfbc65G.jpg",
+        "public_metrics": {
+          "view_count": 87
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061235694509408261/vid/avc1/320x568/RmO79t2JCNLMtmH-.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061235694509408261/vid/avc1/480x852/V3kFJOVoFCzg4Q-h.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2061235694509408261/vid/avc1/720x1280/M6wyR6QxQzIMsE9z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2061235694509408261/pl/-az-XarVDXxu3fXh.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2061235776570921229",
+        "created_at": "2026-06-01T09:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061378523718394022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1409516495571501066",
+              "start": 0,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061378523718394022",
+        "in_reply_to_user_id": "1409516495571501066",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061235776570921229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrankghostU 好宝宝好宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2061235694509408261"
+          ]
+        },
+        "author_id": "1409516495571501066",
+        "conversation_id": "2061235776570921229",
+        "created_at": "2026-05-31T23:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061235776570921229"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "病み垢"
+            },
+            {
+              "end": 106,
+              "start": 102,
+              "tag": "メイド"
+            },
+            {
+              "end": 113,
+              "start": 107,
+              "tag": "自撮り界隈"
+            },
+            {
+              "end": 119,
+              "start": 114,
+              "tag": "生きる糧"
+            },
+            {
+              "end": 131,
+              "start": 120,
+              "tag": "限界オタクを救いたい"
+            },
+            {
+              "end": 139,
+              "start": 132,
+              "tag": "承認欲求の塊"
+            },
+            {
+              "end": 155,
+              "start": 140,
+              "tag": "自撮り界隈さんとつながりたい"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CqAc0YW91C",
+              "end": 179,
+              "expanded_url": "https://x.com/DrankghostU/status/2061235776570921229/video/1",
+              "media_key": "13_2061235694509408261",
+              "start": 156,
+              "url": "https://t.co/CqAc0YW91C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061235776570921229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早安！今天也努力活着的你真是辛苦了！\n\n点开就会有一个死目莉在跳舞鼓励你今天也要加油哦！⸝⸝ ᳐ʚ̴̶̷̷ ‧̫ ʚ̴̶̷̷ ᳐⸝⸝🎁\n\n^ ̳&gt; ·̫ &lt; ̳^お疲れ様でした♪\n\n#病み垢 #メイド #自撮り界隈 #生きる糧\n#限界オタクを救いたい #承認欲求の塊\n#自撮り界隈さんとつながりたい https://t.co/CqAc0YW91C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 868,
+          "like_count": 28675,
+          "listed_count": 0,
+          "media_count": 388,
+          "tweet_count": 5754
+        },
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2059646950455279640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 179,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 258
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}
