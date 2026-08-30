@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2083517164162789736",
+    "created_at": "2026-08-02T08:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T09:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083836788691599474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041028626397937665",
+          "start": 0,
+          "username": "_1haru_oxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083836788691599474",
+    "in_reply_to_user_id": "2041028626397937665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083517164162789736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_1haru_oxo 好萌！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2083517155870707712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOoj0HcbEAAj8hI.jpg",
+        "width": 2133
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2083517164162789736",
+        "created_at": "2026-08-02T08:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083836788691599474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041028626397937665",
+              "start": 0,
+              "username": "_1haru_oxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083836788691599474",
+        "in_reply_to_user_id": "2041028626397937665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083517164162789736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_1haru_oxo 好萌！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083517155870707712"
+          ]
+        },
+        "author_id": "2041028626397937665",
+        "conversation_id": "2083517164162789736",
+        "created_at": "2026-08-01T11:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083517164162789736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOBujdPLHK",
+              "end": 23,
+              "expanded_url": "https://x.com/_1haru_oxo/status/2083517164162789736/photo/1",
+              "media_key": "3_2083517155870707712",
+              "start": 0,
+              "url": "https://t.co/FOBujdPLHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083517164162789736",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 1461,
+          "like_count": 167,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FOBujdPLHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 858,
+          "like_count": 30109,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 6193
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T05:42:36.000Z",
+        "description": "=haru 小椿｜08｜非健全｜苦命高三生｜接塔罗占卜有反馈 需要请dm ｜互fo互转大欢迎｜二世@2_haru_ovo｜CN⭕ EN⭕ 日语苦手",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 49,
+                "username": "2_haru_ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sakuracat.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://sakuracat.com/#/register?code=JUdXPeOU",
+                "start": 0,
+                "url": "https://t.co/j2R9EZgE8Q"
+              }
+            ]
+          }
+        },
+        "id": "2041028626397937665",
+        "location": "塔罗15一问 28两问 40三问",
+        "name": "未成椿",
+        "pinned_tweet_id": "2083789930116141179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083607013905616896/5CPRnS7l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 57,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/j2R9EZgE8Q",
+        "username": "_1haru_oxo",
+        "verified": false
+      }
+    ]
+  }
+}

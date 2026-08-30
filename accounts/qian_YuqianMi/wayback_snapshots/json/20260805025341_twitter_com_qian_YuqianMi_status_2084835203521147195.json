@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084405208223039489"
+      ],
+      "media_source_tweet_id": [
+        "2084405213386187264"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Body Art",
+          "id": "854712713510965248",
+          "name": "Body art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tattoo",
+          "id": "854694311216136192",
+          "name": "Tattoos"
+        }
+      }
+    ],
+    "conversation_id": "2084835203521147195",
+    "created_at": "2026-08-05T02:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T03:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084835203521147195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1316813982",
+          "start": 3,
+          "username": "shion_eto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fhbuxxkv9s",
+          "end": 65,
+          "expanded_url": "https://x.com/shion_eto/status/2084405213386187264/photo/1",
+          "media_key": "3_2084405208223039489",
+          "start": 42,
+          "url": "https://t.co/Fhbuxxkv9s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084835203521147195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3731
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084405213386187264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shion_eto: 足からお腹までのタトゥーが完成したよん、可愛いでしょ https://t.co/Fhbuxxkv9s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084405208223039489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1LfkQbwAEsUNZ.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084405208223039489"
+          ]
+        },
+        "author_id": "1316813982",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "2084405213386187264",
+        "created_at": "2026-08-03T22:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T23:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084405213386187264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fhbuxxkv9s",
+              "end": 50,
+              "expanded_url": "https://x.com/shion_eto/status/2084405213386187264/photo/1",
+              "media_key": "3_2084405208223039489",
+              "start": 27,
+              "url": "https://t.co/Fhbuxxkv9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084405213386187264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12076,
+          "impression_count": 3945407,
+          "like_count": 99548,
+          "quote_count": 989,
+          "reply_count": 946,
+          "retweet_count": 3731
+        },
+        "reply_settings": "everyone",
+        "text": "足からお腹までのタトゥーが完成したよん、可愛いでしょ https://t.co/Fhbuxxkv9s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084405208223039489"
+          ],
+          "media_source_tweet_id": [
+            "2084405213386187264"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Body Art",
+              "id": "854712713510965248",
+              "name": "Body art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tattoo",
+              "id": "854694311216136192",
+              "name": "Tattoos"
+            }
+          }
+        ],
+        "conversation_id": "2084835203521147195",
+        "created_at": "2026-08-05T02:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084835203521147195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1316813982",
+              "start": 3,
+              "username": "shion_eto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fhbuxxkv9s",
+              "end": 65,
+              "expanded_url": "https://x.com/shion_eto/status/2084405213386187264/photo/1",
+              "media_key": "3_2084405208223039489",
+              "start": 42,
+              "url": "https://t.co/Fhbuxxkv9s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084835203521147195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3731
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084405213386187264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shion_eto: 足からお腹までのタトゥーが完成したよん、可愛いでしょ https://t.co/Fhbuxxkv9s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 855,
+          "like_count": 30130,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 6200
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-30T17:12:49.000Z",
+        "description": "■このクリーチャーはブロックされない。 ShionEto ¦ 【sub→ @Cos_ojisan】\n時期Vtuberやるのでのんびり準備してます",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Cos_ojisan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/etcosplayer",
+                "end": 23,
+                "expanded_url": "https://lit.link/etcosplayer",
+                "start": 0,
+                "url": "https://t.co/GVmgA8BVvL"
+              }
+            ]
+          }
+        },
+        "id": "1316813982",
+        "location": "icon:John kafka ",
+        "name": "紫苑花エト",
+        "pinned_tweet_id": "2076885093420093669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1763537344920170496/ZNtFdNlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92203,
+          "following_count": 240,
+          "like_count": 86691,
+          "listed_count": 479,
+          "media_count": 49,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/GVmgA8BVvL",
+        "username": "shion_eto",
+        "verified": true
+      }
+    ]
+  }
+}

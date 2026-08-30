@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2084447470831231211",
+    "created_at": "2026-08-05T02:50:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T03:50:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084834352979173575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878142610805788672",
+          "start": 0,
+          "username": "yukinoo_123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084834352979173575",
+    "in_reply_to_user_id": "1878142610805788672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084447470831231211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukinoo_123 宝宝你美鼠惹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2084447457614950400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO1x6zga8AASw7w.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2084447470831231211",
+        "created_at": "2026-08-05T02:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084834352979173575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878142610805788672",
+              "start": 0,
+              "username": "yukinoo_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084834352979173575",
+        "in_reply_to_user_id": "1878142610805788672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084447470831231211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukinoo_123 宝宝你美鼠惹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084447457614950400"
+          ]
+        },
+        "author_id": "1878142610805788672",
+        "conversation_id": "2084447470831231211",
+        "created_at": "2026-08-04T01:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084447470831231211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDRSNXNoeK",
+              "end": 42,
+              "expanded_url": "https://x.com/yukinoo_123/status/2084447470831231211/photo/1",
+              "media_key": "3_2084447457614950400",
+              "start": 19,
+              "url": "https://t.co/TDRSNXNoeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084447470831231211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6174,
+          "like_count": 255,
+          "quote_count": 0,
+          "reply_count": 85,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想到我们毫无结果 又想到世界如此辽阔 https://t.co/TDRSNXNoeK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "location": "失梦",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 855,
+          "like_count": 30113,
+          "listed_count": 0,
+          "media_count": 399,
+          "tweet_count": 6197
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T18:11:28.000Z",
+        "description": "私信使用指南：发自拍/发小动物/发红包会得到回复 发生殖器/聊骚/hello可以认识一下吗会被无视甚至拉黑\n卡颜。我喜欢的会回关 喜欢我可以赏我点零花钱 \n🔗 https://t.co/pTsNSyZgkm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7hooi",
+                "end": 103,
+                "expanded_url": "https://ngl.link/7hooi",
+                "start": 80,
+                "url": "https://t.co/pTsNSyZgkm"
+              }
+            ]
+          }
+        },
+        "id": "1878142610805788672",
+        "location": "不与傻瓜论短长。问我约不约的你全家死完了",
+        "name": "分手后用烟头把前任烫成斑点狗",
+        "pinned_tweet_id": "2077993813025439943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051229318081400832/uQwMMOCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 294,
+          "like_count": 2112,
+          "listed_count": 7,
+          "media_count": 247,
+          "tweet_count": 3087
+        },
+        "url": "",
+        "username": "yukinoo_123",
+        "verified": false
+      }
+    ]
+  }
+}

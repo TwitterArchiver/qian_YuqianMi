@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1786908805831266304"
+      ],
+      "media_source_tweet_id": [
+        "1786908822352637965"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2087734109800104145",
+    "created_at": "2026-08-13T02:52:54.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T03:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087734109800104145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1064317162028822528",
+          "start": 3,
+          "username": "tyomateee2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o2unsSmvek",
+          "end": 59,
+          "expanded_url": "https://x.com/ShouldHaveCat/status/1786908822352637965/video/1",
+          "media_key": "7_1786908805831266304",
+          "start": 36,
+          "url": "https://t.co/o2unsSmvek"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087734109800104145",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "7_1786908805831266304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1317
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087464117523103831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyomateee2: 空が綺麗すぎて目がバグったのかと思った https://t.co/o2unsSmvek"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6906,
+        "height": 1920,
+        "media_key": "7_1786908805831266304",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1786908805831266304/pu/img/FkFC2cEFRNovrCum.jpg",
+        "public_metrics": {
+          "view_count": 5697552
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1786908805831266304/pu/vid/avc1/320x568/a-L-7Wu09L5x3LgY.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1786908805831266304/pu/vid/avc1/480x852/mxwscJUsj1ChdjeZ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1786908805831266304/pu/vid/avc1/720x1280/djFz3U5JGga0eHQ9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1786908805831266304/pu/pl/OVNtbe5wLVK-8Y9e.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1786908805831266304"
+          ]
+        },
+        "author_id": "1310275768191193088",
+        "conversation_id": "1786908822352637965",
+        "created_at": "2024-05-05T00:00:37.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2024-05-05T01:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1786908822352637965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ol7hHO6lfj",
+              "end": 53,
+              "expanded_url": "https://x.com/ShouldHaveCat/status/1786908822352637965/video/1",
+              "media_key": "7_1786908805831266304",
+              "start": 30,
+              "url": "https://t.co/Ol7hHO6lfj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1786908822352637965",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "7_1786908805831266304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12946,
+          "impression_count": 7209522,
+          "like_count": 205539,
+          "quote_count": 862,
+          "reply_count": 277,
+          "retweet_count": 28735
+        },
+        "reply_settings": "everyone",
+        "text": "Orange cat 🐈 ✨ Orange sky ☁️✨ https://t.co/Ol7hHO6lfj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1786908805831266304"
+          ],
+          "media_source_tweet_id": [
+            "1786908822352637965"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087734109800104145",
+        "created_at": "2026-08-13T02:52:54.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T03:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087734109800104145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1064317162028822528",
+              "start": 3,
+              "username": "tyomateee2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2unsSmvek",
+              "end": 59,
+              "expanded_url": "https://x.com/ShouldHaveCat/status/1786908822352637965/video/1",
+              "media_key": "7_1786908805831266304",
+              "start": 36,
+              "url": "https://t.co/o2unsSmvek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087734109800104145",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1786908805831266304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1317
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087464117523103831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyomateee2: 空が綺麗すぎて目がバグったのかと思った https://t.co/o2unsSmvek"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1786908805831266304"
+          ],
+          "media_source_tweet_id": [
+            "1786908822352637965"
+          ]
+        },
+        "author_id": "1064317162028822528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087464117523103831",
+        "created_at": "2026-08-12T09:00:03.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087464117523103831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o2unsSmvek",
+              "end": 43,
+              "expanded_url": "https://x.com/ShouldHaveCat/status/1786908822352637965/video/1",
+              "media_key": "7_1786908805831266304",
+              "start": 20,
+              "url": "https://t.co/o2unsSmvek"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087464117523103831",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_1786908805831266304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1449,
+          "impression_count": 247910,
+          "like_count": 15323,
+          "quote_count": 31,
+          "reply_count": 63,
+          "retweet_count": 1319
+        },
+        "reply_settings": "everyone",
+        "text": "空が綺麗すぎて目がバグったのかと思った https://t.co/o2unsSmvek"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2087734109800104145",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1414,
+          "following_count": 832,
+          "like_count": 30131,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 6197
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-19T00:39:20.000Z",
+        "description": "癒される動物の動画を引用で紹介しております。",
+        "id": "1064317162028822528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087705697517514842",
+        "name": "もふもふ動画",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1064317162028822528/1565680082",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161172534789906432/xKRolaCK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284218,
+          "following_count": 692,
+          "like_count": 14026,
+          "listed_count": 4399,
+          "media_count": 12372,
+          "tweet_count": 33193
+        },
+        "url": "",
+        "username": "tyomateee2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
