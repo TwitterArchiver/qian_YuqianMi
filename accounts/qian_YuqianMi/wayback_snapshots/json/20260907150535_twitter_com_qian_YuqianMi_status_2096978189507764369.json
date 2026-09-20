@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2096633932594962547",
+    "created_at": "2026-09-07T15:05:35.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096978189507764369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857119469757427712",
+          "start": 0,
+          "username": "When_tears"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096978189507764369",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096978092367770095",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@When_tears 我喷死了！！呃呃呃啊啊啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2096633932594962547",
+        "created_at": "2026-09-07T15:05:35.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096978189507764369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857119469757427712",
+              "start": 0,
+              "username": "When_tears"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096978189507764369",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096978092367770095",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@When_tears 我喷死了！！呃呃呃啊啊啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2096633932594962547",
+        "created_at": "2026-09-07T15:05:11.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096978092367770095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857119469757427712",
+              "start": 0,
+              "username": "When_tears"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096978092367770095",
+        "in_reply_to_user_id": "1857119469757427712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096633932594962547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@When_tears 我喷了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2096978189507764369",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 810,
+          "like_count": 30541,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 6339
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-14T17:52:53.000Z",
+        "description": "你好我是小红  当朋友圈发 喜欢我可以找我闲聊，没有礼貌的讯息不回 小号@StarryNigh14864",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 36,
+                "username": "StarryNigh14864"
+              }
+            ]
+          }
+        },
+        "id": "1857119469757427712",
+        "is_identity_verified": false,
+        "location": "愛與痛的邊緣",
+        "most_recent_tweet_id": "2096896116428263800",
+        "name": "唉",
+        "pinned_tweet_id": "2019310293512507629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857119469757427712/1766998879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937054760609222656/uscnCM4y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 103,
+          "like_count": 1053,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 1722
+        },
+        "url": "",
+        "username": "When_tears",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

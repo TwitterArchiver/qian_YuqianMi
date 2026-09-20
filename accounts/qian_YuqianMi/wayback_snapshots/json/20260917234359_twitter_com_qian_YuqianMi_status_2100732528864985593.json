@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2100663108318405079",
+    "created_at": "2026-09-17T23:43:59.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T00:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100732528864985593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944679199358570496",
+          "start": 0,
+          "username": "0kada_Mi0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100732528864985593",
+    "in_reply_to_user_id": "1944679199358570496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100663108318405079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0kada_Mi0 萌萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8730,
+        "height": 1280,
+        "media_key": "13_2100663056393015296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100663056393015296/img/ena5dXhsHTMm2nIc.jpg",
+        "public_metrics": {
+          "view_count": 301
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100663056393015296/vid/avc1/320x568/MhbTYAqyNwaPwtBl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100663056393015296/vid/avc1/480x852/mDONWwscMlhIY8Qq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100663056393015296/vid/avc1/720x1280/CdYgvf82Ptv61_RQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100663056393015296/pl/5S4ZKA-fZvvSr4aJ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2100663108318405079",
+        "created_at": "2026-09-17T23:43:59.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T00:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100732528864985593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944679199358570496",
+              "start": 0,
+              "username": "0kada_Mi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100732528864985593",
+        "in_reply_to_user_id": "1944679199358570496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100663108318405079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0kada_Mi0 萌萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100663056393015296"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2100663108318405079",
+        "created_at": "2026-09-17T19:08:08.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100663108318405079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0PhV3met3",
+              "end": 26,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2100663108318405079/video/1",
+              "media_key": "13_2100663056393015296",
+              "start": 3,
+              "url": "https://t.co/n0PhV3met3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100663108318405079",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2100663056393015296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1088,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "嗯嗯 https://t.co/n0PhV3met3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2100732528864985593",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 808,
+          "like_count": 30917,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 6435
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSIfij"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100663312493019202",
+        "name": "miovo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1944679199358570496/1752484102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2048,
+          "following_count": 229,
+          "like_count": 21288,
+          "listed_count": 7,
+          "media_count": 252,
+          "tweet_count": 3916
+        },
+        "url": "https://t.co/1hFCOSIfij",
+        "username": "0kada_Mi0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

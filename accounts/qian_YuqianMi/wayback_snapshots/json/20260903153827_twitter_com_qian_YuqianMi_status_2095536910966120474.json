@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2095536910966120474",
+    "created_at": "2026-09-03T15:38:27.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095536910966120474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1626364885",
+          "start": 3,
+          "username": "kylebrummett048"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095536910966120474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094966613019935182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kylebrummett048: 我的经验之谈就是那种看起来越典型的什么卷毛小帅男大、小美网红风抖音女大基本上都不太好相处都是贱人，外貌越偏门越有自己想法和风格的反而是比较好相处的人。。全部都是我自己的经历，aoe的话I’m sorry"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2095536910966120474",
+        "created_at": "2026-09-03T15:38:27.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095536910966120474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1626364885",
+              "start": 3,
+              "username": "kylebrummett048"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095536910966120474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094966613019935182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kylebrummett048: 我的经验之谈就是那种看起来越典型的什么卷毛小帅男大、小美网红风抖音女大基本上都不太好相处都是贱人，外貌越偏门越有自己想法和风格的反而是比较好相处的人。。全部都是我自己的经历，aoe的话I’m sorry"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626364885",
+        "conversation_id": "2094966613019935182",
+        "created_at": "2026-09-02T01:52:17.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:52:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094966613019935182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094966613019935182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 170291,
+          "like_count": 2819,
+          "quote_count": 19,
+          "reply_count": 270,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "我的经验之谈就是那种看起来越典型的什么卷毛小帅男大、小美网红风抖音女大基本上都不太好相处都是贱人，外貌越偏门越有自己想法和风格的反而是比较好相处的人。。全部都是我自己的经历，aoe的话I’m sorry"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2095536910966120474",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 810,
+          "like_count": 30321,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 6290
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-27T21:26:06.000Z",
+        "description": "egirl｜涩蝎*欲女｜🚪200",
+        "id": "1626364885",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095513196715200710",
+        "name": "听耳语",
+        "pinned_tweet_id": "2095482877043691699",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626364885/1749636447",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932740580292853760/m3r7OnlC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6122,
+          "following_count": 2,
+          "like_count": 90,
+          "listed_count": 22,
+          "media_count": 20,
+          "tweet_count": 155
+        },
+        "url": "",
+        "username": "kylebrummett048",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

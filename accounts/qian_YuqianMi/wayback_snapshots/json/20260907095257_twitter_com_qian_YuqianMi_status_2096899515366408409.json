@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2096818356460662992",
+    "created_at": "2026-09-07T09:52:57.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096899515366408409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1755481615864872960",
+          "start": 0,
+          "username": "sjjsjq135000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096899515366408409",
+    "in_reply_to_user_id": "1755481615864872960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096818356460662992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjjsjq135000 哎哎我也是。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2096818356460662992",
+        "created_at": "2026-09-07T09:52:57.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096899515366408409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1755481615864872960",
+              "start": 0,
+              "username": "sjjsjq135000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096899515366408409",
+        "in_reply_to_user_id": "1755481615864872960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096818356460662992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjjsjq135000 哎哎我也是。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755481615864872960",
+        "conversation_id": "2096818356460662992",
+        "created_at": "2026-09-07T04:30:27.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T05:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096818356460662992"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096818356460662992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 162,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "互关快回来啊，每天都要掉一两个互关，我真没招了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2096899515366408409",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 809,
+          "like_count": 30487,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 6329
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-08T06:40:20.000Z",
+        "description": "https://t.co/p4Z1AzEsI2\n和我互动多的我都会回关的\n熟悉的互关可以加我V （和我说就行）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ww49812",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ww49812",
+                "start": 0,
+                "url": "https://t.co/p4Z1AzEsI2"
+              }
+            ]
+          }
+        },
+        "id": "1755481615864872960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096896208820424877",
+        "name": "电次（米饭🍚）",
+        "pinned_tweet_id": "2093723942410506580",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1755481615864872960/1738770886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009133454743752704/Z92W8eu-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 343,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1567
+        },
+        "url": "",
+        "username": "sjjsjq135000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

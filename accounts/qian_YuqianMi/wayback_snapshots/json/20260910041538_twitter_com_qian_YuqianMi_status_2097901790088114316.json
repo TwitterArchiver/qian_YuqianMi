@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097901663810142208"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2097901790088114316",
+    "created_at": "2026-09-10T04:15:38.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:15:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097901790088114316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nysJG2D4Qe",
+          "end": 64,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2097901790088114316/photo/1",
+          "media_key": "3_2097901663810142208",
+          "start": 41,
+          "url": "https://t.co/nysJG2D4Qe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097901790088114316",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097901663810142208"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "！！！！！？？？？？？\n哦哦我的账号第一次被封了。牛逼。\n傻逼推特又在抽什么风。 https://t.co/nysJG2D4Qe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2097901663810142208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR0-crUawAAREPA.jpg",
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097901663810142208"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2097901790088114316",
+        "created_at": "2026-09-10T04:15:38.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097901790088114316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nysJG2D4Qe",
+              "end": 64,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2097901790088114316/photo/1",
+              "media_key": "3_2097901663810142208",
+              "start": 41,
+              "url": "https://t.co/nysJG2D4Qe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097901790088114316",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097901663810142208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "！！！！！？？？？？？\n哦哦我的账号第一次被封了。牛逼。\n傻逼推特又在抽什么风。 https://t.co/nysJG2D4Qe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2097901790088114316",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1488,
+          "following_count": 812,
+          "like_count": 30643,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 6355
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

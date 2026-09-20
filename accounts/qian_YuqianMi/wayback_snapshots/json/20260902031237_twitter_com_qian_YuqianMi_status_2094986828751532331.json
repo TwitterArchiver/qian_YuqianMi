@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2094986828751532331",
+    "created_at": "2026-09-02T03:12:37.000Z",
+    "display_text_range": [
+      0,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T04:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094986828751532331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ado1024imokenp…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/ado1024imokenp/status/2094965774289133705",
+          "start": 31,
+          "url": "https://t.co/hPS3tdRuGa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094986828751532331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094965774289133705",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全一致🥰😇😇🥲\nado和千千没有同时出现过所以千千＝ado https://t.co/hPS3tdRuGa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2094986828751532331",
+        "created_at": "2026-09-02T03:12:37.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T04:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094986828751532331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ado1024imokenp…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/ado1024imokenp/status/2094965774289133705",
+              "start": 31,
+              "url": "https://t.co/hPS3tdRuGa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094986828751532331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094965774289133705",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全一致🥰😇😇🥲\nado和千千没有同时出现过所以千千＝ado https://t.co/hPS3tdRuGa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2929136138",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407374567027314690",
+              "name": "Ado"
+            }
+          }
+        ],
+        "conversation_id": "2094965774289133705",
+        "created_at": "2026-09-02T01:48:57.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094965774289133705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094965774289133705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 130054,
+          "like_count": 8626,
+          "quote_count": 42,
+          "reply_count": 542,
+          "retweet_count": 593
+        },
+        "reply_settings": "everyone",
+        "text": "早起きしたのににじかんむだにした！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2094986828751532331",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 813,
+          "like_count": 30162,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 6242
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-12-14T02:19:30.000Z",
+        "description": "アドです。niconico：https://t.co/Bdx26K2k2K YouTube : https://t.co/A2EbwbLv1w イラストは「#Adoart」DMは事務所が管理しています。contact→ https://t.co/3GPesFPBFr",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "Adoart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/mylist/58569901",
+                "end": 37,
+                "expanded_url": "http://nicovideo.jp/mylist/58569901",
+                "start": 14,
+                "url": "https://t.co/Bdx26K2k2K"
+              },
+              {
+                "display_url": "youtube.com/c/Ado1024",
+                "end": 71,
+                "expanded_url": "http://youtube.com/c/Ado1024",
+                "start": 48,
+                "url": "https://t.co/A2EbwbLv1w"
+              },
+              {
+                "display_url": "cloud9pro.co.jp/contact/",
+                "end": 133,
+                "expanded_url": "https://cloud9pro.co.jp/contact/",
+                "start": 110,
+                "url": "https://t.co/3GPesFPBFr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "…o-dokidokihimitsukichi-daigakuimo.com",
+                "end": 23,
+                "expanded_url": "https://ado-dokidokihimitsukichi-daigakuimo.com/",
+                "start": 0,
+                "url": "https://t.co/VdcVooBwaG"
+              }
+            ]
+          }
+        },
+        "id": "2929136138",
+        "is_identity_verified": false,
+        "location": "i：ORIHARAさん h：トゥルさん     ↓秘密基地",
+        "most_recent_tweet_id": "2094965774289133705",
+        "name": "Ado",
+        "pinned_tweet_id": "2009642174506529231",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2929136138/1674294210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039283475816267776/hlTPvQXs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3113386,
+          "following_count": 699,
+          "like_count": 53343,
+          "listed_count": 4099,
+          "media_count": 1105,
+          "tweet_count": 32724
+        },
+        "url": "https://t.co/VdcVooBwaG",
+        "username": "ado1024imokenp",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

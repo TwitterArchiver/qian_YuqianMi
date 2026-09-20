@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2094660958589497646",
+    "created_at": "2026-09-01T14:38:03.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T15:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094796935081365654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1645655255978508288",
+          "start": 0,
+          "username": "_Gou_Shi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094796935081365654",
+    "in_reply_to_user_id": "1645655255978508288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094667029018185756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Gou_Shi 萌物！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2094660958589497646",
+        "created_at": "2026-09-01T14:38:03.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094796935081365654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1645655255978508288",
+              "start": 0,
+              "username": "_Gou_Shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094796935081365654",
+        "in_reply_to_user_id": "1645655255978508288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094667029018185756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Gou_Shi 萌物！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645655255978508288",
+        "conversation_id": "2094660958589497646",
+        "created_at": "2026-09-01T06:01:51.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094667029018185756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094667029018185756",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094660958589497646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 好萌好萌"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2094796935081365654",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 813,
+          "like_count": 30168,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 6240
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-11T05:09:43.000Z",
+        "description": "🔸pixiv：https://t.co/MzLHy1E6hv🔸\nLOFTER/画加：油炸狗屎\n🚫禁止AI学习使用🚫\nうみさき•Futa控•偶尔画些🔞主要发点同人和oc•如果你喜欢我的作品 请点赞关注我吧 这对我很重要\n这里是小号→https://t.co/zGele8ECeU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/43051781",
+                "end": 30,
+                "expanded_url": "https://www.pixiv.net/users/43051781",
+                "start": 7,
+                "url": "https://t.co/MzLHy1E6hv"
+              },
+              {
+                "display_url": "x.com/_You_Zha?s=20",
+                "end": 138,
+                "expanded_url": "https://x.com/_You_Zha?s=20",
+                "start": 115,
+                "url": "https://t.co/zGele8ECeU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/3rk8z5x0pgp6l6…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/3rk8z5x0pgp6l67?t=QAbtUm&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/L1qwe6wNEQ"
+              }
+            ]
+          }
+        },
+        "id": "1645655255978508288",
+        "is_identity_verified": false,
+        "location": "点这里进入提问箱！→",
+        "most_recent_tweet_id": "2094667029018185756",
+        "name": "油炸狗屎",
+        "pinned_tweet_id": "2062189303128834068",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1645655255978508288/1787518446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041142019075272704/Fb_I2nuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1282,
+          "following_count": 516,
+          "like_count": 24264,
+          "listed_count": 4,
+          "media_count": 145,
+          "tweet_count": 775
+        },
+        "url": "https://t.co/L1qwe6wNEQ",
+        "username": "_Gou_Shi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

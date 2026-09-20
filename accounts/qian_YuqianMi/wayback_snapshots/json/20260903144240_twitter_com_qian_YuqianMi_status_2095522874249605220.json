@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2095494882823749696",
+    "created_at": "2026-09-03T14:42:40.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:42:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095522874249605220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862432139968397313",
+          "start": 0,
+          "username": "LeavesR93837"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095522874249605220",
+    "in_reply_to_user_id": "1862432139968397313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095494882823749696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeavesR93837 （？）哪里小众了这么好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2095494871910154240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSxe8zbgAAWN9T.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2095494882823749696",
+        "created_at": "2026-09-03T14:42:40.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095522874249605220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862432139968397313",
+              "start": 0,
+              "username": "LeavesR93837"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095522874249605220",
+        "in_reply_to_user_id": "1862432139968397313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095494882823749696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeavesR93837 （？）哪里小众了这么好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095494871910154240"
+          ]
+        },
+        "author_id": "1862432139968397313",
+        "conversation_id": "2095494882823749696",
+        "created_at": "2026-09-03T12:51:27.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095494882823749696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0XCyT5YAmR",
+              "end": 65,
+              "expanded_url": "https://x.com/LeavesR93837/status/2095494882823749696/photo/1",
+              "media_key": "3_2095494871910154240",
+              "start": 42,
+              "url": "https://t.co/0XCyT5YAmR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095494882823749696",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095494871910154240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1045,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上条推文给我看美了，但总感觉喜欢我这种身材的还是太小众了，以防被骂我也发一张吧（） https://t.co/0XCyT5YAmR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2095522874249605220",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 810,
+          "like_count": 30300,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 6286
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-29T09:43:56.000Z",
+        "description": "",
+        "id": "1862432139968397313",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095522664383381783",
+        "name": "小池酱",
+        "pinned_tweet_id": "1937378359081582650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1862432139968397313/1749068648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946525565973827584/zuV1uJUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 103,
+          "like_count": 79,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "LeavesR93837",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

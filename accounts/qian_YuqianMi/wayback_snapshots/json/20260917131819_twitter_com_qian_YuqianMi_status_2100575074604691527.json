@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2100513128366973131",
+    "created_at": "2026-09-17T13:18:19.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T14:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100575074604691527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943595369394475008",
+          "start": 0,
+          "username": "aki_yinQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100575074604691527",
+    "in_reply_to_user_id": "1943595369394475008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100513128366973131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aki_yinQ 老大老大你好好看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1202,
+        "media_key": "3_2100513119043010560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaFjYKbQAA_o2Y.jpg",
+        "width": 629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2100513128366973131",
+        "created_at": "2026-09-17T13:18:19.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100575074604691527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943595369394475008",
+              "start": 0,
+              "username": "aki_yinQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100575074604691527",
+        "in_reply_to_user_id": "1943595369394475008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100513128366973131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aki_yinQ 老大老大你好好看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100513119043010560"
+          ]
+        },
+        "author_id": "1943595369394475008",
+        "conversation_id": "2100513128366973131",
+        "created_at": "2026-09-17T09:12:10.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100513128366973131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "贡奴"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "ATM"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "4i"
+            },
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "四爱"
+            },
+            {
+              "end": 36,
+              "start": 33,
+              "tag": "女s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdNo9gw16W",
+              "end": 60,
+              "expanded_url": "https://x.com/aki_yinQ/status/2100513128366973131/photo/1",
+              "media_key": "3_2100513119043010560",
+              "start": 37,
+              "url": "https://t.co/mdNo9gw16W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100513128366973131",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100513119043010560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 200,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想被盯射的小狗乖乖吐金吧^^\n #贡奴 #ATM #4i #四爱 #女s https://t.co/mdNo9gw16W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2100575074604691527",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 807,
+          "like_count": 30907,
+          "listed_count": 0,
+          "media_count": 424,
+          "tweet_count": 6431
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-11T08:57:16.000Z",
+        "description": "贫乳｜178/46 ｜S｜1i&4i｜扶他控",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/akisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/akisama",
+                "start": 0,
+                "url": "https://t.co/UXr7XnfKG4"
+              }
+            ]
+          }
+        },
+        "id": "1943595369394475008",
+        "is_identity_verified": false,
+        "location": "宇宙",
+        "most_recent_tweet_id": "2100543354236969405",
+        "name": "Aki",
+        "pinned_tweet_id": "2098385191853244875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943595369394475008/1755335604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095703273491841024/_V7teL_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 44,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/UXr7XnfKG4",
+        "username": "aki_yinQ",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

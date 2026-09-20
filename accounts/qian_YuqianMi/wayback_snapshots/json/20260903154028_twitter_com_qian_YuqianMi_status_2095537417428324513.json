@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2095537417428324513",
+    "created_at": "2026-09-03T15:40:28.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095537417428324513"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1nlg4/status/2…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/1nlg4/status/2094769874048622971",
+          "start": 3,
+          "url": "https://t.co/DIFon6SV9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095537417428324513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094769874048622971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "会吃 https://t.co/DIFon6SV9x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2095537417428324513",
+        "created_at": "2026-09-03T15:40:28.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095537417428324513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1nlg4/status/2…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/1nlg4/status/2094769874048622971",
+              "start": 3,
+              "url": "https://t.co/DIFon6SV9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095537417428324513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094769874048622971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会吃 https://t.co/DIFon6SV9x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045196205412462593",
+        "conversation_id": "2094769874048622971",
+        "created_at": "2026-09-01T12:50:31.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094769874048622971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094769874048622971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 629,
+          "impression_count": 294976,
+          "like_count": 10344,
+          "quote_count": 593,
+          "reply_count": 93,
+          "retweet_count": 1882
+        },
+        "reply_settings": "everyone",
+        "text": "リスカ跡ある男えろすぎる"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2095537417428324513",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1413,
+          "following_count": 810,
+          "like_count": 30326,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 6292
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-17T17:42:37.000Z",
+        "description": "",
+        "id": "2045196205412462593",
+        "is_identity_verified": false,
+        "location": "兵庫",
+        "most_recent_tweet_id": "2095457094761906257",
+        "name": "ゆきな",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045196205412462593/1786990243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089141792876974080/gNB3UBUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 75,
+          "like_count": 227,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 785
+        },
+        "url": "",
+        "username": "1nlg4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

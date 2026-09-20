@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098769390493982720"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2098769511881314480",
+    "created_at": "2026-09-12T13:43:39.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T14:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098769511881314480"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 23,
+          "tag": "oc"
+        },
+        {
+          "end": 31,
+          "start": 27,
+          "tag": "bjd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HfbUXO2C8w",
+          "end": 74,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2098769511881314480/photo/1",
+          "media_key": "3_2098769390493982720",
+          "start": 51,
+          "url": "https://t.co/HfbUXO2C8w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098769511881314480",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098769390493982720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宝贝们千千回学校了。。。带孩子上学第一天👉👈\n#oc #bjd\n有点点发霉了寝室里我得去处理一下哎哎 https://t.co/HfbUXO2C8w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2098769390493982720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBTpBHbYAA-4O7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098769390493982720"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2098769511881314480",
+        "created_at": "2026-09-12T13:43:39.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098769511881314480"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "oc"
+            },
+            {
+              "end": 31,
+              "start": 27,
+              "tag": "bjd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfbUXO2C8w",
+              "end": 74,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2098769511881314480/photo/1",
+              "media_key": "3_2098769390493982720",
+              "start": 51,
+              "url": "https://t.co/HfbUXO2C8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098769511881314480",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098769390493982720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宝贝们千千回学校了。。。带孩子上学第一天👉👈\n#oc #bjd\n有点点发霉了寝室里我得去处理一下哎哎 https://t.co/HfbUXO2C8w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2098769511881314480",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1527,
+          "following_count": 809,
+          "like_count": 30762,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 6390
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

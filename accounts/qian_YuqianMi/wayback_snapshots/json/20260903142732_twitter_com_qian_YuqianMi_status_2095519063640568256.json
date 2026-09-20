@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2095458375551095160",
+    "created_at": "2026-09-03T14:27:32.000Z",
+    "display_text_range": [
+      11,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095519063640568256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1943313630574878721",
+          "start": 0,
+          "username": "qq1000110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095519063640568256",
+    "in_reply_to_user_id": "1943313630574878721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095458375551095160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qq1000110 我全设成屏蔽词了。。起码自己看不见🥲🥲真的烦死了这群人机"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095458359746912257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRSQRqZWYAEG-rm.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2095458375551095160",
+        "created_at": "2026-09-03T14:27:32.000Z",
+        "display_text_range": [
+          11,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095519063640568256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1943313630574878721",
+              "start": 0,
+              "username": "qq1000110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095519063640568256",
+        "in_reply_to_user_id": "1943313630574878721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095458375551095160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qq1000110 我全设成屏蔽词了。。起码自己看不见🥲🥲真的烦死了这群人机"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095458359746912257"
+          ]
+        },
+        "author_id": "1943313630574878721",
+        "conversation_id": "2095458375551095160",
+        "created_at": "2026-09-03T10:26:23.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095458375551095160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qKPZi1uDsp",
+              "end": 31,
+              "expanded_url": "https://x.com/qq1000110/status/2095458375551095160/photo/1",
+              "media_key": "3_2095458359746912257",
+              "start": 8,
+              "url": "https://t.co/qKPZi1uDsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095458375551095160",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095458359746912257"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 763,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人管一下 https://t.co/qKPZi1uDsp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2095519063640568256",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 810,
+          "like_count": 30286,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 6279
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-10T14:17:42.000Z",
+        "description": "任何人都可以是轻描淡写的一页",
+        "id": "1943313630574878721",
+        "is_identity_verified": false,
+        "location": "🦴",
+        "most_recent_tweet_id": "2095514715690578376",
+        "name": "qq",
+        "pinned_tweet_id": "2041351443580440637",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943313630574878721/1759630393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006997201981976577/STquAVHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1136,
+          "following_count": 162,
+          "like_count": 3319,
+          "listed_count": 1,
+          "media_count": 266,
+          "tweet_count": 3454
+        },
+        "url": "",
+        "username": "qq1000110",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

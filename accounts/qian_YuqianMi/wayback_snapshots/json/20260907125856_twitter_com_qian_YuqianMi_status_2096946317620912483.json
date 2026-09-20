@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096448199766798336"
+      ],
+      "media_source_tweet_id": [
+        "2096448203843641551"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2096946317620912483",
+    "created_at": "2026-09-07T12:58:56.000Z",
+    "display_text_range": [
+      0,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T13:58:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096946317620912483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859900332874289152",
+          "start": 3,
+          "username": "vsgt1tx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CfJXN3ztVo",
+          "end": 50,
+          "expanded_url": "https://x.com/vsgt1tx/status/2096448203843641551/photo/1",
+          "media_key": "3_2096448199766798336",
+          "start": 27,
+          "url": "https://t.co/CfJXN3ztVo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096946317620912483",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096448199766798336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1275
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096448203843641551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vsgt1tx: やばい爆笑天才すぎて声出た https://t.co/CfJXN3ztVo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096448199766798336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgUh70bcAAoAEk.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096448199766798336"
+          ],
+          "media_source_tweet_id": [
+            "2096448203843641551"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2096946317620912483",
+        "created_at": "2026-09-07T12:58:56.000Z",
+        "display_text_range": [
+          0,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T13:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096946317620912483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859900332874289152",
+              "start": 3,
+              "username": "vsgt1tx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfJXN3ztVo",
+              "end": 50,
+              "expanded_url": "https://x.com/vsgt1tx/status/2096448203843641551/photo/1",
+              "media_key": "3_2096448199766798336",
+              "start": 27,
+              "url": "https://t.co/CfJXN3ztVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096946317620912483",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096448199766798336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1275
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096448203843641551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vsgt1tx: やばい爆笑天才すぎて声出た https://t.co/CfJXN3ztVo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096448199766798336"
+          ]
+        },
+        "author_id": "1859900332874289152",
+        "conversation_id": "2096448203843641551",
+        "created_at": "2026-09-06T03:59:36.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T04:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096448203843641551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CfJXN3ztVo",
+              "end": 37,
+              "expanded_url": "https://x.com/vsgt1tx/status/2096448203843641551/photo/1",
+              "media_key": "3_2096448199766798336",
+              "start": 14,
+              "url": "https://t.co/CfJXN3ztVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096448203843641551",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096448199766798336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 570,
+          "impression_count": 293446,
+          "like_count": 12860,
+          "quote_count": 186,
+          "reply_count": 20,
+          "retweet_count": 1275
+        },
+        "reply_settings": "everyone",
+        "text": "やばい爆笑天才すぎて声出た https://t.co/CfJXN3ztVo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2096946317620912483",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 810,
+          "like_count": 30510,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 6335
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T10:02:56.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@vsg1tx?_r=1&_…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@vsg1tx?_r=1&_t=ZS-98zkLVhYe1t",
+                "start": 0,
+                "url": "https://t.co/tow8OZ98aa"
+              }
+            ]
+          }
+        },
+        "id": "1859900332874289152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096928284668031300",
+        "name": "自殺願望",
+        "pinned_tweet_id": "2095055287531266374",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093591107024367616/wj5vejZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 70,
+          "like_count": 6027,
+          "listed_count": 2,
+          "media_count": 72,
+          "tweet_count": 912
+        },
+        "url": "https://t.co/tow8OZ98aa",
+        "username": "vsgt1tx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

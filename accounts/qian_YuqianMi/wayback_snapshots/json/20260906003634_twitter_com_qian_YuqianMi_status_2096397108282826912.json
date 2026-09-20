@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2096360990531318039",
+    "created_at": "2026-09-06T00:36:34.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096397108282826912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1645655255978508288",
+          "start": 0,
+          "username": "_Gou_Shi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096397108282826912",
+    "in_reply_to_user_id": "1645655255978508288",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096360990531318039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Gou_Shi 好帅呀老大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1233,
+        "media_key": "3_2096360923846025217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRfFJzraIAEmtgd.jpg",
+        "width": 859
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2096360990531318039",
+        "created_at": "2026-09-06T00:36:34.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096397108282826912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1645655255978508288",
+              "start": 0,
+              "username": "_Gou_Shi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096397108282826912",
+        "in_reply_to_user_id": "1645655255978508288",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096360990531318039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Gou_Shi 好帅呀老大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096360923846025217"
+          ]
+        },
+        "author_id": "1645655255978508288",
+        "conversation_id": "2096360990531318039",
+        "created_at": "2026-09-05T22:13:03.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T23:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096360990531318039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bJeJ9snsuE",
+              "end": 80,
+              "expanded_url": "https://x.com/_Gou_Shi/status/2096360990531318039/photo/1",
+              "media_key": "3_2096360923846025217",
+              "start": 57,
+              "url": "https://t.co/bJeJ9snsuE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096360990531318039",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096360923846025217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 1317,
+          "like_count": 136,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "哦牛批 刚电脑直接黑屏卡死还好我有时不时保存一下的习惯 不然重启完发现扣了大半个晚上的细化没了我直接嘎巴一下死这 https://t.co/bJeJ9snsuE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2096397108282826912",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 808,
+          "like_count": 30426,
+          "listed_count": 0,
+          "media_count": 413,
+          "tweet_count": 6317
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-11T05:09:43.000Z",
+        "description": "🔸pixiv：https://t.co/MzLHy1E6hv🔸\nLOFTER/画加：油炸狗屎\n🚫禁止AI学习使用🚫\nうみさき•Futa控•偶尔画些🔞主要发点同人和oc•如果你喜欢我的作品 请点赞关注我吧 这对我很重要\n这里是小号→https://t.co/zGele8ECeU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/43051781",
+                "end": 30,
+                "expanded_url": "https://www.pixiv.net/users/43051781",
+                "start": 7,
+                "url": "https://t.co/MzLHy1E6hv"
+              },
+              {
+                "display_url": "x.com/_You_Zha?s=20",
+                "end": 138,
+                "expanded_url": "https://x.com/_You_Zha?s=20",
+                "start": 115,
+                "url": "https://t.co/zGele8ECeU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/3rk8z5x0pgp6l6…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/3rk8z5x0pgp6l67?t=QAbtUm&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/L1qwe6wNEQ"
+              }
+            ]
+          }
+        },
+        "id": "1645655255978508288",
+        "is_identity_verified": false,
+        "location": "点这里进入提问箱！→",
+        "most_recent_tweet_id": "2096360990531318039",
+        "name": "油炸狗屎",
+        "pinned_tweet_id": "2062189303128834068",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1645655255978508288/1787518446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041142019075272704/Fb_I2nuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 521,
+          "like_count": 24719,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 783
+        },
+        "url": "https://t.co/L1qwe6wNEQ",
+        "username": "_Gou_Shi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

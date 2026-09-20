@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2096898766087618560"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2096898964129972523",
+    "created_at": "2026-09-07T09:50:46.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096898964129972523"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 14,
+          "tag": "oc"
+        },
+        {
+          "end": 22,
+          "start": 18,
+          "tag": "bjd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GEloP5NKE0",
+          "end": 46,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2096898964129972523/video/1",
+          "media_key": "13_2096898766087618560",
+          "start": 23,
+          "url": "https://t.co/GEloP5NKE0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096898964129972523",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2096898766087618560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小乖乖！！\n（是梅利艾哦！\n#oc #bjd https://t.co/GEloP5NKE0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17438,
+        "height": 1414,
+        "media_key": "13_2096898766087618560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096898766087618560/img/kGxH-Ihgko-66z6g.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096898766087618560/vid/avc1/320x418/bSqnluYFbJjgSsPe.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096898766087618560/vid/avc1/480x628/3WSnmug51YMbKWl6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096898766087618560/vid/avc1/720x942/3RM4aCJdaRbT2VKH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096898766087618560/pl/H03gFp-iRhYBC3Yq.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096898766087618560"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2096898964129972523",
+        "created_at": "2026-09-07T09:50:46.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096898964129972523"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "oc"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "bjd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GEloP5NKE0",
+              "end": 46,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2096898964129972523/video/1",
+              "media_key": "13_2096898766087618560",
+              "start": 23,
+              "url": "https://t.co/GEloP5NKE0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096898964129972523",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096898766087618560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小乖乖！！\n（是梅利艾哦！\n#oc #bjd https://t.co/GEloP5NKE0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2096898964129972523",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1423,
+          "following_count": 809,
+          "like_count": 30483,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 6328
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

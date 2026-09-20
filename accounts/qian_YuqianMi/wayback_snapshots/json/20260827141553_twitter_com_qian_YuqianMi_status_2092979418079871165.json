@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2092979408202272828",
+    "created_at": "2026-08-27T14:15:53.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T15:15:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092979418079871165"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2092979418079871165",
+    "in_reply_to_user_id": "1976659813863227392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092979415051649027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而完全不是给我送的红包，只是同样收在他自己的囊中而已。\n第二点或许是更让我遗憾悲愤的，在他那里我考上大学只是给他长脸的事而已，毕竟不办酒可以是因为他自己不方便再收礼。那么办酒或许也只是为了让他在那群社区老头中涨一分颜面。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2092979408202272828",
+        "created_at": "2026-08-27T14:15:53.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:15:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092979418079871165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092979418079871165",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092979415051649027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而完全不是给我送的红包，只是同样收在他自己的囊中而已。\n第二点或许是更让我遗憾悲愤的，在他那里我考上大学只是给他长脸的事而已，毕竟不办酒可以是因为他自己不方便再收礼。那么办酒或许也只是为了让他在那群社区老头中涨一分颜面。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2092979408202272828",
+        "created_at": "2026-08-27T14:15:52.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T15:15:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092979415051649027"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092979415051649027",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092979412346208729",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当时爷爷大病初愈，他就跟我爸说，亲戚们给了自己很多钱了（探病的时候），就不要办了，到时候再收钱不好。\n（？？🙃🤨🤨？？？）\n我直到刚才才意识到他这种脑回路究竟是什么含义\n首先他拿倒霉事冲掉我的喜事，原因是收过钱了再收礼不好。而在这其中，甚至暗含了一层“钱都是收给他们家的”的想法（↓）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2092979420697157785",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1388,
+          "following_count": 818,
+          "like_count": 30114,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 6217
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

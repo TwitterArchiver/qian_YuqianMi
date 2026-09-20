@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2099736297384694246",
+    "created_at": "2026-09-15T14:55:21.000Z",
+    "display_text_range": [
+      16,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T15:55:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099874718962896960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "876363325998678017",
+          "start": 0,
+          "username": "copymellowclip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099874718962896960",
+    "in_reply_to_user_id": "876363325998678017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099736297384694246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@copymellowclip 老大终于更新了🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 937,
+        "media_key": "3_2099736290250063872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPDB_ZaAAAkiUW.jpg",
+        "width": 1678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2099736297384694246",
+        "created_at": "2026-09-15T14:55:21.000Z",
+        "display_text_range": [
+          16,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099874718962896960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "876363325998678017",
+              "start": 0,
+              "username": "copymellowclip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099874718962896960",
+        "in_reply_to_user_id": "876363325998678017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099736297384694246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@copymellowclip 老大终于更新了🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099736290250063872"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2099736297384694246",
+        "created_at": "2026-09-15T05:45:19.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099736297384694246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r3fwxiFh4q",
+              "end": 46,
+              "expanded_url": "https://x.com/copymellowclip/status/2099736297384694246/photo/1",
+              "media_key": "3_2099736290250063872",
+              "start": 23,
+              "url": "https://t.co/r3fwxiFh4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099736297384694246",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099736290250063872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4011,
+          "like_count": 243,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "经典场景经典角色回归，定的莫提斯的演出服到了 https://t.co/r3fwxiFh4q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2099874718962896960",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526,
+          "following_count": 807,
+          "like_count": 30790,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 6406
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "ID是copy，也可以随意起称呼｜私信回复时间随缘（）请不要问年龄/位置等现实信息！",
+        "id": "876363325998678017",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099813219057725854",
+        "name": "コピー",
+        "pinned_tweet_id": "2086035119920628043",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/876363325998678017/1767506714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 1729,
+          "like_count": 7480,
+          "listed_count": 3,
+          "media_count": 194,
+          "tweet_count": 3976
+        },
+        "url": "",
+        "username": "copymellowclip",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

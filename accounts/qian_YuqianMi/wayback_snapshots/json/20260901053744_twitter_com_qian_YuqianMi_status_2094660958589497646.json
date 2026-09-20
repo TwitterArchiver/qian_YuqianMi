@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094660855711600640"
+      ]
+    },
+    "author_id": "1976659813863227392",
+    "conversation_id": "2094660958589497646",
+    "created_at": "2026-09-01T05:37:44.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094660958589497646"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 12,
+          "tag": "oc"
+        },
+        {
+          "end": 19,
+          "start": 16,
+          "tag": "绘画"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oQT9XjV9JD",
+          "end": 56,
+          "expanded_url": "https://x.com/qian_YuqianMi/status/2094660958589497646/photo/1",
+          "media_key": "3_2094660855711600640",
+          "start": 33,
+          "url": "https://t.co/oQT9XjV9JD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094660958589497646",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094660855711600640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我画了画🥰\n梅利艾炸虾\n#oc #绘画\n是新的oc宝宝哦叫梅利艾 https://t.co/oQT9XjV9JD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094660855711600640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRG680WbEAAKm1V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094660855711600640"
+          ]
+        },
+        "author_id": "1976659813863227392",
+        "conversation_id": "2094660958589497646",
+        "created_at": "2026-09-01T05:37:44.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094660958589497646"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 12,
+              "tag": "oc"
+            },
+            {
+              "end": 19,
+              "start": 16,
+              "tag": "绘画"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQT9XjV9JD",
+              "end": 56,
+              "expanded_url": "https://x.com/qian_YuqianMi/status/2094660958589497646/photo/1",
+              "media_key": "3_2094660855711600640",
+              "start": 33,
+              "url": "https://t.co/oQT9XjV9JD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094660958589497646",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094660855711600640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我画了画🥰\n梅利艾炸虾\n#oc #绘画\n是新的oc宝宝哦叫梅利艾 https://t.co/oQT9XjV9JD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2094660958589497646",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1384,
+          "following_count": 814,
+          "like_count": 30163,
+          "listed_count": 0,
+          "media_count": 404,
+          "tweet_count": 6236
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

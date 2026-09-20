@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2095009309956641255",
+    "created_at": "2026-09-02T06:27:42.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T07:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095035921800495180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1970515784762859520",
+          "start": 0,
+          "username": "Semp1trnal_2345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095035921800495180",
+    "in_reply_to_user_id": "1970515784762859520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095009309956641255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Semp1trnal_2345 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2037,
+        "media_key": "3_2095009295792484352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRL32szaMAAWsq-.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2095009309956641255",
+        "created_at": "2026-09-02T06:27:42.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095035921800495180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1970515784762859520",
+              "start": 0,
+              "username": "Semp1trnal_2345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095035921800495180",
+        "in_reply_to_user_id": "1970515784762859520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095009309956641255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Semp1trnal_2345 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095009295792484352"
+          ]
+        },
+        "author_id": "1970515784762859520",
+        "conversation_id": "2095009309956641255",
+        "created_at": "2026-09-02T04:41:57.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T05:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095009309956641255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CtEE4RlkXK",
+              "end": 50,
+              "expanded_url": "https://x.com/Semp1trnal_2345/status/2095009309956641255/photo/1",
+              "media_key": "3_2095009295792484352",
+              "start": 27,
+              "url": "https://t.co/CtEE4RlkXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095009309956641255",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095009295792484352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小红书上都是鬣狗和鳄鱼 我再咬咬牙把故宫买下来好不好 https://t.co/CtEE4RlkXK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2095035921800495180",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1382,
+          "following_count": 813,
+          "like_count": 30192,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 6251
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-23T15:49:22.000Z",
+        "description": "💖｜欢迎小宝宝们找我玩！匿名👉🏻 https://t.co/tJ7j3deQ06或者https://t.co/K9ll2BLdno\n\n我的影子@666huanwohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 71,
+                "username": "666huanwohao"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tellonym.me/mo1ania",
+                "end": 40,
+                "expanded_url": "https://tellonym.me/mo1ania",
+                "start": 17,
+                "url": "https://t.co/tJ7j3deQ06"
+              },
+              {
+                "display_url": "ngl.link/mooo1ania1",
+                "end": 65,
+                "expanded_url": "https://ngl.link/mooo1ania1",
+                "start": 42,
+                "url": "https://t.co/K9ll2BLdno"
+              }
+            ]
+          }
+        },
+        "id": "1970515784762859520",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095018726781514097",
+        "name": "喝不喝葡萄酒",
+        "pinned_tweet_id": "2092182232534581509",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1970515784762859520/1787667077",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092253436129796096/3TAKIKRv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 83,
+          "like_count": 16279,
+          "listed_count": 2,
+          "media_count": 606,
+          "tweet_count": 5527
+        },
+        "url": "",
+        "username": "Semp1trnal_2345",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

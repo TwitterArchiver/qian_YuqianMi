@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2095133762963259663",
+    "created_at": "2026-09-03T14:20:59.000Z",
+    "display_text_range": [
+      15,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T15:20:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095517416289874052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1935788566870999042",
+          "start": 0,
+          "username": "contradict277"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095517416289874052",
+    "in_reply_to_user_id": "1935788566870999042",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095493885384630643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@contradict277 喜欢泥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2095133762963259663",
+        "created_at": "2026-09-03T14:20:59.000Z",
+        "display_text_range": [
+          15,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T15:20:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095517416289874052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1935788566870999042",
+              "start": 0,
+              "username": "contradict277"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095517416289874052",
+        "in_reply_to_user_id": "1935788566870999042",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095493885384630643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@contradict277 喜欢泥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935788566870999042",
+        "conversation_id": "2095133762963259663",
+        "created_at": "2026-09-03T12:47:29.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T13:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095493885384630643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976659813863227392",
+              "start": 0,
+              "username": "qian_YuqianMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095493885384630643",
+        "in_reply_to_user_id": "1976659813863227392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095133762963259663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_YuqianMi 小北鼻。每天你就这样净化我的推特"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2095517416289874052",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1412,
+          "following_count": 810,
+          "like_count": 30277,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 6277
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-19T19:55:52.000Z",
+        "description": "- ⩊ - \n匿名箱https://t.co/hj7bjU2WCK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/maomao30635",
+                "end": 33,
+                "expanded_url": "https://ngl.link/maomao30635",
+                "start": 10,
+                "url": "https://t.co/hj7bjU2WCK"
+              }
+            ]
+          }
+        },
+        "id": "1935788566870999042",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095493885384630643",
+        "name": "猫猫",
+        "pinned_tweet_id": "2066921887507071159",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1935788566870999042/1779548716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094005373514698752/QPfRZiW0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 182,
+          "like_count": 17564,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 2351
+        },
+        "url": "",
+        "username": "contradict277",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

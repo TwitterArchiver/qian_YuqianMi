@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1976659813863227392",
+    "conversation_id": "2100770671743906217",
+    "created_at": "2026-09-18T12:49:19.000Z",
+    "display_text_range": [
+      12,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100930165148934628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058094415504351232",
+          "start": 0,
+          "username": "Xxxxxxnans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100930165148934628",
+    "in_reply_to_user_id": "2058094415504351232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100770671743906217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxxxxxnans 笑死了我就这样。而且这个推特被我刷的都是一些萌妹和比较能对上电波的人。氛围反而比xhs好得多（x）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976659813863227392",
+        "conversation_id": "2100770671743906217",
+        "created_at": "2026-09-18T12:49:19.000Z",
+        "display_text_range": [
+          12,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100930165148934628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058094415504351232",
+              "start": 0,
+              "username": "Xxxxxxnans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100930165148934628",
+        "in_reply_to_user_id": "2058094415504351232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100770671743906217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxxxxxnans 笑死了我就这样。而且这个推特被我刷的都是一些萌妹和比较能对上电波的人。氛围反而比xhs好得多（x）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058094415504351232",
+        "conversation_id": "2100770671743906217",
+        "created_at": "2026-09-18T02:15:33.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100770671743906217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100770671743906217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 157248,
+          "like_count": 1863,
+          "quote_count": 6,
+          "reply_count": 467,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "盘点那些把推特当成小红书刷的人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-10-10T14:43:43.000Z",
+        "description": "二次元病弱系精神失常 | **重度依赖 | 双相 | 喜欢画画 | 喜欢音乐 | 多意识体 | 千&YuMi | \n\n推当低能量朋友圈发！闲话很多。\n喜欢温柔可爱的人（同类互fo来）\n\n-【どれくらいの願いをかなえるだろう】\n-【どれくらいの想いが，まだ見ない明日へと届くだろう】\n\n让悲伤化作极光",
+        "id": "1976659813863227392",
+        "is_identity_verified": false,
+        "location": "失梦",
+        "most_recent_tweet_id": "2100930165148934628",
+        "name": "千与千弥",
+        "pinned_tweet_id": "2004939523277685108",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1976659813863227392/1764060940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004485091540787200/54Alk-C-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 809,
+          "like_count": 30952,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 6443
+        },
+        "url": "",
+        "username": "qian_YuqianMi",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:56:24.000Z",
+        "description": "iiii",
+        "id": "2058094415504351232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100930155216871677",
+        "name": "Xxxx",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058094415504351232/1788473997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095229367928725504/SE8RlLA0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 305,
+          "like_count": 3848,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1305
+        },
+        "url": "",
+        "username": "Xxxxxxnans",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
